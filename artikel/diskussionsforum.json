@@ -1,0 +1,9 @@
+{
+  "id": "diskussionsforum",
+  "titel": "Diskussionsforum",
+  "inhalt": "redirect [Mailingliste](mailingliste)",
+  "zusammenfassung": "redirect [Mailingliste](mailingliste)...",
+  "verwandteArtikel": [
+    "mailingliste"
+  ]
+}

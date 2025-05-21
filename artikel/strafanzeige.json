@@ -1,0 +1,9 @@
+{
+  "id": "strafanzeige",
+  "titel": "Strafanzeige",
+  "inhalt": "redirect [Strafprozess](strafprozess)",
+  "zusammenfassung": "redirect [Strafprozess](strafprozess)...",
+  "verwandteArtikel": [
+    "strafprozess"
+  ]
+}

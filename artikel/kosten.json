@@ -1,0 +1,9 @@
+{
+  "id": "kosten",
+  "titel": "Kosten",
+  "inhalt": "redirect [Gerichtskosten](gerichtskosten)",
+  "zusammenfassung": "redirect [Gerichtskosten](gerichtskosten)...",
+  "verwandteArtikel": [
+    "gerichtskosten"
+  ]
+}

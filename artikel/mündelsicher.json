@@ -1,0 +1,9 @@
+{
+  "id": "mündelsicher",
+  "titel": "Mündelsicher",
+  "inhalt": "redirect [Anlagegeld](anlagegeld)",
+  "zusammenfassung": "redirect [Anlagegeld](anlagegeld)...",
+  "verwandteArtikel": [
+    "anlagegeld"
+  ]
+}

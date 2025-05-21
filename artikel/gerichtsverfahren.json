@@ -1,0 +1,9 @@
+{
+  "id": "gerichtsverfahren",
+  "titel": "Gerichtsverfahren",
+  "inhalt": "redirect [Prozessführung](prozessführung)",
+  "zusammenfassung": "redirect [Prozessführung](prozessführung)...",
+  "verwandteArtikel": [
+    "prozessführung"
+  ]
+}

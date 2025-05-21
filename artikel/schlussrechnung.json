@@ -1,0 +1,9 @@
+{
+  "id": "schlussrechnung",
+  "titel": "Schlussrechnung",
+  "inhalt": "redirect [Schlussrechnungslegung](schlussrechnungslegung)",
+  "zusammenfassung": "redirect [Schlussrechnungslegung](schlussrechnungslegung)...",
+  "verwandteArtikel": [
+    "schlussrechnungslegung"
+  ]
+}

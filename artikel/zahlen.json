@@ -1,0 +1,9 @@
+{
+  "id": "zahlen",
+  "titel": "Zahlen",
+  "inhalt": "redirect [Betreuungszahlen](betreuungszahlen)",
+  "zusammenfassung": "redirect [Betreuungszahlen](betreuungszahlen)...",
+  "verwandteArtikel": [
+    "betreuungszahlen"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "entschädigung",
+  "titel": "Entschädigung",
+  "inhalt": "redirect [Aufwandspauschale](aufwandspauschale)",
+  "zusammenfassung": "redirect [Aufwandspauschale](aufwandspauschale)...",
+  "verwandteArtikel": [
+    "aufwandspauschale"
+  ]
+}

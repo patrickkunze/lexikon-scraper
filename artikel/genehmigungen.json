@@ -1,0 +1,9 @@
+{
+  "id": "genehmigungen",
+  "titel": "Genehmigungen",
+  "inhalt": "redirect [Genehmigungspflichten](genehmigungspflichten)",
+  "zusammenfassung": "redirect [Genehmigungspflichten](genehmigungspflichten)...",
+  "verwandteArtikel": [
+    "genehmigungspflichten"
+  ]
+}

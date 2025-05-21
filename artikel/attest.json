@@ -1,0 +1,9 @@
+{
+  "id": "attest",
+  "titel": "Attest",
+  "inhalt": "redirect [Arztzeugnis](arztzeugnis)",
+  "zusammenfassung": "redirect [Arztzeugnis](arztzeugnis)...",
+  "verwandteArtikel": [
+    "arztzeugnis"
+  ]
+}

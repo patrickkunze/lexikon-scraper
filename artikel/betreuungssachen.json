@@ -1,0 +1,9 @@
+{
+  "id": "betreuungssachen",
+  "titel": "Betreuungssachen",
+  "inhalt": "redirect[Betreuungsverfahren](betreuungsverfahren)",
+  "zusammenfassung": "redirect[Betreuungsverfahren](betreuungsverfahren)...",
+  "verwandteArtikel": [
+    "betreuungsverfahren"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "aufsicht",
+  "titel": "Aufsicht",
+  "inhalt": "redirect [Beaufsichtigung](beaufsichtigung)",
+  "zusammenfassung": "redirect [Beaufsichtigung](beaufsichtigung)...",
+  "verwandteArtikel": [
+    "beaufsichtigung"
+  ]
+}

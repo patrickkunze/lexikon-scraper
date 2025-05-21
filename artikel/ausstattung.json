@@ -1,0 +1,9 @@
+{
+  "id": "ausstattung",
+  "titel": "Ausstattung",
+  "inhalt": "redirect [Schenkung](schenkung)",
+  "zusammenfassung": "redirect [Schenkung](schenkung)...",
+  "verwandteArtikel": [
+    "schenkung"
+  ]
+}

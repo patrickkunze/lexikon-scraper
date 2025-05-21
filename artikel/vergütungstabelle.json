@@ -1,0 +1,9 @@
+{
+  "id": "vergütungstabelle",
+  "titel": "Vergütungstabelle",
+  "inhalt": "redirect [Stundensatz](stundensatz)",
+  "zusammenfassung": "redirect [Stundensatz](stundensatz)...",
+  "verwandteArtikel": [
+    "stundensatz"
+  ]
+}

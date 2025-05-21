@@ -1,0 +1,9 @@
+{
+  "id": "person-des-vertrauens",
+  "titel": "Person des Vertrauens",
+  "inhalt": "redirect [Vertrauensperson](vertrauensperson)",
+  "zusammenfassung": "redirect [Vertrauensperson](vertrauensperson)...",
+  "verwandteArtikel": [
+    "vertrauensperson"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "basiskonto",
+  "titel": "Basiskonto",
+  "inhalt": "redirect [Girokonto](girokonto)",
+  "zusammenfassung": "redirect [Girokonto](girokonto)...",
+  "verwandteArtikel": [
+    "girokonto"
+  ]
+}

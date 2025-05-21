@@ -1,0 +1,9 @@
+{
+  "id": "pflegebedürftigkeit",
+  "titel": "Pflegebedürftigkeit",
+  "inhalt": "redirect [Pflegeversicherung](pflegeversicherung)",
+  "zusammenfassung": "redirect [Pflegeversicherung](pflegeversicherung)...",
+  "verwandteArtikel": [
+    "pflegeversicherung"
+  ]
+}

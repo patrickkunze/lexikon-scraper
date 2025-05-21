@@ -1,0 +1,22 @@
+{
+  "id": "dokumentationspflicht",
+  "titel": "Dokumentationspflicht",
+  "inhalt": "Bei [Heilbehandlung](heilbehandlung) war es für Patienten in Deutschland als die schwächere Partei meist schwierig, dem Behandelnden seinen Fehler gerichtsfest nachzuweisen. Das galt auch für betroffene Angehörige als Nebenkläger oder für rechtliche Betreuer bei Schadensersatzklagen. Vom Gericht in Deutschland wird deshalb gemäß § 630h BGB immer dann ein Behandlungsfehler vermutet, wenn sich ein allgemeines Behandlungsrisiko verwirklicht hat, das für den Behandelnden voll beherrschbar war und das zur Verletzung des Lebens, des Körpers oder der Gesundheit des Patienten geführt hat.\n\nDer Behandelnde muss vor Gericht nun beweisen (Beweislastumkehr), dass er\n die [Einwilligungsfähigkeit](einwilligungsfähigkeit) vorher eingeholt hat,\n seinen Patienten vorher [Informationspflicht](informationspflicht),\n seine [Heilbehandlung](heilbehandlung) wie vorgeschrieben in die [elektronische Patientenakte](elektronische-patientenakte) eingetragen hat und diese Dokumentation (siehe § 630f BGB) dem Gericht nachweisen kann,\n für die vorgenommene [Heilbehandlung](heilbehandlung) nachweislich zu der entsprechenden Zeit befähigt war,\n keinen Behandlungsfehler begangen hat, weil er – nach dem aktuellen Stand der Wissenschaft – einen medizinisch gebotenen Befund rechtzeitig erhoben und gesichert hätte, soweit dieser mit hinreichender Wahrscheinlichkeit ein Ergebnis erbracht hätte, das Anlass zu weiteren Maßnahmen gegeben hätte, und wenn das Unterlassen solcher Maßnahmen grob fehlerhaft gewesen wäre.\n\nSiehe auch\n [Arztzeugnis](arztzeugnis)\n [Informationspflicht](informationspflicht)en\n [Erörterungsgespräch](erörterungsgespräch)\n [Checkliste für Arztgespräche](checkliste-für-arztgespräche)\n [Zugriffsrecht](zugriffsrecht)\n [Checkliste Betreuerpflichten](checkliste-betreuerpflichten)\n [Unterstützungspflicht](unterstützungspflicht)\n [digitale Barrierefreiheit](digitale-barrierefreiheit)\n [elektronische Patientenakte](elektronische-patientenakte)\n [Interoperabilität](interoperabilität)\n [Vertreterdokumentation](vertreterdokumentation)\n [Datenschutz](datenschutz)",
+  "zusammenfassung": "Bei [Heilbehandlung](heilbehandlung) war es für Patienten in Deutschland als die schwächere Partei meist schwierig, dem Behandelnden seinen Fehler gerichtsfest nachzuweisen. Das galt auch für betroffene Angehörige als Nebenkläger oder für rechtliche Betreuer bei Schadensersatzklagen. Vom Gericht in ...",
+  "verwandteArtikel": [
+    "checkliste-betreuerpflichten",
+    "heilbehandlung",
+    "einwilligungsfähigkeit",
+    "unterstützungspflicht",
+    "checkliste-für-arztgespräche",
+    "elektronische-patientenakte",
+    "digitale-barrierefreiheit",
+    "vertreterdokumentation",
+    "datenschutz",
+    "informationspflicht",
+    "arztzeugnis",
+    "interoperabilität",
+    "erörterungsgespräch",
+    "zugriffsrecht"
+  ]
+}

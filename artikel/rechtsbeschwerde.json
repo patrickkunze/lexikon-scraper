@@ -1,0 +1,9 @@
+{
+  "id": "rechtsbeschwerde",
+  "titel": "Rechtsbeschwerde",
+  "inhalt": "redirect [Rechtsmittel](rechtsmittel)",
+  "zusammenfassung": "redirect [Rechtsmittel](rechtsmittel)...",
+  "verwandteArtikel": [
+    "rechtsmittel"
+  ]
+}

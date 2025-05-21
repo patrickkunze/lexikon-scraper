@@ -1,0 +1,9 @@
+{
+  "id": "wohnungszutritt",
+  "titel": "Wohnungszutritt",
+  "inhalt": "redirect [Wohnungsangelegenheiten](wohnungsangelegenheiten)",
+  "zusammenfassung": "redirect [Wohnungsangelegenheiten](wohnungsangelegenheiten)...",
+  "verwandteArtikel": [
+    "wohnungsangelegenheiten"
+  ]
+}

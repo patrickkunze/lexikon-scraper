@@ -1,13 +1,35 @@
-import mwparserfromhell
 import requests
+import mwparserfromhell
 import os
 import json
+import time
 
-# Konfiguration
 BASE_URL = "https://www.lexikon-betreuungsrecht.de/api.php"
-ARTIKEL = ["Betreuung", "Einwilligungsvorbehalt", "Vorsorgevollmacht"]
 OUTPUT_PATH = "artikel"
 os.makedirs(OUTPUT_PATH, exist_ok=True)
+
+def get_all_titles():
+    """Lädt alle Artikeltitel der Wiki-Seite."""
+    titles = []
+    apcontinue = ""
+    while True:
+        params = {
+            "action": "query",
+            "list": "allpages",
+            "format": "json",
+            "aplimit": "max"
+        }
+        if apcontinue:
+            params["apcontinue"] = apcontinue
+        res = requests.get(BASE_URL, params=params)
+        data = res.json()
+        titles.extend([p["title"] for p in data["query"]["allpages"]])
+        if "continue" in data:
+            apcontinue = data["continue"]["apcontinue"]
+            time.sleep(0.5)  # API-Freundlichkeit
+        else:
+            break
+    return titles
 
 def lade_wikitext(titel):
     """Lädt den Wikitext eines Artikels über die MediaWiki API"""
@@ -44,14 +66,7 @@ def extrahiere_links_und_inhalt(wikitext):
         verlinkte_artikel.append(linkziel.lower().replace(" ", "-"))
     return str(wikicode.strip_code()), list(set(verlinkte_artikel))
 
-index = {"artikel": []}
-
-for titel in ARTIKEL:
-    wikitext = lade_wikitext(titel)
-    if not wikitext:
-        print(f"❌ Kein Inhalt für: {titel}")
-        continue
-    inhalt, verwandte = extrahiere_links_und_inhalt(wikitext)
+def save_article(titel, inhalt, verwandte):
     artikel_id = titel.lower().replace(" ", "-")
     artikel = {
         "id": artikel_id,
@@ -62,9 +77,28 @@ for titel in ARTIKEL:
     }
     with open(os.path.join(OUTPUT_PATH, f"{artikel_id}.json"), "w", encoding="utf-8") as f:
         json.dump(artikel, f, ensure_ascii=False, indent=2)
-    index["artikel"].append({"id": artikel_id, "titel": titel})
+    return artikel_id, titel
 
-with open(os.path.join(OUTPUT_PATH, "index.json"), "w", encoding="utf-8") as f:
-    json.dump(index, f, ensure_ascii=False, indent=2)
+def main():
+    print("🔍 Lade alle Artikeltitel...")
+    alle_titel = get_all_titles()
+    index = {"artikel": []}
+    print(f"➡️ {len(alle_titel)} Titel gefunden.\n")
 
-print("✅ Alle Artikel verarbeitet und gespeichert.")
+    for i, titel in enumerate(alle_titel):
+        print(f"📄 ({i+1}/{len(alle_titel)}) Verarbeite: {titel}")
+        wikitext = lade_wikitext(titel)
+        if not wikitext:
+            print("⚠️ Kein Inhalt gefunden.")
+            continue
+        inhalt, verwandte = extrahiere_links_und_inhalt(wikitext)
+        artikel_id, artikel_titel = save_article(titel, inhalt, verwandte)
+        index["artikel"].append({"id": artikel_id, "titel": artikel_titel})
+        time.sleep(0.3)  # schonend zur API
+
+    with open(os.path.join(OUTPUT_PATH, "index.json"), "w", encoding="utf-8") as f:
+        json.dump(index, f, ensure_ascii=False, indent=2)
+    print("\n✅ Alle Artikel gespeichert.")
+
+if __name__ == "__main__":
+    main()

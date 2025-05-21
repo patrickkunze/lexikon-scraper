@@ -1,0 +1,9 @@
+{
+  "id": "betreuungsbedürftigkeit",
+  "titel": "Betreuungsbedürftigkeit",
+  "inhalt": "redirect [Betreuungsvoraussetzung](betreuungsvoraussetzung)",
+  "zusammenfassung": "redirect [Betreuungsvoraussetzung](betreuungsvoraussetzung)...",
+  "verwandteArtikel": [
+    "betreuungsvoraussetzung"
+  ]
+}

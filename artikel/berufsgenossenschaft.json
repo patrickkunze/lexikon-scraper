@@ -1,0 +1,9 @@
+{
+  "id": "berufsgenossenschaft",
+  "titel": "Berufsgenossenschaft",
+  "inhalt": "redirect [Unfallversicherung](unfallversicherung)",
+  "zusammenfassung": "redirect [Unfallversicherung](unfallversicherung)...",
+  "verwandteArtikel": [
+    "unfallversicherung"
+  ]
+}

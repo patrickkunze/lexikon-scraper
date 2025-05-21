@@ -1,0 +1,9 @@
+{
+  "id": "postverkehr",
+  "titel": "Postverkehr",
+  "inhalt": "redirect [Postkontrolle](postkontrolle)",
+  "zusammenfassung": "redirect [Postkontrolle](postkontrolle)...",
+  "verwandteArtikel": [
+    "postkontrolle"
+  ]
+}

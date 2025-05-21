@@ -1,0 +1,9 @@
+{
+  "id": "stammbehörde",
+  "titel": "Stammbehörde",
+  "inhalt": "redirect [Betreuungsbehörde](betreuungsbehörde)",
+  "zusammenfassung": "redirect [Betreuungsbehörde](betreuungsbehörde)...",
+  "verwandteArtikel": [
+    "betreuungsbehörde"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "unterbringungssachen",
+  "titel": "Unterbringungssachen",
+  "inhalt": "redirect[Unterbringungsverfahren](unterbringungsverfahren)",
+  "zusammenfassung": "redirect[Unterbringungsverfahren](unterbringungsverfahren)...",
+  "verwandteArtikel": [
+    "unterbringungsverfahren"
+  ]
+}

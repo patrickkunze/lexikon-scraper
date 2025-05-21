@@ -1,0 +1,9 @@
+{
+  "id": "mehrfachbetreuung",
+  "titel": "Mehrfachbetreuung",
+  "inhalt": "redirect [Bestellung mehrerer Betreuer](bestellung-mehrerer-betreuer)",
+  "zusammenfassung": "redirect [Bestellung mehrerer Betreuer](bestellung-mehrerer-betreuer)...",
+  "verwandteArtikel": [
+    "bestellung-mehrerer-betreuer"
+  ]
+}

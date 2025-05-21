@@ -1,0 +1,9 @@
+{
+  "id": "einlagensicherung",
+  "titel": "Einlagensicherung",
+  "inhalt": "redirect [Mündelsicher](mündelsicher)",
+  "zusammenfassung": "redirect [Mündelsicher](mündelsicher)...",
+  "verwandteArtikel": [
+    "mündelsicher"
+  ]
+}

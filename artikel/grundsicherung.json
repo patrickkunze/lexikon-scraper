@@ -1,0 +1,9 @@
+{
+  "id": "grundsicherung",
+  "titel": "Grundsicherung",
+  "inhalt": "redirect [Sozialhilfe](sozialhilfe)",
+  "zusammenfassung": "redirect [Sozialhilfe](sozialhilfe)...",
+  "verwandteArtikel": [
+    "sozialhilfe"
+  ]
+}

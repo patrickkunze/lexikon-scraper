@@ -1,0 +1,9 @@
+{
+  "id": "vermögensverwaltung",
+  "titel": "Vermögensverwaltung",
+  "inhalt": "redirect [Vermögenssorge](vermögenssorge)",
+  "zusammenfassung": "redirect [Vermögenssorge](vermögenssorge)...",
+  "verwandteArtikel": [
+    "vermögenssorge"
+  ]
+}

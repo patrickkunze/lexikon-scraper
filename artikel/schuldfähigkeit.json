@@ -1,0 +1,9 @@
+{
+  "id": "schuldfähigkeit",
+  "titel": "Schuldfähigkeit",
+  "inhalt": "redirect [Strafprozess](strafprozess)",
+  "zusammenfassung": "redirect [Strafprozess](strafprozess)...",
+  "verwandteArtikel": [
+    "strafprozess"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "rechtsgeschäft",
+  "titel": "Rechtsgeschäft",
+  "inhalt": "redirect [gesetzlicher Vertreter](gesetzlicher-vertreter)",
+  "zusammenfassung": "redirect [gesetzlicher Vertreter](gesetzlicher-vertreter)...",
+  "verwandteArtikel": [
+    "gesetzlicher-vertreter"
+  ]
+}

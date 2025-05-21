@@ -1,0 +1,9 @@
+{
+  "id": "pflichten",
+  "titel": "Pflichten",
+  "inhalt": "redirect [Betreuerpflichten](betreuerpflichten)",
+  "zusammenfassung": "redirect [Betreuerpflichten](betreuerpflichten)...",
+  "verwandteArtikel": [
+    "betreuerpflichten"
+  ]
+}

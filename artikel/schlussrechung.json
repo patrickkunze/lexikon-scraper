@@ -1,0 +1,9 @@
+{
+  "id": "schlussrechung",
+  "titel": "Schlussrechung",
+  "inhalt": "redirect [Schlusstätigkeiten](schlusstätigkeiten)",
+  "zusammenfassung": "redirect [Schlusstätigkeiten](schlusstätigkeiten)...",
+  "verwandteArtikel": [
+    "schlusstätigkeiten"
+  ]
+}

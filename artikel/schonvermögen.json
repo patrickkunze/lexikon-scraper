@@ -1,0 +1,9 @@
+{
+  "id": "schonvermögen",
+  "titel": "Schonvermögen",
+  "inhalt": "redirect [Freibetrag](freibetrag)",
+  "zusammenfassung": "redirect [Freibetrag](freibetrag)...",
+  "verwandteArtikel": [
+    "freibetrag"
+  ]
+}

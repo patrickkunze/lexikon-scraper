@@ -1,0 +1,9 @@
+{
+  "id": "heimvertrag",
+  "titel": "Heimvertrag",
+  "inhalt": "redirect [Altenheim](altenheim)",
+  "zusammenfassung": "redirect [Altenheim](altenheim)...",
+  "verwandteArtikel": [
+    "altenheim"
+  ]
+}

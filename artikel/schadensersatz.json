@@ -1,0 +1,9 @@
+{
+  "id": "schadensersatz",
+  "titel": "Schadensersatz",
+  "inhalt": "redirect [Betreuerhaftung](betreuerhaftung)",
+  "zusammenfassung": "redirect [Betreuerhaftung](betreuerhaftung)...",
+  "verwandteArtikel": [
+    "betreuerhaftung"
+  ]
+}

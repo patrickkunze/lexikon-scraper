@@ -1,0 +1,9 @@
+{
+  "id": "steuerpflicht",
+  "titel": "Steuerpflicht",
+  "inhalt": "redirect [Finanzamt](finanzamt)",
+  "zusammenfassung": "redirect [Finanzamt](finanzamt)...",
+  "verwandteArtikel": [
+    "finanzamt"
+  ]
+}

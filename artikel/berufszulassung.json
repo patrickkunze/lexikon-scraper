@@ -1,0 +1,9 @@
+{
+  "id": "berufszulassung",
+  "titel": "Berufszulassung",
+  "inhalt": "redirect [Registrierung](registrierung)",
+  "zusammenfassung": "redirect [Registrierung](registrierung)...",
+  "verwandteArtikel": [
+    "registrierung"
+  ]
+}

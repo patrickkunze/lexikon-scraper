@@ -1,0 +1,9 @@
+{
+  "id": "betreuersuche",
+  "titel": "Betreuersuche",
+  "inhalt": "redirect [Betreuervorschlag](betreuervorschlag)",
+  "zusammenfassung": "redirect [Betreuervorschlag](betreuervorschlag)...",
+  "verwandteArtikel": [
+    "betreuervorschlag"
+  ]
+}

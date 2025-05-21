@@ -1,0 +1,9 @@
+{
+  "id": "verbraucherinsolvenz",
+  "titel": "Verbraucherinsolvenz",
+  "inhalt": "redirect [Zwangsvollstreckung](zwangsvollstreckung)",
+  "zusammenfassung": "redirect [Zwangsvollstreckung](zwangsvollstreckung)...",
+  "verwandteArtikel": [
+    "zwangsvollstreckung"
+  ]
+}

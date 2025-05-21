@@ -1,0 +1,9 @@
+{
+  "id": "steuererklärung",
+  "titel": "Steuererklärung",
+  "inhalt": "redirect [Finanzamt](finanzamt)",
+  "zusammenfassung": "redirect [Finanzamt](finanzamt)...",
+  "verwandteArtikel": [
+    "finanzamt"
+  ]
+}

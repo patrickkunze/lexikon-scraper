@@ -1,0 +1,9 @@
+{
+  "id": "curriculum",
+  "titel": "Curriculum",
+  "inhalt": "redirect [Sachkundenachweis](sachkundenachweis)",
+  "zusammenfassung": "redirect [Sachkundenachweis](sachkundenachweis)...",
+  "verwandteArtikel": [
+    "sachkundenachweis"
+  ]
+}

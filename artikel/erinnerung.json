@@ -1,0 +1,9 @@
+{
+  "id": "erinnerung",
+  "titel": "Erinnerung",
+  "inhalt": "redirect [Rechtsmittel](rechtsmittel)",
+  "zusammenfassung": "redirect [Rechtsmittel](rechtsmittel)...",
+  "verwandteArtikel": [
+    "rechtsmittel"
+  ]
+}

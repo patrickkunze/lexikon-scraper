@@ -1,0 +1,9 @@
+{
+  "id": "magensonde",
+  "titel": "Magensonde",
+  "inhalt": "redirect [PEG-Sonde](peg-sonde)",
+  "zusammenfassung": "redirect [PEG-Sonde](peg-sonde)...",
+  "verwandteArtikel": [
+    "peg-sonde"
+  ]
+}

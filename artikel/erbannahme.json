@@ -1,0 +1,9 @@
+{
+  "id": "erbannahme",
+  "titel": "Erbannahme",
+  "inhalt": "redirect [Erbschaft](erbschaft)",
+  "zusammenfassung": "redirect [Erbschaft](erbschaft)...",
+  "verwandteArtikel": [
+    "erbschaft"
+  ]
+}

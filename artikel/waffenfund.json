@@ -1,0 +1,9 @@
+{
+  "id": "waffenfund",
+  "titel": "Waffenfund",
+  "inhalt": "redirect [Waffenbesitz](waffenbesitz)",
+  "zusammenfassung": "redirect [Waffenbesitz](waffenbesitz)...",
+  "verwandteArtikel": [
+    "waffenbesitz"
+  ]
+}

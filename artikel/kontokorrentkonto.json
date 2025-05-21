@@ -1,0 +1,9 @@
+{
+  "id": "kontokorrentkonto",
+  "titel": "Kontokorrentkonto",
+  "inhalt": "redirect [Girokonto](girokonto)",
+  "zusammenfassung": "redirect [Girokonto](girokonto)...",
+  "verwandteArtikel": [
+    "girokonto"
+  ]
+}

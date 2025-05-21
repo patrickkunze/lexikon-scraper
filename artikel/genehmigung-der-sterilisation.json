@@ -1,0 +1,9 @@
+{
+  "id": "genehmigung-der-sterilisation",
+  "titel": "Genehmigung der Sterilisation",
+  "inhalt": "redirect [Sterilisation](sterilisation)",
+  "zusammenfassung": "redirect [Sterilisation](sterilisation)...",
+  "verwandteArtikel": [
+    "sterilisation"
+  ]
+}

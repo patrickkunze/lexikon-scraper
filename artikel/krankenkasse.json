@@ -1,0 +1,9 @@
+{
+  "id": "krankenkasse",
+  "titel": "Krankenkasse",
+  "inhalt": "redirect[Krankenversicherung](krankenversicherung)",
+  "zusammenfassung": "redirect[Krankenversicherung](krankenversicherung)...",
+  "verwandteArtikel": [
+    "krankenversicherung"
+  ]
+}

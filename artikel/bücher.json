@@ -1,0 +1,9 @@
+{
+  "id": "bücher",
+  "titel": "Bücher",
+  "inhalt": "redirect [Buchverzeichnis](buchverzeichnis)",
+  "zusammenfassung": "redirect [Buchverzeichnis](buchverzeichnis)...",
+  "verwandteArtikel": [
+    "buchverzeichnis"
+  ]
+}

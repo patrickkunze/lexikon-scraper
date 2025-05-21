@@ -1,0 +1,9 @@
+{
+  "id": "beschluss",
+  "titel": "Beschluss",
+  "inhalt": "redirect [Gerichtsbeschluss](gerichtsbeschluss)",
+  "zusammenfassung": "redirect [Gerichtsbeschluss](gerichtsbeschluss)...",
+  "verwandteArtikel": [
+    "gerichtsbeschluss"
+  ]
+}

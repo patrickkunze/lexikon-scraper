@@ -1,0 +1,9 @@
+{
+  "id": "rechtsnormen",
+  "titel": "Rechtsnormen",
+  "inhalt": "redirect [Gesetzestexte](gesetzestexte)",
+  "zusammenfassung": "redirect [Gesetzestexte](gesetzestexte)...",
+  "verwandteArtikel": [
+    "gesetzestexte"
+  ]
+}

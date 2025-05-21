@@ -1,0 +1,9 @@
+{
+  "id": "forum-url",
+  "titel": "Forum-url",
+  "inhalt": "redirect [Mailingliste](mailingliste)",
+  "zusammenfassung": "redirect [Mailingliste](mailingliste)...",
+  "verwandteArtikel": [
+    "mailingliste"
+  ]
+}

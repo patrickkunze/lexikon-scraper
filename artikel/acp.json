@@ -1,0 +1,9 @@
+{
+  "id": "acp",
+  "titel": "ACP",
+  "inhalt": "redirect [Gesundheitliche Versorgungsplanung](gesundheitliche-versorgungsplanung)",
+  "zusammenfassung": "redirect [Gesundheitliche Versorgungsplanung](gesundheitliche-versorgungsplanung)...",
+  "verwandteArtikel": [
+    "gesundheitliche-versorgungsplanung"
+  ]
+}

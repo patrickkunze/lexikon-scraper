@@ -1,0 +1,9 @@
+{
+  "id": "anwalt",
+  "titel": "Anwalt",
+  "inhalt": "redirect [Rechtsanwalt](rechtsanwalt)",
+  "zusammenfassung": "redirect [Rechtsanwalt](rechtsanwalt)...",
+  "verwandteArtikel": [
+    "rechtsanwalt"
+  ]
+}

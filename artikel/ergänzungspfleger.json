@@ -1,0 +1,9 @@
+{
+  "id": "ergänzungspfleger",
+  "titel": "Ergänzungspfleger",
+  "inhalt": "redirect [Verhinderungsbetreuer](verhinderungsbetreuer)",
+  "zusammenfassung": "redirect [Verhinderungsbetreuer](verhinderungsbetreuer)...",
+  "verwandteArtikel": [
+    "verhinderungsbetreuer"
+  ]
+}

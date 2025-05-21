@@ -1,0 +1,1932 @@
+{
+  "artikel": [
+    {
+      "id": "aaa---betreuungsrechtsreform-2023",
+      "titel": "AAA - Betreuungsrechtsreform 2023"
+    },
+    {
+      "id": "acp",
+      "titel": "ACP"
+    },
+    {
+      "id": "abkürzungen",
+      "titel": "Abkürzungen"
+    },
+    {
+      "id": "abschiebung",
+      "titel": "Abschiebung"
+    },
+    {
+      "id": "abschlussbericht",
+      "titel": "Abschlussbericht"
+    },
+    {
+      "id": "advance-care-planning",
+      "titel": "Advance Care Planning"
+    },
+    {
+      "id": "akteneinsicht",
+      "titel": "Akteneinsicht"
+    },
+    {
+      "id": "allgemeines",
+      "titel": "Allgemeines"
+    },
+    {
+      "id": "alltagsgeschäfte",
+      "titel": "Alltagsgeschäfte"
+    },
+    {
+      "id": "altenheim",
+      "titel": "Altenheim"
+    },
+    {
+      "id": "amtsermittlungspflicht",
+      "titel": "Amtsermittlungspflicht"
+    },
+    {
+      "id": "amtspflichtverletzung",
+      "titel": "Amtspflichtverletzung"
+    },
+    {
+      "id": "anfangsbericht",
+      "titel": "Anfangsbericht"
+    },
+    {
+      "id": "anfangsgespräch",
+      "titel": "Anfangsgespräch"
+    },
+    {
+      "id": "angehörigenvertretungsrecht",
+      "titel": "Angehörigenvertretungsrecht"
+    },
+    {
+      "id": "anhörung",
+      "titel": "Anhörung"
+    },
+    {
+      "id": "anlagegeld",
+      "titel": "Anlagegeld"
+    },
+    {
+      "id": "anregung-der-betreuerbestellung",
+      "titel": "Anregung der Betreuerbestellung"
+    },
+    {
+      "id": "anwalt",
+      "titel": "Anwalt"
+    },
+    {
+      "id": "anzeigepflicht",
+      "titel": "Anzeigepflicht"
+    },
+    {
+      "id": "arbeitslosengeld",
+      "titel": "Arbeitslosengeld"
+    },
+    {
+      "id": "arbeitsunfall",
+      "titel": "Arbeitsunfall"
+    },
+    {
+      "id": "arbeitsvertrag",
+      "titel": "Arbeitsvertrag"
+    },
+    {
+      "id": "arztattest",
+      "titel": "Arztattest"
+    },
+    {
+      "id": "arztbericht",
+      "titel": "Arztbericht"
+    },
+    {
+      "id": "arztzeugnis",
+      "titel": "Arztzeugnis"
+    },
+    {
+      "id": "attest",
+      "titel": "Attest"
+    },
+    {
+      "id": "aufenthaltsbestimmung",
+      "titel": "Aufenthaltsbestimmung"
+    },
+    {
+      "id": "aufgabenbereich",
+      "titel": "Aufgabenbereich"
+    },
+    {
+      "id": "aufgabenkreis",
+      "titel": "Aufgabenkreis"
+    },
+    {
+      "id": "aufgabenkreise",
+      "titel": "Aufgabenkreise"
+    },
+    {
+      "id": "aufhebung",
+      "titel": "Aufhebung"
+    },
+    {
+      "id": "aufhebung-der-betreuung",
+      "titel": "Aufhebung der Betreuung"
+    },
+    {
+      "id": "aufsicht",
+      "titel": "Aufsicht"
+    },
+    {
+      "id": "aufwandspauschale",
+      "titel": "Aufwandspauschale"
+    },
+    {
+      "id": "aufwendungsersatz",
+      "titel": "Aufwendungsersatz"
+    },
+    {
+      "id": "ausbildung",
+      "titel": "Ausbildung"
+    },
+    {
+      "id": "ausländer",
+      "titel": "Ausländer"
+    },
+    {
+      "id": "ausschließlichkeitserklärung",
+      "titel": "Ausschließlichkeitserklärung"
+    },
+    {
+      "id": "ausstattung",
+      "titel": "Ausstattung"
+    },
+    {
+      "id": "ausweisrecht",
+      "titel": "Ausweisrecht"
+    },
+    {
+      "id": "bgb",
+      "titel": "BGB"
+    },
+    {
+      "id": "bgt",
+      "titel": "BGT"
+    },
+    {
+      "id": "bthg",
+      "titel": "BTHG"
+    },
+    {
+      "id": "bvfb",
+      "titel": "BVfB"
+    },
+    {
+      "id": "baden-württemberg",
+      "titel": "Baden-Württemberg"
+    },
+    {
+      "id": "bankvollmacht",
+      "titel": "Bankvollmacht"
+    },
+    {
+      "id": "basiskonto",
+      "titel": "Basiskonto"
+    },
+    {
+      "id": "bayern",
+      "titel": "Bayern"
+    },
+    {
+      "id": "beamte-als-betreuer",
+      "titel": "Beamte als Betreuer"
+    },
+    {
+      "id": "beaufsichtigung",
+      "titel": "Beaufsichtigung"
+    },
+    {
+      "id": "befreiter-betreuer",
+      "titel": "Befreiter Betreuer"
+    },
+    {
+      "id": "beglaubigung-durch-betreuungsbehörde",
+      "titel": "Beglaubigung durch Betreuungsbehörde"
+    },
+    {
+      "id": "begleitforschung",
+      "titel": "Begleitforschung"
+    },
+    {
+      "id": "begutachtung",
+      "titel": "Begutachtung"
+    },
+    {
+      "id": "behandlungsvertrag",
+      "titel": "Behandlungsvertrag"
+    },
+    {
+      "id": "behindertenkonvention",
+      "titel": "Behindertenkonvention"
+    },
+    {
+      "id": "behördenangelegenheiten",
+      "titel": "Behördenangelegenheiten"
+    },
+    {
+      "id": "behördenbetreuer",
+      "titel": "Behördenbetreuer"
+    },
+    {
+      "id": "beratung",
+      "titel": "Beratung"
+    },
+    {
+      "id": "berichterstattung",
+      "titel": "Berichterstattung"
+    },
+    {
+      "id": "berichtspflicht",
+      "titel": "Berichtspflicht"
+    },
+    {
+      "id": "berlin",
+      "titel": "Berlin"
+    },
+    {
+      "id": "berufliche-dienste",
+      "titel": "Berufliche Dienste"
+    },
+    {
+      "id": "berufsbetreuer",
+      "titel": "Berufsbetreuer"
+    },
+    {
+      "id": "berufsgenossenschaft",
+      "titel": "Berufsgenossenschaft"
+    },
+    {
+      "id": "berufszulassung",
+      "titel": "Berufszulassung"
+    },
+    {
+      "id": "beschluss",
+      "titel": "Beschluss"
+    },
+    {
+      "id": "bestattung",
+      "titel": "Bestattung"
+    },
+    {
+      "id": "bestattungsvertrag",
+      "titel": "Bestattungsvertrag"
+    },
+    {
+      "id": "bestellung-mehrerer-betreuer",
+      "titel": "Bestellung mehrerer Betreuer"
+    },
+    {
+      "id": "bestellungsurkunde",
+      "titel": "Bestellungsurkunde"
+    },
+    {
+      "id": "beteiligte",
+      "titel": "Beteiligte"
+    },
+    {
+      "id": "betrg",
+      "titel": "BetrG"
+    },
+    {
+      "id": "betreuer-(ehrenamt)",
+      "titel": "Betreuer (Ehrenamt)"
+    },
+    {
+      "id": "betreuer-als-erbe",
+      "titel": "Betreuer als Erbe"
+    },
+    {
+      "id": "betreuerausweis",
+      "titel": "Betreuerausweis"
+    },
+    {
+      "id": "betreuerbestellung",
+      "titel": "Betreuerbestellung"
+    },
+    {
+      "id": "betreuerhaftung",
+      "titel": "Betreuerhaftung"
+    },
+    {
+      "id": "betreuerpflichten",
+      "titel": "Betreuerpflichten"
+    },
+    {
+      "id": "betreuerregistrierungsverordnung",
+      "titel": "Betreuerregistrierungsverordnung"
+    },
+    {
+      "id": "betreuersuche",
+      "titel": "Betreuersuche"
+    },
+    {
+      "id": "betreuertest",
+      "titel": "Betreuertest"
+    },
+    {
+      "id": "betreuervergütung",
+      "titel": "Betreuervergütung"
+    },
+    {
+      "id": "betreuervergütung-2019",
+      "titel": "Betreuervergütung 2019"
+    },
+    {
+      "id": "betreuervergütung-2026",
+      "titel": "Betreuervergütung 2026"
+    },
+    {
+      "id": "betreuervorschlag",
+      "titel": "Betreuervorschlag"
+    },
+    {
+      "id": "betreuerwechsel",
+      "titel": "Betreuerwechsel"
+    },
+    {
+      "id": "betreutes-wohnen",
+      "titel": "Betreutes Wohnen"
+    },
+    {
+      "id": "betreuungsanregung",
+      "titel": "Betreuungsanregung"
+    },
+    {
+      "id": "betreuungsarbeitsgemeinschaft",
+      "titel": "Betreuungsarbeitsgemeinschaft"
+    },
+    {
+      "id": "betreuungsbedarf",
+      "titel": "Betreuungsbedarf"
+    },
+    {
+      "id": "betreuungsbedürftigkeit",
+      "titel": "Betreuungsbedürftigkeit"
+    },
+    {
+      "id": "betreuungsbehörde",
+      "titel": "Betreuungsbehörde"
+    },
+    {
+      "id": "betreuungsbehördengesetz",
+      "titel": "Betreuungsbehördengesetz"
+    },
+    {
+      "id": "betreuungsgericht",
+      "titel": "Betreuungsgericht"
+    },
+    {
+      "id": "betreuungsgerichtshilfe",
+      "titel": "Betreuungsgerichtshilfe"
+    },
+    {
+      "id": "betreuungsgesetz",
+      "titel": "Betreuungsgesetz"
+    },
+    {
+      "id": "betreuungskosten-im-steuerrecht",
+      "titel": "Betreuungskosten im Steuerrecht"
+    },
+    {
+      "id": "betreuungsmanagement",
+      "titel": "Betreuungsmanagement"
+    },
+    {
+      "id": "betreuungsorganisationsgesetz",
+      "titel": "Betreuungsorganisationsgesetz"
+    },
+    {
+      "id": "betreuungsplan",
+      "titel": "Betreuungsplan"
+    },
+    {
+      "id": "betreuungsrecht-lexikon:haftungsausschluss",
+      "titel": "Betreuungsrecht-Lexikon:Haftungsausschluss"
+    },
+    {
+      "id": "betreuungsrechtliche-praxis",
+      "titel": "Betreuungsrechtliche Praxis"
+    },
+    {
+      "id": "betreuungsrechtsreform",
+      "titel": "Betreuungsrechtsreform"
+    },
+    {
+      "id": "betreuungsrechtsreform-2023",
+      "titel": "Betreuungsrechtsreform 2023"
+    },
+    {
+      "id": "betreuungsreform",
+      "titel": "Betreuungsreform"
+    },
+    {
+      "id": "betreuungsrichter",
+      "titel": "Betreuungsrichter"
+    },
+    {
+      "id": "betreuungssache",
+      "titel": "Betreuungssache"
+    },
+    {
+      "id": "betreuungssachen",
+      "titel": "Betreuungssachen"
+    },
+    {
+      "id": "betreuungsverein",
+      "titel": "Betreuungsverein"
+    },
+    {
+      "id": "betreuungsverfahren",
+      "titel": "Betreuungsverfahren"
+    },
+    {
+      "id": "betreuungsverfügung",
+      "titel": "Betreuungsverfügung"
+    },
+    {
+      "id": "betreuungsvoraussetzung",
+      "titel": "Betreuungsvoraussetzung"
+    },
+    {
+      "id": "betreuungszahlen",
+      "titel": "Betreuungszahlen"
+    },
+    {
+      "id": "bezirksrevisor",
+      "titel": "Bezirksrevisor"
+    },
+    {
+      "id": "brandenburg",
+      "titel": "Brandenburg"
+    },
+    {
+      "id": "bremen",
+      "titel": "Bremen"
+    },
+    {
+      "id": "broschüren",
+      "titel": "Broschüren"
+    },
+    {
+      "id": "btbg",
+      "titel": "BtBG"
+    },
+    {
+      "id": "btg",
+      "titel": "BtG"
+    },
+    {
+      "id": "btog",
+      "titel": "BtOG"
+    },
+    {
+      "id": "btregv",
+      "titel": "BtRegV"
+    },
+    {
+      "id": "btregvo",
+      "titel": "BtRegVO"
+    },
+    {
+      "id": "btregv",
+      "titel": "Btregv"
+    },
+    {
+      "id": "buchverzeichnis",
+      "titel": "Buchverzeichnis"
+    },
+    {
+      "id": "bundesteilhabegesetz",
+      "titel": "Bundesteilhabegesetz"
+    },
+    {
+      "id": "bundesverband-der-berufsbetreuer",
+      "titel": "Bundesverband der Berufsbetreuer"
+    },
+    {
+      "id": "bundesverband-freier-berufsbetreuer",
+      "titel": "Bundesverband freier Berufsbetreuer"
+    },
+    {
+      "id": "bücher",
+      "titel": "Bücher"
+    },
+    {
+      "id": "checkliste-betreuerpflichten",
+      "titel": "Checkliste Betreuerpflichten"
+    },
+    {
+      "id": "checkliste-gesundheitssorge",
+      "titel": "Checkliste Gesundheitssorge"
+    },
+    {
+      "id": "checkliste-personenbogen",
+      "titel": "Checkliste Personenbogen"
+    },
+    {
+      "id": "checkliste-vermögenssorge",
+      "titel": "Checkliste Vermögenssorge"
+    },
+    {
+      "id": "checkliste-wohnungsangelegenheiten",
+      "titel": "Checkliste Wohnungsangelegenheiten"
+    },
+    {
+      "id": "checkliste-für-arztgespräche",
+      "titel": "Checkliste für Arztgespräche"
+    },
+    {
+      "id": "corona",
+      "titel": "Corona"
+    },
+    {
+      "id": "covid-19",
+      "titel": "Covid-19"
+    },
+    {
+      "id": "curriculum",
+      "titel": "Curriculum"
+    },
+    {
+      "id": "datenschutz",
+      "titel": "Datenschutz"
+    },
+    {
+      "id": "delegation",
+      "titel": "Delegation"
+    },
+    {
+      "id": "digitale-barrierefreiheit",
+      "titel": "Digitale Barrierefreiheit"
+    },
+    {
+      "id": "diskriminierungsverbot",
+      "titel": "Diskriminierungsverbot"
+    },
+    {
+      "id": "diskussionsforum",
+      "titel": "Diskussionsforum"
+    },
+    {
+      "id": "dokumentationspflicht",
+      "titel": "Dokumentationspflicht"
+    },
+    {
+      "id": "drittes-betreuungsrechtsänderungsgesetz",
+      "titel": "Drittes Betreuungsrechtsänderungsgesetz"
+    },
+    {
+      "id": "e-rezept",
+      "titel": "E-Rezept"
+    },
+    {
+      "id": "ebo",
+      "titel": "EBo"
+    },
+    {
+      "id": "egh",
+      "titel": "EGH"
+    },
+    {
+      "id": "egvp",
+      "titel": "EGVP"
+    },
+    {
+      "id": "ehefähigkeit",
+      "titel": "Ehefähigkeit"
+    },
+    {
+      "id": "ehegatte-als-betreuer",
+      "titel": "Ehegatte als Betreuer"
+    },
+    {
+      "id": "ehegattenvertretungsrecht",
+      "titel": "Ehegattenvertretungsrecht"
+    },
+    {
+      "id": "eherecht",
+      "titel": "Eherecht"
+    },
+    {
+      "id": "eherecht-und-betreuung",
+      "titel": "Eherecht und Betreuung"
+    },
+    {
+      "id": "ehrenamt",
+      "titel": "Ehrenamt"
+    },
+    {
+      "id": "ehrenamtler",
+      "titel": "Ehrenamtler"
+    },
+    {
+      "id": "ehrenamtlicher-betreuer",
+      "titel": "Ehrenamtlicher Betreuer"
+    },
+    {
+      "id": "eilfälle",
+      "titel": "Eilfälle"
+    },
+    {
+      "id": "einführungsgespräch",
+      "titel": "Einführungsgespräch"
+    },
+    {
+      "id": "eingliederungshilfe",
+      "titel": "Eingliederungshilfe"
+    },
+    {
+      "id": "eingruppierung",
+      "titel": "Eingruppierung"
+    },
+    {
+      "id": "einlagensicherung",
+      "titel": "Einlagensicherung"
+    },
+    {
+      "id": "einstweilige-anordnung",
+      "titel": "Einstweilige Anordnung"
+    },
+    {
+      "id": "einverständniserklärung",
+      "titel": "Einverständniserklärung"
+    },
+    {
+      "id": "einwilligungsfähigkeit",
+      "titel": "Einwilligungsfähigkeit"
+    },
+    {
+      "id": "einwilligungsunfähigkeit",
+      "titel": "Einwilligungsunfähigkeit"
+    },
+    {
+      "id": "einwilligungsvorbehalt",
+      "titel": "Einwilligungsvorbehalt"
+    },
+    {
+      "id": "elektronische-patientenakte",
+      "titel": "Elektronische Patientenakte"
+    },
+    {
+      "id": "elektronischer-identitätsnachweis",
+      "titel": "Elektronischer Identitätsnachweis"
+    },
+    {
+      "id": "elektronisches-gerichts--und-verwaltungspostfach",
+      "titel": "Elektronisches Gerichts- und Verwaltungspostfach"
+    },
+    {
+      "id": "elterliche-sorge",
+      "titel": "Elterliche Sorge"
+    },
+    {
+      "id": "ende-der-betreuung",
+      "titel": "Ende der Betreuung"
+    },
+    {
+      "id": "entlastungserklärung",
+      "titel": "Entlastungserklärung"
+    },
+    {
+      "id": "entschädigung",
+      "titel": "Entschädigung"
+    },
+    {
+      "id": "erbannahme",
+      "titel": "Erbannahme"
+    },
+    {
+      "id": "erbausschlagung",
+      "titel": "Erbausschlagung"
+    },
+    {
+      "id": "erbrecht",
+      "titel": "Erbrecht"
+    },
+    {
+      "id": "erbschaft",
+      "titel": "Erbschaft"
+    },
+    {
+      "id": "erforderlichkeit",
+      "titel": "Erforderlichkeit"
+    },
+    {
+      "id": "ergänzungsbetreuer",
+      "titel": "Ergänzungsbetreuer"
+    },
+    {
+      "id": "ergänzungspfleger",
+      "titel": "Ergänzungspfleger"
+    },
+    {
+      "id": "erinnerung",
+      "titel": "Erinnerung"
+    },
+    {
+      "id": "ermessensvergütung",
+      "titel": "Ermessensvergütung"
+    },
+    {
+      "id": "erwachsenenschutz",
+      "titel": "Erwachsenenschutz"
+    },
+    {
+      "id": "erwachsenenschutzabkommen",
+      "titel": "Erwachsenenschutzabkommen"
+    },
+    {
+      "id": "erwachsenenschutzübereinkommen",
+      "titel": "Erwachsenenschutzübereinkommen"
+    },
+    {
+      "id": "erziehungsmaßregeln",
+      "titel": "Erziehungsmaßregeln"
+    },
+    {
+      "id": "erörterungsgespräch",
+      "titel": "Erörterungsgespräch"
+    },
+    {
+      "id": "evaluation",
+      "titel": "Evaluation"
+    },
+    {
+      "id": "e­inwilligungs­vor­be­halt",
+      "titel": "E­inwilligungs­vor­be­halt"
+    },
+    {
+      "id": "fem",
+      "titel": "FEM"
+    },
+    {
+      "id": "fgg",
+      "titel": "FGG"
+    },
+    {
+      "id": "famfg",
+      "titel": "FamFG"
+    },
+    {
+      "id": "familienangehörige",
+      "titel": "Familienangehörige"
+    },
+    {
+      "id": "familienverfahrensgesetz",
+      "titel": "Familienverfahrensgesetz"
+    },
+    {
+      "id": "fem",
+      "titel": "Fem"
+    },
+    {
+      "id": "finanzamt",
+      "titel": "Finanzamt"
+    },
+    {
+      "id": "formulare",
+      "titel": "Formulare"
+    },
+    {
+      "id": "forum-url",
+      "titel": "Forum-url"
+    },
+    {
+      "id": "freibetrag",
+      "titel": "Freibetrag"
+    },
+    {
+      "id": "freier-wille",
+      "titel": "Freier Wille"
+    },
+    {
+      "id": "gegenbetreuer",
+      "titel": "Gegenbetreuer"
+    },
+    {
+      "id": "geldanlage",
+      "titel": "Geldanlage"
+    },
+    {
+      "id": "genehmigung-der-heilbehandlung",
+      "titel": "Genehmigung der Heilbehandlung"
+    },
+    {
+      "id": "genehmigung-der-sterilisation",
+      "titel": "Genehmigung der Sterilisation"
+    },
+    {
+      "id": "genehmigungen",
+      "titel": "Genehmigungen"
+    },
+    {
+      "id": "genehmigungen-von-a-bis-z",
+      "titel": "Genehmigungen von a bis z"
+    },
+    {
+      "id": "genehmigungspflichten",
+      "titel": "Genehmigungspflichten"
+    },
+    {
+      "id": "gerichtsbeschluss",
+      "titel": "Gerichtsbeschluss"
+    },
+    {
+      "id": "gerichtskosten",
+      "titel": "Gerichtskosten"
+    },
+    {
+      "id": "gerichtsverfahren",
+      "titel": "Gerichtsverfahren"
+    },
+    {
+      "id": "geschäftsfähigkeit",
+      "titel": "Geschäftsfähigkeit"
+    },
+    {
+      "id": "gesetze",
+      "titel": "Gesetze"
+    },
+    {
+      "id": "gesetzesbegründung-patientenverfügung",
+      "titel": "Gesetzesbegründung Patientenverfügung"
+    },
+    {
+      "id": "gesetzessammlungen-betreuer.pdf",
+      "titel": "Gesetzessammlungen Betreuer.pdf"
+    },
+    {
+      "id": "gesetzestexte",
+      "titel": "Gesetzestexte"
+    },
+    {
+      "id": "gesetzliche-vertretung",
+      "titel": "Gesetzliche Vertretung"
+    },
+    {
+      "id": "gesetzlicher-vertreter",
+      "titel": "Gesetzlicher Vertreter"
+    },
+    {
+      "id": "gesundheitliche-versorgungsplanung",
+      "titel": "Gesundheitliche Versorgungsplanung"
+    },
+    {
+      "id": "gesundheitssorge",
+      "titel": "Gesundheitssorge"
+    },
+    {
+      "id": "gesund­heitssorge",
+      "titel": "Gesund­heitssorge"
+    },
+    {
+      "id": "gewaltschutzanordnung",
+      "titel": "Gewaltschutzanordnung"
+    },
+    {
+      "id": "girokonto",
+      "titel": "Girokonto"
+    },
+    {
+      "id": "grundrechte",
+      "titel": "Grundrechte"
+    },
+    {
+      "id": "grundsicherung",
+      "titel": "Grundsicherung"
+    },
+    {
+      "id": "grundstück",
+      "titel": "Grundstück"
+    },
+    {
+      "id": "gutachten",
+      "titel": "Gutachten"
+    },
+    {
+      "id": "haager-übereinkommen",
+      "titel": "Haager Übereinkommen"
+    },
+    {
+      "id": "haftpflichtversicherung",
+      "titel": "Haftpflichtversicherung"
+    },
+    {
+      "id": "hamburg",
+      "titel": "Hamburg"
+    },
+    {
+      "id": "hamburger-mustergliederung",
+      "titel": "Hamburger Mustergliederung"
+    },
+    {
+      "id": "handlungsfähigkeit",
+      "titel": "Handlungsfähigkeit"
+    },
+    {
+      "id": "hauptseite",
+      "titel": "Hauptseite"
+    },
+    {
+      "id": "heilbehandlung",
+      "titel": "Heilbehandlung"
+    },
+    {
+      "id": "heimangelegenheiten",
+      "titel": "Heimangelegenheiten"
+    },
+    {
+      "id": "heimmitarbeiter-als-betreuer",
+      "titel": "Heimmitarbeiter als Betreuer"
+    },
+    {
+      "id": "heimplatzsuche",
+      "titel": "Heimplatzsuche"
+    },
+    {
+      "id": "heimvertrag",
+      "titel": "Heimvertrag"
+    },
+    {
+      "id": "hessen",
+      "titel": "Hessen"
+    },
+    {
+      "id": "hilfeplan",
+      "titel": "Hilfeplan"
+    },
+    {
+      "id": "immobilie",
+      "titel": "Immobilie"
+    },
+    {
+      "id": "impressum",
+      "titel": "Impressum"
+    },
+    {
+      "id": "inflationsausgleich",
+      "titel": "Inflationsausgleich"
+    },
+    {
+      "id": "informationspflicht",
+      "titel": "Informationspflicht"
+    },
+    {
+      "id": "inklusionsbetrieb",
+      "titel": "Inklusionsbetrieb"
+    },
+    {
+      "id": "insichgeschäft",
+      "titel": "Insichgeschäft"
+    },
+    {
+      "id": "insolvenz",
+      "titel": "Insolvenz"
+    },
+    {
+      "id": "intellektuelle-beeinträchtigung",
+      "titel": "Intellektuelle Beeinträchtigung"
+    },
+    {
+      "id": "internationales",
+      "titel": "Internationales"
+    },
+    {
+      "id": "internationales-betreuungsrecht",
+      "titel": "Internationales Betreuungsrecht"
+    },
+    {
+      "id": "interoperabilität",
+      "titel": "Interoperabilität"
+    },
+    {
+      "id": "jahresbericht",
+      "titel": "Jahresbericht"
+    },
+    {
+      "id": "kindschaftsrecht",
+      "titel": "Kindschaftsrecht"
+    },
+    {
+      "id": "kirchenaustritt",
+      "titel": "Kirchenaustritt"
+    },
+    {
+      "id": "kontokorrentkonto",
+      "titel": "Kontokorrentkonto"
+    },
+    {
+      "id": "kontrollbetreuer",
+      "titel": "Kontrollbetreuer"
+    },
+    {
+      "id": "kontrollbetreuung",
+      "titel": "Kontrollbetreuung"
+    },
+    {
+      "id": "konvention-über-die-rechte-behinderter-menschen",
+      "titel": "Konvention über die Rechte behinderter Menschen"
+    },
+    {
+      "id": "kooperationsvereinbarung",
+      "titel": "Kooperationsvereinbarung"
+    },
+    {
+      "id": "kosten",
+      "titel": "Kosten"
+    },
+    {
+      "id": "krankenhaussozialdienst",
+      "titel": "Krankenhaussozialdienst"
+    },
+    {
+      "id": "krankenkasse",
+      "titel": "Krankenkasse"
+    },
+    {
+      "id": "krankenversicherung",
+      "titel": "Krankenversicherung"
+    },
+    {
+      "id": "lebenspartnerschaft",
+      "titel": "Lebenspartnerschaft"
+    },
+    {
+      "id": "link-liste",
+      "titel": "Link-Liste"
+    },
+    {
+      "id": "mdk-gutachten",
+      "titel": "MDK-Gutachten"
+    },
+    {
+      "id": "magensonde",
+      "titel": "Magensonde"
+    },
+    {
+      "id": "mahnverfahren",
+      "titel": "Mahnverfahren"
+    },
+    {
+      "id": "mailingliste",
+      "titel": "Mailingliste"
+    },
+    {
+      "id": "maßregeln-der-besserung-und-sicherung",
+      "titel": "Maßregeln der Besserung und Sicherung"
+    },
+    {
+      "id": "mecklenburg-vorpommern",
+      "titel": "Mecklenburg-Vorpommern"
+    },
+    {
+      "id": "medikationsplan",
+      "titel": "Medikationsplan"
+    },
+    {
+      "id": "medizinische-begriffe",
+      "titel": "Medizinische Begriffe"
+    },
+    {
+      "id": "mehrfachbetreuung",
+      "titel": "Mehrfachbetreuung"
+    },
+    {
+      "id": "meldepflicht",
+      "titel": "Meldepflicht"
+    },
+    {
+      "id": "mietkündigung",
+      "titel": "Mietkündigung"
+    },
+    {
+      "id": "mietvertragsangelegenheiten",
+      "titel": "Mietvertragsangelegenheiten"
+    },
+    {
+      "id": "mitteilungspflicht",
+      "titel": "Mitteilungspflicht"
+    },
+    {
+      "id": "mittellosigkeit",
+      "titel": "Mittellosigkeit"
+    },
+    {
+      "id": "mitwirkungspflicht",
+      "titel": "Mitwirkungspflicht"
+    },
+    {
+      "id": "mündelgeld",
+      "titel": "Mündelgeld"
+    },
+    {
+      "id": "mündelsicher",
+      "titel": "Mündelsicher"
+    },
+    {
+      "id": "nrw",
+      "titel": "NRW"
+    },
+    {
+      "id": "natürlicher-wille",
+      "titel": "Natürlicher Wille"
+    },
+    {
+      "id": "nebentätigkeit",
+      "titel": "Nebentätigkeit"
+    },
+    {
+      "id": "neu",
+      "titel": "Neu"
+    },
+    {
+      "id": "niedersachsen",
+      "titel": "Niedersachsen"
+    },
+    {
+      "id": "nordrhein-westfalen",
+      "titel": "Nordrhein-Westfalen"
+    },
+    {
+      "id": "online-lexikon-betreuungsrecht:datenschutz",
+      "titel": "Online-Lexikon Betreuungsrecht:Datenschutz"
+    },
+    {
+      "id": "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
+      "titel": "Online-Lexikon Betreuungsrecht:Über Online-Lexikon Betreuungsrecht"
+    },
+    {
+      "id": "organspende",
+      "titel": "Organspende"
+    },
+    {
+      "id": "peg-sonde",
+      "titel": "PEG-Sonde"
+    },
+    {
+      "id": "patientenverfügung",
+      "titel": "Patientenverfügung"
+    },
+    {
+      "id": "patientenverfügungsgesetz",
+      "titel": "Patientenverfügungsgesetz"
+    },
+    {
+      "id": "patientenvertreter",
+      "titel": "Patientenvertreter"
+    },
+    {
+      "id": "person-des-vertrauens",
+      "titel": "Person des Vertrauens"
+    },
+    {
+      "id": "personalausweis",
+      "titel": "Personalausweis"
+    },
+    {
+      "id": "personenortungsanlage",
+      "titel": "Personenortungsanlage"
+    },
+    {
+      "id": "persönliche-betreuung",
+      "titel": "Persönliche Betreuung"
+    },
+    {
+      "id": "persönliches-budget",
+      "titel": "Persönliches Budget"
+    },
+    {
+      "id": "pflegebedürftigkeit",
+      "titel": "Pflegebedürftigkeit"
+    },
+    {
+      "id": "pflegeheim",
+      "titel": "Pflegeheim"
+    },
+    {
+      "id": "pflegeversicherung",
+      "titel": "Pflegeversicherung"
+    },
+    {
+      "id": "pflicht-zur-betreuungsübernahme",
+      "titel": "Pflicht zur Betreuungsübernahme"
+    },
+    {
+      "id": "pflichten",
+      "titel": "Pflichten"
+    },
+    {
+      "id": "pfändung",
+      "titel": "Pfändung"
+    },
+    {
+      "id": "postkontrolle",
+      "titel": "Postkontrolle"
+    },
+    {
+      "id": "postverkehr",
+      "titel": "Postverkehr"
+    },
+    {
+      "id": "prozessfähigkeit",
+      "titel": "Prozessfähigkeit"
+    },
+    {
+      "id": "prozessführung",
+      "titel": "Prozessführung"
+    },
+    {
+      "id": "prozesspfleger",
+      "titel": "Prozesspfleger"
+    },
+    {
+      "id": "psychisch-kranken-gesetz",
+      "titel": "Psychisch-Kranken-Gesetz"
+    },
+    {
+      "id": "psychkg",
+      "titel": "Psychkg"
+    },
+    {
+      "id": "querschnittsarbeit",
+      "titel": "Querschnittsarbeit"
+    },
+    {
+      "id": "querschnittsaufgaben",
+      "titel": "Querschnittsaufgaben"
+    },
+    {
+      "id": "rechnungslegung",
+      "titel": "Rechnungslegung"
+    },
+    {
+      "id": "rechtsanwalt",
+      "titel": "Rechtsanwalt"
+    },
+    {
+      "id": "rechtsbeschwerde",
+      "titel": "Rechtsbeschwerde"
+    },
+    {
+      "id": "rechtsgeschäft",
+      "titel": "Rechtsgeschäft"
+    },
+    {
+      "id": "rechtsmittel",
+      "titel": "Rechtsmittel"
+    },
+    {
+      "id": "rechtsnormen",
+      "titel": "Rechtsnormen"
+    },
+    {
+      "id": "rechtspfleger",
+      "titel": "Rechtspfleger"
+    },
+    {
+      "id": "rechtsprechung",
+      "titel": "Rechtsprechung"
+    },
+    {
+      "id": "rechtsprechung-zum-sachverständigengutachten",
+      "titel": "Rechtsprechung zum Sachverständigengutachten"
+    },
+    {
+      "id": "rechtsprechung-zum-verfahrenspfleger",
+      "titel": "Rechtsprechung zum Verfahrenspfleger"
+    },
+    {
+      "id": "rechtsprechung-zur-anhörung",
+      "titel": "Rechtsprechung zur Anhörung"
+    },
+    {
+      "id": "rechtsprechung-zur-unterbringung",
+      "titel": "Rechtsprechung zur Unterbringung"
+    },
+    {
+      "id": "rechtsverkehr-in-deutschland",
+      "titel": "Rechtsverkehr in Deutschland"
+    },
+    {
+      "id": "rechtsweg-in-deutschland",
+      "titel": "Rechtsweg in Deutschland"
+    },
+    {
+      "id": "reform",
+      "titel": "Reform"
+    },
+    {
+      "id": "registrierung",
+      "titel": "Registrierung"
+    },
+    {
+      "id": "regress-der-staatskasse",
+      "titel": "Regress der Staatskasse"
+    },
+    {
+      "id": "rente",
+      "titel": "Rente"
+    },
+    {
+      "id": "rheinland-pfalz",
+      "titel": "Rheinland-Pfalz"
+    },
+    {
+      "id": "richter",
+      "titel": "Richter"
+    },
+    {
+      "id": "rundfunkbeitrag",
+      "titel": "Rundfunkbeitrag"
+    },
+    {
+      "id": "saarland",
+      "titel": "Saarland"
+    },
+    {
+      "id": "sachkundelehrgang",
+      "titel": "Sachkundelehrgang"
+    },
+    {
+      "id": "sachkundenachweis",
+      "titel": "Sachkundenachweis"
+    },
+    {
+      "id": "sachsen",
+      "titel": "Sachsen"
+    },
+    {
+      "id": "sachsen-anhalt",
+      "titel": "Sachsen-Anhalt"
+    },
+    {
+      "id": "sachverständigengutachten",
+      "titel": "Sachverständigengutachten"
+    },
+    {
+      "id": "schadenersatz",
+      "titel": "Schadenersatz"
+    },
+    {
+      "id": "schadensersatz",
+      "titel": "Schadensersatz"
+    },
+    {
+      "id": "schenkung",
+      "titel": "Schenkung"
+    },
+    {
+      "id": "schleswig-holstein",
+      "titel": "Schleswig-Holstein"
+    },
+    {
+      "id": "schlussbericht",
+      "titel": "Schlussbericht"
+    },
+    {
+      "id": "schlussrechnung",
+      "titel": "Schlussrechnung"
+    },
+    {
+      "id": "schlussrechnungslegung",
+      "titel": "Schlussrechnungslegung"
+    },
+    {
+      "id": "schlussrechung",
+      "titel": "Schlussrechung"
+    },
+    {
+      "id": "schlusstätigkeiten",
+      "titel": "Schlusstätigkeiten"
+    },
+    {
+      "id": "schlüsselgewalt",
+      "titel": "Schlüsselgewalt"
+    },
+    {
+      "id": "schonvermögen",
+      "titel": "Schonvermögen"
+    },
+    {
+      "id": "schuldfähigkeit",
+      "titel": "Schuldfähigkeit"
+    },
+    {
+      "id": "schweigepflicht",
+      "titel": "Schweigepflicht"
+    },
+    {
+      "id": "schwerbehindertenausweis",
+      "titel": "Schwerbehindertenausweis"
+    },
+    {
+      "id": "selbstbestimmung",
+      "titel": "Selbstbestimmung"
+    },
+    {
+      "id": "selbstbestimmungsrecht",
+      "titel": "Selbstbestimmungsrecht"
+    },
+    {
+      "id": "selbstverwaltung-der-deutschen-gemeinden",
+      "titel": "Selbstverwaltung der deutschen Gemeinden"
+    },
+    {
+      "id": "selbstverwaltungserklärung",
+      "titel": "Selbstverwaltungserklärung"
+    },
+    {
+      "id": "software",
+      "titel": "Software"
+    },
+    {
+      "id": "sorgerecht",
+      "titel": "Sorgerecht"
+    },
+    {
+      "id": "sozialbericht",
+      "titel": "Sozialbericht"
+    },
+    {
+      "id": "sozialhilfe",
+      "titel": "Sozialhilfe"
+    },
+    {
+      "id": "sozialleistung",
+      "titel": "Sozialleistung"
+    },
+    {
+      "id": "sozialpsychiatrischer-dienst",
+      "titel": "Sozialpsychiatrischer Dienst"
+    },
+    {
+      "id": "sperrvereinbarung",
+      "titel": "Sperrvereinbarung"
+    },
+    {
+      "id": "spielwiese",
+      "titel": "Spielwiese"
+    },
+    {
+      "id": "staatsregress",
+      "titel": "Staatsregress"
+    },
+    {
+      "id": "stammbehörde",
+      "titel": "Stammbehörde"
+    },
+    {
+      "id": "sterbehilfe",
+      "titel": "Sterbehilfe"
+    },
+    {
+      "id": "sterbehilfedokumente",
+      "titel": "Sterbehilfedokumente"
+    },
+    {
+      "id": "sterilisation",
+      "titel": "Sterilisation"
+    },
+    {
+      "id": "sterilisationsbetreuer",
+      "titel": "Sterilisationsbetreuer"
+    },
+    {
+      "id": "steuererklärung",
+      "titel": "Steuererklärung"
+    },
+    {
+      "id": "steuern",
+      "titel": "Steuern"
+    },
+    {
+      "id": "steuerpflicht",
+      "titel": "Steuerpflicht"
+    },
+    {
+      "id": "steuerrecht",
+      "titel": "Steuerrecht"
+    },
+    {
+      "id": "strafanzeige",
+      "titel": "Strafanzeige"
+    },
+    {
+      "id": "strafprozess",
+      "titel": "Strafprozess"
+    },
+    {
+      "id": "strafverfahren",
+      "titel": "Strafverfahren"
+    },
+    {
+      "id": "stundensatz",
+      "titel": "Stundensatz"
+    },
+    {
+      "id": "subsidiaritätsprinzip",
+      "titel": "Subsidiaritätsprinzip"
+    },
+    {
+      "id": "synopse",
+      "titel": "Synopse"
+    },
+    {
+      "id": "synopse-patientenverfügungsgesetze",
+      "titel": "Synopse Patientenverfügungsgesetze"
+    },
+    {
+      "id": "tabelleneinstufung",
+      "titel": "Tabelleneinstufung"
+    },
+    {
+      "id": "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
+      "titel": "Tag der ehrenamtlichen Betreuerinnen und Betreuer"
+    },
+    {
+      "id": "tandembetreuung",
+      "titel": "Tandembetreuung"
+    },
+    {
+      "id": "telefonkontrolle",
+      "titel": "Telefonkontrolle"
+    },
+    {
+      "id": "test",
+      "titel": "Test"
+    },
+    {
+      "id": "testierfähigkeit",
+      "titel": "Testierfähigkeit"
+    },
+    {
+      "id": "thüringen",
+      "titel": "Thüringen"
+    },
+    {
+      "id": "tierschutz",
+      "titel": "Tierschutz"
+    },
+    {
+      "id": "tod-des-betreuers",
+      "titel": "Tod des Betreuers"
+    },
+    {
+      "id": "tod-des-betreuten",
+      "titel": "Tod des Betreuten"
+    },
+    {
+      "id": "trennungsgebot",
+      "titel": "Trennungsgebot"
+    },
+    {
+      "id": "ubg",
+      "titel": "UBG"
+    },
+    {
+      "id": "un-brk",
+      "titel": "UN-BRK"
+    },
+    {
+      "id": "un-behindertenrechtskonvention",
+      "titel": "UN-Behindertenrechtskonvention"
+    },
+    {
+      "id": "un-übereinkommen-über-die-rechte-von-menschen-mit-behinderungen",
+      "titel": "UN-Übereinkommen über die Rechte von Menschen mit Behinderungen"
+    },
+    {
+      "id": "umgangsbestimmung",
+      "titel": "Umgangsbestimmung"
+    },
+    {
+      "id": "unbetreubarkeit",
+      "titel": "Unbetreubarkeit"
+    },
+    {
+      "id": "unfallversicherung",
+      "titel": "Unfallversicherung"
+    },
+    {
+      "id": "unterbringung",
+      "titel": "Unterbringung"
+    },
+    {
+      "id": "unterbringungssache",
+      "titel": "Unterbringungssache"
+    },
+    {
+      "id": "unterbringungssachen",
+      "titel": "Unterbringungssachen"
+    },
+    {
+      "id": "unterbringungsverfahren",
+      "titel": "Unterbringungsverfahren"
+    },
+    {
+      "id": "unterbringungsähnliche-maßnahme",
+      "titel": "Unterbringungsähnliche Maßnahme"
+    },
+    {
+      "id": "unterschriftsbeglaubigung",
+      "titel": "Unterschriftsbeglaubigung"
+    },
+    {
+      "id": "unterstützte-entscheidungsfindung",
+      "titel": "Unterstützte Entscheidungsfindung"
+    },
+    {
+      "id": "unterstützte-kommunikation",
+      "titel": "Unterstützte Kommunikation"
+    },
+    {
+      "id": "unterstützungspflicht",
+      "titel": "Unterstützungspflicht"
+    },
+    {
+      "id": "vbvg",
+      "titel": "VBVG"
+    },
+    {
+      "id": "vbvg-rechtsprechung",
+      "titel": "VBVG-Rechtsprechung"
+    },
+    {
+      "id": "vgt",
+      "titel": "VGT"
+    },
+    {
+      "id": "vaterschaftsanerkennung",
+      "titel": "Vaterschaftsanerkennung"
+    },
+    {
+      "id": "vaterschaftsfeststellung",
+      "titel": "Vaterschaftsfeststellung"
+    },
+    {
+      "id": "verband-freiberuflicher-betreuer",
+      "titel": "Verband freiberuflicher Betreuer"
+    },
+    {
+      "id": "verbraucherinsolvenz",
+      "titel": "Verbraucherinsolvenz"
+    },
+    {
+      "id": "verbraucherstreitbeilegung",
+      "titel": "Verbraucherstreitbeilegung"
+    },
+    {
+      "id": "vereinbarung-über-begleitung-und-unterstützung",
+      "titel": "Vereinbarung über Begleitung und Unterstützung"
+    },
+    {
+      "id": "vereinsbetreuer",
+      "titel": "Vereinsbetreuer"
+    },
+    {
+      "id": "verfahrensbeteiligte",
+      "titel": "Verfahrensbeteiligte"
+    },
+    {
+      "id": "verfahrensfähigkeit",
+      "titel": "Verfahrensfähigkeit"
+    },
+    {
+      "id": "verfahrenspfleger",
+      "titel": "Verfahrenspfleger"
+    },
+    {
+      "id": "verfügungsgeld",
+      "titel": "Verfügungsgeld"
+    },
+    {
+      "id": "vergütungsrechtsprechung",
+      "titel": "Vergütungsrechtsprechung"
+    },
+    {
+      "id": "vergütungsreform-2019",
+      "titel": "Vergütungsreform 2019"
+    },
+    {
+      "id": "vergütungsstufe",
+      "titel": "Vergütungsstufe"
+    },
+    {
+      "id": "vergütungstabelle",
+      "titel": "Vergütungstabelle"
+    },
+    {
+      "id": "verhinderungsbetreuer",
+      "titel": "Verhinderungsbetreuer"
+    },
+    {
+      "id": "verhältnismäßigkeitsprinzip",
+      "titel": "Verhältnismäßigkeitsprinzip"
+    },
+    {
+      "id": "verlängerung-der-betreuung",
+      "titel": "Verlängerung der Betreuung"
+    },
+    {
+      "id": "vermögensauskunft",
+      "titel": "Vermögensauskunft"
+    },
+    {
+      "id": "vermögenssorge",
+      "titel": "Vermögenssorge"
+    },
+    {
+      "id": "vermögensverwaltung",
+      "titel": "Vermögensverwaltung"
+    },
+    {
+      "id": "vermögensverzeichnis",
+      "titel": "Vermögensverzeichnis"
+    },
+    {
+      "id": "verpflichtungsgespräch",
+      "titel": "Verpflichtungsgespräch"
+    },
+    {
+      "id": "vertrauensperson",
+      "titel": "Vertrauensperson"
+    },
+    {
+      "id": "vertreterdokumentation",
+      "titel": "Vertreterdokumentation"
+    },
+    {
+      "id": "vertreterverfügung",
+      "titel": "Vertreterverfügung"
+    },
+    {
+      "id": "vertreterzeugnis",
+      "titel": "Vertreterzeugnis"
+    },
+    {
+      "id": "vertretung-gegenüber-behörden",
+      "titel": "Vertretung gegenüber Behörden"
+    },
+    {
+      "id": "vertretungsmacht",
+      "titel": "Vertretungsmacht"
+    },
+    {
+      "id": "verwaltungsverfahren",
+      "titel": "Verwaltungsverfahren"
+    },
+    {
+      "id": "vollmacht",
+      "titel": "Vollmacht"
+    },
+    {
+      "id": "vorführung",
+      "titel": "Vorführung"
+    },
+    {
+      "id": "vorläufiger-betreuer",
+      "titel": "Vorläufiger Betreuer"
+    },
+    {
+      "id": "vormundschaftsgericht",
+      "titel": "Vormundschaftsgericht"
+    },
+    {
+      "id": "vormundschaftsgerichtshilfe",
+      "titel": "Vormundschaftsgerichtshilfe"
+    },
+    {
+      "id": "vormundschaftsgerichtstag",
+      "titel": "Vormundschaftsgerichtstag"
+    },
+    {
+      "id": "vormünder--und-betreuervergütungsgesetz",
+      "titel": "Vormünder- und Betreuervergütungsgesetz"
+    },
+    {
+      "id": "vorsorgeregister",
+      "titel": "Vorsorgeregister"
+    },
+    {
+      "id": "vorsorgeregisterverordnung",
+      "titel": "Vorsorgeregisterverordnung"
+    },
+    {
+      "id": "vorsorgevollmacht",
+      "titel": "Vorsorgevollmacht"
+    },
+    {
+      "id": "vorsorgevollmacht---vertiefte-infos",
+      "titel": "Vorsorgevollmacht - vertiefte Infos"
+    },
+    {
+      "id": "vulnerabilität",
+      "titel": "Vulnerabilität"
+    },
+    {
+      "id": "waffenbesitz",
+      "titel": "Waffenbesitz"
+    },
+    {
+      "id": "waffenfund",
+      "titel": "Waffenfund"
+    },
+    {
+      "id": "wahlrecht",
+      "titel": "Wahlrecht"
+    },
+    {
+      "id": "werkstatt-für-behinderte-menschen",
+      "titel": "Werkstatt für behinderte Menschen"
+    },
+    {
+      "id": "widerspruchsrecht",
+      "titel": "Widerspruchsrecht"
+    },
+    {
+      "id": "wohn--und-betreuungsvertragsgesetz",
+      "titel": "Wohn- und Betreuungsvertragsgesetz"
+    },
+    {
+      "id": "wohnungsangelegenheiten",
+      "titel": "Wohnungsangelegenheiten"
+    },
+    {
+      "id": "wohnungsauflösung",
+      "titel": "Wohnungsauflösung"
+    },
+    {
+      "id": "wohnungskündigung",
+      "titel": "Wohnungskündigung"
+    },
+    {
+      "id": "wohnungszutritt",
+      "titel": "Wohnungszutritt"
+    },
+    {
+      "id": "zahlen",
+      "titel": "Zahlen"
+    },
+    {
+      "id": "zeitschrift-für-professionelle-betreuungsarbeit",
+      "titel": "Zeitschrift für professionelle Betreuungsarbeit"
+    },
+    {
+      "id": "zeugnisverweigerungsrecht",
+      "titel": "Zeugnisverweigerungsrecht"
+    },
+    {
+      "id": "zuführung",
+      "titel": "Zuführung"
+    },
+    {
+      "id": "zuführung-zur-unterbringung",
+      "titel": "Zuführung zur Unterbringung"
+    },
+    {
+      "id": "zugangsrecht",
+      "titel": "Zugangsrecht"
+    },
+    {
+      "id": "zugriffsrecht",
+      "titel": "Zugriffsrecht"
+    },
+    {
+      "id": "zwangsbehandlung",
+      "titel": "Zwangsbehandlung"
+    },
+    {
+      "id": "zwangsmaßnahme",
+      "titel": "Zwangsmaßnahme"
+    },
+    {
+      "id": "zwangsvollstreckung",
+      "titel": "Zwangsvollstreckung"
+    },
+    {
+      "id": "zweites-betreuungsrechtsänderungsgesetz",
+      "titel": "Zweites Betreuungsrechtsänderungsgesetz"
+    },
+    {
+      "id": "ärztliche-zwangsmaßnahme",
+      "titel": "Ärztliche Zwangsmaßnahme"
+    },
+    {
+      "id": "ärztliches-zeugnis",
+      "titel": "Ärztliches Zeugnis"
+    },
+    {
+      "id": "übereinkommen-über-den-internationalen-schutz-von-erwachsenen",
+      "titel": "Übereinkommen über den internationalen Schutz von Erwachsenen"
+    }
+  ]
+}
