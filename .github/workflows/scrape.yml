@@ -1,0 +1,38 @@
+name: WikiLexikon aktualisieren
+
+on:
+  schedule:
+    - cron: '0 4 * * *'  # täglich um 04:00 Uhr UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - scrape_all_articles.py
+      - requirements.txt
+      - .github/workflows/scrape.yml
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Repository klonen
+        uses: actions/checkout@v3
+
+      - name: 🐍 Python einrichten
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: 🔄 Artikel abrufen & verarbeiten
+        run: python scrape_all_articles.py
+
+      - name: ✅ Änderungen committen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add artikel/*.json
+          git commit -m "🔄 Wiki-Artikel aktualisiert" || echo "Nichts zu committen"
+          git push
