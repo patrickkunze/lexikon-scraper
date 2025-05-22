@@ -1,9 +1,9 @@
 name: Artikel und Tag-Index aktualisieren
 
 on:
-  workflow_dispatch:  # manueller Start im GitHub-UI
+  workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *"  # täglich um 3 Uhr nachts
+    - cron: "0 3 * * *"
 
 jobs:
   build:
@@ -21,7 +21,7 @@ jobs:
       - name: 📦 Abhängigkeiten installieren
         run: |
           python -m pip install --upgrade pip
-          pip install mwparserfromhell
+          pip install mwparserfromhell requests
 
       - name: ⚙️ Scraper-Skript ausführen
         run: |
@@ -32,5 +32,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add artikel/
-          git commit -m "🔄 Update Artikel und tag-index.json" || echo "Nichts zu committen"
+          git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Update Artikel und tag-index.json"
           git push origin main
