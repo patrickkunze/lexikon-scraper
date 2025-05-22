@@ -2,6 +2,16 @@
   "id": "erinnerung",
   "titel": "Erinnerung",
   "inhalt": "redirect [Rechtsmittel](rechtsmittel)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Rechtsmittel",
+      "tags": [
+        "redirect",
+        "rechtsmittel"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Rechtsmittel](rechtsmittel)...",
   "verwandteArtikel": [
     "rechtsmittel"

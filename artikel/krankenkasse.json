@@ -2,6 +2,15 @@
   "id": "krankenkasse",
   "titel": "Krankenkasse",
   "inhalt": "redirect[Krankenversicherung](krankenversicherung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirectKrankenversicherung",
+      "tags": [
+        "redirectkrankenversicherung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect[Krankenversicherung](krankenversicherung)...",
   "verwandteArtikel": [
     "krankenversicherung"

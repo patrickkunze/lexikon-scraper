@@ -2,6 +2,18 @@
   "id": "vaterschaftsfeststellung",
   "titel": "Vaterschaftsfeststellung",
   "inhalt": "redirect [Kindschaftsrecht](kindschaftsrecht)\n\n[kategorie:Aufgabenkreise](kategorie:aufgabenkreise)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Kindschaftsrecht\n\nkategorie:Aufgabenkreise",
+      "tags": [
+        "redirect",
+        "kindschaftsrecht",
+        "kategorie",
+        "aufgabenkreise"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Kindschaftsrecht](kindschaftsrecht)\n\n[kategorie:Aufgabenkreise](kategorie:aufgabenkreise)...",
   "verwandteArtikel": [
     "kindschaftsrecht",

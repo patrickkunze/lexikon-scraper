@@ -2,6 +2,17 @@
   "id": "synopse",
   "titel": "Synopse",
   "inhalt": "REDIRECT [Synopse Patientenverfügungsgesetze](synopse-patientenverfügungsgesetze)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "REDIRECT Synopse Patientenverfügungsgesetze",
+      "tags": [
+        "redirect",
+        "synopse",
+        "patientenverfügungsgesetze"
+      ]
+    }
+  ],
   "zusammenfassung": "REDIRECT [Synopse Patientenverfügungsgesetze](synopse-patientenverfügungsgesetze)...",
   "verwandteArtikel": [
     "synopse-patientenverfügungsgesetze"

@@ -2,6 +2,15 @@
   "id": "unterbringungssachen",
   "titel": "Unterbringungssachen",
   "inhalt": "redirect[Unterbringungsverfahren](unterbringungsverfahren)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirectUnterbringungsverfahren",
+      "tags": [
+        "redirectunterbringungsverfahren"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect[Unterbringungsverfahren](unterbringungsverfahren)...",
   "verwandteArtikel": [
     "unterbringungsverfahren"

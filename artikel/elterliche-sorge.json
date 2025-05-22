@@ -2,6 +2,16 @@
   "id": "elterliche-sorge",
   "titel": "Elterliche Sorge",
   "inhalt": "redirect [Kindschaftsrecht](kindschaftsrecht)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Kindschaftsrecht",
+      "tags": [
+        "redirect",
+        "kindschaftsrecht"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Kindschaftsrecht](kindschaftsrecht)...",
   "verwandteArtikel": [
     "kindschaftsrecht"

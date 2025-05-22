@@ -2,6 +2,16 @@
   "id": "bestellungsurkunde",
   "titel": "Bestellungsurkunde",
   "inhalt": "redirect [Betreuerausweis](betreuerausweis)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuerausweis",
+      "tags": [
+        "redirect",
+        "betreuerausweis"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuerausweis](betreuerausweis)...",
   "verwandteArtikel": [
     "betreuerausweis"

@@ -2,6 +2,16 @@
   "id": "bücher",
   "titel": "Bücher",
   "inhalt": "redirect [Buchverzeichnis](buchverzeichnis)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Buchverzeichnis",
+      "tags": [
+        "redirect",
+        "buchverzeichnis"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Buchverzeichnis](buchverzeichnis)...",
   "verwandteArtikel": [
     "buchverzeichnis"

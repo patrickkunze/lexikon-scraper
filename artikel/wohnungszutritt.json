@@ -2,6 +2,16 @@
   "id": "wohnungszutritt",
   "titel": "Wohnungszutritt",
   "inhalt": "redirect [Wohnungsangelegenheiten](wohnungsangelegenheiten)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Wohnungsangelegenheiten",
+      "tags": [
+        "redirect",
+        "wohnungsangelegenheiten"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Wohnungsangelegenheiten](wohnungsangelegenheiten)...",
   "verwandteArtikel": [
     "wohnungsangelegenheiten"

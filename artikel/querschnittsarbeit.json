@@ -2,6 +2,16 @@
   "id": "querschnittsarbeit",
   "titel": "Querschnittsarbeit",
   "inhalt": "redirect [Querschnittsaufgaben](querschnittsaufgaben)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Querschnittsaufgaben",
+      "tags": [
+        "redirect",
+        "querschnittsaufgaben"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Querschnittsaufgaben](querschnittsaufgaben)...",
   "verwandteArtikel": [
     "querschnittsaufgaben"

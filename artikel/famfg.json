@@ -2,6 +2,18 @@
   "id": "famfg",
   "titel": "FamFG",
   "inhalt": "redirect [Familienverfahrensgesetz](familienverfahrensgesetz)\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Familienverfahrensgesetz\n\nKategorie:Rechtsnormen",
+      "tags": [
+        "redirect",
+        "familienverfahrensgesetz",
+        "kategorie",
+        "rechtsnormen"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Familienverfahrensgesetz](familienverfahrensgesetz)\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)...",
   "verwandteArtikel": [
     "familienverfahrensgesetz",

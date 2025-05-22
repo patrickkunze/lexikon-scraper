@@ -2,6 +2,16 @@
   "id": "vertreterzeugnis",
   "titel": "Vertreterzeugnis",
   "inhalt": "REDIRECT [Vertreterdokumentation](vertreterdokumentation)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "REDIRECT Vertreterdokumentation",
+      "tags": [
+        "redirect",
+        "vertreterdokumentation"
+      ]
+    }
+  ],
   "zusammenfassung": "REDIRECT [Vertreterdokumentation](vertreterdokumentation)...",
   "verwandteArtikel": [
     "vertreterdokumentation"

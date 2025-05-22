@@ -2,6 +2,17 @@
   "id": "eilfälle",
   "titel": "Eilfälle",
   "inhalt": "redirect [einstweilige Anordnung](einstweilige-anordnung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect einstweilige Anordnung",
+      "tags": [
+        "redirect",
+        "einstweilige",
+        "anordnung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [einstweilige Anordnung](einstweilige-anordnung)...",
   "verwandteArtikel": [
     "einstweilige-anordnung"

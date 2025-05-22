@@ -2,6 +2,16 @@
   "id": "un-behindertenrechtskonvention",
   "titel": "UN-Behindertenrechtskonvention",
   "inhalt": "redirect [Behindertenkonvention](behindertenkonvention)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Behindertenkonvention",
+      "tags": [
+        "redirect",
+        "behindertenkonvention"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Behindertenkonvention](behindertenkonvention)...",
   "verwandteArtikel": [
     "behindertenkonvention"

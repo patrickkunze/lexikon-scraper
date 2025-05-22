@@ -2,6 +2,16 @@
   "id": "aufsicht",
   "titel": "Aufsicht",
   "inhalt": "redirect [Beaufsichtigung](beaufsichtigung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Beaufsichtigung",
+      "tags": [
+        "redirect",
+        "beaufsichtigung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Beaufsichtigung](beaufsichtigung)...",
   "verwandteArtikel": [
     "beaufsichtigung"

@@ -2,6 +2,17 @@
   "id": "akteneinsicht",
   "titel": "Akteneinsicht",
   "inhalt": "redirect [Betreuungsverfahren#Akteneinsicht](betreuungsverfahren#akteneinsicht)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuungsverfahren#Akteneinsicht",
+      "tags": [
+        "redirect",
+        "betreuungsverfahren",
+        "akteneinsicht"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuungsverfahren#Akteneinsicht](betreuungsverfahren#akteneinsicht)...",
   "verwandteArtikel": [
     "betreuungsverfahren#akteneinsicht"

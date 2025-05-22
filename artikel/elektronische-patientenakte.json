@@ -2,37 +2,83 @@
   "id": "elektronische-patientenakte",
   "titel": "Elektronische Patientenakte",
   "inhalt": "Die elektronische Patientenakte (ePA) soll ab 2025 bessere Voraussetzungen für eine vernetzte medizinische Versorgung der betreuten Menschen in Deutschland schaffen. Zukünftig stehen dann alle wichtigen Gesundheitsdokumente mit der ePA an einem zentralen Ort sicher und digital für die notwendige [Heilbehandlung](heilbehandlung) von Betreuten bereit. Ab dem 15.01.2025 werden alle gesetzlichen Kranken- und Pflegekassen - wie gesetzlich vorgeschrieben - für ihre Versicherten nach und nach die ePa anlegen, wenn von den Betreuern nicht fristgerecht [Widerspruchsrecht](widerspruchsrecht).\n\nDer [Datenschutz](datenschutz) für die besonders sensiblen Gesundheitsdaten genießt in Deutschland höchste Priorität. Nur die Versicherten selbst und ihre ausgewählten Personen als [Betreuer](betreuer) und/oder Angehörige, Gesundheitseinrichtungen oder Gesundheitsanwendungen, die autorisiert wurden, können auf die Dokumente in der ePA in Zukunft zugreifen. Die Zugriffsberechtigungen können jederzeit angepasst oder widerrufen werden. Die Widerspruchsfrist für [Betreuer](betreuer) endete am 15.01.2025.\n\nDie deutsche elektronische Patientenakte ist im fünften Buch des Sozialgesetzbuchs (SGB V) ab § 341 SGB V gesetzlich geregelt. Der zukünftige elektronische [Medikationsplan](medikationsplan) wird in § 31a SGB V gesetzlich geregelt.\n\ngrenzüberschreitender Austausch von Gesundheitsdaten\nGemäß § 359 Abs. 4 SGB V ist der grenzüberschreitende Austausch von Gesundheitsdaten aus der elektronischen Patientenakte zum Zweck der Unterstützung einer konkreten Behandlung des Versicherten durch einen in einem anderen Mitgliedstaat der Europäischen Union zugelassenen Leistungserbringer ausdrücklich vorgesehen. Damit dieser Austausch von Gesundheitsdaten irgendwann problemlos digital über das Internet klappt, wäre [Interoperabilität](interoperabilität) innerhalb der Europäischen Union eine notwendige Bedingung. \n\nAuch zum grenzüberschreitenden [Zugriffsrecht](zugriffsrecht) auf die Daten in der deutschen elektronischen Patientenkurzakte bei einem Notfall wäre die Einwilligung des Versicherten notwendig. Zusätzlich ist erforderlich, dass der Versicherte zum Zeitpunkt der [Heilbehandlung](heilbehandlung) den Zugriff der nationalen eHealth-Kontaktstelle des Mitgliedstaats, in dem die Behandlung stattfindet, durch eine eindeutige bestätigende Handlung technisch freigibt.\n\nSo soll in den nächsten Jahren ein europäischer Gesundheitsdatenraum (European Health Data Space, EHDS) geschaffen werden.\n\nWeblinks\nVortrag Dr. Stefan Streit zur ePA\n Informationen der Kassenärztlichen Bundesvereinigung zur ePA\n Informationen des Bundesgesundheitsministeriums zur ePA\n ePA-Verwaltung auf dem Personalcomputer\n Bundesplattform zur elektronischen Patientenakte (ePA)\n\nSiehe auch\n [Datenschutz](datenschutz)\n [Interoperabilität](interoperabilität)\n [Zugriffsrecht](zugriffsrecht)\n [Organspende](organspende)\n [Personalausweis](personalausweis)\n [Selbstbestimmung](selbstbestimmung)\n [Medikationsplan](medikationsplan)\n [E-Rezept](e-rezept)\n [natürlicher Wille](natürlicher-wille)\n [Angehörigenvertretungsrecht](angehörigenvertretungsrecht)\n [Grundrechte](grundrechte)\n [Diskriminierungsverbot](diskriminierungsverbot)\n [Digitale Barrierefreiheit](digitale-barrierefreiheit)\n [Heilbehandlung](heilbehandlung)\n [Dokumentationspflicht](dokumentationspflicht)\n [Psychisch-Kranken-Gesetz](psychisch-kranken-gesetz)\n [Vulnerabilität](vulnerabilität)\n [Unterstützungspflicht](unterstützungspflicht)\n [Genehmigung der Heilbehandlung](genehmigung-der-heilbehandlung)\n [Zwangsbehandlung](zwangsbehandlung)\n [Gesundheitssorge](gesundheitssorge)\n [Checkliste Gesundheitssorge](checkliste-gesundheitssorge)\n [Erörterungsgespräch](erörterungsgespräch)\n [Patientenverfügung](patientenverfügung)\n [Arztzeugnis](arztzeugnis)\n [MDK-Gutachten](mdk-gutachten)\n [Sachverständigengutachten](sachverständigengutachten)\n [Sachkundenachweis](sachkundenachweis)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "Die elektronische Patientenakte (ePA) soll ab 2025 bessere Voraussetzungen für eine vernetzte medizinische Versorgung der betreuten Menschen in Deutschland schaffen. Zukünftig stehen dann alle wichtigen Gesundheitsdokumente mit der ePA an einem zentralen Ort sicher und digital für die notwendige medizinische Behandlung von Betreuten bereit. Ab dem 15.01.2025 werden alle gesetzlichen Kranken- und Pflegekassen - wie gesetzlich vorgeschrieben - für ihre Versicherten nach und nach die ePa anlegen, wenn von den Betreuern nicht fristgerecht widersprochen wurde.\n\nDer Datenschutz für die besonders sensiblen Gesundheitsdaten genießt in Deutschland höchste Priorität. Nur die Versicherten selbst und ihre ausgewählten Personen als Betreuer und/oder Angehörige, Gesundheitseinrichtungen oder Gesundheitsanwendungen, die autorisiert wurden, können auf die Dokumente in der ePA in Zukunft zugreifen. Die Zugriffsberechtigungen können jederzeit angepasst oder widerrufen werden. Die Widerspruchsfrist für Betreuer endete am 15.01.2025.\n\nDie deutsche elektronische Patientenakte ist im fünften Buch des Sozialgesetzbuchs (SGB V) ab § 341 SGB V gesetzlich geregelt. Der zukünftige elektronische Medikationsplan wird in § 31a SGB V gesetzlich geregelt.",
+      "tags": [
+        "elektronische",
+        "gesetzlich",
+        "patientenakte",
+        "medizinische",
+        "betreuten"
+      ]
+    },
+    {
+      "titel": "grenzüberschreitender Austausch von Gesundheitsdaten",
+      "inhalt": "Gemäß § 359 Abs. 4 SGB V ist der grenzüberschreitende Austausch von Gesundheitsdaten aus der elektronischen Patientenakte zum Zweck der Unterstützung einer konkreten Behandlung des Versicherten durch einen in einem anderen Mitgliedstaat der Europäischen Union zugelassenen Leistungserbringer ausdrücklich vorgesehen. Damit dieser Austausch von Gesundheitsdaten irgendwann problemlos digital über das Internet klappt, wäre Interoperabilität innerhalb der Europäischen Union eine notwendige Bedingung. \n\nAuch zum grenzüberschreitenden Zugriff auf die Daten in der deutschen elektronischen Patientenkurzakte bei einem Notfall wäre die Einwilligung des Versicherten notwendig. Zusätzlich ist erforderlich, dass der Versicherte zum Zeitpunkt der Behandlung den Zugriff der nationalen eHealth-Kontaktstelle des Mitgliedstaats, in dem die Behandlung stattfindet, durch eine eindeutige bestätigende Handlung technisch freigibt.\n\nSo soll in den nächsten Jahren ein europäischer Gesundheitsdatenraum (European Health Data Space, EHDS) geschaffen werden.",
+      "tags": [
+        "behandlung",
+        "austausch",
+        "gesundheitsdaten",
+        "elektronischen",
+        "versicherten"
+      ]
+    },
+    {
+      "titel": "Weblinks",
+      "inhalt": "Vortrag Dr. Stefan Streit zur ePA\n Informationen der Kassenärztlichen Bundesvereinigung zur ePA\n Informationen des Bundesgesundheitsministeriums zur ePA\n ePA-Verwaltung auf dem Personalcomputer\n Bundesplattform zur elektronischen Patientenakte (ePA)",
+      "tags": [
+        "informationen",
+        "vortrag",
+        "stefan",
+        "streit",
+        "kassenärztlichen"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Datenschutz\n Interoperabilität\n Zugriffsrecht\n Organspende\n Personalausweis\n Selbstbestimmung\n Medikationsplan\n E-Rezept\n natürlicher Wille\n Angehörigenvertretungsrecht\n Grundrechte\n Diskriminierungsverbot\n Digitale Barrierefreiheit\n Heilbehandlung\n Dokumentationspflicht\n Psychisch-Kranken-Gesetz\n Vulnerabilität\n Unterstützungspflicht\n Genehmigung der Heilbehandlung\n Zwangsbehandlung\n Gesundheitssorge\n Checkliste Gesundheitssorge\n Erörterungsgespräch\n Patientenverfügung\n Arztzeugnis\n MDK-Gutachten\n Sachverständigengutachten\n Sachkundenachweis",
+      "tags": [
+        "heilbehandlung",
+        "gesundheitssorge",
+        "datenschutz",
+        "interoperabilität",
+        "zugriffsrecht"
+      ]
+    }
+  ],
   "zusammenfassung": "Die elektronische Patientenakte (ePA) soll ab 2025 bessere Voraussetzungen für eine vernetzte medizinische Versorgung der betreuten Menschen in Deutschland schaffen. Zukünftig stehen dann alle wichtigen Gesundheitsdokumente mit der ePA an einem zentralen Ort sicher und digital für die notwendige [He...",
   "verwandteArtikel": [
-    "genehmigung-der-heilbehandlung",
-    "grundrechte",
-    "zwangsbehandlung",
-    "gesundheitssorge",
-    "angehörigenvertretungsrecht",
-    "erörterungsgespräch",
-    "medikationsplan",
-    "sachkundenachweis",
-    "mdk-gutachten",
-    "organspende",
-    "dokumentationspflicht",
-    "selbstbestimmung",
-    "betreuer",
     "e-rezept",
-    "diskriminierungsverbot",
-    "sachverständigengutachten",
-    "personalausweis",
-    "heilbehandlung",
-    "arztzeugnis",
-    "vulnerabilität",
-    "checkliste-gesundheitssorge",
-    "patientenverfügung",
-    "zugriffsrecht",
-    "interoperabilität",
-    "digitale-barrierefreiheit",
-    "datenschutz",
-    "psychisch-kranken-gesetz",
-    "widerspruchsrecht",
     "unterstützungspflicht",
-    "natürlicher-wille"
+    "selbstbestimmung",
+    "psychisch-kranken-gesetz",
+    "zugriffsrecht",
+    "sachkundenachweis",
+    "personalausweis",
+    "grundrechte",
+    "arztzeugnis",
+    "heilbehandlung",
+    "zwangsbehandlung",
+    "digitale-barrierefreiheit",
+    "vulnerabilität",
+    "betreuer",
+    "diskriminierungsverbot",
+    "widerspruchsrecht",
+    "genehmigung-der-heilbehandlung",
+    "mdk-gutachten",
+    "checkliste-gesundheitssorge",
+    "natürlicher-wille",
+    "dokumentationspflicht",
+    "datenschutz",
+    "gesundheitssorge",
+    "interoperabilität",
+    "organspende",
+    "sachverständigengutachten",
+    "medikationsplan",
+    "patientenverfügung",
+    "angehörigenvertretungsrecht",
+    "erörterungsgespräch"
   ]
 }

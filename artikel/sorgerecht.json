@@ -2,6 +2,16 @@
   "id": "sorgerecht",
   "titel": "Sorgerecht",
   "inhalt": "redirect [Kindschaftsrecht#Elterliche_Sorge](kindschaftsrecht#elterliche_sorge)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Kindschaftsrecht#Elterliche_Sorge",
+      "tags": [
+        "redirect",
+        "kindschaftsrecht"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Kindschaftsrecht#Elterliche_Sorge](kindschaftsrecht#elterliche_sorge)...",
   "verwandteArtikel": [
     "kindschaftsrecht#elterliche_sorge"

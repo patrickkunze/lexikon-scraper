@@ -2,6 +2,16 @@
   "id": "btregvo",
   "titel": "BtRegVO",
   "inhalt": "redirect [Betreuerregistrierungsverordnung](betreuerregistrierungsverordnung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuerregistrierungsverordnung",
+      "tags": [
+        "redirect",
+        "betreuerregistrierungsverordnung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuerregistrierungsverordnung](betreuerregistrierungsverordnung)...",
   "verwandteArtikel": [
     "betreuerregistrierungsverordnung"

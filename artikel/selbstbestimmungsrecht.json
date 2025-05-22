@@ -2,6 +2,16 @@
   "id": "selbstbestimmungsrecht",
   "titel": "Selbstbestimmungsrecht",
   "inhalt": "redirect [Selbstbestimmung](selbstbestimmung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Selbstbestimmung",
+      "tags": [
+        "redirect",
+        "selbstbestimmung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Selbstbestimmung](selbstbestimmung)...",
   "verwandteArtikel": [
     "selbstbestimmung"

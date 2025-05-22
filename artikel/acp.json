@@ -2,6 +2,17 @@
   "id": "acp",
   "titel": "ACP",
   "inhalt": "redirect [Gesundheitliche Versorgungsplanung](gesundheitliche-versorgungsplanung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Gesundheitliche Versorgungsplanung",
+      "tags": [
+        "redirect",
+        "gesundheitliche",
+        "versorgungsplanung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Gesundheitliche Versorgungsplanung](gesundheitliche-versorgungsplanung)...",
   "verwandteArtikel": [
     "gesundheitliche-versorgungsplanung"

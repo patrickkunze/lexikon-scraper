@@ -2,6 +2,17 @@
   "id": "staatsregress",
   "titel": "Staatsregress",
   "inhalt": "redirect [Regress der Staatskasse](regress-der-staatskasse)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Regress der Staatskasse",
+      "tags": [
+        "redirect",
+        "regress",
+        "staatskasse"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Regress der Staatskasse](regress-der-staatskasse)...",
   "verwandteArtikel": [
     "regress-der-staatskasse"

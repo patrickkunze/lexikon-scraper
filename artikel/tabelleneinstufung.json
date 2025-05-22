@@ -2,6 +2,18 @@
   "id": "tabelleneinstufung",
   "titel": "Tabelleneinstufung",
   "inhalt": "redirect [Stundensatz](stundensatz)\n\n[Kategorie:Betreuerentschädigung](kategorie:betreuerentschädigung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Stundensatz\n\nKategorie:Betreuerentschädigung",
+      "tags": [
+        "redirect",
+        "stundensatz",
+        "kategorie",
+        "betreuerentschädigung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Stundensatz](stundensatz)\n\n[Kategorie:Betreuerentschädigung](kategorie:betreuerentschädigung)...",
   "verwandteArtikel": [
     "stundensatz",

@@ -2,6 +2,17 @@
   "id": "ehrenamt",
   "titel": "Ehrenamt",
   "inhalt": "redirect [Betreuer (Ehrenamt)](betreuer-(ehrenamt))",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuer (Ehrenamt)",
+      "tags": [
+        "redirect",
+        "betreuer",
+        "ehrenamt"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuer (Ehrenamt)](betreuer-(ehrenamt))...",
   "verwandteArtikel": [
     "betreuer-(ehrenamt)"

@@ -2,6 +2,16 @@
   "id": "egh",
   "titel": "EGH",
   "inhalt": "redirect [Eingliederungshilfe](eingliederungshilfe)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Eingliederungshilfe",
+      "tags": [
+        "redirect",
+        "eingliederungshilfe"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Eingliederungshilfe](eingliederungshilfe)...",
   "verwandteArtikel": [
     "eingliederungshilfe"

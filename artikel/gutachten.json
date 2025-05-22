@@ -2,6 +2,16 @@
   "id": "gutachten",
   "titel": "Gutachten",
   "inhalt": "redirect [Sachverständigengutachten](sachverständigengutachten)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Sachverständigengutachten",
+      "tags": [
+        "redirect",
+        "sachverständigengutachten"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Sachverständigengutachten](sachverständigengutachten)...",
   "verwandteArtikel": [
     "sachverständigengutachten"

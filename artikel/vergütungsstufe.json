@@ -2,6 +2,16 @@
   "id": "vergütungsstufe",
   "titel": "Vergütungsstufe",
   "inhalt": "redirect [Stundensatz](stundensatz)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Stundensatz",
+      "tags": [
+        "redirect",
+        "stundensatz"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Stundensatz](stundensatz)...",
   "verwandteArtikel": [
     "stundensatz"

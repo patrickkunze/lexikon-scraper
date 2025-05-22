@@ -2,6 +2,16 @@
   "id": "pflichten",
   "titel": "Pflichten",
   "inhalt": "redirect [Betreuerpflichten](betreuerpflichten)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuerpflichten",
+      "tags": [
+        "redirect",
+        "betreuerpflichten"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuerpflichten](betreuerpflichten)...",
   "verwandteArtikel": [
     "betreuerpflichten"

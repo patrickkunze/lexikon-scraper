@@ -2,6 +2,16 @@
   "id": "verbraucherinsolvenz",
   "titel": "Verbraucherinsolvenz",
   "inhalt": "redirect [Zwangsvollstreckung](zwangsvollstreckung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Zwangsvollstreckung",
+      "tags": [
+        "redirect",
+        "zwangsvollstreckung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Zwangsvollstreckung](zwangsvollstreckung)...",
   "verwandteArtikel": [
     "zwangsvollstreckung"

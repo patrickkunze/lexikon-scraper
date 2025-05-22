@@ -2,6 +2,16 @@
   "id": "vgt",
   "titel": "VGT",
   "inhalt": "redirect [Betreuungsgerichtstag](betreuungsgerichtstag)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuungsgerichtstag",
+      "tags": [
+        "redirect",
+        "betreuungsgerichtstag"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuungsgerichtstag](betreuungsgerichtstag)...",
   "verwandteArtikel": [
     "betreuungsgerichtstag"

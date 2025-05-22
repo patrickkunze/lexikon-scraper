@@ -2,6 +2,16 @@
   "id": "attest",
   "titel": "Attest",
   "inhalt": "redirect [Arztzeugnis](arztzeugnis)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Arztzeugnis",
+      "tags": [
+        "redirect",
+        "arztzeugnis"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Arztzeugnis](arztzeugnis)...",
   "verwandteArtikel": [
     "arztzeugnis"

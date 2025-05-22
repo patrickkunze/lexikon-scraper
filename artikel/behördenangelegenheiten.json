@@ -2,6 +2,19 @@
   "id": "behördenangelegenheiten",
   "titel": "Behördenangelegenheiten",
   "inhalt": "redirect [Vertretung gegenüber Behörden](vertretung-gegenüber-behörden)\n\n[Kategorie:Aufgabenkreise](kategorie:aufgabenkreise)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Vertretung gegenüber Behörden\n\nKategorie:Aufgabenkreise",
+      "tags": [
+        "redirect",
+        "vertretung",
+        "gegenüber",
+        "behörden",
+        "kategorie"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Vertretung gegenüber Behörden](vertretung-gegenüber-behörden)\n\n[Kategorie:Aufgabenkreise](kategorie:aufgabenkreise)...",
   "verwandteArtikel": [
     "vertretung-gegenüber-behörden",

@@ -2,6 +2,18 @@
   "id": "egvp",
   "titel": "EGVP",
   "inhalt": "redirect [Elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Elektronisches Gerichts- und Verwaltungspostfach",
+      "tags": [
+        "redirect",
+        "elektronisches",
+        "gerichts",
+        "verwaltungspostfach"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach)...",
   "verwandteArtikel": [
     "elektronisches-gerichts--und-verwaltungspostfach"

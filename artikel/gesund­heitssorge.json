@@ -2,6 +2,16 @@
   "id": "gesund­heitssorge",
   "titel": "Gesund­heitssorge",
   "inhalt": "redirect [Gesundheitsfürsorge](gesundheitsfürsorge)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Gesundheitsfürsorge",
+      "tags": [
+        "redirect",
+        "gesundheitsfürsorge"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Gesundheitsfürsorge](gesundheitsfürsorge)...",
   "verwandteArtikel": [
     "gesundheitsfürsorge"

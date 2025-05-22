@@ -2,6 +2,15 @@
   "id": "kontrollbetreuung",
   "titel": "Kontrollbetreuung",
   "inhalt": "redirect[Kontrollbetreuer](kontrollbetreuer)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirectKontrollbetreuer",
+      "tags": [
+        "redirectkontrollbetreuer"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect[Kontrollbetreuer](kontrollbetreuer)...",
   "verwandteArtikel": [
     "kontrollbetreuer"

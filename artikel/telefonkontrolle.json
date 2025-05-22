@@ -2,6 +2,16 @@
   "id": "telefonkontrolle",
   "titel": "Telefonkontrolle",
   "inhalt": "redirect [Telefonverkehr](telefonverkehr)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Telefonverkehr",
+      "tags": [
+        "redirect",
+        "telefonverkehr"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Telefonverkehr](telefonverkehr)...",
   "verwandteArtikel": [
     "telefonverkehr"

@@ -2,6 +2,15 @@
   "id": "immobilie",
   "titel": "Immobilie",
   "inhalt": "redirect[Grundstück](grundstück)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirectGrundstück",
+      "tags": [
+        "redirectgrundstück"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect[Grundstück](grundstück)...",
   "verwandteArtikel": [
     "grundstück"

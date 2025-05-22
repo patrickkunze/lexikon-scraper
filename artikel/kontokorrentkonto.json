@@ -2,6 +2,16 @@
   "id": "kontokorrentkonto",
   "titel": "Kontokorrentkonto",
   "inhalt": "redirect [Girokonto](girokonto)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Girokonto",
+      "tags": [
+        "redirect",
+        "girokonto"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Girokonto](girokonto)...",
   "verwandteArtikel": [
     "girokonto"

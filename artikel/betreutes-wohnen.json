@@ -2,17 +2,74 @@
   "id": "betreutes-wohnen",
   "titel": "Betreutes Wohnen",
   "inhalt": "Allgemeines\nDas sogenannte Betreute Wohnen sollte zur juristischen Klarstellung besser Service-Wohnen genannt werden, denn mit rechtlicher Betreuung haben diese Wohnformen juristisch nichts zu tun. Sie haben sich aus den lebenspraktischen Notlagen bestimmter Menschengruppen vor allem in kirchlichen Gemeinden entwickelt. Erste diakonisch oder caritativ betreute Wohnformen in Deutschland waren die Mutter-Kind-Heime für Ledige und die [Altenheim](altenheim)e für Alleinstehende. Die christliche Solidargemeinschaft (der Nonnen oder Diakonissen) ersetzte für diese Menschen die fehlenden betreuenden Familienmitglieder. Betreute Wohnformen in der Kinder- und Jugendhilfe werden heute im säkularisierten Deutschland in den §§ 19, 34 und 48a SGB VIII gesetzlich geregelt (gemeinsame Wohnformen für Mütter/Väter und Kinder; Heimerziehung; sonstige betreute Wohnformen für Minderjährige).\n\nMietvertragsgestaltung\nBeim Service-Wohnen werden in den Mietverträgen notwendige haushaltsnahe Dienstleistungen mitangeboten. Dazu gehören regelmäßig ein Reinigungs- und Hausmeisterservice, ein Hausnotruf, eine feste Ansprechperson in der Hausverwaltung sowie der Vermittlungsdienst für Pflegeleistungen gemäß den Bedürfnissen der Bewohnenden. Häufige Bedarfe der haushaltsnah zu betreuenden Bewohnenden sind die Haushaltshilfen (auch für Einkäufe), die Bringdienste für regelmäßige warme Mahlzeiten, ambulante Krankenpflege- sowie Fuß- und Haarpflegedienste. Die Dienstverträge mit diesen Anbietern werden immer zusätzlich und separat durch die Bewohnenden selbst abgeschlossen und privat durch sie bezahlt. Der Vermieter der örtlich betreuten Wohnform gilt juristisch nicht als eine Vertragspartei dieser Dienstverträge. Den marktwirtschaftlichen Wettbewerb der örtlichen Diensteanbieter können solche Vermieter jedoch durch ihr Hausrecht stark beeinflussen. \n\nBetreueraufgaben\nDer richtige Abgleich zwischen den möglichen Bedürfnissen des (süchtigen) Betreuten im Betreuten Wohnen und den tatsächlichen Bedarfen des kranken Menschen gehört zu den schwierigeren Aufgaben des Betreuers nach Einführung der [Unterstützte Entscheidungsfindung](unterstützte-entscheidungsfindung). \n\nSiehe auch\n [Wohnungsangelegenheiten](wohnungsangelegenheiten)\n [VBVG-Rechtsprechung](vbvg-rechtsprechung)\n [Wohn- und Betreuungsvertragsgesetz](wohn--und-betreuungsvertragsgesetz)\n [Unterstützungspflicht](unterstützungspflicht)\n [Erziehungsmaßregeln](erziehungsmaßregeln)\n [Verbraucherstreitbeilegung](verbraucherstreitbeilegung)\n [Heimmitarbeiter als Betreuer](heimmitarbeiter-als-betreuer)\n [Schwerbehindertenausweis](schwerbehindertenausweis)\n [Altenheim](altenheim)\n\nWeblinks\n Bundesplattform für Betreutes Wohnen\n \"Weraheim\" als Betreutes Wohnen für Mutter und Kind seit 1909",
+  "struktur": [
+    {
+      "titel": "Allgemeines",
+      "inhalt": "Das sogenannte Betreute Wohnen sollte zur juristischen Klarstellung besser Service-Wohnen genannt werden, denn mit rechtlicher Betreuung haben diese Wohnformen juristisch nichts zu tun. Sie haben sich aus den lebenspraktischen Notlagen bestimmter Menschengruppen vor allem in kirchlichen Gemeinden entwickelt. Erste diakonisch oder caritativ betreute Wohnformen in Deutschland waren die Mutter-Kind-Heime für Ledige und die Altenheime für Alleinstehende. Die christliche Solidargemeinschaft (der Nonnen oder Diakonissen) ersetzte für diese Menschen die fehlenden betreuenden Familienmitglieder. Betreute Wohnformen in der Kinder- und Jugendhilfe werden heute im säkularisierten Deutschland in den §§ 19, 34 und 48a SGB VIII gesetzlich geregelt (gemeinsame Wohnformen für Mütter/Väter und Kinder; Heimerziehung; sonstige betreute Wohnformen für Minderjährige).",
+      "tags": [
+        "wohnformen",
+        "betreute",
+        "wohnen",
+        "haben",
+        "diese"
+      ]
+    },
+    {
+      "titel": "Mietvertragsgestaltung",
+      "inhalt": "Beim Service-Wohnen werden in den Mietverträgen notwendige haushaltsnahe Dienstleistungen mitangeboten. Dazu gehören regelmäßig ein Reinigungs- und Hausmeisterservice, ein Hausnotruf, eine feste Ansprechperson in der Hausverwaltung sowie der Vermittlungsdienst für Pflegeleistungen gemäß den Bedürfnissen der Bewohnenden. Häufige Bedarfe der haushaltsnah zu betreuenden Bewohnenden sind die Haushaltshilfen (auch für Einkäufe), die Bringdienste für regelmäßige warme Mahlzeiten, ambulante Krankenpflege- sowie Fuß- und Haarpflegedienste. Die Dienstverträge mit diesen Anbietern werden immer zusätzlich und separat durch die Bewohnenden selbst abgeschlossen und privat durch sie bezahlt. Der Vermieter der örtlich betreuten Wohnform gilt juristisch nicht als eine Vertragspartei dieser Dienstverträge. Den marktwirtschaftlichen Wettbewerb der örtlichen Diensteanbieter können solche Vermieter jedoch durch ihr Hausrecht stark beeinflussen.",
+      "tags": [
+        "bewohnenden",
+        "sowie",
+        "dienstverträge",
+        "vermieter",
+        "beim"
+      ]
+    },
+    {
+      "titel": "Betreueraufgaben",
+      "inhalt": "Der richtige Abgleich zwischen den möglichen Bedürfnissen des (süchtigen) Betreuten im Betreuten Wohnen und den tatsächlichen Bedarfen des kranken Menschen gehört zu den schwierigeren Aufgaben des Betreuers nach Einführung der Unterstützten Entscheidungsfindung.",
+      "tags": [
+        "betreuten",
+        "richtige",
+        "abgleich",
+        "zwischen",
+        "möglichen"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Wohnungsangelegenheiten\n VBVG-Rechtsprechung\n Wohn- und Betreuungsvertragsgesetz\n Unterstützungspflicht\n Erziehungsmaßregeln\n Verbraucherstreitbeilegung\n Heimmitarbeiter als Betreuer\n Schwerbehindertenausweis\n Altenheim",
+      "tags": [
+        "wohnungsangelegenheiten",
+        "vbvg",
+        "rechtsprechung",
+        "wohn",
+        "betreuungsvertragsgesetz"
+      ]
+    },
+    {
+      "titel": "Weblinks",
+      "inhalt": "Bundesplattform für Betreutes Wohnen\n \"Weraheim\" als Betreutes Wohnen für Mutter und Kind seit 1909",
+      "tags": [
+        "betreutes",
+        "wohnen",
+        "bundesplattform",
+        "weraheim",
+        "mutter"
+      ]
+    }
+  ],
   "zusammenfassung": "Allgemeines\nDas sogenannte Betreute Wohnen sollte zur juristischen Klarstellung besser Service-Wohnen genannt werden, denn mit rechtlicher Betreuung haben diese Wohnformen juristisch nichts zu tun. Sie haben sich aus den lebenspraktischen Notlagen bestimmter Menschengruppen vor allem in kirchlichen ...",
   "verwandteArtikel": [
-    "altenheim",
-    "wohnungsangelegenheiten",
-    "unterstützte-entscheidungsfindung",
     "erziehungsmaßregeln",
-    "schwerbehindertenausweis",
-    "wohn--und-betreuungsvertragsgesetz",
-    "verbraucherstreitbeilegung",
-    "unterstützungspflicht",
     "vbvg-rechtsprechung",
-    "heimmitarbeiter-als-betreuer"
+    "unterstützungspflicht",
+    "unterstützte-entscheidungsfindung",
+    "verbraucherstreitbeilegung",
+    "wohn--und-betreuungsvertragsgesetz",
+    "heimmitarbeiter-als-betreuer",
+    "altenheim",
+    "schwerbehindertenausweis",
+    "wohnungsangelegenheiten"
   ]
 }

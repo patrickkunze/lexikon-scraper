@@ -2,10 +2,22 @@
   "id": "betreuertest",
   "titel": "Betreuertest",
   "inhalt": "redirect[Test](test)\n\n[Kategorie:Arbeitshilfen](kategorie:arbeitshilfen)\n[Kategorie:Berufsbetreuer](kategorie:berufsbetreuer)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirectTest\n\nKategorie:Arbeitshilfen\nKategorie:Berufsbetreuer",
+      "tags": [
+        "kategorie",
+        "redirecttest",
+        "arbeitshilfen",
+        "berufsbetreuer"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect[Test](test)\n\n[Kategorie:Arbeitshilfen](kategorie:arbeitshilfen)\n[Kategorie:Berufsbetreuer](kategorie:berufsbetreuer)...",
   "verwandteArtikel": [
+    "kategorie:arbeitshilfen",
     "test",
-    "kategorie:berufsbetreuer",
-    "kategorie:arbeitshilfen"
+    "kategorie:berufsbetreuer"
   ]
 }

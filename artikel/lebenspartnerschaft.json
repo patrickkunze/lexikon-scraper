@@ -2,6 +2,18 @@
   "id": "lebenspartnerschaft",
   "titel": "Lebenspartnerschaft",
   "inhalt": "redirect [Eherecht und Betreuung#Lebenspartnerschaft](eherecht-und-betreuung#lebenspartnerschaft)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Eherecht und Betreuung#Lebenspartnerschaft",
+      "tags": [
+        "redirect",
+        "eherecht",
+        "betreuung",
+        "lebenspartnerschaft"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Eherecht und Betreuung#Lebenspartnerschaft](eherecht-und-betreuung#lebenspartnerschaft)...",
   "verwandteArtikel": [
     "eherecht-und-betreuung#lebenspartnerschaft"

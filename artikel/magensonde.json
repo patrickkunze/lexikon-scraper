@@ -2,6 +2,16 @@
   "id": "magensonde",
   "titel": "Magensonde",
   "inhalt": "redirect [PEG-Sonde](peg-sonde)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect PEG-Sonde",
+      "tags": [
+        "redirect",
+        "sonde"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [PEG-Sonde](peg-sonde)...",
   "verwandteArtikel": [
     "peg-sonde"

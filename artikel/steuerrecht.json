@@ -2,6 +2,16 @@
   "id": "steuerrecht",
   "titel": "Steuerrecht",
   "inhalt": "redirect [Finanzamt](finanzamt)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Finanzamt",
+      "tags": [
+        "redirect",
+        "finanzamt"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Finanzamt](finanzamt)...",
   "verwandteArtikel": [
     "finanzamt"

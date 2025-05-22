@@ -2,13 +2,168 @@
   "id": "spielwiese",
   "titel": "Spielwiese",
   "inhalt": "Kapitelüberschrift 1. Ebene\n\nDiese Seite ist für neue Bearbeiter/innen, die das Wiki-Prinzip üben wollen. Bitte fühlen Sie sich frei, Beliebiges einzufügen, zu löschen oder sonst zu verändern. Vor einer Bearbeitung müssen Sie sich mit selbst gewähltem Benutzernamen und Passwort anmelden (rechts oben bei der Desktop-Version), danach sehen Sie sowohl in der Menüleiste einen \"Bearbeiten\"-Eintrag als auch vor den einzelnen Kapiteln. Der Eintrag in der Menüleiste zeigt den gesamten Text in der Bearbeitungsansicht an, die unteren nur jeweils das Kapitel. Alle Änderungen sind sofort nach dem Speichern (unten links) online; lassen sich jedoch auch problemlos wieder rückgängig machen. Das Inhaltsverzeichnis oben wird automatisch erstellt, wenn Kapitel erstellt werden.\n\nKapitelüberschrift, 2. Ebene (Kurzerklärung)\n\nKapitelüberschrift 3. Ebene (Listen)\nDie Bearbeitungen erfolgen in einer Art vereinfachten Texteditor. Nachstehend sehen Sie einige Formatierungsbeispiele. Wie der Code aussieht, sehen Sie, wenn Sie auf \"Bearbeiten\" klicken.\n\nUnnummerierte Liste 1. Eintrag\nUnnummerierte Liste 2. Eintrag\nUnnummerierte Liste 3. Eintrag\nUnnummerierte Liste 4. Eintrag\n\nNummerierte Liste\nNummerierte Liste\nNummerierte Liste\n\nKapitelüberschrift 3. Ebene (Textformate)\n\nDas ist ein Text in fetter Schrift. Das ist ein Text in kursiver Schrift. Und das ist fett und kursiv zugleich.\n\nSie sehen, dass bei Überschriften und Textattributen die Steuerzeichen jeweils vor und hinter dem betreffenden Text stehen müssen, bei Listen reicht das Steuerzeichen davor. Die Steuerzeichen werden auf der Tastatur mit shift und # erzeugt.\n\nDANKE \n\nParagraphen und Rechtsprechungshinweise (Aktenzeichen oder Zeitschriftenfundstellen) können Sie als Fließtext schreiben. Der Link wird automatisch gesetzt. Beispiel: XII ZB 336/17 oder FamRZ 2021, 1236. Sie können also (nach dem Speichern) auf das Aktenzeichen oder die Fundstelle klicken. Sie werden auf eine Seite bei dejure.org weitergeleitet. Dort gibt es dann die Volltexte.\n\nKapitelüberschrift 3. Ebene (Automatische Links)\n\nDas ist § 1814 BGB (so wird stets auf die neue Fassung ab 1.1.23 verlinkt). \n\nAusdrücklich auf alte §§ verlinken, ist leider komplizierter: § 1896 BGB a.F.\n\n§ 1896 BGB\n\nEinige Gesetze sind (noch) nicht in de jure.org, zB das BtOG und das neue VBVG.\n\nOLG Koblenz Urt v 13.2.2014, 6 U 747/13, BtPrax 2014, 96 = FamRZ 2014, 1483\n\nAus § 275 FamFG folgt, dass der Betroffene in Betreuungssachen einen Rechtsanwalt auch dann wirksam mit der anwaltlichen Vertretung beauftragen kann (§ 675 BGB), wenn nach materiellem Recht der Anwaltsvertrag wegen Fehlens der Geschäftsfähigkeit oder Anordnung eines Einwilligungsvorbehalts nicht wirksam geschlossen werden könnte.\n\nDie blau hervorgehobenen Textteile sind Links, denen man durch Anklicken folgen kann.\n\nWie setze ich aber einen neuen Link oder bearbeite den alten? § 1896 BGB § 1821 BGB 2023 einfach nur eingeben. Cool\n\nKapitelüberschrift 3. Ebene (interne und externe Links)\n\nDas ist ein Beispiel für einen internen Link, also eine andere Seite im Lexikon: [Betreuungsrechtsreform](betreuungsrechtsreform). Damit der Link funktioniert, muss die verlinkte Seite vorhanden sein. Welche Seite es gibt, kann man anhand der Liste oben links \"Inhalt von A_Z\" nachschauen. Der Fettdruck ist hier nur der besseren Erkennbarkeit gesetzt, es sind eigentlich nur die eckigen Klammern nötig. Die eckigen Klammern erzeugt man mit ALT-GR und 8 bzw 9.\n\nUm auf eine Seite in der \"echten\" Wikipedia zu verlinken, schauen Sie hier: [wikipedia:de:Rechtssubjekt](wikipedia:de:rechtssubjekt). Hier sehen Sie, dass der Text, den der Leser sehen soll, hinter ein Zeichen | (Pipe) muss. Das Zeichen erzeugt man mit ALT-GR und <. \n\nDas kann auch bei internen Links nötig sein, wenn Sie einen anderen Ausdruck verwenden, als der Seitenname lautet: [unterbringungsähnliche Maßnahme](unterbringungsähnliche-maßnahme). Vor der Pipe steht der Name des Artikels, hinter der Pipe das, was der Leser sieht.\n\nDas kann auch nötig werden, wenn Sie in einem Fließtext zB den Plural benutzen, der Name der verlinkten Seite aber im Singular steht, zB [Berufsbetreuer](berufsbetreuer).\n\nExterne Links, zB auf HTML- oder PDF-Seiten sehen etwas anders aus. Es gibt vorne und hinten nur eine eckige Klammer. Zuerst steht die Internetadresse, dann ein Leerzeichen, dann der Text, den der Leser sehen soll:\n\nÄrztliches Zeugnis für Betreuungsanregung (PDF)\n\nWenn Sie auf eine mehrseitige PDF verweisen, können Sie auch gezielt auf eine bestimmte Seite in der PDF verlinken (was aber nicht von jedem Browser korrekt angezeigt wird):\n\nKort: Qualifizierte Sozialgutachten; Betrifft:Betreuung Nr. 9, S. 95 (PDF)\n\nTest WIKI-Link: [wikipedia:de:Placebo (Band)](wikipedia:de:placebo-(band))\n\nKapitelüberschrift 2. Ebene\n\nProbieren Sie doch beliebige Sachen im Folgenden aus, Speichern Sie die Änderung und schauen sich das Ergebnis an.\n\nDie Ehegattennotvertretung ist in 1358 BGB geregelt. Das geht einfacher: § 1358 BGB.\n\nKapitelüberschrift 3. Ebene\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n\nKapitelüberschrift 3. Ebene\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n\nKapitelüberschrift 3. Ebene\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n\nInfobox\n\nTest mit Mediawiki Table (s. Infobox rechts)\n\n Basisdaten Volltitel:  Gesetz über die Wahrnehmung behördlicher Aufgaben bei der Betreuung Volljähriger Kurztitel:  Betreuungsbehördengesetz Abkürzung:  BtBG Art:  Bundesgesetz Geltungsbereich:  Bundesrepublik Deutschland Rechtsmaterie:  Betreuungsrecht  Fundstellennachweis:  404-24 Datum des Gesetzes:   12.09.1990 (BGBl. I S. 2002, 2025) Inkrafttreten:   01.01.1992 Letzte Änderung:  Gesetz vom 17.7.2017(BGBl. I S. 2426) Außerkrafttreten: 31.12.2022\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quae fere omnia appellantur uno ingenii nomine, easque virtutes qui habent, ingeniosi vocantur. Si longus, levis. Quid igitur dubitamus in tota eius natura quaerere quid sit effectum? In qua si nihil est praeter rationem, sit in una virtute finis bonorum; Piso igitur hoc modo, vir optimus tuique, ut scis, amantissimus. Et nemo nimium beatus est; Erit enim instructus ad mortem contemnendam, ad exilium, ad ipsum etiam dolorem. Quae sunt igitur communia vobis cum antiquis, iis sic utamur quasi concessis; Duo Reges: constructio interrete. -, sed ut hoc iudicaremus, non esse in iis partem maximam positam beate aut secus vivendi. \n\nQuod quidem iam fit etiam in Academia. Quod autem meum munus dicis non equidem recuso, sed te adiungo socium. Quonam modo? Ut scias me intellegere, primum idem esse dico voluptatem, quod ille don. Quid enim de amicitia statueris utilitatis causa expetenda vides. Negat esse eam, inquit, propter se expetendam. Laelius clamores sofòw ille so lebat Edere compellans gumias ex ordine nostros. Sed ad haec, nisi molestum est, habeo quae velim. Sic enim censent, oportunitatis esse beate vivere. Varietates autem iniurasque fortunae facile veteres philosophorum praeceptis instituta vita superabat. Unum est sine dolore esse, alterum cum voluptate.\n\nAusklappbare Elemente\n\nDieser Text ist nicht einklappbar, aber der Nächste ist einklappbar und standardmäßig versteckt:\nDieser Text sollte standardmäßig versteckt sein.\n\nExterne Bilder\n\nWeitere Erklärungen\n\nIn der Hilfeseite der \"echten\" Wikipedia: https://de.wikipedia.org/wiki/Hilfe:Bearbeitungshilfe\n\nBeim Online-Lexikon [Neu](neu) mitmachen\nWenn Sie mitmachen wollen, sind Sie herzlich eingeladen;  bitte dann eine email an  den Lexikonautor (hier klicken)\n\nHier steht Text für allen Änderungen die fertig sind.\n\nFür alle neuen AutorInnen:\n\nWenn Sie eine Seite bearbeitet haben, bitte ganz an den Anfang folgenden Satz einfügen:\n\nAchtung: diese Seite ist bezüglich der Paragraphen an die Rechtslage ab 1.1.23 angepasst; die inhaltliche Überarbeitung steht noch aus.\n\noder:\n\nAchtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst.",
+  "struktur": [
+    {
+      "titel": "Kapitelüberschrift 1. Ebene",
+      "inhalt": "Diese Seite ist für neue Bearbeiter/innen, die das Wiki-Prinzip üben wollen. Bitte fühlen Sie sich frei, Beliebiges einzufügen, zu löschen oder sonst zu verändern. Vor einer Bearbeitung müssen Sie sich mit selbst gewähltem Benutzernamen und Passwort anmelden (rechts oben bei der Desktop-Version), danach sehen Sie sowohl in der Menüleiste einen \"Bearbeiten\"-Eintrag als auch vor den einzelnen Kapiteln. Der Eintrag in der Menüleiste zeigt den gesamten Text in der Bearbeitungsansicht an, die unteren nur jeweils das Kapitel. Alle Änderungen sind sofort nach dem Speichern (unten links) online; lassen sich jedoch auch problemlos wieder rückgängig machen. Das Inhaltsverzeichnis oben wird automatisch erstellt, wenn Kapitel erstellt werden.",
+      "tags": [
+        "oben",
+        "menüleiste",
+        "eintrag",
+        "kapitel",
+        "erstellt"
+      ]
+    },
+    {
+      "titel": "Kapitelüberschrift, 2. Ebene (Kurzerklärung)",
+      "inhalt": "",
+      "tags": []
+    },
+    {
+      "titel": "Kapitelüberschrift 3. Ebene (Listen)",
+      "inhalt": "Die Bearbeitungen erfolgen in einer Art vereinfachten Texteditor. Nachstehend sehen Sie einige Formatierungsbeispiele. Wie der Code aussieht, sehen Sie, wenn Sie auf \"Bearbeiten\" klicken.\n\nUnnummerierte Liste 1. Eintrag\nUnnummerierte Liste 2. Eintrag\nUnnummerierte Liste 3. Eintrag\nUnnummerierte Liste 4. Eintrag\n\nNummerierte Liste\nNummerierte Liste\nNummerierte Liste",
+      "tags": [
+        "liste",
+        "unnummerierte",
+        "eintrag",
+        "nummerierte",
+        "sehen"
+      ]
+    },
+    {
+      "titel": "Kapitelüberschrift 3. Ebene (Textformate)",
+      "inhalt": "Das ist ein Text in fetter Schrift. Das ist ein Text in kursiver Schrift. Und das ist fett und kursiv zugleich.\n\nSie sehen, dass bei Überschriften und Textattributen die Steuerzeichen jeweils vor und hinter dem betreffenden Text stehen müssen, bei Listen reicht das Steuerzeichen davor. Die Steuerzeichen werden auf der Tastatur mit shift und # erzeugt.\n\nDANKE \n\nParagraphen und Rechtsprechungshinweise (Aktenzeichen oder Zeitschriftenfundstellen) können Sie als Fließtext schreiben. Der Link wird automatisch gesetzt. Beispiel: XII ZB 336/17 oder FamRZ 2021, 1236. Sie können also (nach dem Speichern) auf das Aktenzeichen oder die Fundstelle klicken. Sie werden auf eine Seite bei dejure.org weitergeleitet. Dort gibt es dann die Volltexte.",
+      "tags": [
+        "text",
+        "steuerzeichen",
+        "schrift",
+        "aktenzeichen",
+        "können"
+      ]
+    },
+    {
+      "titel": "Kapitelüberschrift 3. Ebene (Automatische Links)",
+      "inhalt": "Das ist § 1814 BGB (so wird stets auf die neue Fassung ab 1.1.23 verlinkt). \n\nAusdrücklich auf alte §§ verlinken, ist leider komplizierter: § 1896 BGB a.F.\n\n§ 1896 BGB\n\nEinige Gesetze sind (noch) nicht in de jure.org, zB das BtOG und das neue VBVG.\n\nOLG Koblenz Urt v 13.2.2014, 6 U 747/13, BtPrax 2014, 96 = FamRZ 2014, 1483\n\nAus § 275 FamFG folgt, dass der Betroffene in Betreuungssachen einen Rechtsanwalt auch dann wirksam mit der anwaltlichen Vertretung beauftragen kann (§ 675 BGB), wenn nach materiellem Recht der Anwaltsvertrag wegen Fehlens der Geschäftsfähigkeit oder Anordnung eines Einwilligungsvorbehalts nicht wirksam geschlossen werden könnte.\n\nDie blau hervorgehobenen Textteile sind Links, denen man durch Anklicken folgen kann.\n\nWie setze ich aber einen neuen Link oder bearbeite den alten? § 1896 BGB § 1821 BGB 2023 einfach nur eingeben. Cool",
+      "tags": [
+        "neue",
+        "einen",
+        "wirksam",
+        "kann",
+        "wird"
+      ]
+    },
+    {
+      "titel": "Kapitelüberschrift 3. Ebene (interne und externe Links)",
+      "inhalt": "Das ist ein Beispiel für einen internen Link, also eine andere Seite im Lexikon: Betreuungsrechtsreform. Damit der Link funktioniert, muss die verlinkte Seite vorhanden sein. Welche Seite es gibt, kann man anhand der Liste oben links \"Inhalt von A_Z\" nachschauen. Der Fettdruck ist hier nur der besseren Erkennbarkeit gesetzt, es sind eigentlich nur die eckigen Klammern nötig. Die eckigen Klammern erzeugt man mit ALT-GR und 8 bzw 9.\n\nUm auf eine Seite in der \"echten\" Wikipedia zu verlinken, schauen Sie hier: Rechtssubjekt. Hier sehen Sie, dass der Text, den der Leser sehen soll, hinter ein Zeichen | (Pipe) muss. Das Zeichen erzeugt man mit ALT-GR und <. \n\nDas kann auch bei internen Links nötig sein, wenn Sie einen anderen Ausdruck verwenden, als der Seitenname lautet: sonstige freiheitsentziehende Maßnahme. Vor der Pipe steht der Name des Artikels, hinter der Pipe das, was der Leser sieht.\n\nDas kann auch nötig werden, wenn Sie in einem Fließtext zB den Plural benutzen, der Name der verlinkten Seite aber im Singular steht, zB Berufsbetreuerinnen und -betreuer.\n\nExterne Links, zB auf HTML- oder PDF-Seiten sehen etwas anders aus. Es gibt vorne und hinten nur eine eckige Klammer. Zuerst steht die Internetadresse, dann ein Leerzeichen, dann der Text, den der Leser sehen soll:\n\nÄrztliches Zeugnis für Betreuungsanregung (PDF)\n\nWenn Sie auf eine mehrseitige PDF verweisen, können Sie auch gezielt auf eine bestimmte Seite in der PDF verlinken (was aber nicht von jedem Browser korrekt angezeigt wird):\n\nKort: Qualifizierte Sozialgutachten; Betrifft:Betreuung Nr. 9, S. 95 (PDF)\n\nTest WIKI-Link: Einzig wahres Placebo",
+      "tags": [
+        "seite",
+        "sehen",
+        "link",
+        "kann",
+        "links"
+      ]
+    },
+    {
+      "titel": "Kapitelüberschrift 2. Ebene",
+      "inhalt": "Probieren Sie doch beliebige Sachen im Folgenden aus, Speichern Sie die Änderung und schauen sich das Ergebnis an.\n\nDie Ehegattennotvertretung ist in 1358 BGB geregelt. Das geht einfacher: § 1358 BGB.",
+      "tags": [
+        "probieren",
+        "doch",
+        "beliebige",
+        "sachen",
+        "folgenden"
+      ]
+    },
+    {
+      "titel": "Kapitelüberschrift 3. Ebene",
+      "inhalt": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "tags": [
+        "lorem",
+        "ipsum",
+        "dolor",
+        "amet",
+        "diam"
+      ]
+    },
+    {
+      "titel": "Kapitelüberschrift 3. Ebene",
+      "inhalt": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "tags": [
+        "lorem",
+        "ipsum",
+        "dolor",
+        "amet",
+        "diam"
+      ]
+    },
+    {
+      "titel": "Kapitelüberschrift 3. Ebene",
+      "inhalt": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "tags": [
+        "lorem",
+        "ipsum",
+        "dolor",
+        "amet",
+        "diam"
+      ]
+    },
+    {
+      "titel": "Infobox",
+      "inhalt": "Test mit Mediawiki Table (s. Infobox rechts)\n\n Basisdaten Volltitel:  Gesetz über die Wahrnehmung behördlicher Aufgaben bei der Betreuung Volljähriger Kurztitel:  Betreuungsbehördengesetz Abkürzung:  BtBG Art:  Bundesgesetz Geltungsbereich:  Bundesrepublik Deutschland Rechtsmaterie:  Betreuungsrecht  Fundstellennachweis:  404-24 Datum des Gesetzes:   12.09.1990 (BGBl. I S. 2002, 2025) Inkrafttreten:   01.01.1992 Letzte Änderung:  Gesetz vom 17.7.2017(BGBl. I S. 2426) Außerkrafttreten: 31.12.2022\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quae fere omnia appellantur uno ingenii nomine, easque virtutes qui habent, ingeniosi vocantur. Si longus, levis. Quid igitur dubitamus in tota eius natura quaerere quid sit effectum? In qua si nihil est praeter rationem, sit in una virtute finis bonorum; Piso igitur hoc modo, vir optimus tuique, ut scis, amantissimus. Et nemo nimium beatus est; Erit enim instructus ad mortem contemnendam, ad exilium, ad ipsum etiam dolorem. Quae sunt igitur communia vobis cum antiquis, iis sic utamur quasi concessis; Duo Reges: constructio interrete. -, sed ut hoc iudicaremus, non esse in iis partem maximam positam beate aut secus vivendi. \n\nQuod quidem iam fit etiam in Academia. Quod autem meum munus dicis non equidem recuso, sed te adiungo socium. Quonam modo? Ut scias me intellegere, primum idem esse dico voluptatem, quod ille don. Quid enim de amicitia statueris utilitatis causa expetenda vides. Negat esse eam, inquit, propter se expetendam. Laelius clamores sofòw ille so lebat Edere compellans gumias ex ordine nostros. Sed ad haec, nisi molestum est, habeo quae velim. Sic enim censent, oportunitatis esse beate vivere. Varietates autem iniurasque fortunae facile veteres philosophorum praeceptis instituta vita superabat. Unum est sine dolore esse, alterum cum voluptate.",
+      "tags": [
+        "esse",
+        "quae",
+        "quid",
+        "igitur",
+        "enim"
+      ]
+    },
+    {
+      "titel": "Ausklappbare Elemente",
+      "inhalt": "Dieser Text ist nicht einklappbar, aber der Nächste ist einklappbar und standardmäßig versteckt:\nDieser Text sollte standardmäßig versteckt sein.",
+      "tags": [
+        "dieser",
+        "text",
+        "einklappbar",
+        "standardmäßig",
+        "versteckt"
+      ]
+    },
+    {
+      "titel": "Externe Bilder",
+      "inhalt": "",
+      "tags": []
+    },
+    {
+      "titel": "Weitere Erklärungen",
+      "inhalt": "In der Hilfeseite der \"echten\" Wikipedia: https://de.wikipedia.org/wiki/Hilfe:Bearbeitungshilfe",
+      "tags": [
+        "wikipedia",
+        "hilfeseite",
+        "echten",
+        "https",
+        "wiki"
+      ]
+    },
+    {
+      "titel": "Beim Online-Lexikon neu mitmachen",
+      "inhalt": "Wenn Sie mitmachen wollen, sind Sie herzlich eingeladen;  bitte dann eine email an  den Lexikonautor (hier klicken)\n\nHier steht Text für allen Änderungen die fertig sind.\n\nFür alle neuen AutorInnen:\n\nWenn Sie eine Seite bearbeitet haben, bitte ganz an den Anfang folgenden Satz einfügen:\n\nAchtung: diese Seite ist bezüglich der Paragraphen an die Rechtslage ab 1.1.23 angepasst; die inhaltliche Überarbeitung steht noch aus.\n\noder:\n\nAchtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst.",
+      "tags": [
+        "seite",
+        "wenn",
+        "bitte",
+        "hier",
+        "steht"
+      ]
+    }
+  ],
   "zusammenfassung": "Kapitelüberschrift 1. Ebene\n\nDiese Seite ist für neue Bearbeiter/innen, die das Wiki-Prinzip üben wollen. Bitte fühlen Sie sich frei, Beliebiges einzufügen, zu löschen oder sonst zu verändern. Vor einer Bearbeitung müssen Sie sich mit selbst gewähltem Benutzernamen und Passwort anmelden (rechts oben...",
   "verwandteArtikel": [
-    "neu",
+    "berufsbetreuer",
     "wikipedia:de:rechtssubjekt",
-    "betreuungsrechtsreform",
-    "wikipedia:de:placebo-(band)",
     "unterbringungsähnliche-maßnahme",
-    "berufsbetreuer"
+    "betreuungsrechtsreform",
+    "neu",
+    "wikipedia:de:placebo-(band)"
   ]
 }

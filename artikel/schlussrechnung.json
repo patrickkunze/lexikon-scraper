@@ -2,6 +2,16 @@
   "id": "schlussrechnung",
   "titel": "Schlussrechnung",
   "inhalt": "redirect [Schlussrechnungslegung](schlussrechnungslegung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Schlussrechnungslegung",
+      "tags": [
+        "redirect",
+        "schlussrechnungslegung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Schlussrechnungslegung](schlussrechnungslegung)...",
   "verwandteArtikel": [
     "schlussrechnungslegung"

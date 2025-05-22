@@ -2,6 +2,16 @@
   "id": "wohnungskündigung",
   "titel": "Wohnungskündigung",
   "inhalt": "redirect [Wohnungsauflösung](wohnungsauflösung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Wohnungsauflösung",
+      "tags": [
+        "redirect",
+        "wohnungsauflösung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Wohnungsauflösung](wohnungsauflösung)...",
   "verwandteArtikel": [
     "wohnungsauflösung"

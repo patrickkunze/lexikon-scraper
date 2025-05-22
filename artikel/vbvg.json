@@ -2,9 +2,22 @@
   "id": "vbvg",
   "titel": "VBVG",
   "inhalt": "redirect [Vormünder- und Betreuervergütungsgesetz](vormünder--und-betreuervergütungsgesetz)\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Vormünder- und Betreuervergütungsgesetz\n\nKategorie:Rechtsnormen",
+      "tags": [
+        "redirect",
+        "vormünder",
+        "betreuervergütungsgesetz",
+        "kategorie",
+        "rechtsnormen"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Vormünder- und Betreuervergütungsgesetz](vormünder--und-betreuervergütungsgesetz)\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)...",
   "verwandteArtikel": [
-    "kategorie:rechtsnormen",
-    "vormünder--und-betreuervergütungsgesetz"
+    "vormünder--und-betreuervergütungsgesetz",
+    "kategorie:rechtsnormen"
   ]
 }

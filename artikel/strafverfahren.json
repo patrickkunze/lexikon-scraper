@@ -2,6 +2,18 @@
   "id": "strafverfahren",
   "titel": "Strafverfahren",
   "inhalt": "redirect [Strafprozess](strafprozess)\n\n[Kategorie:Aufgabenkreise](kategorie:aufgabenkreise)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Strafprozess\n\nKategorie:Aufgabenkreise",
+      "tags": [
+        "redirect",
+        "strafprozess",
+        "kategorie",
+        "aufgabenkreise"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Strafprozess](strafprozess)\n\n[Kategorie:Aufgabenkreise](kategorie:aufgabenkreise)...",
   "verwandteArtikel": [
     "strafprozess",

@@ -2,6 +2,16 @@
   "id": "zahlen",
   "titel": "Zahlen",
   "inhalt": "redirect [Betreuungszahlen](betreuungszahlen)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuungszahlen",
+      "tags": [
+        "redirect",
+        "betreuungszahlen"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuungszahlen](betreuungszahlen)...",
   "verwandteArtikel": [
     "betreuungszahlen"

@@ -2,6 +2,15 @@
   "id": "betreuungssachen",
   "titel": "Betreuungssachen",
   "inhalt": "redirect[Betreuungsverfahren](betreuungsverfahren)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirectBetreuungsverfahren",
+      "tags": [
+        "redirectbetreuungsverfahren"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect[Betreuungsverfahren](betreuungsverfahren)...",
   "verwandteArtikel": [
     "betreuungsverfahren"

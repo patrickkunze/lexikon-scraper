@@ -2,6 +2,16 @@
   "id": "vollmacht",
   "titel": "Vollmacht",
   "inhalt": "redirect [Vorsorgevollmacht](vorsorgevollmacht)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Vorsorgevollmacht",
+      "tags": [
+        "redirect",
+        "vorsorgevollmacht"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Vorsorgevollmacht](vorsorgevollmacht)...",
   "verwandteArtikel": [
     "vorsorgevollmacht"

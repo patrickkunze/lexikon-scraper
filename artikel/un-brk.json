@@ -2,6 +2,16 @@
   "id": "un-brk",
   "titel": "UN-BRK",
   "inhalt": "redirect [Behindertenkonvention](behindertenkonvention)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Behindertenkonvention",
+      "tags": [
+        "redirect",
+        "behindertenkonvention"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Behindertenkonvention](behindertenkonvention)...",
   "verwandteArtikel": [
     "behindertenkonvention"

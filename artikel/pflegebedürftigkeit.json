@@ -2,6 +2,16 @@
   "id": "pflegebedürftigkeit",
   "titel": "Pflegebedürftigkeit",
   "inhalt": "redirect [Pflegeversicherung](pflegeversicherung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Pflegeversicherung",
+      "tags": [
+        "redirect",
+        "pflegeversicherung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Pflegeversicherung](pflegeversicherung)...",
   "verwandteArtikel": [
     "pflegeversicherung"

@@ -2,6 +2,16 @@
   "id": "btg",
   "titel": "BtG",
   "inhalt": "redirect [Betreuungsgesetz](betreuungsgesetz)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuungsgesetz",
+      "tags": [
+        "redirect",
+        "betreuungsgesetz"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuungsgesetz](betreuungsgesetz)...",
   "verwandteArtikel": [
     "betreuungsgesetz"

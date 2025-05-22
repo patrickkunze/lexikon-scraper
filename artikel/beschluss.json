@@ -2,6 +2,16 @@
   "id": "beschluss",
   "titel": "Beschluss",
   "inhalt": "redirect [Gerichtsbeschluss](gerichtsbeschluss)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Gerichtsbeschluss",
+      "tags": [
+        "redirect",
+        "gerichtsbeschluss"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Gerichtsbeschluss](gerichtsbeschluss)...",
   "verwandteArtikel": [
     "gerichtsbeschluss"

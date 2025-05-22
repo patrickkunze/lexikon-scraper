@@ -2,26 +2,50 @@
   "id": "checkliste-vermögenssorge",
   "titel": "Checkliste Vermögenssorge",
   "inhalt": "Bei Übernahme einer Betreuung mit dem [Aufgabenkreis](aufgabenkreis) [Vermögenssorge](vermögenssorge) sollte der Betreuer folgende Checkliste beachten:\n\n1. Existieren: Girokonten, Sparguthaben, Schließfächer, Wertpapierdepots ? Ermittlung der zuständigen Geldinstitute, Konten-, Schließfach- und Depot-Nummern.\n\n2. Sollen oder müssen Konten gesperrt werden? (nur bei angeordnetem [Einwilligungsvorbehalt](einwilligungsvorbehalt) gemäß § 1825 BGB oder bei sicherer [Geschäftsfähigkeit](geschäftsfähigkeit) möglich, aber nicht unbedingt zwingend erforderlich)\n\n3. [Bankvollmacht](bankvollmacht) unter Vorlage der Bestellungsurkunde erteilen lassen (Bank)\n\n4. existieren weitere Vermögenswerte: Immobilien (ggf. Grundbuchauszug vom Grundbuchamt des Amtsgerichtes besorgen) Schmuck, Antiquitäten?\n\n5. existieren Schulden oder sonstige laufende Zahlungspflichten? Ggf. eine SCHUFA-Selbstauskunft auf den Namen des Betreuten einholen (ca. 8 Euro Gebühr).\n\n6. Feststellung der laufenden Einnahmen nach Art, Höhe und auszahlender Stelle (Aktenzeichen, Versicherungsnummer etc.). Benachrichtigung dieser Stellen über die eingerichtete Betreuung.\n\n7. Vermögensverwaltung sicherstellen Kontoauszüge ordnen, Quittungen zuordnen, Kontrolle der Zahlungseingänge, ggf. anmahnen.\n\n8. Sind Ansprüche gegen dritte Personen vorhanden? z.B. [Erbrecht](erbrecht), Darlehen an Dritte, ausstehende Lohn- oder Mietzahlungen von dritten Personen\n\n9. sozialrechtliche Ansprüche prüfen Arbeitslosengeld (Arbeitsagentur, Jobcenter); Krankengeld (Krankenkasse), [Rente](rente)n,  Opferentschädigung (Versorgungsamt), Wohngeld (Wohnungsamt, Stadtverwaltung), Kindergeld (Arbeitsagentur; auch für über 18jährige Kinder), Eingliederungshilfe für Behinderte, [Sozialhilfe](sozialhilfe) (Sozialamt, Stadtverwaltung) \n\nBei Pflegebedürftigkeit Pflegegeld nach SGB-V bzw. SGB-XII (Krankenkasse bzw. Sozialamt), Freifahrt im  Nahverkehr ([Schwerbehindertenausweis](schwerbehindertenausweis)/Versorgungsamt), Gebührenbefreiung/-ermäßigung von  [Rundfunkbeitrag](rundfunkbeitrag) und Telefongebühren (Sozialamt, Stadtverwaltung, Beitragsservice)\n\n10. [Geldanlage](geldanlage): Ist Bargeld/Sparguthaben vorhanden, das für den laufenden Lebensbedarf des Betreuten nicht benötigt wird? Ggf. Kauf von Wertpapieren (nach Bankauskunft über [Mündelsicher](mündelsicher)heit); Renditen vergleichen;, ist ein vorzeitiger Wertpapierverkauf möglich?\n\n11. Ist ein [Bestattungsvertrag](bestattungsvertrag) vorhanden? ggf. abschließen (z.B. bei Gesellschaft für Dauergrabpflege)\n\n12. Existieren Lebensversicherungen/ Bausparverträge? ggf. Kapitalstand erfragen; Versicherungen für laufenden Lebensunterhalt kündigen?; ggf. zuvor Rückkaufswerte erfragen\n\n13. weitere Versicherungen vorhanden? z.B. Hausrat, Haftpflicht, Rechtsschutz, Unfall usw.; Erforderlichkeit prüfen, Beiträge vergleichen, ggf. kündigen, ggf. günstigere Versicherungen abschließen\n\n14. [Vermögensverzeichnis](vermögensverzeichnis) für das [Betreuungsgericht](betreuungsgericht) erstellen (§ 1835 BGB)\n\n15. [Rechnungslegung](rechnungslegung) (in der Regel jährlich dem Betreuungsgericht zu erteilen, wenn vom Gericht keine Befreiung hiervon erteilt wurde) auch bei einer Befreiung von der Rechnungslegung geordnete Belegführung sicherstellen\n\nSiehe auch\n[Vermögenssorge](vermögenssorge)\n[Bankvollmacht](bankvollmacht)\n[Checkliste Gesundheitssorge](checkliste-gesundheitssorge)\n\n[Kategorie:Checklisten](kategorie:checklisten)\n[Kategorie:Vermögenssorge](kategorie:vermögenssorge)",
+  "struktur": [
+    {
+      "titel": "Bei Übernahme einer Betreuung mit dem Aufgabenkreis Vermögenssorge sollte der Betreuer folgende Checkliste beachten:",
+      "inhalt": "1. Existieren: Girokonten, Sparguthaben, Schließfächer, Wertpapierdepots ? Ermittlung der zuständigen Geldinstitute, Konten-, Schließfach- und Depot-Nummern.\n\n2. Sollen oder müssen Konten gesperrt werden? (nur bei angeordnetem Einwilligungsvorbehalt gemäß § 1825 BGB oder bei sicherer Geschäftsunfähigkeit möglich, aber nicht unbedingt zwingend erforderlich)\n\n3. Kontovollmachten unter Vorlage der Bestellungsurkunde erteilen lassen (Bank)\n\n4. existieren weitere Vermögenswerte: Immobilien (ggf. Grundbuchauszug vom Grundbuchamt des Amtsgerichtes besorgen) Schmuck, Antiquitäten?\n\n5. existieren Schulden oder sonstige laufende Zahlungspflichten? Ggf. eine SCHUFA-Selbstauskunft auf den Namen des Betreuten einholen (ca. 8 Euro Gebühr).\n\n6. Feststellung der laufenden Einnahmen nach Art, Höhe und auszahlender Stelle (Aktenzeichen, Versicherungsnummer etc.). Benachrichtigung dieser Stellen über die eingerichtete Betreuung.\n\n7. Vermögensverwaltung sicherstellen Kontoauszüge ordnen, Quittungen zuordnen, Kontrolle der Zahlungseingänge, ggf. anmahnen.\n\n8. Sind Ansprüche gegen dritte Personen vorhanden? z.B. Erbansprüche, Darlehen an Dritte, ausstehende Lohn- oder Mietzahlungen von dritten Personen\n\n9. sozialrechtliche Ansprüche prüfen Arbeitslosengeld (Arbeitsagentur, Jobcenter); Krankengeld (Krankenkasse), Renten,  Opferentschädigung (Versorgungsamt), Wohngeld (Wohnungsamt, Stadtverwaltung), Kindergeld (Arbeitsagentur; auch für über 18jährige Kinder), Eingliederungshilfe für Behinderte, Grundsicherung/Sozialhilfe (Sozialamt, Stadtverwaltung) \n\nBei Pflegebedürftigkeit Pflegegeld nach SGB-V bzw. SGB-XII (Krankenkasse bzw. Sozialamt), Freifahrt im  Nahverkehr (Schwerbehindertenausweis/Versorgungsamt), Gebührenbefreiung/-ermäßigung von  Rundfunkbeitrag und Telefongebühren (Sozialamt, Stadtverwaltung, Beitragsservice)\n\n10. Geldanlage: Ist Bargeld/Sparguthaben vorhanden, das für den laufenden Lebensbedarf des Betreuten nicht benötigt wird? Ggf. Kauf von Wertpapieren (nach Bankauskunft über Mündelsicherheit); Renditen vergleichen;, ist ein vorzeitiger Wertpapierverkauf möglich?\n\n11. Ist ein Bestattungsvertrag und/oder Grabpflegevertrag vorhanden? ggf. abschließen (z.B. bei Gesellschaft für Dauergrabpflege)\n\n12. Existieren Lebensversicherungen/ Bausparverträge? ggf. Kapitalstand erfragen; Versicherungen für laufenden Lebensunterhalt kündigen?; ggf. zuvor Rückkaufswerte erfragen\n\n13. weitere Versicherungen vorhanden? z.B. Hausrat, Haftpflicht, Rechtsschutz, Unfall usw.; Erforderlichkeit prüfen, Beiträge vergleichen, ggf. kündigen, ggf. günstigere Versicherungen abschließen\n\n14. Vermögensverzeichnis für das Betreuungsgericht erstellen (§ 1835 BGB)\n\n15. Rechnungslegung (in der Regel jährlich dem Betreuungsgericht zu erteilen, wenn vom Gericht keine Befreiung hiervon erteilt wurde) auch bei einer Befreiung von der Rechnungslegung geordnete Belegführung sicherstellen",
+      "tags": [
+        "existieren",
+        "vorhanden",
+        "laufenden",
+        "nach",
+        "über"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Vermögenssorge\nBankvollmacht\nCheckliste Gesundheitssorge\n\nKategorie:Checklisten\nKategorie:Vermögenssorge",
+      "tags": [
+        "vermögenssorge",
+        "kategorie",
+        "bankvollmacht",
+        "checkliste",
+        "gesundheitssorge"
+      ]
+    }
+  ],
   "zusammenfassung": "Bei Übernahme einer Betreuung mit dem [Aufgabenkreis](aufgabenkreis) [Vermögenssorge](vermögenssorge) sollte der Betreuer folgende Checkliste beachten:\n\n1. Existieren: Girokonten, Sparguthaben, Schließfächer, Wertpapierdepots ? Ermittlung der zuständigen Geldinstitute, Konten-, Schließfach- und Depo...",
   "verwandteArtikel": [
-    "erbrecht",
-    "geldanlage",
-    "bestattungsvertrag",
-    "schwerbehindertenausweis",
-    "mündelsicher",
-    "einwilligungsvorbehalt",
-    "rechnungslegung",
-    "geschäftsfähigkeit",
-    "kategorie:vermögenssorge",
-    "vermögensverzeichnis",
-    "betreuungsgericht",
-    "bankvollmacht",
-    "vermögenssorge",
-    "rente",
     "aufgabenkreis",
+    "bankvollmacht",
+    "kategorie:vermögenssorge",
     "rundfunkbeitrag",
     "kategorie:checklisten",
+    "einwilligungsvorbehalt",
+    "bestattungsvertrag",
+    "rente",
     "checkliste-gesundheitssorge",
-    "sozialhilfe"
+    "schwerbehindertenausweis",
+    "mündelsicher",
+    "geschäftsfähigkeit",
+    "sozialhilfe",
+    "rechnungslegung",
+    "vermögensverzeichnis",
+    "vermögenssorge",
+    "erbrecht",
+    "geldanlage",
+    "betreuungsgericht"
   ]
 }

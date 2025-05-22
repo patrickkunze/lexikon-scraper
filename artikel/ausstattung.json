@@ -2,6 +2,16 @@
   "id": "ausstattung",
   "titel": "Ausstattung",
   "inhalt": "redirect [Schenkung](schenkung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Schenkung",
+      "tags": [
+        "redirect",
+        "schenkung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Schenkung](schenkung)...",
   "verwandteArtikel": [
     "schenkung"

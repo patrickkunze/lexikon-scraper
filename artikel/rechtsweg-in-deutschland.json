@@ -2,29 +2,53 @@
   "id": "rechtsweg-in-deutschland",
   "titel": "Rechtsweg in Deutschland",
   "inhalt": "Ein Mensch, der behauptet, in seinen [Grundrechte](grundrechte)n verletzt worden zu sein, kann in Deutschland den Rechtsweg zur Überprüfung und Ausräumung dieser möglichen Verletzung beschreiten. Dazu führt ihn sein/ihr Weg vor die deutschen staatlichen Gerichte. Wenn dem Gerichtsverfahren ein [Widerspruchsrecht](widerspruchsrecht) vorgeschaltet ist, beginn der Rechtsweg schon bei der Verwaltung. Der lange Rechtsweg durch alle möglichen Instanzen endet mit der Entscheidung letzter Instanz, gegen die kein [Rechtsmittel](rechtsmittel) mehr gegeben ist.\n\nZum Rechtsweg gehören auch der „Antrag auf Wiedereinsetzung in den vorigen Stand“ und der „Antrag auf Wiederaufnahme des Verfahrens“. Am Ende des in Deutschland rechtsstaatlich garantierten Rechtsweges angekommen, spricht der Jurist von Rechtswegerschöpfung. Die Europäischen Gerichtshöfe bieten dann noch eine weitere Instanz an, z.B. der Europäische Gerichtshof für Menschenrechte, der auf völkerrechtlicher Basis der (Europäischen) Konvention zum Schutze der Menschenrechte und Grundfreiheiten vom 04.11.1950 in Straßburg/Strasbourg in Frankreich gegründet wurde.\n\nSiehe auch\n [Rechtsmittel](rechtsmittel)\n [Subsidiaritätsprinzip](subsidiaritätsprinzip)\n [Strafprozess](strafprozess)\n [Prozessführung](prozessführung)\n [Prozesspfleger](prozesspfleger)\n [Verfahrenspfleger](verfahrenspfleger)\n [Anhörung](anhörung)\n [Betreuungsrichter](betreuungsrichter)\n [Einstweilige Anordnung](einstweilige-anordnung)\n [Rechtspfleger](rechtspfleger)\n [Vertretung gegenüber Behörden](vertretung-gegenüber-behörden)\n [Familienverfahrensgesetz](familienverfahrensgesetz)\n [Amtsermittlungspflicht](amtsermittlungspflicht)\n [Registrierung](registrierung)\n [Ausschließlichkeitserklärung](ausschließlichkeitserklärung)\n [Zugangsrecht](zugangsrecht)\n [Rechtsprechung](rechtsprechung)\n [Rechtsprechung zum Sachverständigengutachten](rechtsprechung-zum-sachverständigengutachten)\n [Rechtsprechung zur Anhörung](rechtsprechung-zur-anhörung)\n [Rechtsprechung zum Verfahrenspfleger](rechtsprechung-zum-verfahrenspfleger)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "Ein Mensch, der behauptet, in seinen Grundrechten verletzt worden zu sein, kann in Deutschland den Rechtsweg zur Überprüfung und Ausräumung dieser möglichen Verletzung beschreiten. Dazu führt ihn sein/ihr Weg vor die deutschen staatlichen Gerichte. Wenn dem Gerichtsverfahren ein Widerspruchsverfahren vorgeschaltet ist, beginn der Rechtsweg schon bei der Verwaltung. Der lange Rechtsweg durch alle möglichen Instanzen endet mit der Entscheidung letzter Instanz, gegen die kein Rechtsmittel mehr gegeben ist.\n\nZum Rechtsweg gehören auch der „Antrag auf Wiedereinsetzung in den vorigen Stand“ und der „Antrag auf Wiederaufnahme des Verfahrens“. Am Ende des in Deutschland rechtsstaatlich garantierten Rechtsweges angekommen, spricht der Jurist von Rechtswegerschöpfung. Die Europäischen Gerichtshöfe bieten dann noch eine weitere Instanz an, z.B. der Europäische Gerichtshof für Menschenrechte, der auf völkerrechtlicher Basis der (Europäischen) Konvention zum Schutze der Menschenrechte und Grundfreiheiten vom 04.11.1950 in Straßburg/Strasbourg in Frankreich gegründet wurde.",
+      "tags": [
+        "rechtsweg",
+        "sein",
+        "deutschland",
+        "möglichen",
+        "instanz"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Rechtsmittel\n Subsidiaritätsprinzip\n Strafprozess\n Prozessführung\n Prozesspfleger\n Verfahrenspfleger\n Anhörung\n Betreuungsrichter\n Einstweilige Anordnung\n Rechtspfleger\n Vertretung gegenüber Behörden\n Familienverfahrensgesetz\n Amtsermittlungspflicht\n Registrierung\n Ausschließlichkeitserklärung\n Zugangsrecht\n Rechtsprechung\n Rechtsprechung zum Sachverständigengutachten\n Rechtsprechung zur Anhörung\n Rechtsprechung zum Verfahrenspfleger",
+      "tags": [
+        "rechtsprechung",
+        "verfahrenspfleger",
+        "anhörung",
+        "rechtsmittel",
+        "subsidiaritätsprinzip"
+      ]
+    }
+  ],
   "zusammenfassung": "Ein Mensch, der behauptet, in seinen [Grundrechte](grundrechte)n verletzt worden zu sein, kann in Deutschland den Rechtsweg zur Überprüfung und Ausräumung dieser möglichen Verletzung beschreiten. Dazu führt ihn sein/ihr Weg vor die deutschen staatlichen Gerichte. Wenn dem Gerichtsverfahren ein [Wide...",
   "verwandteArtikel": [
-    "grundrechte",
-    "anhörung",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtspfleger",
-    "rechtsprechung-zur-anhörung",
-    "familienverfahrensgesetz",
-    "vertretung-gegenüber-behörden",
-    "rechtsmittel",
     "amtsermittlungspflicht",
-    "strafprozess",
-    "registrierung",
-    "rechtsprechung-zum-sachverständigengutachten",
-    "verfahrenspfleger",
-    "subsidiaritätsprinzip",
     "zugangsrecht",
-    "prozesspfleger",
-    "einstweilige-anordnung",
     "prozessführung",
-    "rechtsprechung",
-    "widerspruchsrecht",
+    "rechtspfleger",
     "ausschließlichkeitserklärung",
-    "betreuungsrichter"
+    "vertretung-gegenüber-behörden",
+    "rechtsprechung-zum-sachverständigengutachten",
+    "strafprozess",
+    "betreuungsrichter",
+    "rechtsprechung",
+    "grundrechte",
+    "familienverfahrensgesetz",
+    "widerspruchsrecht",
+    "registrierung",
+    "einstweilige-anordnung",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "prozesspfleger",
+    "anhörung",
+    "subsidiaritätsprinzip",
+    "rechtsmittel",
+    "verfahrenspfleger",
+    "rechtsprechung-zur-anhörung"
   ]
 }

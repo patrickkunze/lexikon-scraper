@@ -2,6 +2,16 @@
   "id": "betreuungsrechtsreform-2023",
   "titel": "Betreuungsrechtsreform 2023",
   "inhalt": "redirect [Betreuungsrechtsreform](betreuungsrechtsreform)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuungsrechtsreform",
+      "tags": [
+        "redirect",
+        "betreuungsrechtsreform"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuungsrechtsreform](betreuungsrechtsreform)...",
   "verwandteArtikel": [
     "betreuungsrechtsreform"

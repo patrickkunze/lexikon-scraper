@@ -2,6 +2,17 @@
   "id": "fem",
   "titel": "Fem",
   "inhalt": "redirect [Unterbringungsähnliche Maßnahme](unterbringungsähnliche-maßnahme)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Unterbringungsähnliche Maßnahme",
+      "tags": [
+        "redirect",
+        "unterbringungsähnliche",
+        "maßnahme"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Unterbringungsähnliche Maßnahme](unterbringungsähnliche-maßnahme)...",
   "verwandteArtikel": [
     "unterbringungsähnliche-maßnahme"

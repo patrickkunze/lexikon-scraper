@@ -2,6 +2,16 @@
   "id": "zwangsmaßnahme",
   "titel": "Zwangsmaßnahme",
   "inhalt": "redirect [Zwangsbehandlung](zwangsbehandlung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Zwangsbehandlung",
+      "tags": [
+        "redirect",
+        "zwangsbehandlung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Zwangsbehandlung](zwangsbehandlung)...",
   "verwandteArtikel": [
     "zwangsbehandlung"

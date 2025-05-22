@@ -2,6 +2,16 @@
   "id": "schadenersatz",
   "titel": "Schadenersatz",
   "inhalt": "redirect [Betreuerhaftung](betreuerhaftung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuerhaftung",
+      "tags": [
+        "redirect",
+        "betreuerhaftung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuerhaftung](betreuerhaftung)...",
   "verwandteArtikel": [
     "betreuerhaftung"

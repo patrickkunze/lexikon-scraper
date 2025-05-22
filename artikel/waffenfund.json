@@ -2,6 +2,16 @@
   "id": "waffenfund",
   "titel": "Waffenfund",
   "inhalt": "redirect [Waffenbesitz](waffenbesitz)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Waffenbesitz",
+      "tags": [
+        "redirect",
+        "waffenbesitz"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Waffenbesitz](waffenbesitz)...",
   "verwandteArtikel": [
     "waffenbesitz"

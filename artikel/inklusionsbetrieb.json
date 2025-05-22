@@ -2,19 +2,43 @@
   "id": "inklusionsbetrieb",
   "titel": "Inklusionsbetrieb",
   "inhalt": "Rechtlich und wirtschaftlich selbständige Unternehmen oder unternehmensinterne oder von öffentlichen Arbeitgebern im Sinne des § 154 Absatz 2 SGB IX geführte Betriebe oder Abteilungen zur Beschäftigung [Schwerbehindertenausweis](schwerbehindertenausweis) auf dem allgemeinen Arbeitsmarkt heißen Inklusionsbetriebe.  Sie beschäftigen mindestens 30 % und höchstens 50 % schwerbehinderte Mitarbeiter und Mitarbeiterinnen, zu denen auch [Psychisch-Kranken-Gesetz](psychisch-kranken-gesetz) gehören, die behindert oder von Behinderung bedroht sind und deren Teilhabe an einer sonstigen Beschäftigung auf dem allgemeinen Arbeitsmarkt auf besondere Schwierigkeiten stoßen würde.\n\nDie Inklusionsbetriebe in Deutschland oder nach deutschem Recht werden im 11. Kapitel des 9. Buches vom deutschen Sozialgesetzbuch (§ 215 SGB IX bis 218 SGB IX) gesetzlich geregelt. Im 12. Kapitel folgen die [Werkstatt für behinderte Menschen](werkstatt-für-behinderte-menschen).\n\nSiehe auch\n [Grundrechte](grundrechte)\n [Schwerbehindertenausweis](schwerbehindertenausweis)\n [Behindertenkonvention](behindertenkonvention)\n [Selbstbestimmung](selbstbestimmung)\n [Unterstützungspflicht](unterstützungspflicht)\n [Arbeitsvertrag](arbeitsvertrag)\n [Anzeigepflicht](anzeigepflicht)\n [Werkstatt für behinderte Menschen](werkstatt-für-behinderte-menschen)\n [Vulnerabilität](vulnerabilität)\n [Digitale Barrierefreiheit](digitale-barrierefreiheit)\n [Eingliederungshilfe](eingliederungshilfe)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "Rechtlich und wirtschaftlich selbständige Unternehmen oder unternehmensinterne oder von öffentlichen Arbeitgebern im Sinne des § 154 Absatz 2 SGB IX geführte Betriebe oder Abteilungen zur Beschäftigung schwerbehinderter Menschen auf dem allgemeinen Arbeitsmarkt heißen Inklusionsbetriebe.  Sie beschäftigen mindestens 30 % und höchstens 50 % schwerbehinderte Mitarbeiter und Mitarbeiterinnen, zu denen auch psychisch Kranke gehören, die behindert oder von Behinderung bedroht sind und deren Teilhabe an einer sonstigen Beschäftigung auf dem allgemeinen Arbeitsmarkt auf besondere Schwierigkeiten stoßen würde.\n\nDie Inklusionsbetriebe in Deutschland oder nach deutschem Recht werden im 11. Kapitel des 9. Buches vom deutschen Sozialgesetzbuch (§ 215 SGB IX bis 218 SGB IX) gesetzlich geregelt. Im 12. Kapitel folgen die Werkstätten für behinderte Menschen.",
+      "tags": [
+        "beschäftigung",
+        "menschen",
+        "allgemeinen",
+        "arbeitsmarkt",
+        "inklusionsbetriebe"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Grundrechte\n Schwerbehindertenausweis\n Behindertenkonvention\n Selbstbestimmung\n Unterstützungspflicht\n Arbeitsvertrag\n Anzeigepflicht\n Werkstatt für behinderte Menschen\n Vulnerabilität\n Digitale Barrierefreiheit\n Eingliederungshilfe",
+      "tags": [
+        "grundrechte",
+        "schwerbehindertenausweis",
+        "behindertenkonvention",
+        "selbstbestimmung",
+        "unterstützungspflicht"
+      ]
+    }
+  ],
   "zusammenfassung": "Rechtlich und wirtschaftlich selbständige Unternehmen oder unternehmensinterne oder von öffentlichen Arbeitgebern im Sinne des § 154 Absatz 2 SGB IX geführte Betriebe oder Abteilungen zur Beschäftigung [Schwerbehindertenausweis](schwerbehindertenausweis) auf dem allgemeinen Arbeitsmarkt heißen Inklu...",
   "verwandteArtikel": [
-    "werkstatt-für-behinderte-menschen",
-    "vulnerabilität",
-    "selbstbestimmung",
-    "grundrechte",
-    "digitale-barrierefreiheit",
-    "schwerbehindertenausweis",
-    "arbeitsvertrag",
-    "psychisch-kranken-gesetz",
-    "eingliederungshilfe",
     "unterstützungspflicht",
+    "selbstbestimmung",
+    "eingliederungshilfe",
     "anzeigepflicht",
-    "behindertenkonvention"
+    "werkstatt-für-behinderte-menschen",
+    "schwerbehindertenausweis",
+    "behindertenkonvention",
+    "psychisch-kranken-gesetz",
+    "digitale-barrierefreiheit",
+    "vulnerabilität",
+    "arbeitsvertrag",
+    "grundrechte"
   ]
 }

@@ -2,6 +2,16 @@
   "id": "evaluation",
   "titel": "Evaluation",
   "inhalt": "redirect [Begleitforschung](begleitforschung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Begleitforschung",
+      "tags": [
+        "redirect",
+        "begleitforschung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Begleitforschung](begleitforschung)...",
   "verwandteArtikel": [
     "begleitforschung"

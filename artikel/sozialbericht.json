@@ -2,6 +2,16 @@
   "id": "sozialbericht",
   "titel": "Sozialbericht",
   "inhalt": "redirect [Betreuungsgerichtshilfe](betreuungsgerichtshilfe)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuungsgerichtshilfe",
+      "tags": [
+        "redirect",
+        "betreuungsgerichtshilfe"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuungsgerichtshilfe](betreuungsgerichtshilfe)...",
   "verwandteArtikel": [
     "betreuungsgerichtshilfe"

@@ -2,12 +2,25 @@
   "id": "berlin",
   "titel": "Berlin",
   "inhalt": "Betreuung in Berlin\n\nBetreuungsrecht und Betreuungspraxis in Berlin: Rechtsnormen und Adressen\n\n{| style=\"border-collapse: collapse\" width=\"100%\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\"\n| width=\"50%\" height=\"16\" valign=\"top\" |\nStatistische Angaben zum Bundesland: \n\n(Stand 31.12.2008)\n\nEinwohnerzahl: 3.431.675\n\nAnzahl der betreuten Menschen: 57.404\n\nBetreute je 1000 Einwohner: 16,73\n\nAnzahl anerkannter Betreuungsvereine: 14 (davon gefördert 12)\n\n[Neu](neu)\n\n| width=\"50%\" height=\"35\" valign=\"top\" |\n Adressen (zum Ansehen anklicken):\n\nFür Betreuung zuständiges Ministerium\n\nBetreuungsvereine\n\nBetreuungsbehörden\n\nGerichte\n\nBdB-Landesgruppe Berlin\n\n[Bundesverband freier Berufsbetreuer](bundesverband-freier-berufsbetreuer) seit 1998\nBVfB Regio-Gruppe Berlin\n\n|-\n| width=\"50%\" height=\"54\" valign=\"top\" |\nRechtsnormen (zum Ansehen anklicken):\n\nAusführungsgesetz des Landes zum BtOG\n\nGesetz für psychisch Kranke \n\n| width=\"50%\" height=\"35\" valign=\"top\" |\n Sonstige Dokumente:\n\nInfobroschüre Betreuungsrecht \n [Fortbildung](fortbildung) bundesweit\n\nKrankenhausverzeichnis\n\nAdressen der Alten- und Pflegeheime\n\n[Kategorie:Bundesländer](kategorie:bundesländer)\n[Kategorie:Adressen](kategorie:adressen)",
+  "struktur": [
+    {
+      "titel": "Betreuung in Berlin",
+      "inhalt": "Betreuungsrecht und Betreuungspraxis in Berlin: Rechtsnormen und Adressen\n\n{| style=\"border-collapse: collapse\" width=\"100%\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\"\n| width=\"50%\" height=\"16\" valign=\"top\" |\nStatistische Angaben zum Bundesland: \n\n(Stand 31.12.2008)\n\nEinwohnerzahl: 3.431.675\n\nAnzahl der betreuten Menschen: 57.404\n\nBetreute je 1000 Einwohner: 16,73\n\nAnzahl anerkannter Betreuungsvereine: 14 (davon gefördert 12)\n\nWas ist neu?\n\n| width=\"50%\" height=\"35\" valign=\"top\" |\n Adressen (zum Ansehen anklicken):\n\nFür Betreuung zuständiges Ministerium\n\nBetreuungsvereine\n\nBetreuungsbehörden\n\nGerichte\n\nBdB-Landesgruppe Berlin\n\nBundesverband freier Berufsbetreuer seit 1998\nBVfB Regio-Gruppe Berlin\n\n|-\n| width=\"50%\" height=\"54\" valign=\"top\" |\nRechtsnormen (zum Ansehen anklicken):\n\nAusführungsgesetz des Landes zum BtOG\n\nGesetz für psychisch Kranke \n\n| width=\"50%\" height=\"35\" valign=\"top\" |\n Sonstige Dokumente:\n\nInfobroschüre Betreuungsrecht \n Fortbildung bundesweit\n\nKrankenhausverzeichnis\n\nAdressen der Alten- und Pflegeheime\n\nKategorie:Bundesländer\nKategorie:Adressen",
+      "tags": [
+        "width",
+        "adressen",
+        "height",
+        "valign",
+        "berlin"
+      ]
+    }
+  ],
   "zusammenfassung": "Betreuung in Berlin\n\nBetreuungsrecht und Betreuungspraxis in Berlin: Rechtsnormen und Adressen\n\n{| style=\"border-collapse: collapse\" width=\"100%\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\"\n| width=\"50%\" height=\"16\" valign=\"top\" |\nStatistische Angaben zum Bundesland: \n\n(Stand 31.12.2008)\n\nEinwohnerza...",
   "verwandteArtikel": [
-    "neu",
-    "kategorie:adressen",
     "kategorie:bundesländer",
     "fortbildung",
-    "bundesverband-freier-berufsbetreuer"
+    "kategorie:adressen",
+    "bundesverband-freier-berufsbetreuer",
+    "neu"
   ]
 }

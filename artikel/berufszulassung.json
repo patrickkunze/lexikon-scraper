@@ -2,6 +2,16 @@
   "id": "berufszulassung",
   "titel": "Berufszulassung",
   "inhalt": "redirect [Registrierung](registrierung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Registrierung",
+      "tags": [
+        "redirect",
+        "registrierung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Registrierung](registrierung)...",
   "verwandteArtikel": [
     "registrierung"

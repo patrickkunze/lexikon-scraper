@@ -2,6 +2,18 @@
   "id": "ubg",
   "titel": "UBG",
   "inhalt": "redirect [Psychisch-Kranken-Gesetz](psychisch-kranken-gesetz)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Psychisch-Kranken-Gesetz",
+      "tags": [
+        "redirect",
+        "psychisch",
+        "kranken",
+        "gesetz"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Psychisch-Kranken-Gesetz](psychisch-kranken-gesetz)...",
   "verwandteArtikel": [
     "psychisch-kranken-gesetz"

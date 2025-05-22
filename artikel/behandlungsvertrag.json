@@ -2,6 +2,16 @@
   "id": "behandlungsvertrag",
   "titel": "Behandlungsvertrag",
   "inhalt": "redirect [Heilbehandlung](heilbehandlung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Heilbehandlung",
+      "tags": [
+        "redirect",
+        "heilbehandlung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Heilbehandlung](heilbehandlung)...",
   "verwandteArtikel": [
     "heilbehandlung"

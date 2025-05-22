@@ -2,15 +2,39 @@
   "id": "bezirksrevisor",
   "titel": "Bezirksrevisor",
   "inhalt": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerde im Interesse der Staatskasse einlegen.\n\nSiehe auch\n [Regress der Staatskasse](regress-der-staatskasse)\n [Betreuungsverfahren](betreuungsverfahren)\n [Familienverfahrensgesetz](familienverfahrensgesetz)\n [Gerichtskosten](gerichtskosten)\n [Rechtsmittel](rechtsmittel)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein Rechtspfleger, kann gegen Gerichtsentscheidungen das Rechtsmittel Beschwerde im Interesse der Staatskasse einlegen.",
+      "tags": [
+        "sogenannte",
+        "bezirksrevisor",
+        "berufsausbildung",
+        "meist",
+        "rechtspfleger"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Regress der Staatskasse\n Betreuungsverfahren\n Familienverfahrensgesetz\n Gerichtskosten\n Rechtsmittel\n Rechtsverkehr in Deutschland",
+      "tags": [
+        "regress",
+        "staatskasse",
+        "betreuungsverfahren",
+        "familienverfahrensgesetz",
+        "gerichtskosten"
+      ]
+    }
+  ],
   "zusammenfassung": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerde im Interesse der Staatskasse einlegen.\n\nSiehe auch\n [Regress der Staatskasse](regress-der-staatskasse)\n ...",
   "verwandteArtikel": [
-    "rechtspfleger",
-    "familienverfahrensgesetz",
-    "gerichtsbeschluss",
     "rechtsmittel",
+    "familienverfahrensgesetz",
     "betreuungsverfahren",
+    "rechtsverkehr-in-deutschland",
+    "gerichtsbeschluss",
+    "rechtspfleger",
     "regress-der-staatskasse",
-    "gerichtskosten",
-    "rechtsverkehr-in-deutschland"
+    "gerichtskosten"
   ]
 }

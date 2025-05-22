@@ -2,6 +2,16 @@
   "id": "pflegeheim",
   "titel": "Pflegeheim",
   "inhalt": "redirect [Altenheim](altenheim)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Altenheim",
+      "tags": [
+        "redirect",
+        "altenheim"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Altenheim](altenheim)...",
   "verwandteArtikel": [
     "altenheim"

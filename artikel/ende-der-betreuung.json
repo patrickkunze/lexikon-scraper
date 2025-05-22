@@ -2,19 +2,43 @@
   "id": "ende-der-betreuung",
   "titel": "Ende der Betreuung",
   "inhalt": "Achtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst.\n\nEine rechtliche Betreuung kann auf verschiedene Weisen enden:\n\n[Aufhebung der Betreuung](aufhebung-der-betreuung) durch [Gerichtsbeschluss](gerichtsbeschluss) des Betreuungsgerichtes (§ 1870 BGB);\n[Tod des Betreuten](tod-des-betreuten) (§ 1870 BGB);\naus der Sicht des jeweiligen Betreuers auch durch einen vom Gericht beschlossenen [Betreuerwechsel](betreuerwechsel) (§ 1869 BGB);\nsowie bei [Vorläufiger Betreuer](vorläufiger-betreuer) auch durch Zeitablauf des in der [einstweilige Anordnung](einstweilige-anordnung) genannten Datums (§ 302 FamFG).\n\nSiehe auch\n[Schlusstätigkeiten](schlusstätigkeiten)\n[Schlussbericht](schlussbericht)\n[Schlussrechnungslegung](schlussrechnungslegung)\n[Notgeschäftsführung](notgeschäftsführung)\n[Betreuerhaftung](betreuerhaftung)\n\n[Kategorie:Betreuungsende](kategorie:betreuungsende)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "Achtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst.\n\nEine rechtliche Betreuung kann auf verschiedene Weisen enden:\n\nAufhebung der Betreuung durch Beschluss des Betreuungsgerichtes (§ 1870 BGB);\nTod des Betreuten (§ 1870 BGB);\naus der Sicht des jeweiligen Betreuers auch durch einen vom Gericht beschlossenen Betreuerwechsel (§ 1869 BGB);\nsowie bei vorläufigen Betreuerbestellungen auch durch Zeitablauf des in der einstweiligen Anordnung genannten Datums (§ 302 FamFG).",
+      "tags": [
+        "betreuung",
+        "achtung",
+        "diese",
+        "seite",
+        "sowohl"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Schlusstätigkeiten\nSchlussbericht\nSchlussrechnungslegung\nNotgeschäftsführung\nBetreuerhaftung\n\nKategorie:Betreuungsende",
+      "tags": [
+        "schlusstätigkeiten",
+        "schlussbericht",
+        "schlussrechnungslegung",
+        "notgeschäftsführung",
+        "betreuerhaftung"
+      ]
+    }
+  ],
   "zusammenfassung": "Achtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst.\n\nEine rechtliche Betreuung kann auf verschiedene Weisen enden:\n\n[Aufhebung der Betreuung](aufhebung-der-betreuung) durch [Gerichtsbeschluss](gerichtsbeschluss) des Betreuungsger...",
   "verwandteArtikel": [
     "schlussbericht",
     "tod-des-betreuten",
-    "aufhebung-der-betreuung",
-    "gerichtsbeschluss",
-    "schlussrechnungslegung",
-    "notgeschäftsführung",
-    "vorläufiger-betreuer",
-    "kategorie:betreuungsende",
     "einstweilige-anordnung",
+    "betreuerwechsel",
+    "schlussrechnungslegung",
+    "gerichtsbeschluss",
+    "aufhebung-der-betreuung",
+    "vorläufiger-betreuer",
+    "notgeschäftsführung",
     "betreuerhaftung",
-    "schlusstätigkeiten",
-    "betreuerwechsel"
+    "kategorie:betreuungsende",
+    "schlusstätigkeiten"
   ]
 }

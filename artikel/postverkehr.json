@@ -2,6 +2,16 @@
   "id": "postverkehr",
   "titel": "Postverkehr",
   "inhalt": "redirect [Postkontrolle](postkontrolle)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Postkontrolle",
+      "tags": [
+        "redirect",
+        "postkontrolle"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Postkontrolle](postkontrolle)...",
   "verwandteArtikel": [
     "postkontrolle"

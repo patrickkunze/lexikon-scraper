@@ -2,6 +2,16 @@
   "id": "verwaltungsverfahren",
   "titel": "Verwaltungsverfahren",
   "inhalt": "redirect [Prozessfähigkeit](prozessfähigkeit)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Prozessfähigkeit",
+      "tags": [
+        "redirect",
+        "prozessfähigkeit"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Prozessfähigkeit](prozessfähigkeit)...",
   "verwandteArtikel": [
     "prozessfähigkeit"

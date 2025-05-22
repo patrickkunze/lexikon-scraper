@@ -2,6 +2,16 @@
   "id": "kosten",
   "titel": "Kosten",
   "inhalt": "redirect [Gerichtskosten](gerichtskosten)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Gerichtskosten",
+      "tags": [
+        "redirect",
+        "gerichtskosten"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Gerichtskosten](gerichtskosten)...",
   "verwandteArtikel": [
     "gerichtskosten"

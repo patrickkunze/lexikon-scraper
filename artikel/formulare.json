@@ -2,25 +2,60 @@
   "id": "formulare",
   "titel": "Formulare",
   "inhalt": "[Bild:Vordrucke.jpg](bild:vordrucke.jpg)\n[Bild:Vollmacht.jpg](bild:vollmacht.jpg)\nNachstehend können Sie diverse brauchbare Formulare für Betreuer (meist PDF-Dateien) herunterladen. Die meisten, aber nicht alle Formulare lassen sich am Bildschirm ausfüllen. Gespeichert werden können diese mit der kostenlosen Reader-Software nicht, dafür wird eine Vollversion eines Programmes benötigt, das PDF-Dateien verarbeiten kann.\n\nFormularsammlungen für die Betreuerarbeit\n[Bayern](bayern): Formularsammlung Gesetzliche Betreuung Nürnberg - zahlreiche Themen\n[Baden-Württemberg](baden-württemberg): Formularsammlung Justiz Baden-Württ.\n[Hessen](hessen): Formularsammlung Justiz Hessen\n[Mecklenburg-Vorpommern](mecklenburg-vorpommern): Formularsammlung Justiz Mecklenburg-Vorp.\n[Niedersachsen](niedersachsen): Formularsammlung Justizportal Niedersachsen - Formulare für das Gericht, mehrsprachige Merkblätter\n[Nordrhein-Westfalen](nordrhein-westfalen): Formularsammlung NRW-Justiz\n[Sachsen](sachsen): Formularsammlung Justiz Sachsen\n[Thüringen](thüringen): Formularsammlung Thüringen\nBund: Formular Betreuungsverfügung und Vorsorgevollmacht (BMJ)\n[Hessen](hessen): Formularsammlung Vorsorgevollmacht (Hessen)\n\nSiehe auch\n [Software](software)\n [Digitale Barrierefreiheit](digitale-barrierefreiheit)\n [Elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach)\n [elektronische Patientenakte](elektronische-patientenakte)\n [Interoperabilität](interoperabilität)\n\n[Kategorie:Arbeitshilfen](kategorie:arbeitshilfen)\n[Kategorie:Checklisten](kategorie:checklisten)\n[Kategorie:Literatur](kategorie:literatur)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "200px|right\n200px|right\nNachstehend können Sie diverse brauchbare Formulare für Betreuer (meist PDF-Dateien) herunterladen. Die meisten, aber nicht alle Formulare lassen sich am Bildschirm ausfüllen. Gespeichert werden können diese mit der kostenlosen Reader-Software nicht, dafür wird eine Vollversion eines Programmes benötigt, das PDF-Dateien verarbeiten kann.",
+      "tags": [
+        "right",
+        "können",
+        "formulare",
+        "dateien",
+        "nachstehend"
+      ]
+    },
+    {
+      "titel": "Formularsammlungen für die Betreuerarbeit",
+      "inhalt": "Bayern: Formularsammlung Gesetzliche Betreuung Nürnberg - zahlreiche Themen\nBaden-Württemberg: Formularsammlung Justiz Baden-Württ.\nHessen: Formularsammlung Justiz Hessen\nMecklenburg-Vorpommern: Formularsammlung Justiz Mecklenburg-Vorp.\nNiedersachsen: Formularsammlung Justizportal Niedersachsen - Formulare für das Gericht, mehrsprachige Merkblätter\nNordrhein-Westfalen: Formularsammlung NRW-Justiz\nSachsen: Formularsammlung Justiz Sachsen\nThüringen: Formularsammlung Thüringen\nBund: Formular Betreuungsverfügung und Vorsorgevollmacht (BMJ)\nHessen: Formularsammlung Vorsorgevollmacht (Hessen)",
+      "tags": [
+        "formularsammlung",
+        "justiz",
+        "hessen",
+        "baden",
+        "mecklenburg"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Software\n Digitale Barrierefreiheit\n Elektronisches Gerichts- und Verwaltungspostfach\n elektronische Patientenakte\n Interoperabilität\n\nKategorie:Arbeitshilfen\nKategorie:Checklisten\nKategorie:Literatur",
+      "tags": [
+        "kategorie",
+        "software",
+        "digitale",
+        "barrierefreiheit",
+        "elektronisches"
+      ]
+    }
+  ],
   "zusammenfassung": "[Bild:Vordrucke.jpg](bild:vordrucke.jpg)\n[Bild:Vollmacht.jpg](bild:vollmacht.jpg)\nNachstehend können Sie diverse brauchbare Formulare für Betreuer (meist PDF-Dateien) herunterladen. Die meisten, aber nicht alle Formulare lassen sich am Bildschirm ausfüllen. Gespeichert werden können diese mit der ko...",
   "verwandteArtikel": [
-    "bild:vordrucke.jpg",
-    "sachsen",
-    "bayern",
-    "kategorie:arbeitshilfen",
-    "elektronisches-gerichts--und-verwaltungspostfach",
     "interoperabilität",
-    "digitale-barrierefreiheit",
-    "thüringen",
-    "niedersachsen",
-    "mecklenburg-vorpommern",
-    "software",
-    "kategorie:checklisten",
-    "baden-württemberg",
-    "elektronische-patientenakte",
     "kategorie:literatur",
-    "hessen",
+    "software",
     "bild:vollmacht.jpg",
-    "nordrhein-westfalen"
+    "kategorie:arbeitshilfen",
+    "sachsen",
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "elektronische-patientenakte",
+    "hessen",
+    "baden-württemberg",
+    "kategorie:checklisten",
+    "nordrhein-westfalen",
+    "thüringen",
+    "digitale-barrierefreiheit",
+    "mecklenburg-vorpommern",
+    "bild:vordrucke.jpg",
+    "bayern",
+    "niedersachsen"
   ]
 }

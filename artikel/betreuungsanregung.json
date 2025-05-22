@@ -2,6 +2,17 @@
   "id": "betreuungsanregung",
   "titel": "Betreuungsanregung",
   "inhalt": "redirect [Anregung der Betreuerbestellung](anregung-der-betreuerbestellung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Anregung der Betreuerbestellung",
+      "tags": [
+        "redirect",
+        "anregung",
+        "betreuerbestellung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Anregung der Betreuerbestellung](anregung-der-betreuerbestellung)...",
   "verwandteArtikel": [
     "anregung-der-betreuerbestellung"

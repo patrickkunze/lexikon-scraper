@@ -2,6 +2,17 @@
   "id": "berichtspflicht",
   "titel": "Berichtspflicht",
   "inhalt": "redirect [Kategorie:Berichterstattung](kategorie:berichterstattung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Kategorie:Berichterstattung",
+      "tags": [
+        "redirect",
+        "kategorie",
+        "berichterstattung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Kategorie:Berichterstattung](kategorie:berichterstattung)...",
   "verwandteArtikel": [
     "kategorie:berichterstattung"

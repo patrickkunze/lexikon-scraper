@@ -2,6 +2,16 @@
   "id": "un-übereinkommen-über-die-rechte-von-menschen-mit-behinderungen",
   "titel": "UN-Übereinkommen über die Rechte von Menschen mit Behinderungen",
   "inhalt": "redirect [Behindertenkonvention](behindertenkonvention)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Behindertenkonvention",
+      "tags": [
+        "redirect",
+        "behindertenkonvention"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Behindertenkonvention](behindertenkonvention)...",
   "verwandteArtikel": [
     "behindertenkonvention"

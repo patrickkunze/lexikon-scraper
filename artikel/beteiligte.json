@@ -2,6 +2,16 @@
   "id": "beteiligte",
   "titel": "Beteiligte",
   "inhalt": "redirect [Betreuungsverfahren#Beteiligung_weiterer_Personen](betreuungsverfahren#beteiligung_weiterer_personen)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuungsverfahren#Beteiligung_weiterer_Personen",
+      "tags": [
+        "redirect",
+        "betreuungsverfahren"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuungsverfahren#Beteiligung_weiterer_Personen](betreuungsverfahren#beteiligung_weiterer_personen)...",
   "verwandteArtikel": [
     "betreuungsverfahren#beteiligung_weiterer_personen"

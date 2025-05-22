@@ -2,22 +2,65 @@
   "id": "broschüren",
   "titel": "Broschüren",
   "inhalt": "Broschüren zum Betreuungsrecht zum Download (PDF)\n\nUntenstehend kommen Sie zu dem Download-Link des Justizministeriums, unter dem Infobroschüren zur [Vorsorgevollmacht](vorsorgevollmacht) und Betreuung verfügbar sind. Es handelt sich hierbei um vor allem für [Betreuer (Ehrenamt)](betreuer-(ehrenamt)) nützliche Grundinformationen.\n\nDownloadportal für Reader-Software für PDF-Dateien\n\nDownload\nInfobroschüre Betreuungsrecht \n\nWeitere Themenbroschüren\nHandreichung und Formular christliche Patientenverfügung - Neufassung 2011 (PDF)\nInfobroschüren zum Thema Demenz (Dt. Alzheimergesellschaft)\n\nSiehe auch\n [Buchverzeichnis](buchverzeichnis)\n [Ausbildung](ausbildung)\n [Formulare](formulare)\n [Link-Liste](link-liste)\n [Baden-Württemberg](baden-württemberg)\n [Bayern](bayern)\n [Berlin](berlin)\n [Brandenburg](brandenburg)\n [Bremen](bremen)\n [Hamburg](hamburg)\n [Nordrhein-Westfalen](nordrhein-westfalen)\n\n[Kategorie:Arbeitshilfen](kategorie:arbeitshilfen)\n[Kategorie:Literatur](kategorie:literatur)",
+  "struktur": [
+    {
+      "titel": "Broschüren zum Betreuungsrecht zum Download (PDF)",
+      "inhalt": "Untenstehend kommen Sie zu dem Download-Link des Justizministeriums, unter dem Infobroschüren zur Vorsorgevollmacht und Betreuung verfügbar sind. Es handelt sich hierbei um vor allem für ehrenamtliche Betreuer nützliche Grundinformationen.\n\nDownloadportal für Reader-Software für PDF-Dateien",
+      "tags": [
+        "untenstehend",
+        "kommen",
+        "download",
+        "link",
+        "justizministeriums"
+      ]
+    },
+    {
+      "titel": "Download",
+      "inhalt": "Infobroschüre Betreuungsrecht",
+      "tags": [
+        "infobroschüre",
+        "betreuungsrecht"
+      ]
+    },
+    {
+      "titel": "Weitere Themenbroschüren",
+      "inhalt": "Handreichung und Formular christliche Patientenverfügung - Neufassung 2011 (PDF)\nInfobroschüren zum Thema Demenz (Dt. Alzheimergesellschaft)",
+      "tags": [
+        "handreichung",
+        "formular",
+        "christliche",
+        "patientenverfügung",
+        "neufassung"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Buchverzeichnis\n Ausbildung\n Formulare\n Link-Liste\n Baden-Württemberg\n Bayern\n Berlin\n Brandenburg\n Bremen\n Hamburg\n Nordrhein-Westfalen\n\nKategorie:Arbeitshilfen\nKategorie:Literatur",
+      "tags": [
+        "kategorie",
+        "buchverzeichnis",
+        "ausbildung",
+        "formulare",
+        "link"
+      ]
+    }
+  ],
   "zusammenfassung": "Broschüren zum Betreuungsrecht zum Download (PDF)\n\nUntenstehend kommen Sie zu dem Download-Link des Justizministeriums, unter dem Infobroschüren zur [Vorsorgevollmacht](vorsorgevollmacht) und Betreuung verfügbar sind. Es handelt sich hierbei um vor allem für [Betreuer (Ehrenamt)](betreuer-(ehrenamt)...",
   "verwandteArtikel": [
-    "buchverzeichnis",
-    "betreuer-(ehrenamt)",
-    "ausbildung",
     "formulare",
-    "bayern",
-    "kategorie:arbeitshilfen",
-    "hamburg",
     "link-liste",
-    "berlin",
-    "vorsorgevollmacht",
-    "baden-württemberg",
-    "bremen",
     "kategorie:literatur",
+    "berlin",
+    "bremen",
+    "kategorie:arbeitshilfen",
+    "buchverzeichnis",
+    "hamburg",
+    "bayern",
+    "baden-württemberg",
+    "betreuer-(ehrenamt)",
     "nordrhein-westfalen",
-    "brandenburg"
+    "brandenburg",
+    "ausbildung",
+    "vorsorgevollmacht"
   ]
 }

@@ -2,6 +2,16 @@
   "id": "reform",
   "titel": "Reform",
   "inhalt": "redirect [Betreuungsrechtsreform](betreuungsrechtsreform)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuungsrechtsreform",
+      "tags": [
+        "redirect",
+        "betreuungsrechtsreform"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuungsrechtsreform](betreuungsrechtsreform)...",
   "verwandteArtikel": [
     "betreuungsrechtsreform"

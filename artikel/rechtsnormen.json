@@ -2,6 +2,16 @@
   "id": "rechtsnormen",
   "titel": "Rechtsnormen",
   "inhalt": "redirect [Gesetzestexte](gesetzestexte)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Gesetzestexte",
+      "tags": [
+        "redirect",
+        "gesetzestexte"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Gesetzestexte](gesetzestexte)...",
   "verwandteArtikel": [
     "gesetzestexte"

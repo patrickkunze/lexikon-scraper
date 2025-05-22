@@ -2,6 +2,17 @@
   "id": "nrw",
   "titel": "NRW",
   "inhalt": "redirect [Nordrhein-Westfalen](nordrhein-westfalen)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Nordrhein-Westfalen",
+      "tags": [
+        "redirect",
+        "nordrhein",
+        "westfalen"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Nordrhein-Westfalen](nordrhein-westfalen)...",
   "verwandteArtikel": [
     "nordrhein-westfalen"

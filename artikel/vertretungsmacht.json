@@ -2,6 +2,17 @@
   "id": "vertretungsmacht",
   "titel": "Vertretungsmacht",
   "inhalt": "redirect [gesetzliche Vertretung](gesetzliche-vertretung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect gesetzliche Vertretung",
+      "tags": [
+        "redirect",
+        "gesetzliche",
+        "vertretung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [gesetzliche Vertretung](gesetzliche-vertretung)...",
   "verwandteArtikel": [
     "gesetzliche-vertretung"

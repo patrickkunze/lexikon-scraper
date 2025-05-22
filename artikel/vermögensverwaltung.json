@@ -2,6 +2,16 @@
   "id": "vermögensverwaltung",
   "titel": "Vermögensverwaltung",
   "inhalt": "redirect [Vermögenssorge](vermögenssorge)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Vermögenssorge",
+      "tags": [
+        "redirect",
+        "vermögenssorge"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Vermögenssorge](vermögenssorge)...",
   "verwandteArtikel": [
     "vermögenssorge"

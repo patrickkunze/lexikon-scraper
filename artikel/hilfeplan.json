@@ -2,6 +2,16 @@
   "id": "hilfeplan",
   "titel": "Hilfeplan",
   "inhalt": "redirect [Betreuungsplan](betreuungsplan)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuungsplan",
+      "tags": [
+        "redirect",
+        "betreuungsplan"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuungsplan](betreuungsplan)...",
   "verwandteArtikel": [
     "betreuungsplan"

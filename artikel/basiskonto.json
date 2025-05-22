@@ -2,6 +2,16 @@
   "id": "basiskonto",
   "titel": "Basiskonto",
   "inhalt": "redirect [Girokonto](girokonto)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Girokonto",
+      "tags": [
+        "redirect",
+        "girokonto"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Girokonto](girokonto)...",
   "verwandteArtikel": [
     "girokonto"

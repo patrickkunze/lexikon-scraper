@@ -2,6 +2,19 @@
   "id": "kooperationsvereinbarung",
   "titel": "Kooperationsvereinbarung",
   "inhalt": "redirect [Vereinbarung über Begleitung und Unterstützung](vereinbarung-über-begleitung-und-unterstützung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Vereinbarung über Begleitung und Unterstützung",
+      "tags": [
+        "redirect",
+        "vereinbarung",
+        "über",
+        "begleitung",
+        "unterstützung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Vereinbarung über Begleitung und Unterstützung](vereinbarung-über-begleitung-und-unterstützung)...",
   "verwandteArtikel": [
     "vereinbarung-über-begleitung-und-unterstützung"

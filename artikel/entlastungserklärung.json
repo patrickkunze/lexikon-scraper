@@ -2,6 +2,16 @@
   "id": "entlastungserklärung",
   "titel": "Entlastungserklärung",
   "inhalt": "redirect [Schlusstätigkeiten](schlusstätigkeiten)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Schlusstätigkeiten",
+      "tags": [
+        "redirect",
+        "schlusstätigkeiten"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Schlusstätigkeiten](schlusstätigkeiten)...",
   "verwandteArtikel": [
     "schlusstätigkeiten"

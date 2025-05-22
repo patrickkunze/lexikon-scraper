@@ -2,6 +2,16 @@
   "id": "ehegattenvertretungsrecht",
   "titel": "Ehegattenvertretungsrecht",
   "inhalt": "redirect [Angehörigenvertretungsrecht](angehörigenvertretungsrecht)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Angehörigenvertretungsrecht",
+      "tags": [
+        "redirect",
+        "angehörigenvertretungsrecht"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Angehörigenvertretungsrecht](angehörigenvertretungsrecht)...",
   "verwandteArtikel": [
     "angehörigenvertretungsrecht"

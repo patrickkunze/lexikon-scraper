@@ -2,6 +2,17 @@
   "id": "steuern",
   "titel": "Steuern",
   "inhalt": "redirect [Betreuungskosten im Steuerrecht](betreuungskosten-im-steuerrecht)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuungskosten im Steuerrecht",
+      "tags": [
+        "redirect",
+        "betreuungskosten",
+        "steuerrecht"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuungskosten im Steuerrecht](betreuungskosten-im-steuerrecht)...",
   "verwandteArtikel": [
     "betreuungskosten-im-steuerrecht"

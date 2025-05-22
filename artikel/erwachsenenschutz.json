@@ -2,6 +2,17 @@
   "id": "erwachsenenschutz",
   "titel": "Erwachsenenschutz",
   "inhalt": "redirect [Haager Übereinkommen](haager-übereinkommen)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Haager Übereinkommen",
+      "tags": [
+        "redirect",
+        "haager",
+        "übereinkommen"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Haager Übereinkommen](haager-übereinkommen)...",
   "verwandteArtikel": [
     "haager-übereinkommen"

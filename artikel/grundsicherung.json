@@ -2,6 +2,16 @@
   "id": "grundsicherung",
   "titel": "Grundsicherung",
   "inhalt": "redirect [Sozialhilfe](sozialhilfe)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Sozialhilfe",
+      "tags": [
+        "redirect",
+        "sozialhilfe"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Sozialhilfe](sozialhilfe)...",
   "verwandteArtikel": [
     "sozialhilfe"

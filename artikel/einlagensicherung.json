@@ -2,6 +2,16 @@
   "id": "einlagensicherung",
   "titel": "Einlagensicherung",
   "inhalt": "redirect [Mündelsicher](mündelsicher)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Mündelsicher",
+      "tags": [
+        "redirect",
+        "mündelsicher"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Mündelsicher](mündelsicher)...",
   "verwandteArtikel": [
     "mündelsicher"

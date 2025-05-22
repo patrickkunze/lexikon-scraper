@@ -2,6 +2,17 @@
   "id": "zuführung",
   "titel": "Zuführung",
   "inhalt": "redirect [Zuführung zur Unterbringung](zuführung-zur-unterbringung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Zuführung zur Unterbringung",
+      "tags": [
+        "redirect",
+        "zuführung",
+        "unterbringung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Zuführung zur Unterbringung](zuführung-zur-unterbringung)...",
   "verwandteArtikel": [
     "zuführung-zur-unterbringung"

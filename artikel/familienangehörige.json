@@ -2,6 +2,18 @@
   "id": "familienangehörige",
   "titel": "Familienangehörige",
   "inhalt": "redirect [Betreuerbestellung#Bestellung von Familienangehörigen](betreuerbestellung#bestellung-von-familienangehörigen)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuerbestellung#Bestellung von Familienangehörigen",
+      "tags": [
+        "redirect",
+        "betreuerbestellung",
+        "bestellung",
+        "familienangehörigen"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuerbestellung#Bestellung von Familienangehörigen](betreuerbestellung#bestellung-von-familienangehörigen)...",
   "verwandteArtikel": [
     "betreuerbestellung#bestellung-von-familienangehörigen"

@@ -2,6 +2,16 @@
   "id": "forum-url",
   "titel": "Forum-url",
   "inhalt": "redirect [Mailingliste](mailingliste)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Mailingliste",
+      "tags": [
+        "redirect",
+        "mailingliste"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Mailingliste](mailingliste)...",
   "verwandteArtikel": [
     "mailingliste"

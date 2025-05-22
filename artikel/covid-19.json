@@ -2,6 +2,16 @@
   "id": "covid-19",
   "titel": "Covid-19",
   "inhalt": "redirect [Corona](corona)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Corona",
+      "tags": [
+        "redirect",
+        "corona"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Corona](corona)...",
   "verwandteArtikel": [
     "corona"

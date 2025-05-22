@@ -2,6 +2,17 @@
   "id": "aufhebung",
   "titel": "Aufhebung",
   "inhalt": "redirect [Aufhebung der Betreuung](aufhebung-der-betreuung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Aufhebung der Betreuung",
+      "tags": [
+        "redirect",
+        "aufhebung",
+        "betreuung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Aufhebung der Betreuung](aufhebung-der-betreuung)...",
   "verwandteArtikel": [
     "aufhebung-der-betreuung"

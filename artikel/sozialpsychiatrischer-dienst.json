@@ -2,20 +2,53 @@
   "id": "sozialpsychiatrischer-dienst",
   "titel": "Sozialpsychiatrischer Dienst",
   "inhalt": "Menschen in Deutschland mit einer chronischen Erkrankung oder Behinderung sowie deren Angehörige stehen in ihrer jeweils besonderen Lebenssituation häufig vor tiefgreifenden Problemen und haben viele Fragen. Die Sozialdienste der örtlichen Gesundheitsämter bieten hoffentlich qualifizierte Hilfen dafür an. Die Teams bestehen meistens aus Sozialarbeitenden und sozialpädagogischen Fachkräften und arbeiten mit den fachärztlichen Diensten des Gesundheitsamtes vor Ort eng zusammen.\n\nSozialpsychiatrische Dienste sind in den [Psychisch-Kranken-Gesetz](psychisch-kranken-gesetz) geregelt. In [Baden-Württemberg](baden-württemberg) ist das Gesetz über Hilfen und Schutzmaßnahmen bei psychischen Krankheiten einschlägig (§ 6 PsychKHG BW). Die Einschränkung von [Grundrechte](grundrechte)n der psychisch Kranken wird durch § 56 PsychKHG BW ermöglicht bzw. gesetzlich gerechtfertigt. Dieses Landesgesetz ist seit dem [Neu](neu) in Kraft. Eine Zusammenarbeit der Sozialdienste mit den Rechtsbetreuenden ist gesetzlich nicht vorgeschrieben, kann aber im Rahmen einer fallbezogenen [Betreuungsarbeitsgemeinschaft](betreuungsarbeitsgemeinschaft) Vorteile für alle Beteiligten bedeuten.\n\nSiehe auch\n [Psychisch-Kranken-Gesetz](psychisch-kranken-gesetz)\n [Anhörung](anhörung)\n [MDK-Gutachten](mdk-gutachten)\n [Eingliederungshilfe](eingliederungshilfe)\n [Rechtsprechung zur Anhörung](rechtsprechung-zur-anhörung)\n [Unterbringungsähnliche Maßnahme](unterbringungsähnliche-maßnahme)\n [Vulnerabilität](vulnerabilität)\n [Grundrechte](grundrechte)\n [Betreuungsgerichtshilfe](betreuungsgerichtshilfe)\n [Subsidiaritätsprinzip](subsidiaritätsprinzip)\n\nWeblinks\n Was macht der sozialpsychiatrische Dienst?",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "Menschen in Deutschland mit einer chronischen Erkrankung oder Behinderung sowie deren Angehörige stehen in ihrer jeweils besonderen Lebenssituation häufig vor tiefgreifenden Problemen und haben viele Fragen. Die Sozialdienste der örtlichen Gesundheitsämter bieten hoffentlich qualifizierte Hilfen dafür an. Die Teams bestehen meistens aus Sozialarbeitenden und sozialpädagogischen Fachkräften und arbeiten mit den fachärztlichen Diensten des Gesundheitsamtes vor Ort eng zusammen.\n\nSozialpsychiatrische Dienste sind in den entsprechenden Landesgesetzen geregelt. In Baden-Württemberg ist das Gesetz über Hilfen und Schutzmaßnahmen bei psychischen Krankheiten einschlägig (§ 6 PsychKHG BW). Die Einschränkung von Grundrechten der psychisch Kranken wird durch § 56 PsychKHG BW ermöglicht bzw. gesetzlich gerechtfertigt. Dieses Landesgesetz ist seit dem 01.01.2015 in Kraft. Eine Zusammenarbeit der Sozialdienste mit den Rechtsbetreuenden ist gesetzlich nicht vorgeschrieben, kann aber im Rahmen einer fallbezogenen Betreuungsarbeitsgemeinschaft Vorteile für alle Beteiligten bedeuten.",
+      "tags": [
+        "einer",
+        "sozialdienste",
+        "hilfen",
+        "psychkhg",
+        "gesetzlich"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Psychisch-Kranken-Gesetz\n Anhörung\n MDK-Gutachten\n Eingliederungshilfe\n Rechtsprechung zur Anhörung\n Unterbringungsähnliche Maßnahme\n Vulnerabilität\n Grundrechte\n Betreuungsgerichtshilfe\n Subsidiaritätsprinzip",
+      "tags": [
+        "anhörung",
+        "psychisch",
+        "kranken",
+        "gesetz",
+        "gutachten"
+      ]
+    },
+    {
+      "titel": "Weblinks",
+      "inhalt": "Was macht der sozialpsychiatrische Dienst?",
+      "tags": [
+        "macht",
+        "sozialpsychiatrische",
+        "dienst"
+      ]
+    }
+  ],
   "zusammenfassung": "Menschen in Deutschland mit einer chronischen Erkrankung oder Behinderung sowie deren Angehörige stehen in ihrer jeweils besonderen Lebenssituation häufig vor tiefgreifenden Problemen und haben viele Fragen. Die Sozialdienste der örtlichen Gesundheitsämter bieten hoffentlich qualifizierte Hilfen daf...",
   "verwandteArtikel": [
-    "vulnerabilität",
-    "rechtsprechung-zur-anhörung",
-    "neu",
-    "subsidiaritätsprinzip",
-    "betreuungsarbeitsgemeinschaft",
-    "grundrechte",
-    "anhörung",
-    "baden-württemberg",
-    "psychisch-kranken-gesetz",
-    "eingliederungshilfe",
     "betreuungsgerichtshilfe",
     "mdk-gutachten",
-    "unterbringungsähnliche-maßnahme"
+    "eingliederungshilfe",
+    "subsidiaritätsprinzip",
+    "baden-württemberg",
+    "vulnerabilität",
+    "psychisch-kranken-gesetz",
+    "unterbringungsähnliche-maßnahme",
+    "neu",
+    "anhörung",
+    "rechtsprechung-zur-anhörung",
+    "betreuungsarbeitsgemeinschaft",
+    "grundrechte"
   ]
 }

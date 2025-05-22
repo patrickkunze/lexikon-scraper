@@ -2,6 +2,16 @@
   "id": "diskussionsforum",
   "titel": "Diskussionsforum",
   "inhalt": "redirect [Mailingliste](mailingliste)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Mailingliste",
+      "tags": [
+        "redirect",
+        "mailingliste"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Mailingliste](mailingliste)...",
   "verwandteArtikel": [
     "mailingliste"

@@ -2,6 +2,16 @@
   "id": "e­inwilligungs­vor­be­halt",
   "titel": "E­inwilligungs­vor­be­halt",
   "inhalt": "redirect [Einwilligungsvorbehalt](einwilligungsvorbehalt)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Einwilligungsvorbehalt",
+      "tags": [
+        "redirect",
+        "einwilligungsvorbehalt"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Einwilligungsvorbehalt](einwilligungsvorbehalt)...",
   "verwandteArtikel": [
     "einwilligungsvorbehalt"

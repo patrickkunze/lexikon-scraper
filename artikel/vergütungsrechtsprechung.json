@@ -2,6 +2,17 @@
   "id": "vergütungsrechtsprechung",
   "titel": "Vergütungsrechtsprechung",
   "inhalt": "redirect [VBVG-Rechtsprechung](vbvg-rechtsprechung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect VBVG-Rechtsprechung",
+      "tags": [
+        "redirect",
+        "vbvg",
+        "rechtsprechung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [VBVG-Rechtsprechung](vbvg-rechtsprechung)...",
   "verwandteArtikel": [
     "vbvg-rechtsprechung"

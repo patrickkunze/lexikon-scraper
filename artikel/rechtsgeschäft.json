@@ -2,6 +2,17 @@
   "id": "rechtsgeschäft",
   "titel": "Rechtsgeschäft",
   "inhalt": "redirect [gesetzlicher Vertreter](gesetzlicher-vertreter)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect gesetzlicher Vertreter",
+      "tags": [
+        "redirect",
+        "gesetzlicher",
+        "vertreter"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [gesetzlicher Vertreter](gesetzlicher-vertreter)...",
   "verwandteArtikel": [
     "gesetzlicher-vertreter"

@@ -2,6 +2,16 @@
   "id": "arztattest",
   "titel": "Arztattest",
   "inhalt": "redirect [Arztzeugnis](arztzeugnis)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Arztzeugnis",
+      "tags": [
+        "redirect",
+        "arztzeugnis"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Arztzeugnis](arztzeugnis)...",
   "verwandteArtikel": [
     "arztzeugnis"

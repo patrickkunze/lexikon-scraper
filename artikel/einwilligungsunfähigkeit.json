@@ -2,6 +2,16 @@
   "id": "einwilligungsunfähigkeit",
   "titel": "Einwilligungsunfähigkeit",
   "inhalt": "redirect [Einwilligungsfähigkeit](einwilligungsfähigkeit)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Einwilligungsfähigkeit",
+      "tags": [
+        "redirect",
+        "einwilligungsfähigkeit"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Einwilligungsfähigkeit](einwilligungsfähigkeit)...",
   "verwandteArtikel": [
     "einwilligungsfähigkeit"

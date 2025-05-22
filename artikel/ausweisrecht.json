@@ -2,6 +2,16 @@
   "id": "ausweisrecht",
   "titel": "Ausweisrecht",
   "inhalt": "redirect [Personalausweis](personalausweis)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Personalausweis",
+      "tags": [
+        "redirect",
+        "personalausweis"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Personalausweis](personalausweis)...",
   "verwandteArtikel": [
     "personalausweis"

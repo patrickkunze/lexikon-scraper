@@ -2,6 +2,16 @@
   "id": "btog",
   "titel": "BtOG",
   "inhalt": "redirect [Betreuungsorganisationsgesetz](betreuungsorganisationsgesetz)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuungsorganisationsgesetz",
+      "tags": [
+        "redirect",
+        "betreuungsorganisationsgesetz"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuungsorganisationsgesetz](betreuungsorganisationsgesetz)...",
   "verwandteArtikel": [
     "betreuungsorganisationsgesetz"

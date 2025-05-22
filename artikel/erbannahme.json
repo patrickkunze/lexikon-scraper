@@ -2,6 +2,16 @@
   "id": "erbannahme",
   "titel": "Erbannahme",
   "inhalt": "redirect [Erbschaft](erbschaft)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Erbschaft",
+      "tags": [
+        "redirect",
+        "erbschaft"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Erbschaft](erbschaft)...",
   "verwandteArtikel": [
     "erbschaft"

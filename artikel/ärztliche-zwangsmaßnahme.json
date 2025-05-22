@@ -2,6 +2,15 @@
   "id": "ärztliche-zwangsmaßnahme",
   "titel": "Ärztliche Zwangsmaßnahme",
   "inhalt": "redirect[Zwangsbehandlung](zwangsbehandlung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirectZwangsbehandlung",
+      "tags": [
+        "redirectzwangsbehandlung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect[Zwangsbehandlung](zwangsbehandlung)...",
   "verwandteArtikel": [
     "zwangsbehandlung"

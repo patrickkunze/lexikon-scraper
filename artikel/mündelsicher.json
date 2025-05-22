@@ -2,6 +2,16 @@
   "id": "mündelsicher",
   "titel": "Mündelsicher",
   "inhalt": "redirect [Anlagegeld](anlagegeld)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Anlagegeld",
+      "tags": [
+        "redirect",
+        "anlagegeld"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Anlagegeld](anlagegeld)...",
   "verwandteArtikel": [
     "anlagegeld"

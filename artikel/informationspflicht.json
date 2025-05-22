@@ -2,45 +2,146 @@
   "id": "informationspflicht",
   "titel": "Informationspflicht",
   "inhalt": "[Allgemeines](allgemeines)\nInformationspflichten sieht der demokratische Gesetzgeber vor allem zum Verbraucherschutz und im Sozialrecht vor. \n\nAlle Sozialleistungsträger haben nach § 15 SGB I Auskunft zu geben über die Ansprüche, die den Bürger/innen zustehen. Diese Ansprüche kann der Betreuer [Gesetzliche Vertretung](gesetzliche-vertretung).\n\nÄrztliche Informationspflicht\nEine im Betreuungsrecht wichtige Informationspflicht wird durch § 630e BGB dem behandelnden Arzt oder der Ärztin als Aufklärungspflicht gesetzlich vorgeschrieben. Die ärztliche Aufklärung vor Abschluss des Behandlungsvertrags muss bei Betreuten auch gegenüber dem Betreuer erfolgen, da er ja den [Behandlungsvertrag](behandlungsvertrag) unterschreiben und damit auch in die Behandlung einwilligen muss. Dies gilt jedoch nur, wenn der Betreute nach Überzeugung des Arztes [Einwilligungsfähigkeit](einwilligungsfähigkeit) ist.\n\nEinholung einer Zweitmeinung?\nKrankenversicherte in Deutschland, bei denen von ihrem Haus- oder Facharzt die Indikation zu einem planbaren Eingriff in ihre körperliche Unversehrtheit (= [Grundrechte](grundrechte)) gestellt wird, haben gemäß § 27b SGB V einen Anspruch darauf, eine unabhängige ärztliche Zweitmeinung einzuholen, falls sie mit ihrer Einwilligung noch unsicher sind. Bei [Einwilligungsfähigkeit](einwilligungsfähigkeit) Patienten gilt dies sicher auch für den [Betreuer](betreuer) oder den [Vorsorgevollmacht](vorsorgevollmacht) mit dem [Aufgabenkreis](aufgabenkreis) [Gesundheitssorge](gesundheitssorge). Zur Erbringung dieser Zweitmeinung (vergleiche: [Arztzeugnis](arztzeugnis)) sind gemäß § 27b Abs. 3 SGB V zugelassene Ärzte, zugelassene medizinische Versorgungszentren, ermächtigte Ärzte und Einrichtungen, zugelassene Krankenhäuser sowie spezielle Zweitmeinungsärzte berechtigt.\n\nhandelsrechtliche Informationspflichten\nAuch zum rechtswirksamen Abschluss eines sogenannten Fernabsatzvertrages müssen gemäß § 312d BGB bestimmte Informationspflichten erfüllt worden sein, was bei Betreuten inhaltlich oft strittig sein dürfte. Dasselbe gilt gemäß § 651d BGB auch für Pauschalreiseverträge.\n\nInformationspflichten gemäß § 676b Abs. 2 Satz 2 BGB können die Banken in Deutschland [Geschäftsfähigkeit](geschäftsfähigkeit) gegenüber nur dadurch erfüllen, dass sie die entsprechende Information im Sinne von § 131 Abs. 1 BGB an den [Gesetzlicher Vertreter](gesetzlicher-vertreter) richten. Die damit einhergehende fehlende Rechtssicherheit bei Rechtsgeschäften mit unerkannt Geschäftsunfähigen entspricht der grundlegenden Wertentscheidung des Gesetzgebers zugunsten der Interessen der aufgrund persönlicher Eigenschaften typischerweise schwächeren Teilnehmerinnen und Teilnehmer am rechtsgeschäftlichen Verkehr (= [Vulnerabilität](vulnerabilität)).\n\nInformationspflicht der Betreuungsbehörde\nGemäß § 5 [BtOG](btog) haben die örtlichen [Betreuungsbehörde](betreuungsbehörde)n in Deutschland eine gesetzliche Informationspflicht im Rahmen der [Querschnittsaufgaben](querschnittsaufgaben).\n\nInformationspflicht der Wohn- und Pflegeheime\nVor Abschluss eines Wohn- und Betreuungsvertrags muss das [Altenheim](altenheim) den künftigen Bewohner schriftlich über den Vertragsinhalt und über die Möglichkeit späterer Leistungs- und Entgeltveränderungen informieren (§ 3 WBVG).\n\nInformationspflichten der \"gematik\"\nDie deutsche Gesellschaft für Telematik (gematik) ist verpflichtet, auf ihrer Internetseite und in analogen Formaten Informationen für die Versicherten in präziser, transparenter, verständlicher, leicht zugänglicher und [digitale Barrierefreiheit](digitale-barrierefreiheit) Form zur Verfügung zu stellen. Dies ist in § 314 SGB V gesetzlich geregelt.\n\nInformationspflichten der Krankenkassen\nDie Informationspflichten der Krankenkassen zur [elektronische Patientenakte](elektronische-patientenakte) sind in § 343 SGB V gesetzlich geregelt.\n\nSiehe auch\n [Beratung](beratung)\n [digitale Barrierefreiheit](digitale-barrierefreiheit)\n [Zugriffsrecht](zugriffsrecht)\n [Grundrechte](grundrechte)\n [Datenschutz](datenschutz)\n [Diskriminierungsverbot](diskriminierungsverbot)\n [Amtspflichtverletzung](amtspflichtverletzung)\n [Rundfunkbeitrag](rundfunkbeitrag)\n [Einwilligungsfähigkeit](einwilligungsfähigkeit)\n [Checkliste für Arztgespräche](checkliste-für-arztgespräche)\n [Medikationsplan](medikationsplan)\n [Vulnerabilität](vulnerabilität)\n [Wohn- und Betreuungsvertragsgesetz](wohn--und-betreuungsvertragsgesetz)\n [Vermögensverzeichnis](vermögensverzeichnis)\n [Girokonto](girokonto)\n [Betreuungszahlen](betreuungszahlen)\n [Heilbehandlung](heilbehandlung)\n [Dokumentationspflicht](dokumentationspflicht)\n [Genehmigung der Heilbehandlung](genehmigung-der-heilbehandlung)\n [Betreuungsarbeitsgemeinschaft](betreuungsarbeitsgemeinschaft)\n [Beaufsichtigung](beaufsichtigung)\n [Verbraucherstreitbeilegung](verbraucherstreitbeilegung)\n [Neu](neu)",
+  "struktur": [
+    {
+      "titel": "Allgemeines",
+      "inhalt": "Informationspflichten sieht der demokratische Gesetzgeber vor allem zum Verbraucherschutz und im Sozialrecht vor. \n\nAlle Sozialleistungsträger haben nach § 15 SGB I Auskunft zu geben über die Ansprüche, die den Bürger/innen zustehen. Diese Ansprüche kann der Betreuer stellvertretend wahrnehmen.",
+      "tags": [
+        "ansprüche",
+        "informationspflichten",
+        "sieht",
+        "demokratische",
+        "gesetzgeber"
+      ]
+    },
+    {
+      "titel": "Ärztliche Informationspflicht",
+      "inhalt": "Eine im Betreuungsrecht wichtige Informationspflicht wird durch § 630e BGB dem behandelnden Arzt oder der Ärztin als Aufklärungspflicht gesetzlich vorgeschrieben. Die ärztliche Aufklärung vor Abschluss des Behandlungsvertrags muss bei Betreuten auch gegenüber dem Betreuer erfolgen, da er ja den Behandlungsvertrag unterschreiben und damit auch in die Behandlung einwilligen muss. Dies gilt jedoch nur, wenn der Betreute nach Überzeugung des Arztes einwilligungsunfähig ist.",
+      "tags": [
+        "muss",
+        "betreuungsrecht",
+        "wichtige",
+        "informationspflicht",
+        "wird"
+      ]
+    },
+    {
+      "titel": "Einholung einer Zweitmeinung?",
+      "inhalt": "Krankenversicherte in Deutschland, bei denen von ihrem Haus- oder Facharzt die Indikation zu einem planbaren Eingriff in ihre körperliche Unversehrtheit (= Grundrechtseingriff) gestellt wird, haben gemäß § 27b SGB V einen Anspruch darauf, eine unabhängige ärztliche Zweitmeinung einzuholen, falls sie mit ihrer Einwilligung noch unsicher sind. Bei einwilligungsunfähigen Patienten gilt dies sicher auch für den Betreuer oder den Vorsorgebevollmächtigten mit dem Aufgabenkreis Gesundheitssorge. Zur Erbringung dieser Zweitmeinung (vergleiche: Arztzeugnis) sind gemäß § 27b Abs. 3 SGB V zugelassene Ärzte, zugelassene medizinische Versorgungszentren, ermächtigte Ärzte und Einrichtungen, zugelassene Krankenhäuser sowie spezielle Zweitmeinungsärzte berechtigt.",
+      "tags": [
+        "zugelassene",
+        "gemäß",
+        "zweitmeinung",
+        "ärzte",
+        "krankenversicherte"
+      ]
+    },
+    {
+      "titel": "handelsrechtliche Informationspflichten",
+      "inhalt": "Auch zum rechtswirksamen Abschluss eines sogenannten Fernabsatzvertrages müssen gemäß § 312d BGB bestimmte Informationspflichten erfüllt worden sein, was bei Betreuten inhaltlich oft strittig sein dürfte. Dasselbe gilt gemäß § 651d BGB auch für Pauschalreiseverträge.\n\nInformationspflichten gemäß § 676b Abs. 2 Satz 2 BGB können die Banken in Deutschland Geschäftsunfähigen gegenüber nur dadurch erfüllen, dass sie die entsprechende Information im Sinne von § 131 Abs. 1 BGB an den gesetzlichen Vertreter richten. Die damit einhergehende fehlende Rechtssicherheit bei Rechtsgeschäften mit unerkannt Geschäftsunfähigen entspricht der grundlegenden Wertentscheidung des Gesetzgebers zugunsten der Interessen der aufgrund persönlicher Eigenschaften typischerweise schwächeren Teilnehmerinnen und Teilnehmer am rechtsgeschäftlichen Verkehr (= vulnerable Gruppe).",
+      "tags": [
+        "gemäß",
+        "informationspflichten",
+        "sein",
+        "geschäftsunfähigen",
+        "rechtswirksamen"
+      ]
+    },
+    {
+      "titel": "Informationspflicht der Betreuungsbehörde",
+      "inhalt": "Gemäß § 5 BtOG haben die örtlichen Betreuungsbehörden in Deutschland eine gesetzliche Informationspflicht im Rahmen der Querschnittsaufgaben.",
+      "tags": [
+        "gemäß",
+        "btog",
+        "haben",
+        "örtlichen",
+        "betreuungsbehörden"
+      ]
+    },
+    {
+      "titel": "Informationspflicht der Wohn- und Pflegeheime",
+      "inhalt": "Vor Abschluss eines Wohn- und Betreuungsvertrags muss das Heim den künftigen Bewohner schriftlich über den Vertragsinhalt und über die Möglichkeit späterer Leistungs- und Entgeltveränderungen informieren (§ 3 WBVG).",
+      "tags": [
+        "über",
+        "abschluss",
+        "eines",
+        "wohn",
+        "betreuungsvertrags"
+      ]
+    },
+    {
+      "titel": "Informationspflichten der \"gematik\"",
+      "inhalt": "Die deutsche Gesellschaft für Telematik (gematik) ist verpflichtet, auf ihrer Internetseite und in analogen Formaten Informationen für die Versicherten in präziser, transparenter, verständlicher, leicht zugänglicher und barrierefreier Form zur Verfügung zu stellen. Dies ist in § 314 SGB V gesetzlich geregelt.",
+      "tags": [
+        "deutsche",
+        "gesellschaft",
+        "telematik",
+        "gematik",
+        "verpflichtet"
+      ]
+    },
+    {
+      "titel": "Informationspflichten der Krankenkassen",
+      "inhalt": "Die Informationspflichten der Krankenkassen zur elektronischen Patientenakte sind in § 343 SGB V gesetzlich geregelt.",
+      "tags": [
+        "informationspflichten",
+        "krankenkassen",
+        "elektronischen",
+        "patientenakte",
+        "gesetzlich"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Beratung\n digitale Barrierefreiheit\n Zugriffsrecht\n Grundrechte\n Datenschutz\n Diskriminierungsverbot\n Amtspflichtverletzung\n Rundfunkbeitrag\n Einwilligungsfähigkeit\n Checkliste für Arztgespräche\n Medikationsplan\n Vulnerabilität\n Wohn- und Betreuungsvertragsgesetz\n Vermögensverzeichnis\n Girokonto\n Betreuungszahlen\n Heilbehandlung\n Dokumentationspflicht\n Genehmigung der Heilbehandlung\n Betreuungsarbeitsgemeinschaft\n Beaufsichtigung\n Verbraucherstreitbeilegung\n Was ist neu?",
+      "tags": [
+        "heilbehandlung",
+        "beratung",
+        "digitale",
+        "barrierefreiheit",
+        "zugriffsrecht"
+      ]
+    }
+  ],
   "zusammenfassung": "[Allgemeines](allgemeines)\nInformationspflichten sieht der demokratische Gesetzgeber vor allem zum Verbraucherschutz und im Sozialrecht vor. \n\nAlle Sozialleistungsträger haben nach § 15 SGB I Auskunft zu geben über die Ansprüche, die den Bürger/innen zustehen. Diese Ansprüche kann der Betreuer [Gese...",
   "verwandteArtikel": [
-    "genehmigung-der-heilbehandlung",
-    "grundrechte",
-    "gesundheitssorge",
-    "elektronische-patientenakte",
-    "medikationsplan",
-    "dokumentationspflicht",
     "btog",
-    "amtspflichtverletzung",
-    "allgemeines",
-    "wohn--und-betreuungsvertragsgesetz",
-    "geschäftsfähigkeit",
-    "betreuer",
-    "einwilligungsfähigkeit",
-    "diskriminierungsverbot",
-    "betreuungsarbeitsgemeinschaft",
-    "vermögensverzeichnis",
-    "querschnittsaufgaben",
-    "betreuungszahlen",
-    "heilbehandlung",
-    "verbraucherstreitbeilegung",
-    "arztzeugnis",
-    "aufgabenkreis",
-    "gesetzliche-vertretung",
-    "rundfunkbeitrag",
-    "vulnerabilität",
-    "beratung",
-    "gesetzlicher-vertreter",
-    "altenheim",
-    "checkliste-für-arztgespräche",
-    "neu",
     "zugriffsrecht",
-    "digitale-barrierefreiheit",
-    "datenschutz",
-    "betreuungsbehörde",
-    "vorsorgevollmacht",
+    "aufgabenkreis",
+    "checkliste-für-arztgespräche",
+    "grundrechte",
+    "rundfunkbeitrag",
+    "beratung",
+    "verbraucherstreitbeilegung",
+    "einwilligungsfähigkeit",
+    "arztzeugnis",
+    "heilbehandlung",
     "behandlungsvertrag",
+    "digitale-barrierefreiheit",
+    "neu",
+    "vulnerabilität",
+    "betreuungsbehörde",
+    "betreuer",
+    "diskriminierungsverbot",
+    "genehmigung-der-heilbehandlung",
+    "wohn--und-betreuungsvertragsgesetz",
+    "altenheim",
+    "geschäftsfähigkeit",
+    "gesetzlicher-vertreter",
+    "allgemeines",
+    "betreuungszahlen",
+    "dokumentationspflicht",
     "beaufsichtigung",
-    "girokonto"
+    "datenschutz",
+    "gesundheitssorge",
+    "vorsorgevollmacht",
+    "gesetzliche-vertretung",
+    "amtspflichtverletzung",
+    "medikationsplan",
+    "querschnittsaufgaben",
+    "elektronische-patientenakte",
+    "vermögensverzeichnis",
+    "girokonto",
+    "betreuungsarbeitsgemeinschaft"
   ]
 }

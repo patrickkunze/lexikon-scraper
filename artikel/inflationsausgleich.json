@@ -2,6 +2,16 @@
   "id": "inflationsausgleich",
   "titel": "Inflationsausgleich",
   "inhalt": "redirect [Betreuervergütung#Aktuelles_zum_Inflationsausgleich](betreuervergütung#aktuelles_zum_inflationsausgleich)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Betreuervergütung#Aktuelles_zum_Inflationsausgleich",
+      "tags": [
+        "redirect",
+        "betreuervergütung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Betreuervergütung#Aktuelles_zum_Inflationsausgleich](betreuervergütung#aktuelles_zum_inflationsausgleich)...",
   "verwandteArtikel": [
     "betreuervergütung#aktuelles_zum_inflationsausgleich"

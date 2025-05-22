@@ -2,6 +2,16 @@
   "id": "erbrecht",
   "titel": "Erbrecht",
   "inhalt": "redirect [Erbausschlagung](erbausschlagung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Erbausschlagung",
+      "tags": [
+        "redirect",
+        "erbausschlagung"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Erbausschlagung](erbausschlagung)...",
   "verwandteArtikel": [
     "erbausschlagung"

@@ -2,16 +2,51 @@
   "id": "elektronischer-identitätsnachweis",
   "titel": "Elektronischer Identitätsnachweis",
   "inhalt": "Was der [Personalausweis](personalausweis) oder der Reisepass rechtlich im realen Leben leistet, leistet der elektronische Identitätsnachweis (eID) im Internet.\n\nBeide Aus- bzw. Nachweise können gefälscht werden. Dagegen gibt es im deutschen Strafgesetzbuch zahlreiche Strafvorschriften:\n\n Urkundenfälschung § 267 StGB\n Fälschung beweiserheblicher Daten § 269 StGB\n Täuschung im Rechtsverkehr bei Datenverarbeitung § 270 StGB\n Missbrauch von Ausweispapieren § 281 StGB\n\nSiehe auch\n [Personalausweis](personalausweis)\n [Betreuerausweis](betreuerausweis)\n [digitale Barrierefreiheit](digitale-barrierefreiheit)\n [Datenschutz](datenschutz)\n [Registrierung](registrierung)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n [Strafprozess](strafprozess)\n [Zugriffsrecht](zugriffsrecht)\n [Elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach)\n\nWeblinks\n gemeinnütziger Bürgerservice e.V. zur Förderung der Nutzung der Online-Ausweisfunktion",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "Was der Personalausweis oder der Reisepass rechtlich im realen Leben leistet, leistet der elektronische Identitätsnachweis (eID) im Internet.\n\nBeide Aus- bzw. Nachweise können gefälscht werden. Dagegen gibt es im deutschen Strafgesetzbuch zahlreiche Strafvorschriften:\n\n Urkundenfälschung § 267 StGB\n Fälschung beweiserheblicher Daten § 269 StGB\n Täuschung im Rechtsverkehr bei Datenverarbeitung § 270 StGB\n Missbrauch von Ausweispapieren § 281 StGB",
+      "tags": [
+        "stgb",
+        "leistet",
+        "personalausweis",
+        "reisepass",
+        "rechtlich"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Personalausweis\n Betreuerausweis\n digitale Barrierefreiheit\n Datenschutz\n Registrierung\n Rechtsverkehr in Deutschland\n Strafprozess\n Zugriffsrecht\n Elektronisches Gerichts- und Verwaltungspostfach",
+      "tags": [
+        "personalausweis",
+        "betreuerausweis",
+        "digitale",
+        "barrierefreiheit",
+        "datenschutz"
+      ]
+    },
+    {
+      "titel": "Weblinks",
+      "inhalt": "gemeinnütziger Bürgerservice e.V. zur Förderung der Nutzung der Online-Ausweisfunktion",
+      "tags": [
+        "gemeinnütziger",
+        "bürgerservice",
+        "förderung",
+        "nutzung",
+        "online"
+      ]
+    }
+  ],
   "zusammenfassung": "Was der [Personalausweis](personalausweis) oder der Reisepass rechtlich im realen Leben leistet, leistet der elektronische Identitätsnachweis (eID) im Internet.\n\nBeide Aus- bzw. Nachweise können gefälscht werden. Dagegen gibt es im deutschen Strafgesetzbuch zahlreiche Strafvorschriften:\n\n Urkundenfä...",
   "verwandteArtikel": [
-    "personalausweis",
-    "zugriffsrecht",
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "digitale-barrierefreiheit",
-    "datenschutz",
-    "strafprozess",
     "registrierung",
+    "digitale-barrierefreiheit",
+    "strafprozess",
+    "elektronisches-gerichts--und-verwaltungspostfach",
     "rechtsverkehr-in-deutschland",
-    "betreuerausweis"
+    "zugriffsrecht",
+    "betreuerausweis",
+    "personalausweis",
+    "datenschutz"
   ]
 }

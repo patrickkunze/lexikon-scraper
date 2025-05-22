@@ -2,32 +2,98 @@
   "id": "querschnittsaufgaben",
   "titel": "Querschnittsaufgaben",
   "inhalt": "Seite entspricht der Rechtslage ab 2023.\nAllgemeines\nUnter dem Begriff der Querschnittsaufgaben werden allgemein die Tätigkeiten des [Betreuungsverein](betreuungsverein)es bzw. der [Betreuungsbehörde](betreuungsbehörde) verstanden, die nicht mit der direkten Betreuung durch einen [Vereinsbetreuer](vereinsbetreuer)/[Behördenbetreuer](behördenbetreuer) und auch nichts mit der Sachverhaltsaufklärung ([Betreuungsgerichtshilfe](betreuungsgerichtshilfe)) seitens der Betreuungsbehörde oder dem [Registrierung](registrierung) für [Berufsbetreuer](berufsbetreuer) zu tun haben.\n\nBeschrieben werden die Aufgaben für den Betreuungsverein in  BtOG und für die Betreuungsbehörde in den  und  [BtOG](btog).\n\nBetreuungsvereine erhalten dafür staatliche Zuschüsse nach  BtOG iVm mit landesrechtlichen Bestimmungen.\n\nEs handelt sich im Einzelnen im folgende Aufgaben:\n\n[Betreuungsverein](betreuungsverein)\n[Beratung](beratung) [Betreuer (Ehrenamt)](betreuer-(ehrenamt)) sowie Bevollmächtigter\nBeratung von Personen, die eine [Vorsorgevollmacht](vorsorgevollmacht) errichten wollen\n[Einverständniserklärung](einverständniserklärung)\n[Ausbildung](ausbildung) ehrenamtlicher Betreuer\nErmöglichung eines Erfahrungsaustausches für diese Personen\n[Kooperationsvereinbarung](kooperationsvereinbarung) ( BtOG)\n\n[Betreuungsbehörde](betreuungsbehörde)\nSuche nach geeigneten Betreuern (und deren [Betreuervorschlag](betreuervorschlag) ggü. dem Gericht}\n[Beratung](beratung) und Unterstützung von Betreuern (incl. [Zuführung zur Unterbringung](zuführung-zur-unterbringung) zur [Unterbringung](unterbringung))\nBeratung von [Vorsorgevollmacht](vorsorgevollmacht)\n[Beglaubigung durch Betreuungsbehörde](beglaubigung-durch-betreuungsbehörde) von Unterschriften und Handzeichen unter [Vorsorgevollmacht](vorsorgevollmacht)en und [Betreuungsverfügung](betreuungsverfügung)en\nFörderung von Einzelpersonen und Vereinen im Bereich der Betreuung\nSicherstellen von [Ausbildung](ausbildung)\nggf. nach Landesrecht: Organisation einer [Betreuungsarbeitsgemeinschaft](betreuungsarbeitsgemeinschaft)\n\nSiehe auch\n[Grundrechte](grundrechte), [Zuführung zur Unterbringung](zuführung-zur-unterbringung); [Elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach), [Datenschutz](datenschutz)\n\n Weblinks \n\nMustervereinbarung Ehrenamtler - Betreuungsverein (PDF)\nQualitätsleitfaden Betreuungsvereine Berlin\n\n[Kategorie:Betreuungsbehörde](kategorie:betreuungsbehörde)\n[Kategorie:Betreuungsverein](kategorie:betreuungsverein)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "Seite entspricht der Rechtslage ab 2023.",
+      "tags": [
+        "seite",
+        "entspricht",
+        "rechtslage"
+      ]
+    },
+    {
+      "titel": "Allgemeines",
+      "inhalt": "Unter dem Begriff der Querschnittsaufgaben werden allgemein die Tätigkeiten des Betreuungsvereines bzw. der Betreuungsbehörde verstanden, die nicht mit der direkten Betreuung durch einen Vereinsbetreuer/Behördenbetreuer und auch nichts mit der Sachverhaltsaufklärung (Betreuungsgerichtshilfe) seitens der Betreuungsbehörde oder dem Registrierverfahren für Berufsbetreuer zu tun haben.\n\nBeschrieben werden die Aufgaben für den Betreuungsverein in  BtOG und für die Betreuungsbehörde in den  und  BtOG.\n\nBetreuungsvereine erhalten dafür staatliche Zuschüsse nach  BtOG iVm mit landesrechtlichen Bestimmungen.\n\nEs handelt sich im Einzelnen im folgende Aufgaben:",
+      "tags": [
+        "betreuungsbehörde",
+        "btog",
+        "aufgaben",
+        "unter",
+        "begriff"
+      ]
+    },
+    {
+      "titel": "Betreuungsverein",
+      "inhalt": "Beratung ehrenamtlicher Betreuer sowie Bevollmächtigter\nBeratung von Personen, die eine Vorsorgevollmacht errichten wollen\nGewinnung neuer ehrenamtlicher Betreuer\nAus- und Fortbildung ehrenamtlicher Betreuer\nErmöglichung eines Erfahrungsaustausches für diese Personen\nKooperationsvereinbarung ( BtOG)",
+      "tags": [
+        "ehrenamtlicher",
+        "betreuer",
+        "beratung",
+        "personen",
+        "sowie"
+      ]
+    },
+    {
+      "titel": "Betreuungsbehörde",
+      "inhalt": "Suche nach geeigneten Betreuern (und deren Benennung ggü. dem Gericht}\nBeratung und Unterstützung von Betreuern (incl. Zuführung zur Unterbringung)\nBeratung von Bevollmächtigten\nBeglaubigung von Unterschriften und Handzeichen unter Vorsorgevollmachten und Betreuungsverfügungen\nFörderung von Einzelpersonen und Vereinen im Bereich der Betreuung\nSicherstellen von Aus- und Fortbildungsangeboten\nggf. nach Landesrecht: Organisation einer Betreuungsarbeitsgemeinschaft",
+      "tags": [
+        "nach",
+        "betreuern",
+        "beratung",
+        "suche",
+        "geeigneten"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Grundrechte, Zuführung zur Unterbringung; Elektronisches Gerichts- und Verwaltungspostfach, Datenschutz",
+      "tags": [
+        "grundrechte",
+        "zuführung",
+        "unterbringung",
+        "elektronisches",
+        "gerichts"
+      ]
+    },
+    {
+      "titel": "Weblinks",
+      "inhalt": "Mustervereinbarung Ehrenamtler - Betreuungsverein (PDF)\nQualitätsleitfaden Betreuungsvereine Berlin\n\nKategorie:Betreuungsbehörde\nKategorie:Betreuungsverein",
+      "tags": [
+        "betreuungsverein",
+        "kategorie",
+        "mustervereinbarung",
+        "ehrenamtler",
+        "qualitätsleitfaden"
+      ]
+    }
+  ],
   "zusammenfassung": "Seite entspricht der Rechtslage ab 2023.\nAllgemeines\nUnter dem Begriff der Querschnittsaufgaben werden allgemein die Tätigkeiten des [Betreuungsverein](betreuungsverein)es bzw. der [Betreuungsbehörde](betreuungsbehörde) verstanden, die nicht mit der direkten Betreuung durch einen [Vereinsbetreuer](v...",
   "verwandteArtikel": [
-    "betreuungsverein",
+    "einverständniserklärung",
+    "btog",
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "beglaubigung-durch-betreuungsbehörde",
+    "kategorie:betreuungsbehörde",
+    "unterbringung",
     "grundrechte",
+    "beratung",
+    "vereinsbetreuer",
+    "betreuungsverfügung",
+    "betreuungsbehörde",
+    "registrierung",
+    "betreuungsgerichtshilfe",
+    "berufsbetreuer",
     "zuführung-zur-unterbringung",
     "kooperationsvereinbarung",
-    "betreuungsgerichtshilfe",
-    "betreuer-(ehrenamt)",
-    "kategorie:betreuungsbehörde",
-    "btog",
-    "ausbildung",
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "behördenbetreuer",
-    "unterbringung",
-    "registrierung",
-    "berufsbetreuer",
-    "betreuervorschlag",
-    "betreuungsarbeitsgemeinschaft",
-    "beglaubigung-durch-betreuungsbehörde",
-    "vereinsbetreuer",
-    "beratung",
+    "kategorie:betreuungsverein",
     "datenschutz",
-    "betreuungsbehörde",
-    "betreuungsverfügung",
     "vorsorgevollmacht",
-    "einverständniserklärung",
-    "kategorie:betreuungsverein"
+    "behördenbetreuer",
+    "betreuungsverein",
+    "betreuer-(ehrenamt)",
+    "ausbildung",
+    "betreuungsarbeitsgemeinschaft",
+    "betreuervorschlag"
   ]
 }

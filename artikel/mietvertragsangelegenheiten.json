@@ -2,6 +2,18 @@
   "id": "mietvertragsangelegenheiten",
   "titel": "Mietvertragsangelegenheiten",
   "inhalt": "redirect [Wohnungsangelegenheiten](wohnungsangelegenheiten)\n\n[Kategorie:Aufgabenkreise](kategorie:aufgabenkreise)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Wohnungsangelegenheiten\n\nKategorie:Aufgabenkreise",
+      "tags": [
+        "redirect",
+        "wohnungsangelegenheiten",
+        "kategorie",
+        "aufgabenkreise"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Wohnungsangelegenheiten](wohnungsangelegenheiten)\n\n[Kategorie:Aufgabenkreise](kategorie:aufgabenkreise)...",
   "verwandteArtikel": [
     "wohnungsangelegenheiten",

@@ -2,6 +2,19 @@
   "id": "advance-care-planning",
   "titel": "Advance Care Planning",
   "inhalt": "redirect [Gesundheitliche Versorgungsplanung](gesundheitliche-versorgungsplanung)\n\n[Kategorie:Gesundheitssorge](kategorie:gesundheitssorge)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Gesundheitliche Versorgungsplanung\n\nKategorie:Gesundheitssorge",
+      "tags": [
+        "redirect",
+        "gesundheitliche",
+        "versorgungsplanung",
+        "kategorie",
+        "gesundheitssorge"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Gesundheitliche Versorgungsplanung](gesundheitliche-versorgungsplanung)\n\n[Kategorie:Gesundheitssorge](kategorie:gesundheitssorge)...",
   "verwandteArtikel": [
     "kategorie:gesundheitssorge",

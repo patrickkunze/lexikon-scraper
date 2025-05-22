@@ -2,9 +2,20 @@
   "id": "patientenverfügungsgesetz",
   "titel": "Patientenverfügungsgesetz",
   "inhalt": "redirect [Synopse_Patientenverfügungsgesetze](synopse_patientenverfügungsgesetze)\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Synopse_Patientenverfügungsgesetze\nKategorie:Rechtsnormen",
+      "tags": [
+        "redirect",
+        "kategorie",
+        "rechtsnormen"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Synopse_Patientenverfügungsgesetze](synopse_patientenverfügungsgesetze)\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)...",
   "verwandteArtikel": [
-    "kategorie:rechtsnormen",
-    "synopse_patientenverfügungsgesetze"
+    "synopse_patientenverfügungsgesetze",
+    "kategorie:rechtsnormen"
   ]
 }

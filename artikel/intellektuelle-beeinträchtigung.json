@@ -2,29 +2,75 @@
   "id": "intellektuelle-beeinträchtigung",
   "titel": "Intellektuelle Beeinträchtigung",
   "inhalt": "[Allgemeines](allgemeines)\nDie alte Bezeichnung \"geistig behindert\" wird von den Betroffenen häufig als diskriminierend empfunden. Deshalb hat das Deutsche Institut für Menschenrechte die neue Bezeichnung \"Menschen mit intellektueller Beeinträchtigung\" eingeführt. Diese Bezeichnung ist an den englischen Begriff \"intellectual impairments\" angelehnt.\n\nBürgerliches Recht\nIm deutschen Bürgerlichen Recht wird in § 104 BGB der Rechtsbegriff \"krankhafte Störung der Geistestätigkeit\" verwendet. Dieser Rechtsbegriff wird durch die [Rechtsprechung](rechtsprechung) und die Kommentare mit Inhalt bzw. Bedeutung gefüllt.\n\nStrafrecht\nIm deutschen Strafrecht wurden in § 20 StGB die Rechtsbegriffe \"krankhafte seelische Störung\", \"Schwachsinn\" und \"schwere andere seelische Abartigkeit\" verwendet. Auch diese Rechtsbegriffe wurden durch die [Rechtsprechung](rechtsprechung) und die Strafrechtskommentare mit konkreten Bedeutungen gefüllt.\n\nHeute sprechen Strafrechtler*innen von Intelligenzminderung (statt Schwachsinn) oder einer schweren anderen seelischen Störung als Auffangtatbestandsmerkmal.\n\nSiehe auch\n [natürlicher Wille](natürlicher-wille)\n [Einwilligungsfähigkeit](einwilligungsfähigkeit)\n [Geschäftsunfähigkeit](geschäftsunfähigkeit)\n [Eherecht und Betreuung](eherecht-und-betreuung)\n [Ehefähigkeit](ehefähigkeit)\n [Betreuerbestellung](betreuerbestellung)\n [Haager Übereinkommen](haager-übereinkommen)\n [unterstützte Kommunikation](unterstützte-kommunikation)\n [unterstützte Entscheidungsfindung](unterstützte-entscheidungsfindung)\n [Eingliederungshilfe](eingliederungshilfe)\n [Sozialpsychiatrischer Dienst](sozialpsychiatrischer-dienst)\n [MDK-Gutachten](mdk-gutachten)\n [Unterstützungspflicht](unterstützungspflicht)\n [Waffenfund](waffenfund)\n [Tierschutz](tierschutz)\n [Anregung der Betreuerbestellung](anregung-der-betreuerbestellung)\n [Genehmigung der Heilbehandlung](genehmigung-der-heilbehandlung)\n [Betreuungsgerichtshilfe](betreuungsgerichtshilfe)\n [Amtsermittlungspflicht](amtsermittlungspflicht)\n [Personalausweis](personalausweis)",
+  "struktur": [
+    {
+      "titel": "Allgemeines",
+      "inhalt": "Die alte Bezeichnung \"geistig behindert\" wird von den Betroffenen häufig als diskriminierend empfunden. Deshalb hat das Deutsche Institut für Menschenrechte die neue Bezeichnung \"Menschen mit intellektueller Beeinträchtigung\" eingeführt. Diese Bezeichnung ist an den englischen Begriff \"intellectual impairments\" angelehnt.",
+      "tags": [
+        "bezeichnung",
+        "alte",
+        "geistig",
+        "behindert",
+        "wird"
+      ]
+    },
+    {
+      "titel": "Bürgerliches Recht",
+      "inhalt": "Im deutschen Bürgerlichen Recht wird in § 104 BGB der Rechtsbegriff \"krankhafte Störung der Geistestätigkeit\" verwendet. Dieser Rechtsbegriff wird durch die deutsche Rechtsprechung und die Kommentare mit Inhalt bzw. Bedeutung gefüllt.",
+      "tags": [
+        "wird",
+        "rechtsbegriff",
+        "deutschen",
+        "bürgerlichen",
+        "recht"
+      ]
+    },
+    {
+      "titel": "Strafrecht",
+      "inhalt": "Im deutschen Strafrecht wurden in § 20 StGB die Rechtsbegriffe \"krankhafte seelische Störung\", \"Schwachsinn\" und \"schwere andere seelische Abartigkeit\" verwendet. Auch diese Rechtsbegriffe wurden durch die deutsche Rechtsprechung und die Strafrechtskommentare mit konkreten Bedeutungen gefüllt.\n\nHeute sprechen Strafrechtler*innen von Intelligenzminderung (statt Schwachsinn) oder einer schweren anderen seelischen Störung als Auffangtatbestandsmerkmal.",
+      "tags": [
+        "wurden",
+        "rechtsbegriffe",
+        "seelische",
+        "störung",
+        "schwachsinn"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "natürlicher Wille\n Einwilligungsfähigkeit\n Geschäftsunfähigkeit\n Eherecht und Betreuung\n Ehefähigkeit\n Betreuerbestellung\n Haager Übereinkommen\n unterstützte Kommunikation\n unterstützte Entscheidungsfindung\n Eingliederungshilfe\n Sozialpsychiatrischer Dienst\n MDK-Gutachten\n Unterstützungspflicht\n Waffenfund\n Tierschutz\n Anregung der Betreuerbestellung\n Genehmigung der Heilbehandlung\n Betreuungsgerichtshilfe\n Amtsermittlungspflicht\n Personalausweis",
+      "tags": [
+        "betreuerbestellung",
+        "unterstützte",
+        "natürlicher",
+        "wille",
+        "einwilligungsfähigkeit"
+      ]
+    }
+  ],
   "zusammenfassung": "[Allgemeines](allgemeines)\nDie alte Bezeichnung \"geistig behindert\" wird von den Betroffenen häufig als diskriminierend empfunden. Deshalb hat das Deutsche Institut für Menschenrechte die neue Bezeichnung \"Menschen mit intellektueller Beeinträchtigung\" eingeführt. Diese Bezeichnung ist an den englis...",
   "verwandteArtikel": [
-    "unterstützte-kommunikation",
-    "genehmigung-der-heilbehandlung",
-    "betreuungsgerichtshilfe",
-    "betreuerbestellung",
-    "mdk-gutachten",
-    "haager-übereinkommen",
-    "sozialpsychiatrischer-dienst",
-    "tierschutz",
-    "amtsermittlungspflicht",
-    "allgemeines",
-    "waffenfund",
-    "einwilligungsfähigkeit",
-    "ehefähigkeit",
-    "personalausweis",
     "eherecht-und-betreuung",
-    "unterstützte-entscheidungsfindung",
-    "rechtsprechung",
-    "anregung-der-betreuerbestellung",
-    "eingliederungshilfe",
     "unterstützungspflicht",
+    "amtsermittlungspflicht",
+    "geschäftsunfähigkeit",
+    "betreuerbestellung",
+    "personalausweis",
+    "rechtsprechung",
+    "einwilligungsfähigkeit",
+    "sozialpsychiatrischer-dienst",
+    "unterstützte-kommunikation",
+    "tierschutz",
+    "ehefähigkeit",
+    "betreuungsgerichtshilfe",
+    "mdk-gutachten",
+    "genehmigung-der-heilbehandlung",
     "natürlicher-wille",
-    "geschäftsunfähigkeit"
+    "allgemeines",
+    "eingliederungshilfe",
+    "unterstützte-entscheidungsfindung",
+    "haager-übereinkommen",
+    "anregung-der-betreuerbestellung",
+    "waffenfund"
   ]
 }

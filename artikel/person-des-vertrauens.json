@@ -2,6 +2,16 @@
   "id": "person-des-vertrauens",
   "titel": "Person des Vertrauens",
   "inhalt": "redirect [Vertrauensperson](vertrauensperson)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Vertrauensperson",
+      "tags": [
+        "redirect",
+        "vertrauensperson"
+      ]
+    }
+  ],
   "zusammenfassung": "redirect [Vertrauensperson](vertrauensperson)...",
   "verwandteArtikel": [
     "vertrauensperson"
