@@ -3486,6 +3486,7 @@
     "selbstverwaltung-der-deutschen-gemeinden",
     "unterstützungspflicht",
     "unterstützungspflicht",
+    "unterstützungspflicht",
     "vermögensverzeichnis",
     "wahlrecht",
     "zugangsrecht",
@@ -7958,14 +7959,20 @@
     "girokonto",
     "wohnungsangelegenheiten"
   ],
-  "behördenbetreuer": [
+  "unterstützungspflicht": [
     "anzeigepflicht",
-    "behördenbetreuer",
-    "behördenbetreuer",
-    "behördenbetreuer",
-    "betreuerwechsel",
-    "betreuungsbehörde",
-    "haftpflichtversicherung"
+    "checkliste-betreuerpflichten",
+    "corona",
+    "datenschutz",
+    "erziehungsmaßregeln",
+    "freier-wille",
+    "inklusionsbetrieb",
+    "kirchenaustritt",
+    "sozialhilfe",
+    "unterstützungspflicht",
+    "verbraucherstreitbeilegung",
+    "verhältnismäßigkeitsprinzip",
+    "wohn--und-betreuungsvertragsgesetz"
   ],
   "redirectsozialhilfe": [
     "arbeitslosengeld",
@@ -8582,6 +8589,7 @@
     "sterbehilfedokumente",
     "synopse-patientenverfügungsgesetze",
     "ubg",
+    "unterstützungspflicht",
     "vormundschaftsgericht",
     "vormünder--und-betreuervergütungsgesetz",
     "wohn--und-betreuungsvertragsgesetz"
@@ -10296,6 +10304,7 @@
     "tod-des-betreuten",
     "tod-des-betreuten",
     "unfallversicherung",
+    "unterstützungspflicht",
     "vertretung-gegenüber-behörden",
     "wohn--und-betreuungsvertragsgesetz"
   ],
@@ -10979,6 +10988,14 @@
     "berufsbetreuer",
     "betreuervorschlag",
     "vereinsbetreuer"
+  ],
+  "behördenbetreuer": [
+    "behördenbetreuer",
+    "behördenbetreuer",
+    "behördenbetreuer",
+    "betreuerwechsel",
+    "betreuungsbehörde",
+    "haftpflichtversicherung"
   ],
   "status": [
     "behördenbetreuer"
@@ -14453,20 +14470,6 @@
   "betreuungsbeginn": [
     "checkliste-betreuerpflichten"
   ],
-  "unterstützungspflicht": [
-    "checkliste-betreuerpflichten",
-    "corona",
-    "datenschutz",
-    "erziehungsmaßregeln",
-    "freier-wille",
-    "inklusionsbetrieb",
-    "kirchenaustritt",
-    "sozialhilfe",
-    "unterstützungspflicht",
-    "verbraucherstreitbeilegung",
-    "verhältnismäßigkeitsprinzip",
-    "wohn--und-betreuungsvertragsgesetz"
-  ],
   "beantragen": [
     "checkliste-gesundheitssorge",
     "checkliste-wohnungsangelegenheiten"
@@ -15181,6 +15184,7 @@
     "strafprozess",
     "strafprozess",
     "strafprozess",
+    "unterstützungspflicht",
     "wahlrecht",
     "wahlrecht",
     "wahlrecht",
@@ -21004,6 +21008,9 @@
     "zwangsvollstreckung"
   ],
   "gesundheit": [
+    "unterstützungspflicht"
+  ],
+  "erfolg": [
     "unterstützungspflicht"
   ],
   "entschädigung": [
