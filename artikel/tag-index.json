@@ -7964,6 +7964,7 @@
     "checkliste-betreuerpflichten",
     "corona",
     "datenschutz",
+    "delegation",
     "erziehungsmaßregeln",
     "freier-wille",
     "inklusionsbetrieb",
@@ -14830,13 +14831,6 @@
     "patientenverfügung",
     "vertreterdokumentation"
   ],
-  "trennungsgebot": [
-    "delegation",
-    "gesetzestexte",
-    "trennungsgebot",
-    "verfügungsgeld",
-    "vermögensverzeichnis"
-  ],
   "delegation": [
     "delegation",
     "persönliche-betreuung"
@@ -16944,6 +16938,12 @@
   ],
   "titel": [
     "gesetzestexte"
+  ],
+  "trennungsgebot": [
+    "gesetzestexte",
+    "trennungsgebot",
+    "verfügungsgeld",
+    "vermögensverzeichnis"
   ],
   "anderweitige": [
     "gesetzestexte"
