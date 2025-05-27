@@ -3736,7 +3736,6 @@
     "geschäftsfähigkeit",
     "gesetzestexte",
     "prozessfähigkeit",
-    "schenkung",
     "unterbringungsverfahren",
     "vaterschaftsanerkennung",
     "vorsorgevollmacht---vertiefte-infos"
@@ -4828,8 +4827,7 @@
     "altenheim"
   ],
   "geistigen": [
-    "altenheim",
-    "unterbringungsähnliche-maßnahme"
+    "altenheim"
   ],
   "alle": [
     "altenheim",
@@ -7746,6 +7744,7 @@
     "anregung-der-betreuerbestellung",
     "persönliche-betreuung",
     "tierschutz",
+    "unterbringungsähnliche-maßnahme",
     "unterstützte-kommunikation"
   ],
   "betreuungsverfügung": [
@@ -13018,8 +13017,7 @@
     "eingliederungshilfe",
     "schwerbehindertenausweis",
     "schwerbehindertenausweis",
-    "sterilisationsbetreuer",
-    "unterbringungsähnliche-maßnahme"
+    "sterilisationsbetreuer"
   ],
   "gerichte": [
     "betreuervorschlag",
@@ -16941,6 +16939,7 @@
   ],
   "trennungsgebot": [
     "gesetzestexte",
+    "schenkung",
     "trennungsgebot",
     "verfügungsgeld",
     "vermögensverzeichnis"
@@ -20815,6 +20814,9 @@
     "unterbringungsähnliche-maßnahme"
   ],
   "infolge": [
+    "unterbringungsähnliche-maßnahme"
+  ],
+  "intellektuellen": [
     "unterbringungsähnliche-maßnahme"
   ],
   "regelmäßig": [
