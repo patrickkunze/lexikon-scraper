@@ -4900,7 +4900,6 @@
     "sachverständigengutachten",
     "sachverständigengutachten",
     "selbstverwaltung-der-deutschen-gemeinden",
-    "sozialpsychiatrischer-dienst",
     "unterbringungsähnliche-maßnahme"
   ],
   "selbstbestimmung": [
@@ -15073,7 +15072,8 @@
   ],
   "krankenhaussozialdienst": [
     "e-rezept",
-    "krankenhaussozialdienst"
+    "krankenhaussozialdienst",
+    "sozialpsychiatrischer-dienst"
   ],
   "internetseite": [
     "e-rezept",
