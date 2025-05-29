@@ -1669,6 +1669,7 @@
     "vorsorgevollmacht",
     "vulnerabilität",
     "vulnerabilität",
+    "vulnerabilität",
     "wahlrecht",
     "werkstatt-für-behinderte-menschen",
     "werkstatt-für-behinderte-menschen",
@@ -2076,6 +2077,7 @@
     "vermögenssorge",
     "vermögensverzeichnis",
     "vorsorgeregister",
+    "vulnerabilität",
     "wohnungsangelegenheiten"
   ],
   "wenn": [
@@ -4020,6 +4022,7 @@
     "altenheim",
     "neu",
     "unterbringungsverfahren",
+    "vulnerabilität",
     "wahlrecht"
   ],
   "heim": [
@@ -4935,6 +4938,7 @@
     "pflegeversicherung",
     "schwerbehindertenausweis",
     "sozialhilfe",
+    "sozialpsychiatrischer-dienst",
     "vertrauensperson",
     "vulnerabilität",
     "vulnerabilität"
@@ -15072,8 +15076,7 @@
   ],
   "krankenhaussozialdienst": [
     "e-rezept",
-    "krankenhaussozialdienst",
-    "sozialpsychiatrischer-dienst"
+    "krankenhaussozialdienst"
   ],
   "internetseite": [
     "e-rezept",
@@ -21555,6 +21558,12 @@
     "vulnerabilität"
   ],
   "verletzliche": [
+    "vulnerabilität"
+  ],
+  "geistliche": [
+    "vulnerabilität"
+  ],
+  "seelsorgearbeit": [
     "vulnerabilität"
   ],
   "erklärt": [
