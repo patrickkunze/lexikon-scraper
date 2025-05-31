@@ -4087,6 +4087,7 @@
     "bestattung",
     "bestattungsvertrag",
     "bestattungsvertrag",
+    "bestattungsvertrag",
     "bestellung-mehrerer-betreuer",
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
@@ -4341,6 +4342,7 @@
     "betreuerhaftung",
     "betreuungsbehörde",
     "betreuungskosten-im-steuerrecht",
+    "erbschaft",
     "heilbehandlung",
     "krankenversicherung",
     "sozialhilfe",
@@ -11491,6 +11493,7 @@
     "bestattung",
     "bestattungsvertrag",
     "bestattungsvertrag",
+    "bestattungsvertrag",
     "erbschaft",
     "mittellosigkeit",
     "mittellosigkeit",
@@ -16015,6 +16018,26 @@
     "erbschaft"
   ],
   "behindertentestament": [
+    "erbschaft"
+  ],
+  "erblassers": [
+    "erbschaft",
+    "testierfähigkeit"
+  ],
+  "testierunfähigkeit": [
+    "erbschaft",
+    "testierfähigkeit",
+    "testierfähigkeit",
+    "testierfähigkeit",
+    "testierfähigkeit",
+    "testierfähigkeit"
+  ],
+  "celle": [
+    "erbschaft",
+    "tierschutz",
+    "tierschutz"
+  ],
+  "vormalige": [
     "erbschaft"
   ],
   "roth": [
@@ -20565,20 +20588,10 @@
     "verbraucherstreitbeilegung",
     "vermögensverzeichnis"
   ],
-  "erblassers": [
-    "testierfähigkeit"
-  ],
   "testierfähig": [
     "testierfähigkeit"
   ],
   "übergangene": [
-    "testierfähigkeit"
-  ],
-  "testierunfähigkeit": [
-    "testierfähigkeit",
-    "testierfähigkeit",
-    "testierfähigkeit",
-    "testierfähigkeit",
     "testierfähigkeit"
   ],
   "relativen": [
@@ -20603,10 +20616,6 @@
     "tierschutz"
   ],
   "assistenzhunde": [
-    "tierschutz"
-  ],
-  "celle": [
-    "tierschutz",
     "tierschutz"
   ],
   "garantenpflicht": [
