@@ -2737,6 +2737,7 @@
     "schweigepflicht",
     "sozialhilfe",
     "sterbehilfe",
+    "sterbehilfe",
     "sterilisationsbetreuer",
     "sterilisationsbetreuer",
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
@@ -20287,7 +20288,6 @@
     "sterbehilfe",
     "sterbehilfe",
     "sterbehilfe",
-    "sterbehilfe",
     "sterbehilfe"
   ],
   "sterbens": [
@@ -20299,7 +20299,7 @@
   "fürchten": [
     "sterbehilfe"
   ],
-  "weisen": [
+  "unheilbar": [
     "sterbehilfe"
   ],
   "befürchten": [
