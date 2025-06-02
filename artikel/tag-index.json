@@ -5765,6 +5765,7 @@
     "beratung",
     "gesetzlicher-vertreter",
     "informationspflicht",
+    "interoperabilität",
     "mitteilungspflicht",
     "schweigepflicht",
     "verbraucherstreitbeilegung",
@@ -9666,7 +9667,6 @@
     "elektronischer-identitätsnachweis",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "grundrechte",
-    "interoperabilität",
     "medikationsplan",
     "meldepflicht",
     "personalausweis"
@@ -11464,6 +11464,7 @@
   ],
   "software": [
     "berufsbetreuer",
+    "elektronischer-identitätsnachweis",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "formulare",
     "mailingliste",
@@ -14538,7 +14539,6 @@
     "datenschutz",
     "datenschutz",
     "elektronische-patientenakte",
-    "elektronischer-identitätsnachweis",
     "gewaltschutzanordnung",
     "medikationsplan",
     "mitteilungspflicht",
