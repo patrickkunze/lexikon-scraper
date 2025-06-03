@@ -1238,7 +1238,6 @@
     "beamte-als-betreuer",
     "beaufsichtigung",
     "befreiter-betreuer",
-    "begleitforschung",
     "behördenangelegenheiten",
     "behördenbetreuer",
     "beratung",
@@ -3380,7 +3379,8 @@
   "begleitforschung": [
     "allgemeines",
     "betreuungszahlen",
-    "evaluation"
+    "evaluation",
+    "gesundheitsdatennutzungsgesetz"
   ],
   "hauptseite": [
     "allgemeines"
@@ -3473,6 +3473,7 @@
     "eingliederungshilfe",
     "erziehungsmaßregeln",
     "geldanlage",
+    "gesundheitsdatennutzungsgesetz",
     "grundrechte",
     "grundrechte",
     "heilbehandlung",
@@ -3812,6 +3813,7 @@
     "mdk-gutachten",
     "maßregeln-der-besserung-und-sicherung",
     "medikationsplan",
+    "neu",
     "neu",
     "neu",
     "neu",
@@ -5677,6 +5679,7 @@
   "deutsche": [
     "amtspflichtverletzung",
     "betreuungsverein",
+    "gesundheitsdatennutzungsgesetz",
     "grundrechte",
     "heilbehandlung",
     "informationspflicht",
@@ -7848,6 +7851,7 @@
     "arztzeugnis",
     "digitale-barrierefreiheit",
     "elektronische-patientenakte",
+    "gesundheitsdatennutzungsgesetz",
     "neu",
     "rechtsverkehr-in-deutschland",
     "rente",
@@ -8227,7 +8231,6 @@
     "arztbericht",
     "attest",
     "betreuungsgericht",
-    "checkliste-gesundheitssorge",
     "checkliste-für-arztgespräche",
     "dokumentationspflicht",
     "mdk-gutachten",
@@ -8579,6 +8582,7 @@
     "drittes-betreuungsrechtsänderungsgesetz",
     "drittes-betreuungsrechtsänderungsgesetz",
     "familienverfahrensgesetz",
+    "gesundheitsdatennutzungsgesetz",
     "grundrechte",
     "kirchenaustritt",
     "neu",
@@ -10437,9 +10441,7 @@
   "zugriffsrecht": [
     "befreiter-betreuer",
     "diskriminierungsverbot",
-    "elektronische-patientenakte",
     "informationspflicht",
-    "interoperabilität",
     "schweigepflicht"
   ],
   "registrierte": [
@@ -10911,6 +10913,14 @@
     "begleitforschung",
     "betreuerhaftung"
   ],
+  "gesundheitsdatennutzungsgesetz": [
+    "begleitforschung",
+    "checkliste-gesundheitssorge",
+    "elektronische-patientenakte",
+    "heilbehandlung",
+    "interoperabilität",
+    "neu"
+  ],
   "heilbehandlung": [
     "behandlungsvertrag",
     "behindertenkonvention",
@@ -10920,6 +10930,7 @@
     "elektronische-patientenakte",
     "genehmigung-der-heilbehandlung",
     "genehmigungspflichten",
+    "gesundheitsdatennutzungsgesetz",
     "gesundheitssorge",
     "gesundheitssorge",
     "heilbehandlung",
@@ -13340,6 +13351,7 @@
     "neu",
     "neu",
     "neu",
+    "neu",
     "patientenverfügung",
     "vormundschaftsgericht",
     "wohn--und-betreuungsvertragsgesetz",
@@ -14532,6 +14544,7 @@
   "medikationsplan": [
     "checkliste-für-arztgespräche",
     "e-rezept",
+    "gesundheitsdatennutzungsgesetz",
     "gesundheitssorge"
   ],
   "datenschutz": [
@@ -14539,6 +14552,7 @@
     "datenschutz",
     "datenschutz",
     "elektronische-patientenakte",
+    "gesundheitsdatennutzungsgesetz",
     "gewaltschutzanordnung",
     "medikationsplan",
     "mitteilungspflicht",
@@ -14814,6 +14828,7 @@
   ],
   "kranken": [
     "datenschutz",
+    "gesundheitsdatennutzungsgesetz",
     "mdk-gutachten",
     "psychkg",
     "sozialpsychiatrischer-dienst",
@@ -14833,7 +14848,6 @@
     "erörterungsgespräch",
     "genehmigung-der-heilbehandlung",
     "gesundheitliche-versorgungsplanung",
-    "heilbehandlung",
     "patientenverfügung",
     "vertreterdokumentation"
   ],
@@ -14919,6 +14933,7 @@
   ],
   "pflegekassen": [
     "digitale-barrierefreiheit",
+    "gesundheitsdatennutzungsgesetz",
     "verbraucherstreitbeilegung",
     "wohnungsangelegenheiten"
   ],
@@ -15633,7 +15648,8 @@
     "elektronische-patientenakte"
   ],
   "gesundheitsdaten": [
-    "elektronische-patientenakte"
+    "elektronische-patientenakte",
+    "gesundheitsdatennutzungsgesetz"
   ],
   "elektronischen": [
     "elektronische-patientenakte",
@@ -15682,6 +15698,7 @@
   ],
   "nutzung": [
     "elektronischer-identitätsnachweis",
+    "gesundheitsdatennutzungsgesetz",
     "online-lexikon-betreuungsrecht:datenschutz",
     "personalausweis"
   ],
@@ -17179,6 +17196,13 @@
   ],
   "planning": [
     "gesundheitliche-versorgungsplanung"
+  ],
+  "gemeinwohlorientierten": [
+    "gesundheitsdatennutzungsgesetz"
+  ],
+  "gdng": [
+    "gesundheitsdatennutzungsgesetz",
+    "neu"
   ],
   "steuerungsfähigkeit": [
     "gesundheitssorge",
@@ -18693,6 +18717,7 @@
     "neu"
   ],
   "trat": [
+    "neu",
     "neu",
     "neu",
     "neu",

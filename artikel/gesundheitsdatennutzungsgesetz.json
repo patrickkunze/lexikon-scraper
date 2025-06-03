@@ -1,0 +1,50 @@
+{
+  "id": "gesundheitsdatennutzungsgesetz",
+  "titel": "Gesundheitsdatennutzungsgesetz",
+  "inhalt": "Das deutsche Gesetz zur Nutzung von Gesundheitsdaten zu gemeinwohlorientierten Forschungszwecken und zur datenbasierten Weiterentwicklung des Gesundheitswesens (GDNG) trat am 26.03.2024 in Kraft.\n\nDatenweiterverarbeitung zur Förderung der Patientensicherheit\nGemäß § 6 GDNG ist den Kranken- und Pflegekassen in Deutschland die Weiterverarbeitung und Auswertung von Gesundheitsdaten ihrer Versicherten zukünftig zu gesetzlich bestimmten Zwecken erlaubt, wenn kein individueller [Widerspruchsrecht](widerspruchsrecht) gemäß § 25b Abs. 3 SGB V vorliegt. Gemäß § 25b Abs. 7 SGB V gilt hier ebenfalls ein gesetzliches [Diskriminierungsverbot](diskriminierungsverbot) wie bei der Nutzung oder Nichtnutzung der [elektronische Patientenakte](elektronische-patientenakte).\n\nSiehe auch\n [Datenschutz](datenschutz)\n [Begleitforschung](begleitforschung)\n [Neu](neu)\n [Heilbehandlung](heilbehandlung)\n [Medikationsplan](medikationsplan)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "Das deutsche Gesetz zur Nutzung von Gesundheitsdaten zu gemeinwohlorientierten Forschungszwecken und zur datenbasierten Weiterentwicklung des Gesundheitswesens (GDNG) trat am 26.03.2024 in Kraft.",
+      "tags": [
+        "deutsche",
+        "gesetz",
+        "nutzung",
+        "gesundheitsdaten",
+        "gemeinwohlorientierten"
+      ]
+    },
+    {
+      "titel": "Datenweiterverarbeitung zur Förderung der Patientensicherheit",
+      "inhalt": "Gemäß § 6 GDNG ist den Kranken- und Pflegekassen in Deutschland die Weiterverarbeitung und Auswertung von Gesundheitsdaten ihrer Versicherten zukünftig zu gesetzlich bestimmten Zwecken erlaubt, wenn kein individueller Widerspruch des Versicherten gemäß § 25b Abs. 3 SGB V vorliegt. Gemäß § 25b Abs. 7 SGB V gilt hier ebenfalls ein gesetzliches Diskriminierungsverbot wie bei der Nutzung oder Nichtnutzung der elektronischen Patientenakte.",
+      "tags": [
+        "gemäß",
+        "versicherten",
+        "gdng",
+        "kranken",
+        "pflegekassen"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Datenschutz\n Begleitforschung\n Was ist neu?\n Heilbehandlung\n Medikationsplan",
+      "tags": [
+        "datenschutz",
+        "begleitforschung",
+        "heilbehandlung",
+        "medikationsplan"
+      ]
+    }
+  ],
+  "zusammenfassung": "Das deutsche Gesetz zur Nutzung von Gesundheitsdaten zu gemeinwohlorientierten Forschungszwecken und zur datenbasierten Weiterentwicklung des Gesundheitswesens (GDNG) trat am 26.03.2024 in Kraft.\n\nDatenweiterverarbeitung zur Förderung der Patientensicherheit\nGemäß § 6 GDNG ist den Kranken- und Pfleg...",
+  "verwandteArtikel": [
+    "medikationsplan",
+    "datenschutz",
+    "begleitforschung",
+    "elektronische-patientenakte",
+    "diskriminierungsverbot",
+    "widerspruchsrecht",
+    "neu",
+    "heilbehandlung"
+  ]
+}
