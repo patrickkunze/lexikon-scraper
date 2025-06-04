@@ -855,6 +855,7 @@
     "gesetzesbegründung-patientenverfügung",
     "gesetzliche-vertretung",
     "gesundheitliche-versorgungsplanung",
+    "gesundheitsdatennutzungsgesetz",
     "gesundheitssorge",
     "girokonto",
     "grundrechte",
@@ -5843,6 +5844,7 @@
     "genehmigungen-von-a-bis-z",
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
+    "gesundheitsdatennutzungsgesetz",
     "grundrechte",
     "hamburger-mustergliederung",
     "hauptseite",
@@ -8139,6 +8141,7 @@
   "krankenkasse": [
     "arbeitsvertrag",
     "checkliste-gesundheitssorge",
+    "gesundheitsdatennutzungsgesetz",
     "heilbehandlung",
     "krankenversicherung",
     "krankenversicherung",
@@ -10306,6 +10309,7 @@
     "bestattungsvertrag",
     "betreuerhaftung",
     "genehmigungspflichten",
+    "gesundheitsdatennutzungsgesetz",
     "kindschaftsrecht",
     "krankenversicherung",
     "mittellosigkeit",
@@ -17204,6 +17208,10 @@
     "gesundheitsdatennutzungsgesetz",
     "neu"
   ],
+  "konkrete": [
+    "gesundheitsdatennutzungsgesetz",
+    "rechnungslegung"
+  ],
   "steuerungsfähigkeit": [
     "gesundheitssorge",
     "peg-sonde"
@@ -19492,9 +19500,6 @@
     "vermögensverzeichnis"
   ],
   "anhaltspunkte": [
-    "rechnungslegung"
-  ],
-  "konkrete": [
     "rechnungslegung"
   ],
   "reinfarth": [

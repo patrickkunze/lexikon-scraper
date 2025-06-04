@@ -39,20 +39,20 @@
   ],
   "zusammenfassung": "[Bild:Ehrenamt.jpg](bild:ehrenamt.jpg)\nDer Betreuer erhält eine Bestellungsurkunde ([Betreuerausweis](betreuerausweis)) vom Gericht und wird durch das [Betreuungsgericht](betreuungsgericht), (in der Regel durch den [Rechtspfleger](rechtspfleger)) mündlich auf sein Betreueramt verpflichtet und über s...",
   "verwandteArtikel": [
-    "bild:ehrenamt.jpg",
-    "kategorie:betreuungsverfahren",
-    "behördenbetreuer",
-    "bild:zeitschrift.jpg",
     "rechtspfleger",
-    "btprax",
     "berufsbetreuer",
-    "kategorie:betreuerpflichten",
-    "betreuerausweis",
-    "vereinsbetreuer",
     "betreuungsgericht",
-    "betreuungsverein",
+    "betreuungsbehörde",
+    "bild:zeitschrift.jpg",
+    "betreuerausweis",
+    "bild:ehrenamt.jpg",
     "betreuerpflichten",
-    "betreuer-(ehrenamt)",
-    "betreuungsbehörde"
+    "kategorie:betreuungsverfahren",
+    "vereinsbetreuer",
+    "kategorie:betreuerpflichten",
+    "betreuungsverein",
+    "btprax",
+    "behördenbetreuer",
+    "betreuer-(ehrenamt)"
   ]
 }
