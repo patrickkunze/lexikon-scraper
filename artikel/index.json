@@ -813,6 +813,10 @@
       "titel": "Gegenbetreuer"
     },
     {
+      "id": "geheimhaltungspflicht",
+      "titel": "Geheimhaltungspflicht"
+    },
+    {
       "id": "geldanlage",
       "titel": "Geldanlage"
     },

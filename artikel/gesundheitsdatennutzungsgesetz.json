@@ -1,7 +1,7 @@
 {
   "id": "gesundheitsdatennutzungsgesetz",
   "titel": "Gesundheitsdatennutzungsgesetz",
-  "inhalt": "Das deutsche Gesetz zur Nutzung von Gesundheitsdaten zu gemeinwohlorientierten Forschungszwecken und zur datenbasierten Weiterentwicklung des Gesundheitswesens (GDNG) trat am 26.03.2024 in Kraft.\n\nDatenweiterverarbeitung zur Förderung der Patientensicherheit\nGemäß § 6 GDNG ist den Kranken- und Pflegekassen in Deutschland die Weiterverarbeitung und Auswertung von Gesundheitsdaten ihrer Versicherten zukünftig zu gesetzlich bestimmten Zwecken erlaubt, wenn kein individueller [Widerspruchsrecht](widerspruchsrecht) gemäß § 25b Abs. 3 SGB V vorliegt. Gemäß § 25b Abs. 7 SGB V gilt hier ebenfalls ein gesetzliches [Diskriminierungsverbot](diskriminierungsverbot) wie bei der Nutzung oder Nichtnutzung der [elektronische Patientenakte](elektronische-patientenakte).\n\nHinweise auf konkrete Gesundheitsgefährdung, das konkrete Risiko einer Erkrankung oder einer Pflegebedürftigkeit oder das Vorliegen einer Impfindikation\nWenn bei der zukünftigen Auswertung der Gesundheitsdaten durch die eigene Krankenkasse eine konkrete Gesundheitsgefährdung, das konkrete Risiko einer Erkrankung oder Pflegebedürftigkeit oder das Vorliegen einer Impfindikation identifiziert wird, dann ist der betroffene Versicherte umgehend in präziser, transparenter, verständlicher Weise und in einer klaren und einfachen Sprache darauf hinzuweisen. Diese neue Regelung soll - wie die kostenlos angebotenen Vorsorgeuntersuchungen (z.B. beim Zahnarzt; bei der Gynäkologie; Darmspiegelung, Mammografie; Gesundheitsuntersuchungen für Kinder und Jugendliche gemäß § 26 SGB V) - der Prävention von schwereren Krankheiten und Behinderungen dienen. Sie ist in § 25b Abs. 4 SGB V gesetzlich geregelt. Jeder Versicherte besitzt ein [Widerspruchsrecht](widerspruchsrecht) gegen diese Datenauswertung und gegen die Gesundheitshinweise von der eigenen Krankenkasse dank des Rechts auf einen [Freier Wille](freier-wille) in den eigenen Gesundheitsbelangen. \n\n[Betreuer](betreuer) mit den [Aufgabenkreis](aufgabenkreis)en [Postkontrolle](postkontrolle) und [Gesundheitssorge](gesundheitssorge) würden diese Hinweise von der Krankenkasse des Betreuten stellvertretend erhalten. So könnten sie dann gegebenenfalls bei [Einwilligungsfähigkeit](einwilligungsfähigkeit) notwendige [Heilbehandlung](heilbehandlung)en veranlassen.\n\nSiehe auch\n [Datenschutz](datenschutz)\n [Begleitforschung](begleitforschung)\n [Neu](neu)\n [Heilbehandlung](heilbehandlung)\n [Medikationsplan](medikationsplan)",
+  "inhalt": "Das deutsche Gesetz zur Nutzung von Gesundheitsdaten zu gemeinwohlorientierten Forschungszwecken und zur datenbasierten Weiterentwicklung des Gesundheitswesens (GDNG) trat am 26.03.2024 in Kraft.\n\nDatenweiterverarbeitung zur Förderung der Patientensicherheit\nGemäß § 6 GDNG ist den Kranken- und Pflegekassen in Deutschland die Weiterverarbeitung und Auswertung von Gesundheitsdaten ihrer Versicherten zukünftig zu gesetzlich bestimmten Zwecken erlaubt, wenn kein individueller [Widerspruchsrecht](widerspruchsrecht) gemäß § 25b Abs. 3 SGB V vorliegt. Gemäß § 25b Abs. 7 SGB V gilt hier ebenfalls ein gesetzliches [Diskriminierungsverbot](diskriminierungsverbot) wie bei der Nutzung oder Nichtnutzung der [elektronische Patientenakte](elektronische-patientenakte).\n\nHinweise auf konkrete Gesundheitsgefährdung, das konkrete Risiko einer Erkrankung oder einer Pflegebedürftigkeit oder das Vorliegen einer Impfindikation\nWenn bei der zukünftigen Auswertung der Gesundheitsdaten durch die eigene Krankenkasse eine konkrete Gesundheitsgefährdung, das konkrete Risiko einer Erkrankung oder Pflegebedürftigkeit oder das Vorliegen einer Impfindikation identifiziert wird, dann ist der betroffene Versicherte umgehend in präziser, transparenter, verständlicher Weise und in einer klaren und einfachen Sprache darauf hinzuweisen. Diese neue Regelung soll - wie die kostenlos angebotenen Vorsorgeuntersuchungen (z.B. beim Zahnarzt; bei der Gynäkologie; Darmspiegelung, Mammografie; Gesundheitsuntersuchungen für Kinder und Jugendliche gemäß § 26 SGB V) - der Prävention von schwereren Krankheiten und Behinderungen dienen. Sie ist in § 25b Abs. 4 SGB V gesetzlich geregelt. Jeder Versicherte besitzt ein [Widerspruchsrecht](widerspruchsrecht) gegen diese Datenauswertung und gegen die Gesundheitshinweise von der eigenen Krankenkasse dank des Rechts auf einen [Freier Wille](freier-wille) in den eigenen Gesundheitsbelangen. \n\n[Betreuer](betreuer) mit den [Aufgabenkreis](aufgabenkreis)en [Postkontrolle](postkontrolle) und [Gesundheitssorge](gesundheitssorge) würden diese Hinweise von der Krankenkasse des Betreuten stellvertretend erhalten. So könnten sie dann gegebenenfalls bei [Einwilligungsfähigkeit](einwilligungsfähigkeit) notwendige [Heilbehandlung](heilbehandlung)en veranlassen.\n\nSiehe auch\n [Datenschutz](datenschutz)\n [Geheimhaltungspflicht](geheimhaltungspflicht)\n [Begleitforschung](begleitforschung)\n [Neu](neu)\n [Heilbehandlung](heilbehandlung)\n [Medikationsplan](medikationsplan)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -38,9 +38,10 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Datenschutz\n Begleitforschung\n Was ist neu?\n Heilbehandlung\n Medikationsplan",
+      "inhalt": "Datenschutz\n Geheimhaltungspflicht\n Begleitforschung\n Was ist neu?\n Heilbehandlung\n Medikationsplan",
       "tags": [
         "datenschutz",
+        "geheimhaltungspflicht",
         "begleitforschung",
         "heilbehandlung",
         "medikationsplan"
@@ -49,19 +50,20 @@
   ],
   "zusammenfassung": "Das deutsche Gesetz zur Nutzung von Gesundheitsdaten zu gemeinwohlorientierten Forschungszwecken und zur datenbasierten Weiterentwicklung des Gesundheitswesens (GDNG) trat am 26.03.2024 in Kraft.\n\nDatenweiterverarbeitung zur Förderung der Patientensicherheit\nGemäß § 6 GDNG ist den Kranken- und Pfleg...",
   "verwandteArtikel": [
-    "gesundheitssorge",
-    "heilbehandlung",
-    "neu",
-    "freier-wille",
     "medikationsplan",
-    "betreuer",
+    "heilbehandlung",
     "elektronische-patientenakte",
-    "diskriminierungsverbot",
-    "postkontrolle",
-    "widerspruchsrecht",
+    "gesundheitssorge",
+    "neu",
     "datenschutz",
     "aufgabenkreis",
+    "postkontrolle",
+    "geheimhaltungspflicht",
     "einwilligungsfähigkeit",
-    "begleitforschung"
+    "betreuer",
+    "diskriminierungsverbot",
+    "begleitforschung",
+    "freier-wille",
+    "widerspruchsrecht"
   ]
 }
