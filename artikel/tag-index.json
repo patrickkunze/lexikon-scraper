@@ -3979,6 +3979,7 @@
     "eingruppierung",
     "erbausschlagung",
     "finanzamt",
+    "geheimhaltungspflicht",
     "gerichtskosten",
     "geschäftsfähigkeit",
     "hauptseite",
@@ -6430,7 +6431,8 @@
   ],
   "deren": [
     "angehörigenvertretungsrecht",
-    "anzeigepflicht"
+    "anzeigepflicht",
+    "geheimhaltungspflicht"
   ],
   "rechtlichen": [
     "angehörigenvertretungsrecht",
@@ -7805,6 +7807,7 @@
     "anzeigepflicht",
     "datenschutz",
     "geheimhaltungspflicht",
+    "gesundheitsdatennutzungsgesetz",
     "schweigepflicht",
     "zeugnisverweigerungsrecht"
   ],
@@ -14554,7 +14557,6 @@
   "medikationsplan": [
     "checkliste-für-arztgespräche",
     "e-rezept",
-    "gesundheitsdatennutzungsgesetz",
     "gesundheitssorge"
   ],
   "datenschutz": [
@@ -15072,8 +15074,9 @@
   "behandelnden": [
     "dokumentationspflicht"
   ],
-  "arztgespräche": [
-    "dokumentationspflicht"
+  "geheimhaltungspflicht": [
+    "dokumentationspflicht",
+    "gesundheitsdatennutzungsgesetz"
   ],
   "änderung": [
     "drittes-betreuungsrechtsänderungsgesetz",
@@ -15798,7 +15801,8 @@
     "elektronisches-gerichts--und-verwaltungspostfach"
   ],
   "unbefugt": [
-    "elektronisches-gerichts--und-verwaltungspostfach"
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "geheimhaltungspflicht"
   ],
   "speicherkontrolle": [
     "elektronisches-gerichts--und-verwaltungspostfach"
@@ -16439,6 +16443,12 @@
     "geheimhaltungspflicht"
   ],
   "bundesagentur": [
+    "geheimhaltungspflicht"
+  ],
+  "gegenstand": [
+    "geheimhaltungspflicht"
+  ],
+  "nachricht": [
     "geheimhaltungspflicht"
   ],
   "nachstehende": [
@@ -17234,9 +17244,6 @@
   "konkrete": [
     "gesundheitsdatennutzungsgesetz",
     "rechnungslegung"
-  ],
-  "geheimhaltungspflicht": [
-    "gesundheitsdatennutzungsgesetz"
   ],
   "steuerungsfähigkeit": [
     "gesundheitssorge",
