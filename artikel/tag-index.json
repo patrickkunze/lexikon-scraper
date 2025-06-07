@@ -3478,6 +3478,10 @@
     "grundrechte",
     "grundrechte",
     "heilbehandlung",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
     "informationspflicht",
     "informationspflicht",
     "informationspflicht",
@@ -3810,6 +3814,10 @@
     "grundrechte",
     "grundrechte",
     "haager-übereinkommen",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
     "krankenversicherung",
     "krankenversicherung",
     "mdk-gutachten",
@@ -5712,6 +5720,9 @@
   "gesetzlich": [
     "amtspflichtverletzung",
     "elektronische-patientenakte",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
     "informationspflicht",
     "sachkundelehrgang",
     "sozialpsychiatrischer-dienst",
@@ -6914,6 +6925,7 @@
     "egvp",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "gerichtskosten",
+    "it-sicherheit",
     "personalausweis",
     "prozessführung",
     "querschnittsaufgaben",
@@ -8981,6 +8993,7 @@
   "steht": [
     "aufwandspauschale",
     "grundstück",
+    "it-sicherheit",
     "sozialhilfe",
     "spielwiese",
     "trennungsgebot"
@@ -11491,6 +11504,7 @@
     "elektronischer-identitätsnachweis",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "formulare",
+    "it-sicherheit",
     "mailingliste",
     "neu",
     "software"
@@ -14626,7 +14640,8 @@
   ],
   "kassenärztlichen": [
     "corona",
-    "elektronische-patientenakte"
+    "elektronische-patientenakte",
+    "it-sicherheit"
   ],
   "bundesvereinigung": [
     "corona"
@@ -14896,6 +14911,7 @@
   ],
   "begriff": [
     "digitale-barrierefreiheit",
+    "it-sicherheit",
     "mitwirkungspflicht",
     "querschnittsaufgaben"
   ],
@@ -14947,6 +14963,7 @@
   "pflegekassen": [
     "digitale-barrierefreiheit",
     "gesundheitsdatennutzungsgesetz",
+    "it-sicherheit",
     "verbraucherstreitbeilegung",
     "wohnungsangelegenheiten"
   ],
@@ -15109,6 +15126,14 @@
     "e-rezept",
     "neu"
   ],
+  "sicherheit": [
+    "e-rezept",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
+    "interoperabilität"
+  ],
   "krankenhaussozialdienst": [
     "e-rezept",
     "krankenhaussozialdienst"
@@ -15123,6 +15148,7 @@
     "egvp",
     "formulare",
     "gerichtskosten",
+    "it-sicherheit",
     "personalausweis",
     "querschnittsaufgaben",
     "software",
@@ -15131,6 +15157,7 @@
   "verwaltungspostfach": [
     "ebo",
     "egvp",
+    "it-sicherheit",
     "software",
     "zugriffsrecht"
   ],
@@ -15688,6 +15715,7 @@
   ],
   "interoperabilität": [
     "elektronische-patientenakte",
+    "it-sicherheit",
     "interoperabilität",
     "interoperabilität",
     "interoperabilität",
@@ -16914,7 +16942,6 @@
   ],
   "subsidiaritätsprinzip": [
     "gerichtskosten",
-    "interoperabilität",
     "rechtsweg-in-deutschland",
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
@@ -17860,6 +17887,29 @@
   "heimplatzsuche": [
     "heimplatzsuche"
   ],
+  "abgekürzte": [
+    "it-sicherheit"
+  ],
+  "informationstechnologie": [
+    "it-sicherheit"
+  ],
+  "bundesvereinigungen": [
+    "it-sicherheit"
+  ],
+  "verantwortlichen": [
+    "it-sicherheit"
+  ],
+  "krankenhäuser": [
+    "it-sicherheit",
+    "krankenhaussozialdienst"
+  ],
+  "krankenkassen": [
+    "it-sicherheit",
+    "informationspflicht",
+    "krankenhaussozialdienst",
+    "krankenversicherung",
+    "rechtsverkehr-in-deutschland"
+  ],
   "redirectgrundstück": [
     "immobilie"
   ],
@@ -17893,12 +17943,6 @@
   ],
   "gematik": [
     "informationspflicht"
-  ],
-  "krankenkassen": [
-    "informationspflicht",
-    "krankenhaussozialdienst",
-    "krankenversicherung",
-    "rechtsverkehr-in-deutschland"
   ],
   "beschäftigung": [
     "inklusionsbetrieb",
@@ -18253,9 +18297,6 @@
   ],
   "landeskrankenhausgesetz": [
     "krankenhaussozialdienst",
-    "krankenhaussozialdienst"
-  ],
-  "krankenhäuser": [
     "krankenhaussozialdienst"
   ],
   "versorgungsmanagement": [

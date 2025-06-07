@@ -28,20 +28,20 @@
   ],
   "zusammenfassung": "Bei [Heilbehandlung](heilbehandlung) war es für Patienten in Deutschland als die schwächere Partei meist schwierig, dem Behandelnden seinen Fehler gerichtsfest nachzuweisen. Das galt auch für betroffene Angehörige als Nebenkläger oder für rechtliche Betreuer bei Schadensersatzklagen. Vom Gericht in ...",
   "verwandteArtikel": [
-    "einwilligungsfähigkeit",
-    "arztzeugnis",
-    "zugriffsrecht",
-    "interoperabilität",
     "geheimhaltungspflicht",
-    "elektronische-patientenakte",
-    "heilbehandlung",
-    "vertreterdokumentation",
     "checkliste-für-arztgespräche",
     "digitale-barrierefreiheit",
-    "checkliste-betreuerpflichten",
-    "informationspflicht",
     "unterstützungspflicht",
+    "checkliste-betreuerpflichten",
+    "zugriffsrecht",
+    "interoperabilität",
+    "erörterungsgespräch",
+    "arztzeugnis",
     "datenschutz",
-    "erörterungsgespräch"
+    "einwilligungsfähigkeit",
+    "vertreterdokumentation",
+    "heilbehandlung",
+    "informationspflicht",
+    "elektronische-patientenakte"
   ]
 }

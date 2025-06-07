@@ -50,21 +50,21 @@
   ],
   "zusammenfassung": "Das deutsche Gesetz zur Nutzung von Gesundheitsdaten zu gemeinwohlorientierten Forschungszwecken und zur datenbasierten Weiterentwicklung des Gesundheitswesens (GDNG) trat am 26.03.2024 in Kraft.\n\nDatenweiterverarbeitung zur Förderung der Patientensicherheit\nGemäß § 6 GDNG ist den Kranken- und Pfleg...",
   "verwandteArtikel": [
-    "freier-wille",
-    "einwilligungsfähigkeit",
-    "diskriminierungsverbot",
-    "begleitforschung",
     "geheimhaltungspflicht",
-    "elektronische-patientenakte",
+    "diskriminierungsverbot",
+    "schweigepflicht",
+    "medikationsplan",
+    "betreuer",
     "postkontrolle",
     "aufgabenkreis",
-    "heilbehandlung",
-    "medikationsplan",
-    "neu",
     "gesundheitssorge",
+    "neu",
+    "freier-wille",
+    "datenschutz",
+    "einwilligungsfähigkeit",
     "widerspruchsrecht",
-    "schweigepflicht",
-    "betreuer",
-    "datenschutz"
+    "heilbehandlung",
+    "begleitforschung",
+    "elektronische-patientenakte"
   ]
 }
