@@ -3806,6 +3806,7 @@
     "einstweilige-anordnung",
     "familienverfahrensgesetz",
     "geheimhaltungspflicht",
+    "geheimhaltungspflicht",
     "gesundheitliche-versorgungsplanung",
     "gewaltschutzanordnung",
     "grundrechte",
@@ -7819,7 +7820,6 @@
     "anzeigepflicht",
     "datenschutz",
     "geheimhaltungspflicht",
-    "gesundheitsdatennutzungsgesetz",
     "schweigepflicht",
     "zeugnisverweigerungsrecht"
   ],
@@ -8296,6 +8296,7 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "elektronisches-gerichts--und-verwaltungspostfach",
+    "geheimhaltungspflicht",
     "online-lexikon-betreuungsrecht:datenschutz",
     "online-lexikon-betreuungsrecht:datenschutz",
     "online-lexikon-betreuungsrecht:datenschutz",
@@ -10415,7 +10416,8 @@
     "befreiter-betreuer"
   ],
   "ursprünglich": [
-    "befreiter-betreuer"
+    "befreiter-betreuer",
+    "geheimhaltungspflicht"
   ],
   "folgende": [
     "befreiter-betreuer",
@@ -10941,7 +10943,6 @@
     "begleitforschung",
     "checkliste-gesundheitssorge",
     "elektronische-patientenakte",
-    "geheimhaltungspflicht",
     "heilbehandlung",
     "interoperabilität",
     "neu"
@@ -15128,6 +15129,9 @@
   ],
   "sicherheit": [
     "e-rezept",
+    "geheimhaltungspflicht",
+    "gesundheitsdatennutzungsgesetz",
+    "it-sicherheit",
     "it-sicherheit",
     "it-sicherheit",
     "it-sicherheit",
@@ -16477,6 +16481,12 @@
     "geheimhaltungspflicht"
   ],
   "nachricht": [
+    "geheimhaltungspflicht"
+  ],
+  "personenbezug": [
+    "geheimhaltungspflicht"
+  ],
+  "erfassten": [
     "geheimhaltungspflicht"
   ],
   "nachstehende": [
@@ -17909,6 +17919,12 @@
     "krankenhaussozialdienst",
     "krankenversicherung",
     "rechtsverkehr-in-deutschland"
+  ],
+  "bundesamt": [
+    "it-sicherheit"
+  ],
+  "informationstechnik": [
+    "it-sicherheit"
   ],
   "redirectgrundstück": [
     "immobilie"

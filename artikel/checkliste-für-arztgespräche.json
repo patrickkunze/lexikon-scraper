@@ -47,20 +47,20 @@
   "zusammenfassung": "[Bild:Arzt.jpg](bild:arzt.jpg)\nCheckliste für Arztgespräche zur konkreten Behandlungsbedürftigkeit des Betreuten\n\nFür die Entscheidung des Betreuers in die Einwilligung in eine konkrete Behandlung und zur Frage der etwaigen [Genehmigungspflichten](genehmigungspflichten) (Behandlungsrisiko) muß der A...",
   "verwandteArtikel": [
     "genehmigungspflichten",
-    "kategorie:checklisten",
+    "dokumentationspflicht",
     "medikationsplan",
     "kategorie:betreuerpflichten",
-    "medizinische-begriffe",
-    "einwilligungsvorbehalt",
-    "dokumentationspflicht",
     "erörterungsgespräch",
-    "vulnerabilität",
-    "arztzeugnis",
-    "genehmigung-der-heilbehandlung",
-    "zwangsbehandlung",
-    "einwilligungsfähigkeit",
-    "bild:arzt.jpg",
     "heilbehandlung",
-    "informationspflicht"
+    "genehmigung-der-heilbehandlung",
+    "einwilligungsfähigkeit",
+    "informationspflicht",
+    "zwangsbehandlung",
+    "vulnerabilität",
+    "einwilligungsvorbehalt",
+    "kategorie:checklisten",
+    "arztzeugnis",
+    "medizinische-begriffe",
+    "bild:arzt.jpg"
   ]
 }
