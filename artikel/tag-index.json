@@ -1579,6 +1579,7 @@
     "organspende",
     "prozessfähigkeit",
     "querschnittsaufgaben",
+    "registrierung",
     "strafprozess",
     "trennungsgebot",
     "umgangsbestimmung",
@@ -6212,8 +6213,7 @@
     "checkliste-gesundheitssorge",
     "einverständniserklärung",
     "erörterungsgespräch",
-    "heilbehandlung",
-    "registrierung"
+    "heilbehandlung"
   ],
   "persönliche": [
     "anfangsgespräch",
@@ -10071,6 +10071,7 @@
     "rechtsprechung",
     "sterbehilfedokumente",
     "verfahrensfähigkeit",
+    "zwangsbehandlung",
     "zwangsbehandlung"
   ],
   "betreuungspersonen": [
@@ -10548,6 +10549,7 @@
     "informationspflicht",
     "mitteilungspflicht",
     "querschnittsaufgaben",
+    "registrierung",
     "registrierung",
     "registrierung",
     "registrierung",
@@ -14065,7 +14067,8 @@
     "impressum",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "persönliches-budget",
-    "spielwiese"
+    "spielwiese",
+    "zwangsbehandlung"
   ],
   "vorsorgeregister": [
     "betreuungszahlen",
@@ -15110,8 +15113,7 @@
   ],
   "protokoll": [
     "drittes-betreuungsrechtsänderungsgesetz",
-    "erbausschlagung",
-    "registrierung"
+    "erbausschlagung"
   ],
   "gesetzesbegründung": [
     "drittes-betreuungsrechtsänderungsgesetz",
@@ -15528,6 +15530,7 @@
     "genehmigung-der-heilbehandlung",
     "heilbehandlung",
     "schweigepflicht",
+    "zwangsbehandlung",
     "zwangsbehandlung"
   ],
   "patient": [
@@ -21999,6 +22002,12 @@
   ],
   "befähigen": [
     "zugriffsrecht"
+  ],
+  "zwangsmaßnahmen": [
+    "zwangsbehandlung"
+  ],
+  "krankenhausvorbehalt": [
+    "zwangsbehandlung"
   ],
   "schutzpflicht": [
     "zwangsbehandlung"
