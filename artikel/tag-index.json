@@ -951,7 +951,6 @@
     "unterstützungspflicht",
     "unterstützungspflicht",
     "vbvg-rechtsprechung",
-    "verfahrenspfleger",
     "verfügungsgeld",
     "verlängerung-der-betreuung",
     "vermögenssorge",
@@ -1380,8 +1379,7 @@
     "anfangsgespräch",
     "ausländer",
     "betreuungsverfahren",
-    "geschäftsfähigkeit",
-    "haager-übereinkommen"
+    "geschäftsfähigkeit"
   ],
   "grundrechte": [
     "abschiebung",
@@ -1412,7 +1410,6 @@
     "grundrechte",
     "grundrechte",
     "grundrechte",
-    "haager-übereinkommen",
     "inklusionsbetrieb",
     "mittellosigkeit",
     "postkontrolle",
@@ -3123,6 +3120,8 @@
   ],
   "gesundheitssorge": [
     "advance-care-planning",
+    "angehörigenvertretungsrecht",
+    "ausländer",
     "checkliste-gesundheitssorge",
     "checkliste-vermögenssorge",
     "checkliste-wohnungsangelegenheiten",
@@ -3786,11 +3785,13 @@
   "deutschland": [
     "alltagsgeschäfte",
     "amtspflichtverletzung",
+    "angehörigenvertretungsrecht",
     "anzeigepflicht",
     "anzeigepflicht",
     "anzeigepflicht",
     "anzeigepflicht",
     "anzeigepflicht",
+    "ausländer",
     "ausländer",
     "ausländer",
     "ausschließlichkeitserklärung",
@@ -5515,6 +5516,7 @@
     "verfahrensfähigkeit",
     "verfahrenspfleger",
     "verfahrenspfleger",
+    "verfahrenspfleger",
     "verlängerung-der-betreuung",
     "verlängerung-der-betreuung",
     "verpflichtungsgespräch",
@@ -6264,6 +6266,7 @@
   "behindertenkonvention": [
     "anfangsgespräch",
     "betreuungsverein",
+    "betreuungsverfahren",
     "haager-übereinkommen",
     "inklusionsbetrieb",
     "konvention-über-die-rechte-behinderter-menschen",
@@ -6415,9 +6418,11 @@
   ],
   "angelegenheiten": [
     "angehörigenvertretungsrecht",
+    "angehörigenvertretungsrecht",
     "aufgabenkreis",
     "aufgabenkreis",
     "aufgabenkreis",
+    "ausländer",
     "ausländer",
     "betreuerpflichten",
     "betreuungsgesetz",
@@ -6703,6 +6708,15 @@
   "main": [
     "angehörigenvertretungsrecht",
     "betreuervorschlag"
+  ],
+  "verheirateten": [
+    "angehörigenvertretungsrecht",
+    "ausländer"
+  ],
+  "gegebenenfalls": [
+    "angehörigenvertretungsrecht",
+    "ausländer",
+    "krankenhaussozialdienst"
   ],
   "ärzteinfos": [
     "angehörigenvertretungsrecht"
@@ -9637,6 +9651,7 @@
   "haager": [
     "ausländer",
     "ausländer",
+    "betreuungsverfahren",
     "buchverzeichnis",
     "erwachsenenschutz",
     "erwachsenenschutzabkommen",
@@ -9657,6 +9672,7 @@
     "ausländer",
     "behindertenkonvention",
     "behindertenkonvention",
+    "betreuungsverfahren",
     "erwachsenenschutz",
     "erwachsenenschutzabkommen",
     "erwachsenenschutzübereinkommen",
@@ -10813,6 +10829,7 @@
   ],
   "vormundschaftsgericht": [
     "beglaubigung-durch-betreuungsbehörde",
+    "haager-übereinkommen",
     "vormundschaftsgericht",
     "vormundschaftsgericht",
     "vormundschaftsgericht"
@@ -15152,6 +15169,7 @@
   ],
   "internetseite": [
     "e-rezept",
+    "gesundheitsdatennutzungsgesetz",
     "mdk-gutachten",
     "tierschutz"
   ],
@@ -17309,6 +17327,12 @@
   "stehen": [
     "gesundheitsdatennutzungsgesetz"
   ],
+  "weltgesundheitsorganisation": [
+    "gesundheitsdatennutzungsgesetz"
+  ],
+  "genf": [
+    "gesundheitsdatennutzungsgesetz"
+  ],
   "steuerungsfähigkeit": [
     "gesundheitssorge",
     "peg-sonde"
@@ -17640,6 +17664,9 @@
     "haager-übereinkommen"
   ],
   "deutsch": [
+    "haager-übereinkommen"
+  ],
+  "ehemaliges": [
     "haager-übereinkommen"
   ],
   "vereinten": [
@@ -18371,9 +18398,6 @@
     "krankenhaussozialdienst",
     "krankenhaussozialdienst",
     "krankenhaussozialdienst",
-    "krankenhaussozialdienst"
-  ],
-  "gegebenenfalls": [
     "krankenhaussozialdienst"
   ],
   "ethikbeauftragte": [
