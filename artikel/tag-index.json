@@ -1812,6 +1812,7 @@
     "aufgabenkreis",
     "aufgabenkreis",
     "ausländer",
+    "ausländer",
     "beamte-als-betreuer",
     "beamte-als-betreuer",
     "beglaubigung-durch-betreuungsbehörde",
@@ -3174,7 +3175,6 @@
     "ausbildung",
     "ausländer",
     "ausländer",
-    "ausländer",
     "beamte-als-betreuer",
     "beamte-als-betreuer",
     "beaufsichtigung",
@@ -3791,6 +3791,7 @@
     "anzeigepflicht",
     "anzeigepflicht",
     "anzeigepflicht",
+    "ausländer",
     "ausländer",
     "ausländer",
     "ausländer",
@@ -8272,7 +8273,6 @@
     "betreuungsgericht",
     "checkliste-für-arztgespräche",
     "dokumentationspflicht",
-    "mdk-gutachten",
     "rechtsprechung-zum-sachverständigengutachten",
     "sachverständigengutachten",
     "ärztliches-zeugnis"
@@ -9596,20 +9596,6 @@
   "ausländischer": [
     "ausländer"
   ],
-  "pflegschaft": [
-    "ausländer",
-    "beamte-als-betreuer",
-    "neu"
-  ],
-  "vormundschaft": [
-    "ausländer",
-    "befreiter-betreuer",
-    "betreuungsgesetz",
-    "gesetzestexte",
-    "gesetzestexte",
-    "neu",
-    "wahlrecht"
-  ],
   "recht": [
     "ausländer",
     "befreiter-betreuer",
@@ -9629,10 +9615,23 @@
     "vermögenssorge",
     "vermögenssorge"
   ],
-  "staates": [
+  "ausübung": [
     "ausländer"
   ],
+  "fürsorgeverhältnisses": [
+    "ausländer"
+  ],
+  "vormundschaft": [
+    "ausländer",
+    "befreiter-betreuer",
+    "betreuungsgesetz",
+    "gesetzestexte",
+    "gesetzestexte",
+    "neu",
+    "wahlrecht"
+  ],
   "internationale": [
+    "ausländer",
     "ausländer",
     "haager-übereinkommen"
   ],
@@ -9647,6 +9646,17 @@
   ],
   "wiener": [
     "ausländer"
+  ],
+  "egbgb": [
+    "ausländer"
+  ],
+  "privatrecht": [
+    "ausländer",
+    "haager-übereinkommen"
+  ],
+  "juristische": [
+    "ausländer",
+    "einwilligungsvorbehalt"
   ],
   "haager": [
     "ausländer",
@@ -10081,6 +10091,10 @@
     "beamte-als-betreuer",
     "behördenbetreuer",
     "rechtsanwalt"
+  ],
+  "pflegschaft": [
+    "beamte-als-betreuer",
+    "neu"
   ],
   "dienstverhältnissen": [
     "beamte-als-betreuer"
@@ -10971,6 +10985,7 @@
     "elektronische-patientenakte",
     "heilbehandlung",
     "interoperabilität",
+    "mdk-gutachten",
     "neu"
   ],
   "heilbehandlung": [
@@ -15691,9 +15706,6 @@
     "einwilligungsvorbehalt",
     "mitwirkungspflicht"
   ],
-  "juristische": [
-    "einwilligungsvorbehalt"
-  ],
   "examensklausur": [
     "einwilligungsvorbehalt"
   ],
@@ -17678,9 +17690,6 @@
   "literaturübersicht": [
     "haager-übereinkommen",
     "sterbehilfedokumente"
-  ],
-  "privatrecht": [
-    "haager-übereinkommen"
   ],
   "absichten": [
     "haager-übereinkommen"
