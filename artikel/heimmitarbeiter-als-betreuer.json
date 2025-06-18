@@ -85,20 +85,20 @@
   "verwandteArtikel": [
     "bild:altenheim.jpg",
     "betreuerbestellung",
-    "kategorie:betreuungspersonen",
     "altenheim",
-    "betreuervorschlag",
-    "betreutes-wohnen",
-    "betreuungsverein",
-    "wohn--und-betreuungsvertragsgesetz",
-    "unterstützungspflicht",
-    "aufgabenkreis",
-    "bild:gericht2.jpg",
-    "grundrechte",
-    "verbraucherstreitbeilegung",
     "betreuerentlassung",
+    "verbraucherstreitbeilegung",
+    "kategorie:betreuungspersonen",
+    "betreutes-wohnen",
     "bild:grundgesetz.jpg",
-    "btprax",
-    "verhältnismäßigkeitsprinzip"
+    "unterstützungspflicht",
+    "grundrechte",
+    "wohn--und-betreuungsvertragsgesetz",
+    "bild:gericht2.jpg",
+    "aufgabenkreis",
+    "betreuervorschlag",
+    "verhältnismäßigkeitsprinzip",
+    "betreuungsverein",
+    "btprax"
   ]
 }
