@@ -1379,7 +1379,8 @@
     "anfangsgespräch",
     "ausländer",
     "betreuungsverfahren",
-    "geschäftsfähigkeit"
+    "geschäftsfähigkeit",
+    "ordre-public"
   ],
   "grundrechte": [
     "abschiebung",
@@ -1412,6 +1413,7 @@
     "grundrechte",
     "inklusionsbetrieb",
     "mittellosigkeit",
+    "ordre-public",
     "postkontrolle",
     "prozessführung",
     "psychisch-kranken-gesetz",
@@ -2174,6 +2176,7 @@
     "mittellosigkeit",
     "mündelgeld",
     "natürlicher-wille",
+    "ordre-public",
     "organspende",
     "peg-sonde",
     "patientenverfügung",
@@ -7986,6 +7989,8 @@
     "neu",
     "neu",
     "neu",
+    "ordre-public",
+    "ordre-public",
     "selbstverwaltung-der-deutschen-gemeinden",
     "sterilisation",
     "unterstützungspflicht",
@@ -9675,6 +9680,7 @@
     "internationales",
     "internationales-betreuungsrecht",
     "neu",
+    "ordre-public",
     "vulnerabilität",
     "übereinkommen-über-den-internationalen-schutz-von-erwachsenen"
   ],
@@ -9694,6 +9700,7 @@
     "internationales",
     "internationales-betreuungsrecht",
     "neu",
+    "ordre-public",
     "vulnerabilität",
     "übereinkommen-über-den-internationalen-schutz-von-erwachsenen"
   ],
@@ -10749,7 +10756,8 @@
   "öffentliche": [
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
-    "betreuungsorganisationsgesetz"
+    "betreuungsorganisationsgesetz",
+    "ordre-public"
   ],
   "btbg": [
     "beglaubigung-durch-betreuungsbehörde",
@@ -15176,7 +15184,8 @@
     "it-sicherheit",
     "it-sicherheit",
     "it-sicherheit",
-    "interoperabilität"
+    "interoperabilität",
+    "ordre-public"
   ],
   "krankenhaussozialdienst": [
     "e-rezept",
@@ -15262,6 +15271,7 @@
   "anwendung": [
     "ehefähigkeit",
     "eherecht-und-betreuung",
+    "ordre-public",
     "unterbringungsähnliche-maßnahme",
     "vorführung"
   ],
@@ -16405,7 +16415,8 @@
     "freibetrag"
   ],
   "anzuwenden": [
-    "freibetrag"
+    "freibetrag",
+    "ordre-public"
   ],
   "freibetrag": [
     "freibetrag",
@@ -19137,6 +19148,16 @@
   ],
   "dokumentation": [
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht"
+  ],
+  "ordnung": [
+    "ordre-public"
+  ],
+  "polizei": [
+    "ordre-public",
+    "zuführung-zur-unterbringung"
+  ],
+  "unvereinbar": [
+    "ordre-public"
   ],
   "organentnahme": [
     "organspende",
@@ -21980,9 +22001,6 @@
     "zuführung-zur-unterbringung"
   ],
   "demenzkranke": [
-    "zuführung-zur-unterbringung"
-  ],
-  "polizei": [
     "zuführung-zur-unterbringung"
   ],
   "gebrauch": [
