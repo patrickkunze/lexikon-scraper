@@ -4964,7 +4964,6 @@
     "persönliche-betreuung",
     "pflegeversicherung",
     "schwerbehindertenausweis",
-    "selbstverwaltung-der-deutschen-gemeinden",
     "sozialhilfe",
     "sozialpsychiatrischer-dienst",
     "vertrauensperson",
@@ -11937,7 +11936,6 @@
   ],
   "unterstützungspflichten": [
     "betreuer-(ehrenamt)",
-    "selbstverwaltung-der-deutschen-gemeinden",
     "vereinsbetreuer"
   ],
   "anzeigepflichten": [
@@ -13276,7 +13274,8 @@
   ],
   "sozialpsychiatrischer": [
     "betreuungsarbeitsgemeinschaft",
-    "sachverständigengutachten"
+    "sachverständigengutachten",
+    "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "betreuungsgesetzes": [
     "betreuungsbehörde"
@@ -15517,6 +15516,7 @@
     "krankenhaussozialdienst",
     "mdk-gutachten",
     "sachverständigengutachten",
+    "selbstverwaltung-der-deutschen-gemeinden",
     "sozialpsychiatrischer-dienst"
   ],
   "mündelsicher": [
