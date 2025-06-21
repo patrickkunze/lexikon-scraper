@@ -7787,6 +7787,7 @@
   ],
   "intellektuelle": [
     "anregung-der-betreuerbestellung",
+    "ordre-public",
     "persönliche-betreuung",
     "tierschutz",
     "unterstützte-kommunikation"
@@ -9953,7 +9954,6 @@
     "ubg",
     "unterbringung",
     "unterbringungsverfahren",
-    "unterstützte-entscheidungsfindung",
     "zwangsbehandlung"
   ],
   "handeln": [
@@ -14909,8 +14909,7 @@
     "mdk-gutachten",
     "psychkg",
     "sozialpsychiatrischer-dienst",
-    "ubg",
-    "unterstützte-entscheidungsfindung"
+    "ubg"
   ],
   "minuten": [
     "datenschutz",
@@ -21139,6 +21138,12 @@
     "unterstützte-entscheidungsfindung"
   ],
   "aktion": [
+    "unterstützte-entscheidungsfindung"
+  ],
+  "ordre": [
+    "unterstützte-entscheidungsfindung"
+  ],
+  "public": [
     "unterstützte-entscheidungsfindung"
   ],
   "kommuniziert": [
