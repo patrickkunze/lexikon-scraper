@@ -1575,6 +1575,7 @@
     "gesundheitliche-versorgungsplanung",
     "haftpflichtversicherung",
     "heilbehandlung",
+    "ordre-public",
     "organspende",
     "prozessfähigkeit",
     "querschnittsaufgaben",
@@ -2489,6 +2490,7 @@
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
     "girokonto",
+    "grundrechte",
     "grundrechte",
     "grundrechte",
     "grundstück",
@@ -3821,6 +3823,7 @@
     "grundrechte",
     "grundrechte",
     "grundrechte",
+    "grundrechte",
     "haager-übereinkommen",
     "it-sicherheit",
     "it-sicherheit",
@@ -3843,6 +3846,7 @@
     "neu",
     "neu",
     "neu",
+    "ordre-public",
     "personalausweis",
     "prozessführung",
     "psychisch-kranken-gesetz",
@@ -4866,6 +4870,7 @@
     "bundesverband-der-berufsbetreuer",
     "erbausschlagung",
     "geschäftsfähigkeit",
+    "grundrechte",
     "grundrechte",
     "krankenversicherung",
     "prozessfähigkeit",
@@ -6358,6 +6363,7 @@
     "mittellosigkeit",
     "online-lexikon-betreuungsrecht:datenschutz",
     "online-lexikon-betreuungsrecht:datenschutz",
+    "ordre-public",
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz",
     "vereinsbetreuer"
@@ -6614,6 +6620,7 @@
     "haager-übereinkommen",
     "hauptseite",
     "heilbehandlung",
+    "ordre-public",
     "peg-sonde",
     "patientenverfügung",
     "patientenverfügung",
@@ -7983,6 +7990,7 @@
     "geschäftsfähigkeit",
     "grundrechte",
     "grundrechte",
+    "grundrechte",
     "intellektuelle-beeinträchtigung",
     "interoperabilität",
     "mdk-gutachten",
@@ -7996,8 +8004,7 @@
     "unterstützungspflicht",
     "unterstützungspflicht",
     "unterstützungspflicht",
-    "vulnerabilität",
-    "wahlrecht"
+    "vulnerabilität"
   ],
   "regel": [
     "anzeigepflicht",
@@ -8757,6 +8764,16 @@
   "erweiterung": [
     "aufgabenkreis",
     "haager-übereinkommen"
+  ],
+  "ordre": [
+    "aufgabenkreis",
+    "unterstützte-entscheidungsfindung",
+    "wahlrecht"
+  ],
+  "public": [
+    "aufgabenkreis",
+    "unterstützte-entscheidungsfindung",
+    "wahlrecht"
   ],
   "lütgens": [
     "aufgabenkreis",
@@ -9739,8 +9756,7 @@
   "selbstverwaltung": [
     "ausländer",
     "selbstverwaltung-der-deutschen-gemeinden",
-    "selbstverwaltungserklärung",
-    "wahlrecht"
+    "selbstverwaltungserklärung"
   ],
   "gemeinden": [
     "ausländer",
@@ -14558,7 +14574,8 @@
     "selbstbestimmung"
   ],
   "ersten": [
-    "checkliste-betreuerpflichten"
+    "checkliste-betreuerpflichten",
+    "grundrechte"
   ],
   "schritte": [
     "checkliste-betreuerpflichten"
@@ -19149,6 +19166,7 @@
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht"
   ],
   "ordnung": [
+    "ordre-public",
     "ordre-public"
   ],
   "polizei": [
@@ -21138,12 +21156,6 @@
     "unterstützte-entscheidungsfindung"
   ],
   "aktion": [
-    "unterstützte-entscheidungsfindung"
-  ],
-  "ordre": [
-    "unterstützte-entscheidungsfindung"
-  ],
-  "public": [
     "unterstützte-entscheidungsfindung"
   ],
   "kommuniziert": [

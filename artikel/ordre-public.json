@@ -1,7 +1,7 @@
 {
   "id": "ordre-public",
   "titel": "Ordre public",
-  "inhalt": "Allgemeines\n„ordre public“ ist ein französischer Rechtsbegriff. Im Deutschen entspricht ihm die öffentliche Ordnung, die eines der beiden Schutzgüter der deutschen Polizei ist. Im [Baden-Württemberg](baden-württemberg) Polizeigesetz § 1 heißt es dazu: Die Polizei hat die Aufgabe, von dem einzelnen und dem Gemeinwesen Gefahren abzuwehren, durch die die öffentliche Sicherheit oder Ordnung bedroht wird, und Störungen der öffentlichen Sicherheit oder Ordnung zu beseitigen, soweit es im öffentlichen Interesse geboten ist.\n\nÖffentliche Ordnung im Internationalen Privatrecht\nEine Rechtsnorm eines anderen Staates ist im Internationalen Privatrecht von deutschen Gerichten immer dann nicht anzuwenden, wenn diese Anwendung zu einem Ergebnis führt, das mit wesentlichen Grundsätzen des deutschen Rechts offensichtlich unvereinbar ist. Sie ist insbesondere nicht anzuwenden, wenn die Anwendung mit den [Grundrechte](grundrechte)n unvereinbar ist. Dies ist in Art. 6 EGBGB gesetzlich geregelt.\n\nSiehe auch\n [Grundrechte](grundrechte)\n [Ausländer](ausländer)\n [Haager Übereinkommen](haager-übereinkommen)\n [intellektuelle Beeinträchtigung](intellektuelle-beeinträchtigung)",
+  "inhalt": "Allgemeines\n„ordre public“ ist ein französischer Rechtsbegriff. Im Deutschen entspricht ihm die öffentliche Ordnung, die eines der beiden Schutzgüter der deutschen Polizei ist. Im [Baden-Württemberg](baden-württemberg) Polizeigesetz § 1 heißt es dazu: Die Polizei hat die Aufgabe, von dem einzelnen und dem Gemeinwesen Gefahren abzuwehren, durch die die öffentliche Sicherheit oder Ordnung bedroht wird, und Störungen der öffentlichen Sicherheit oder Ordnung zu beseitigen, soweit es im öffentlichen Interesse geboten ist.\n\nÖffentliche Ordnung im Internationalen Privatrecht\nEine Rechtsnorm eines anderen Staates ist im Internationalen Privatrecht von deutschen Gerichten immer dann nicht anzuwenden, wenn diese Anwendung zu einem Ergebnis führt, das mit wesentlichen Grundsätzen des deutschen Rechts offensichtlich unvereinbar ist. Sie ist insbesondere nicht anzuwenden, wenn die Anwendung mit den [Grundrechte](grundrechte)n unvereinbar ist. Dies ist in Art. 6 EGBGB gesetzlich geregelt.\n\npolizeiliche Maßnahmen gegenüber dem Verursacher von Bedrohungen oder Störungen der öffentlichen Ordnung\nDurch polizeiliche Maßnahmen zum Schutz der öffentlichen Ordnung (= Exekutive) können in Deutschland [Grundrechte](grundrechte) im Rahmen des Grundgesetzes für die Bundesrepublik Deutschland eingeschränkt werden. Dies betrifft vor allem das Recht auf Leben und körperliche Unversehrtheit sowie die Freiheit der Person (Art. 2 Abs. 2 GG), die Freizügigkeit (Art. 11 GG), die Unverletzlichkeit der Wohnung (Art. 13 GG) sowie das Eigentum (Art. 14 GG). \n\nWird die öffentliche Ordnung in Deutschland durch das Verhalten von Personen bedroht oder gestört, so hat die zuständige Polizei ihre Maßnahmen gegenüber demjenigen zu treffen, der die Bedrohung oder die Störung verursacht hat. Ist für diese Person ein [Betreuer](betreuer) bestellt, kann die Polizei ihre Maßnahmen auch gegenüber dem Betreuer im Rahmen seines [Aufgabenbereich](aufgabenbereich)s treffen. So jedenfalls ist es im Polizeigesetz von [Baden-Württemberg](baden-württemberg) in § 6 geregelt.\n\nSiehe auch\n [Grundrechte](grundrechte)\n [Ausländer](ausländer)\n [Haager Übereinkommen](haager-übereinkommen)\n [intellektuelle Beeinträchtigung](intellektuelle-beeinträchtigung)\n [Wahlrecht](wahlrecht)",
   "struktur": [
     {
       "titel": "Allgemeines",
@@ -26,8 +26,19 @@
       ]
     },
     {
+      "titel": "polizeiliche Maßnahmen gegenüber dem Verursacher von Bedrohungen oder Störungen der öffentlichen Ordnung",
+      "inhalt": "Durch polizeiliche Maßnahmen zum Schutz der öffentlichen Ordnung (= Exekutive) können in Deutschland Grundrechte im Rahmen des Grundgesetzes für die Bundesrepublik Deutschland eingeschränkt werden. Dies betrifft vor allem das Recht auf Leben und körperliche Unversehrtheit sowie die Freiheit der Person (Art. 2 Abs. 2 GG), die Freizügigkeit (Art. 11 GG), die Unverletzlichkeit der Wohnung (Art. 13 GG) sowie das Eigentum (Art. 14 GG). \n\nWird die öffentliche Ordnung in Deutschland durch das Verhalten von Personen bedroht oder gestört, so hat die zuständige Polizei ihre Maßnahmen gegenüber demjenigen zu treffen, der die Bedrohung oder die Störung verursacht hat. Ist für diese Person ein Betreuer bestellt, kann die Polizei ihre Maßnahmen auch gegenüber dem Betreuer im Rahmen seines Aufgabenbereichs treffen. So jedenfalls ist es im Polizeigesetz von Baden-Württemberg in § 6 geregelt.",
+      "tags": [
+        "maßnahmen",
+        "deutschland",
+        "ordnung",
+        "rahmen",
+        "sowie"
+      ]
+    },
+    {
       "titel": "Siehe auch",
-      "inhalt": "Grundrechte\n Ausländer\n Haager Übereinkommen\n intellektuelle Beeinträchtigung",
+      "inhalt": "Grundrechte\n Ausländer\n Haager Übereinkommen\n intellektuelle Beeinträchtigung\n Wahlrecht",
       "tags": [
         "grundrechte",
         "ausländer",
@@ -39,10 +50,13 @@
   ],
   "zusammenfassung": "Allgemeines\n„ordre public“ ist ein französischer Rechtsbegriff. Im Deutschen entspricht ihm die öffentliche Ordnung, die eines der beiden Schutzgüter der deutschen Polizei ist. Im [Baden-Württemberg](baden-württemberg) Polizeigesetz § 1 heißt es dazu: Die Polizei hat die Aufgabe, von dem einzelnen u...",
   "verwandteArtikel": [
-    "haager-übereinkommen",
-    "baden-württemberg",
     "grundrechte",
+    "wahlrecht",
+    "ausländer",
+    "baden-württemberg",
     "intellektuelle-beeinträchtigung",
-    "ausländer"
+    "aufgabenbereich",
+    "haager-übereinkommen",
+    "betreuer"
   ]
 }
