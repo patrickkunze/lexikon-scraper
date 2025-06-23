@@ -188,6 +188,7 @@
     "betreuungsgesetz",
     "betreuungsrechtsreform-2023",
     "betreuungsreform",
+    "gesetzgebung",
     "reform"
   ],
   "gesundheitliche": [
@@ -1136,6 +1137,7 @@
     "mitwirkungspflicht",
     "mündelgeld",
     "online-lexikon-betreuungsrecht:datenschutz",
+    "ordre-public",
     "organspende",
     "peg-sonde",
     "patientenverfügung",
@@ -1403,6 +1405,7 @@
     "erbausschlagung",
     "freier-wille",
     "gerichtsbeschluss",
+    "gesetzgebung",
     "gesetzliche-vertretung",
     "gewaltschutzanordnung",
     "grundrechte",
@@ -2177,6 +2180,7 @@
     "mittellosigkeit",
     "mündelgeld",
     "natürlicher-wille",
+    "ordre-public",
     "ordre-public",
     "organspende",
     "peg-sonde",
@@ -4067,6 +4071,7 @@
     "grundstück",
     "meldepflicht",
     "meldepflicht",
+    "ordre-public",
     "sozialhilfe",
     "unterbringungsähnliche-maßnahme",
     "vorführung",
@@ -6152,6 +6157,7 @@
     "eingliederungshilfe",
     "einwilligungsfähigkeit",
     "freibetrag",
+    "gesetzgebung",
     "girokonto",
     "krankenversicherung",
     "meldepflicht",
@@ -6252,7 +6258,6 @@
   "betreuungsrichter": [
     "anfangsgespräch",
     "betreuungsgericht",
-    "betreuungsgesetz",
     "grundrechte",
     "rechtsmittel",
     "rechtspfleger",
@@ -6262,8 +6267,7 @@
     "anfangsgespräch",
     "anregung-der-betreuerbestellung",
     "betreuungsbedürftigkeit",
-    "erforderlichkeit",
-    "freier-wille"
+    "erforderlichkeit"
   ],
   "erörterungsgespräch": [
     "anfangsgespräch",
@@ -6985,6 +6989,7 @@
     "gerichtsbeschluss",
     "gerichtskosten",
     "geschäftsfähigkeit",
+    "gesetzestexte",
     "girokonto",
     "prozesspfleger",
     "rechtsanwalt",
@@ -7988,6 +7993,7 @@
     "digitale-barrierefreiheit",
     "ehefähigkeit",
     "geschäftsfähigkeit",
+    "gesetzgebung",
     "grundrechte",
     "grundrechte",
     "grundrechte",
@@ -8767,11 +8773,15 @@
   ],
   "ordre": [
     "aufgabenkreis",
+    "freier-wille",
+    "maßregeln-der-besserung-und-sicherung",
+    "sterbehilfe",
     "unterstützte-entscheidungsfindung",
     "wahlrecht"
   ],
   "public": [
     "aufgabenkreis",
+    "sterbehilfe",
     "unterstützte-entscheidungsfindung",
     "wahlrecht"
   ],
@@ -9071,6 +9081,7 @@
     "kindschaftsrecht",
     "meldepflicht",
     "mittellosigkeit",
+    "ordre-public",
     "organspende",
     "organspende",
     "organspende",
@@ -9874,6 +9885,7 @@
     "familienverfahrensgesetz",
     "gesetze",
     "gesetzessammlungen-betreuer.pdf",
+    "gesetzgebung",
     "rechtsnormen"
   ],
   "rechtsnormen": [
@@ -10426,8 +10438,8 @@
     "betreuungsgericht",
     "betreuungsgesetz",
     "betreuungsgesetz",
-    "betreuungsrechtsreform",
     "btg",
+    "gesetzgebung",
     "vormundschaftsgericht",
     "vorsorgevollmacht"
   ],
@@ -11317,6 +11329,7 @@
     "betreuerwechsel",
     "gerichtskosten",
     "grundrechte",
+    "ordre-public",
     "rechtsmittel",
     "schenkung",
     "vertretung-gegenüber-behörden",
@@ -13539,6 +13552,13 @@
   "allgemeines": [
     "betreuungsgesetz",
     "strafprozess"
+  ],
+  "gesetzgebung": [
+    "betreuungsgesetz",
+    "betreuungsrechtsreform",
+    "gesetzestexte",
+    "gesetzgebung",
+    "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "bundestagsdrucksache": [
     "betreuungsgesetz"
@@ -17261,6 +17281,12 @@
   "verordnungen": [
     "gesetzestexte"
   ],
+  "bundesstaates": [
+    "gesetzgebung"
+  ],
+  "wiedervereinigung": [
+    "gesetzgebung"
+  ],
   "machen": [
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
@@ -18647,14 +18673,6 @@
   "forum": [
     "mailingliste"
   ],
-  "strafprozess": [
-    "maßregeln-der-besserung-und-sicherung",
-    "rechtsprechung-zur-unterbringung",
-    "schuldfähigkeit",
-    "strafanzeige",
-    "strafverfahren",
-    "waffenbesitz"
-  ],
   "gleichzeitig": [
     "medikationsplan"
   ],
@@ -19171,10 +19189,24 @@
   ],
   "polizei": [
     "ordre-public",
+    "ordre-public",
     "zuführung-zur-unterbringung"
   ],
   "unvereinbar": [
     "ordre-public"
+  ],
+  "gewahrsam": [
+    "ordre-public"
+  ],
+  "polizeiliche": [
+    "ordre-public"
+  ],
+  "durchsuchung": [
+    "ordre-public"
+  ],
+  "betreten": [
+    "ordre-public",
+    "wohnungsangelegenheiten"
   ],
   "organentnahme": [
     "organspende",
@@ -19299,7 +19331,6 @@
   ],
   "patientenverfügungsgesetz": [
     "patientenverfügung",
-    "sterbehilfe",
     "sterbehilfedokumente"
   ],
   "zwei": [
@@ -19790,6 +19821,13 @@
   "entscheiden": [
     "rechtsprechung-zur-unterbringung"
   ],
+  "strafprozess": [
+    "rechtsprechung-zur-unterbringung",
+    "schuldfähigkeit",
+    "strafanzeige",
+    "strafverfahren",
+    "waffenbesitz"
+  ],
   "rechtsfähige": [
     "rechtsverkehr-in-deutschland"
   ],
@@ -20202,9 +20240,6 @@
   "ehemaligen": [
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
-  "gesetzgebung": [
-    "selbstverwaltung-der-deutschen-gemeinden"
-  ],
   "konkurrierenden": [
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
@@ -20560,10 +20595,6 @@
   "bundestags": [
     "sterbehilfe"
   ],
-  "sterbehilfedokumente": [
-    "sterbehilfe",
-    "synopse-patientenverfügungsgesetze"
-  ],
   "bardola": [
     "sterbehilfe"
   ],
@@ -20765,6 +20796,9 @@
   ],
   "patientenverfügungsgesetze": [
     "synopse"
+  ],
+  "sterbehilfedokumente": [
+    "synopse-patientenverfügungsgesetze"
   ],
   "gesetzestext": [
     "synopse-patientenverfügungsgesetze"
@@ -21954,9 +21988,6 @@
     "wohnungsangelegenheiten"
   ],
   "evtl": [
-    "wohnungsangelegenheiten"
-  ],
-  "betreten": [
     "wohnungsangelegenheiten"
   ],
   "entrümpelung": [
