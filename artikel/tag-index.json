@@ -188,8 +188,12 @@
     "betreuungsgesetz",
     "betreuungsrechtsreform-2023",
     "betreuungsreform",
+    "elektronischer-identitätsnachweis",
     "gesetzgebung",
-    "reform"
+    "reform",
+    "sachkundenachweis",
+    "zugangsrecht",
+    "zugriffsrecht"
   ],
   "gesundheitliche": [
     "acp",
@@ -2182,6 +2186,7 @@
     "natürlicher-wille",
     "ordre-public",
     "ordre-public",
+    "ordre-public",
     "organspende",
     "peg-sonde",
     "patientenverfügung",
@@ -2534,6 +2539,7 @@
     "natürlicher-wille",
     "neu",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
+    "ordre-public",
     "organspende",
     "patientenverfügung",
     "personalausweis",
@@ -6243,8 +6249,7 @@
     "delegation",
     "neu",
     "persönliches-budget",
-    "selbstbestimmung",
-    "zugangsrecht"
+    "selbstbestimmung"
   ],
   "situation": [
     "anfangsgespräch",
@@ -6962,6 +6967,7 @@
     "personalausweis",
     "prozessführung",
     "querschnittsaufgaben",
+    "sachkundenachweis",
     "software",
     "zugriffsrecht"
   ],
@@ -8777,12 +8783,14 @@
     "maßregeln-der-besserung-und-sicherung",
     "sterbehilfe",
     "unterstützte-entscheidungsfindung",
+    "waffenbesitz",
     "wahlrecht"
   ],
   "public": [
     "aufgabenkreis",
     "sterbehilfe",
     "unterstützte-entscheidungsfindung",
+    "waffenbesitz",
     "wahlrecht"
   ],
   "lütgens": [
@@ -9081,6 +9089,7 @@
     "kindschaftsrecht",
     "meldepflicht",
     "mittellosigkeit",
+    "ordre-public",
     "ordre-public",
     "organspende",
     "organspende",
@@ -12061,6 +12070,7 @@
     "genehmigung-der-heilbehandlung",
     "genehmigung-der-heilbehandlung",
     "heilbehandlung",
+    "ordre-public",
     "sozialhilfe"
   ],
   "dieser": [
@@ -15073,8 +15083,7 @@
     "zugriffsrecht"
   ],
   "identitätsnachweis": [
-    "digitale-barrierefreiheit",
-    "zugriffsrecht"
+    "digitale-barrierefreiheit"
   ],
   "plattform": [
     "digitale-barrierefreiheit",
@@ -15084,7 +15093,6 @@
   "barrierefreiheit": [
     "digitale-barrierefreiheit",
     "e-rezept",
-    "elektronischer-identitätsnachweis",
     "formulare",
     "informationspflicht",
     "mailingliste",
@@ -15240,6 +15248,7 @@
     "it-sicherheit",
     "personalausweis",
     "querschnittsaufgaben",
+    "sachkundenachweis",
     "software",
     "zugriffsrecht"
   ],
@@ -15247,6 +15256,7 @@
     "ebo",
     "egvp",
     "it-sicherheit",
+    "sachkundenachweis",
     "software",
     "zugriffsrecht"
   ],
@@ -16268,8 +16278,7 @@
     "gesetzestexte"
   ],
   "erziehungsmaßregeln": [
-    "erziehungsmaßregeln",
-    "waffenbesitz"
+    "erziehungsmaßregeln"
   ],
   "jugendlichen": [
     "erziehungsmaßregeln"
@@ -16288,8 +16297,7 @@
   ],
   "sicherung": [
     "erziehungsmaßregeln",
-    "rechtsprechung-zur-unterbringung",
-    "waffenbesitz"
+    "rechtsprechung-zur-unterbringung"
   ],
   "patientenwillens": [
     "erörterungsgespräch",
@@ -19202,6 +19210,7 @@
     "ordre-public"
   ],
   "durchsuchung": [
+    "ordre-public",
     "ordre-public"
   ],
   "betreten": [
@@ -20021,6 +20030,9 @@
     "sachkundenachweis"
   ],
   "sachkundelehrgängen": [
+    "sachkundenachweis"
+  ],
+  "vorkenntnissen": [
     "sachkundenachweis"
   ],
   "genügt": [
