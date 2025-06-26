@@ -214,6 +214,7 @@
   ],
   "links": [
     "abkürzungen",
+    "abschiebung",
     "alltagsgeschäfte",
     "altenheim",
     "anhörung",
@@ -226,6 +227,7 @@
   ],
   "überprüft": [
     "abkürzungen",
+    "abschiebung",
     "alltagsgeschäfte",
     "altenheim",
     "betreuungsverfahren",
@@ -234,6 +236,7 @@
   ],
   "korrigiert": [
     "abkürzungen",
+    "abschiebung",
     "alltagsgeschäfte",
     "altenheim",
     "gesundheitliche-versorgungsplanung"
@@ -764,6 +767,111 @@
   "familienrecht": [
     "abkürzungen"
   ],
+  "durchsetzung": [
+    "abschiebung",
+    "beratung"
+  ],
+  "ausreisepflicht": [
+    "abschiebung"
+  ],
+  "deutschland": [
+    "abschiebung",
+    "alltagsgeschäfte",
+    "amtspflichtverletzung",
+    "angehörigenvertretungsrecht",
+    "anzeigepflicht",
+    "anzeigepflicht",
+    "anzeigepflicht",
+    "anzeigepflicht",
+    "anzeigepflicht",
+    "ausländer",
+    "ausländer",
+    "ausländer",
+    "ausländer",
+    "ausschließlichkeitserklärung",
+    "behindertenkonvention",
+    "betreuungsrichter",
+    "betreuungsverein",
+    "betreuungsverein",
+    "betreuungsverfahren",
+    "digitale-barrierefreiheit",
+    "diskriminierungsverbot",
+    "dokumentationspflicht",
+    "drittes-betreuungsrechtsänderungsgesetz",
+    "e-rezept",
+    "eingliederungshilfe",
+    "einstweilige-anordnung",
+    "familienverfahrensgesetz",
+    "geheimhaltungspflicht",
+    "geheimhaltungspflicht",
+    "gesundheitliche-versorgungsplanung",
+    "gewaltschutzanordnung",
+    "grundrechte",
+    "grundrechte",
+    "grundrechte",
+    "grundrechte",
+    "grundrechte",
+    "grundrechte",
+    "haager-übereinkommen",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
+    "krankenversicherung",
+    "krankenversicherung",
+    "mdk-gutachten",
+    "maßregeln-der-besserung-und-sicherung",
+    "medikationsplan",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "ordre-public",
+    "personalausweis",
+    "prozessführung",
+    "psychisch-kranken-gesetz",
+    "rechtsmittel",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zur-anhörung",
+    "rechtsverkehr-in-deutschland",
+    "rechtsweg-in-deutschland",
+    "rente",
+    "rundfunkbeitrag",
+    "selbstbestimmung",
+    "synopse-patientenverfügungsgesetze",
+    "unterstützungspflicht",
+    "unterstützungspflicht",
+    "vertretung-gegenüber-behörden",
+    "vorsorgeregister",
+    "vulnerabilität",
+    "wahlrecht",
+    "wahlrecht",
+    "widerspruchsrecht",
+    "wohn--und-betreuungsvertragsgesetz",
+    "zugangsrecht",
+    "zugangsrecht"
+  ],
+  "aufenthg": [
+    "abschiebung"
+  ],
+  "geregelt": [
+    "abschiebung",
+    "aufwendungsersatz",
+    "mittellosigkeit",
+    "sachverständigengutachten",
+    "strafprozess",
+    "unterstützungspflicht",
+    "vorführung",
+    "zugriffsrecht"
+  ],
   "einer": [
     "abschiebung",
     "abschlussbericht",
@@ -882,6 +990,7 @@
     "mittellosigkeit",
     "mündelgeld",
     "mündelgeld",
+    "ordre-public",
     "organspende",
     "peg-sonde",
     "peg-sonde",
@@ -1141,6 +1250,7 @@
     "mitwirkungspflicht",
     "mündelgeld",
     "online-lexikon-betreuungsrecht:datenschutz",
+    "ordre-public",
     "ordre-public",
     "organspende",
     "peg-sonde",
@@ -1447,43 +1557,27 @@
     "wohnungsauflösung",
     "zuführung-zur-unterbringung"
   ],
-  "zugangsrecht": [
+  "ordre": [
     "abschiebung",
-    "gewaltschutzanordnung",
-    "persönliche-betreuung",
-    "rechtsanwalt",
-    "rechtsverkehr-in-deutschland",
-    "umgangsbestimmung"
-  ],
-  "rechtsanwalt": [
-    "abschiebung",
-    "anwalt",
-    "aufwendungsersatz",
-    "berufsbetreuer",
-    "betreuervergütung-2019",
-    "betreuungsverfahren",
-    "datenschutz",
-    "delegation",
-    "einwilligungsfähigkeit",
-    "genehmigung-der-heilbehandlung",
-    "gerichtskosten",
-    "girokonto",
-    "heilbehandlung",
-    "krankenversicherung",
-    "mitwirkungspflicht",
-    "prozessführung",
-    "prozessführung",
-    "rechtsanwalt",
-    "rechtsanwalt",
-    "rechtsanwalt",
+    "aufgabenkreis",
+    "freier-wille",
+    "maßregeln-der-besserung-und-sicherung",
+    "selbstverwaltung-der-deutschen-gemeinden",
     "sterbehilfe",
-    "strafprozess",
-    "vbvg-rechtsprechung",
-    "vermögenssorge",
-    "vertretung-gegenüber-behörden",
-    "zuführung-zur-unterbringung",
-    "zwangsbehandlung",
-    "zwangsvollstreckung"
+    "tierschutz",
+    "unterstützte-entscheidungsfindung",
+    "waffenbesitz",
+    "wahlrecht"
+  ],
+  "public": [
+    "abschiebung",
+    "aufgabenkreis",
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "sterbehilfe",
+    "tierschutz",
+    "unterstützte-entscheidungsfindung",
+    "waffenbesitz",
+    "wahlrecht"
   ],
   "konferenz": [
     "abschlussbericht"
@@ -1905,6 +1999,7 @@
     "mitteilungspflicht",
     "mittellosigkeit",
     "mittellosigkeit",
+    "ordre-public",
     "organspende",
     "organspende",
     "patientenverfügung",
@@ -2818,7 +2913,6 @@
     "beamte-als-betreuer",
     "beaufsichtigung",
     "behördenbetreuer",
-    "behördenbetreuer",
     "berufsbetreuer",
     "bestattung",
     "bestattung",
@@ -2942,6 +3036,7 @@
     "beaufsichtigung",
     "begleitforschung",
     "behindertenkonvention",
+    "behördenbetreuer",
     "berufsbetreuer",
     "bestattung",
     "bestattung",
@@ -3098,6 +3193,7 @@
     "behördenbetreuer",
     "behördenbetreuer",
     "behördenbetreuer",
+    "behördenbetreuer",
     "beratung",
     "beratung",
     "berufsbetreuer",
@@ -3149,8 +3245,7 @@
     "peg-sonde",
     "patientenvertreter",
     "patientenvertreter",
-    "pflegeversicherung",
-    "tierschutz"
+    "pflegeversicherung"
   ],
   "betreuungsverfahren": [
     "akteneinsicht",
@@ -3796,90 +3891,6 @@
     "digitale-barrierefreiheit",
     "krankenversicherung",
     "rechtsverkehr-in-deutschland"
-  ],
-  "deutschland": [
-    "alltagsgeschäfte",
-    "amtspflichtverletzung",
-    "angehörigenvertretungsrecht",
-    "anzeigepflicht",
-    "anzeigepflicht",
-    "anzeigepflicht",
-    "anzeigepflicht",
-    "anzeigepflicht",
-    "ausländer",
-    "ausländer",
-    "ausländer",
-    "ausländer",
-    "ausschließlichkeitserklärung",
-    "behindertenkonvention",
-    "betreuungsrichter",
-    "betreuungsverein",
-    "betreuungsverein",
-    "betreuungsverfahren",
-    "digitale-barrierefreiheit",
-    "diskriminierungsverbot",
-    "dokumentationspflicht",
-    "drittes-betreuungsrechtsänderungsgesetz",
-    "e-rezept",
-    "eingliederungshilfe",
-    "einstweilige-anordnung",
-    "familienverfahrensgesetz",
-    "geheimhaltungspflicht",
-    "geheimhaltungspflicht",
-    "gesundheitliche-versorgungsplanung",
-    "gewaltschutzanordnung",
-    "grundrechte",
-    "grundrechte",
-    "grundrechte",
-    "grundrechte",
-    "grundrechte",
-    "grundrechte",
-    "haager-übereinkommen",
-    "it-sicherheit",
-    "it-sicherheit",
-    "it-sicherheit",
-    "it-sicherheit",
-    "krankenversicherung",
-    "krankenversicherung",
-    "mdk-gutachten",
-    "maßregeln-der-besserung-und-sicherung",
-    "medikationsplan",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "ordre-public",
-    "personalausweis",
-    "prozessführung",
-    "psychisch-kranken-gesetz",
-    "rechtsmittel",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zur-anhörung",
-    "rechtsverkehr-in-deutschland",
-    "rechtsweg-in-deutschland",
-    "rente",
-    "rundfunkbeitrag",
-    "selbstbestimmung",
-    "synopse-patientenverfügungsgesetze",
-    "unterstützungspflicht",
-    "unterstützungspflicht",
-    "vertretung-gegenüber-behörden",
-    "vorsorgeregister",
-    "vulnerabilität",
-    "wahlrecht",
-    "wahlrecht",
-    "widerspruchsrecht",
-    "wohn--und-betreuungsvertragsgesetz",
-    "zugangsrecht",
-    "zugangsrecht"
   ],
   "reck": [
     "alltagsgeschäfte"
@@ -4943,7 +4954,6 @@
     "pflegeversicherung",
     "sachverständigengutachten",
     "sachverständigengutachten",
-    "selbstverwaltung-der-deutschen-gemeinden",
     "unterbringungsähnliche-maßnahme"
   ],
   "selbstbestimmung": [
@@ -5693,8 +5703,7 @@
     "strafprozess",
     "vertretung-gegenüber-behörden",
     "vertretung-gegenüber-behörden",
-    "widerspruchsrecht",
-    "zugangsrecht"
+    "widerspruchsrecht"
   ],
   "haftung": [
     "amtspflichtverletzung",
@@ -6851,6 +6860,7 @@
     "gesetzestexte",
     "gesetzestexte",
     "heilbehandlung",
+    "ordre-public",
     "rechtsprechung",
     "sterbehilfe",
     "verfahrensfähigkeit"
@@ -7836,6 +7846,35 @@
     "vorsorgevollmacht---vertiefte-infos",
     "vorsorgevollmacht---vertiefte-infos"
   ],
+  "rechtsanwalt": [
+    "anwalt",
+    "aufwendungsersatz",
+    "berufsbetreuer",
+    "betreuervergütung-2019",
+    "betreuungsverfahren",
+    "datenschutz",
+    "delegation",
+    "einwilligungsfähigkeit",
+    "genehmigung-der-heilbehandlung",
+    "gerichtskosten",
+    "girokonto",
+    "heilbehandlung",
+    "krankenversicherung",
+    "mitwirkungspflicht",
+    "prozessführung",
+    "prozessführung",
+    "rechtsanwalt",
+    "rechtsanwalt",
+    "rechtsanwalt",
+    "sterbehilfe",
+    "strafprozess",
+    "vbvg-rechtsprechung",
+    "vermögenssorge",
+    "vertretung-gegenüber-behörden",
+    "zuführung-zur-unterbringung",
+    "zwangsbehandlung",
+    "zwangsvollstreckung"
+  ],
   "anzeigepflicht": [
     "anzeigepflicht",
     "arbeitsvertrag",
@@ -7843,8 +7882,7 @@
     "betreuerbestellung",
     "betreuerhaftung",
     "datenschutz",
-    "strafprozess",
-    "tierschutz"
+    "strafprozess"
   ],
   "rechtlich": [
     "anzeigepflicht",
@@ -7953,7 +7991,9 @@
     "finanzamt"
   ],
   "sache": [
-    "anzeigepflicht"
+    "anzeigepflicht",
+    "ordre-public",
+    "ordre-public"
   ],
   "mietsache": [
     "anzeigepflicht"
@@ -8041,13 +8081,15 @@
     "delegation",
     "erziehungsmaßregeln",
     "freier-wille",
+    "gesetzgebung",
     "inklusionsbetrieb",
     "kirchenaustritt",
     "sozialhilfe",
     "unterstützungspflicht",
     "verbraucherstreitbeilegung",
     "verhältnismäßigkeitsprinzip",
-    "wohn--und-betreuungsvertragsgesetz"
+    "wohn--und-betreuungsvertragsgesetz",
+    "zugangsrecht"
   ],
   "redirectsozialhilfe": [
     "arbeitslosengeld",
@@ -8777,22 +8819,6 @@
     "aufgabenkreis",
     "haager-übereinkommen"
   ],
-  "ordre": [
-    "aufgabenkreis",
-    "freier-wille",
-    "maßregeln-der-besserung-und-sicherung",
-    "sterbehilfe",
-    "unterstützte-entscheidungsfindung",
-    "waffenbesitz",
-    "wahlrecht"
-  ],
-  "public": [
-    "aufgabenkreis",
-    "sterbehilfe",
-    "unterstützte-entscheidungsfindung",
-    "waffenbesitz",
-    "wahlrecht"
-  ],
   "lütgens": [
     "aufgabenkreis",
     "aufwandspauschale",
@@ -9242,15 +9268,6 @@
     "betreuungszahlen",
     "gesetzestexte",
     "vbvg-rechtsprechung"
-  ],
-  "geregelt": [
-    "aufwendungsersatz",
-    "mittellosigkeit",
-    "sachverständigengutachten",
-    "strafprozess",
-    "unterstützungspflicht",
-    "vorführung",
-    "zugriffsrecht"
   ],
   "siehe": [
     "aufwendungsersatz",
@@ -10545,7 +10562,6 @@
   ],
   "zugriffsrecht": [
     "befreiter-betreuer",
-    "diskriminierungsverbot",
     "informationspflicht",
     "schweigepflicht"
   ],
@@ -11265,9 +11281,6 @@
     "querschnittsaufgaben",
     "tod-des-betreuten"
   ],
-  "landesbedienstete": [
-    "behördenbetreuer"
-  ],
   "betreuungsverein": [
     "beratung",
     "beratung",
@@ -11339,6 +11352,7 @@
     "gerichtskosten",
     "grundrechte",
     "ordre-public",
+    "ordre-public",
     "rechtsmittel",
     "schenkung",
     "vertretung-gegenüber-behörden",
@@ -11348,9 +11362,6 @@
     "zweites-betreuungsrechtsänderungsgesetz"
   ],
   "gerichtsbescheid": [
-    "beratung"
-  ],
-  "durchsetzung": [
     "beratung"
   ],
   "klie": [
@@ -13313,8 +13324,7 @@
   ],
   "sozialpsychiatrischer": [
     "betreuungsarbeitsgemeinschaft",
-    "sachverständigengutachten",
-    "selbstverwaltung-der-deutschen-gemeinden"
+    "sachverständigengutachten"
   ],
   "betreuungsgesetzes": [
     "betreuungsbehörde"
@@ -15149,6 +15159,12 @@
     "diskriminierungsverbot",
     "subsidiaritätsprinzip"
   ],
+  "amtspflichtverletzung": [
+    "diskriminierungsverbot",
+    "finanzamt",
+    "mdk-gutachten",
+    "selbstverwaltung-der-deutschen-gemeinden"
+  ],
   "patienten": [
     "dokumentationspflicht",
     "e-rezept",
@@ -15562,7 +15578,6 @@
     "krankenhaussozialdienst",
     "mdk-gutachten",
     "sachverständigengutachten",
-    "selbstverwaltung-der-deutschen-gemeinden",
     "sozialpsychiatrischer-dienst"
   ],
   "mündelsicher": [
@@ -16385,10 +16400,6 @@
   ],
   "rentnern": [
     "finanzamt"
-  ],
-  "amtspflichtverletzung": [
-    "finanzamt",
-    "mdk-gutachten"
   ],
   "betreuungskosten": [
     "finanzamt",
@@ -17432,6 +17443,13 @@
   "umgangsbestimmung": [
     "gewaltschutzanordnung",
     "postkontrolle"
+  ],
+  "zugangsrecht": [
+    "gewaltschutzanordnung",
+    "persönliche-betreuung",
+    "rechtsanwalt",
+    "rechtsverkehr-in-deutschland",
+    "umgangsbestimmung"
   ],
   "genehmigungsfrei": [
     "girokonto"
@@ -19216,6 +19234,15 @@
   "betreten": [
     "ordre-public",
     "wohnungsangelegenheiten"
+  ],
+  "beschlagnahme": [
+    "ordre-public"
+  ],
+  "einziehung": [
+    "ordre-public"
+  ],
+  "polizeibehörde": [
+    "ordre-public"
   ],
   "organentnahme": [
     "organspende",
