@@ -990,6 +990,7 @@
     "mittellosigkeit",
     "mündelgeld",
     "mündelgeld",
+    "neu",
     "ordre-public",
     "organspende",
     "peg-sonde",
@@ -2633,6 +2634,7 @@
     "mündelgeld",
     "natürlicher-wille",
     "neu",
+    "neu",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "ordre-public",
     "organspende",
@@ -2828,6 +2830,7 @@
     "mittellosigkeit",
     "mittellosigkeit",
     "mündelgeld",
+    "neu",
     "neu",
     "neu",
     "neu",
@@ -8256,6 +8259,7 @@
   ],
   "prozessfähigkeit": [
     "arbeitsvertrag",
+    "betreuungsgericht",
     "einwilligungsvorbehalt",
     "handlungsfähigkeit",
     "mahnverfahren",
@@ -8336,7 +8340,6 @@
     "arztattest",
     "arztbericht",
     "attest",
-    "betreuungsgericht",
     "checkliste-für-arztgespräche",
     "dokumentationspflicht",
     "rechtsprechung-zum-sachverständigengutachten",
@@ -9707,7 +9710,8 @@
     "ausländer"
   ],
   "egbgb": [
-    "ausländer"
+    "ausländer",
+    "neu"
   ],
   "privatrecht": [
     "ausländer",
@@ -19110,6 +19114,9 @@
     "neu"
   ],
   "richtlinie": [
+    "neu"
+  ],
+  "bestandsbetreuers": [
     "neu"
   ],
   "spielwiese": [
