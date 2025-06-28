@@ -6275,6 +6275,7 @@
   "betreuungsrichter": [
     "anfangsgespräch",
     "betreuungsgericht",
+    "gewaltschutzanordnung",
     "grundrechte",
     "rechtsmittel",
     "rechtspfleger",
@@ -8259,7 +8260,6 @@
   ],
   "prozessfähigkeit": [
     "arbeitsvertrag",
-    "betreuungsgericht",
     "einwilligungsvorbehalt",
     "handlungsfähigkeit",
     "mahnverfahren",
@@ -13516,6 +13516,11 @@
   "akten": [
     "betreuungsgericht"
   ],
+  "umgangsbestimmung": [
+    "betreuungsgericht",
+    "gewaltschutzanordnung",
+    "postkontrolle"
+  ],
   "bedürfnisse": [
     "betreuungsgerichtshilfe"
   ],
@@ -17444,17 +17449,6 @@
   "gewaltbegriff": [
     "gewaltschutzanordnung"
   ],
-  "umgangsbestimmung": [
-    "gewaltschutzanordnung",
-    "postkontrolle"
-  ],
-  "zugangsrecht": [
-    "gewaltschutzanordnung",
-    "persönliche-betreuung",
-    "rechtsanwalt",
-    "rechtsverkehr-in-deutschland",
-    "umgangsbestimmung"
-  ],
   "genehmigungsfrei": [
     "girokonto"
   ],
@@ -19483,6 +19477,12 @@
   ],
   "ausweisrecht": [
     "personalausweis"
+  ],
+  "zugangsrecht": [
+    "persönliche-betreuung",
+    "rechtsanwalt",
+    "rechtsverkehr-in-deutschland",
+    "umgangsbestimmung"
   ],
   "annette": [
     "persönliche-betreuung"
