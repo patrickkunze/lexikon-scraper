@@ -5820,7 +5820,6 @@
     "beratung",
     "gesetzlicher-vertreter",
     "informationspflicht",
-    "interoperabilität",
     "mitteilungspflicht",
     "schweigepflicht",
     "verbraucherstreitbeilegung",
@@ -7053,15 +7052,13 @@
   "fröschle": [
     "anhörung",
     "betreuerwechsel",
-    "betreuungsverfahren",
-    "vorläufiger-betreuer"
+    "betreuungsverfahren"
   ],
   "praxiskommentar": [
     "anhörung",
     "betreuerbestellung",
     "betreuerwechsel",
-    "betreuungsverfahren",
-    "vorläufiger-betreuer"
+    "betreuungsverfahren"
   ],
   "unterbringungsverfahren": [
     "anhörung",
@@ -7625,6 +7622,7 @@
     "vermögenssorge",
     "vermögensverzeichnis",
     "vertretung-gegenüber-behörden",
+    "vorläufiger-betreuer",
     "vormundschaftsgericht",
     "vorsorgevollmacht",
     "vorsorgevollmacht---vertiefte-infos",
@@ -7801,6 +7799,7 @@
     "rechtsverkehr-in-deutschland",
     "verlängerung-der-betreuung",
     "verlängerung-der-betreuung",
+    "vorläufiger-betreuer",
     "vormundschaftsgericht"
   ],
   "bayern": [
@@ -11048,7 +11047,6 @@
     "checkliste-gesundheitssorge",
     "elektronische-patientenakte",
     "heilbehandlung",
-    "interoperabilität",
     "mdk-gutachten",
     "neu"
   ],
@@ -11177,6 +11175,7 @@
     "sterilisationsbetreuer",
     "strafprozess",
     "vermögenssorge",
+    "vorläufiger-betreuer",
     "vorsorgevollmacht",
     "zwangsbehandlung"
   ],
@@ -15015,6 +15014,7 @@
     "elektronischer-identitätsnachweis",
     "formulare",
     "informationspflicht",
+    "interoperabilität",
     "mailingliste",
     "neu",
     "organspende",
@@ -15114,6 +15114,7 @@
     "e-rezept",
     "formulare",
     "informationspflicht",
+    "interoperabilität",
     "mailingliste",
     "organspende",
     "postkontrolle",
