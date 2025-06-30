@@ -806,6 +806,7 @@
     "geheimhaltungspflicht",
     "gesundheitliche-versorgungsplanung",
     "gewaltschutzanordnung",
+    "globales-nachhaltigkeitsziel-10",
     "grundrechte",
     "grundrechte",
     "grundrechte",
@@ -1740,6 +1741,8 @@
     "eingliederungshilfe",
     "einwilligungsvorbehalt",
     "geschäftsfähigkeit",
+    "globales-nachhaltigkeitsziel-10",
+    "globales-nachhaltigkeitsziel-10",
     "grundrechte",
     "grundrechte",
     "hauptseite",
@@ -3955,6 +3958,7 @@
     "betreuerpflichten",
     "einwilligungsvorbehalt",
     "heimplatzsuche",
+    "meldepflicht",
     "umgangsbestimmung",
     "unterbringung",
     "wohnungsangelegenheiten",
@@ -4980,7 +4984,6 @@
     "altenheim",
     "arztzeugnis",
     "begleitforschung",
-    "behindertenkonvention",
     "beratung",
     "checkliste-für-arztgespräche",
     "corona",
@@ -5729,6 +5732,7 @@
     "amtspflichtverletzung",
     "betreuungsverein",
     "gesundheitsdatennutzungsgesetz",
+    "globales-nachhaltigkeitsziel-10",
     "grundrechte",
     "heilbehandlung",
     "informationspflicht",
@@ -6296,6 +6300,7 @@
     "anfangsgespräch",
     "betreuungsverein",
     "betreuungsverfahren",
+    "globales-nachhaltigkeitsziel-10",
     "haager-übereinkommen",
     "inklusionsbetrieb",
     "konvention-über-die-rechte-behinderter-menschen",
@@ -6426,6 +6431,7 @@
   ],
   "bundesregierung": [
     "angehörigenvertretungsrecht",
+    "globales-nachhaltigkeitsziel-10",
     "sterbehilfedokumente"
   ],
   "nahe": [
@@ -6764,6 +6770,7 @@
     "angehörigenvertretungsrecht",
     "betreuerbestellung",
     "selbstbestimmung",
+    "unterstützte-entscheidungsfindung",
     "vermögenssorge"
   ],
   "youtube": [
@@ -7339,6 +7346,7 @@
     "betreuerwechsel",
     "ehefähigkeit",
     "genehmigung-der-heilbehandlung",
+    "globales-nachhaltigkeitsziel-10",
     "hauptseite",
     "registrierung",
     "sterbehilfe",
@@ -7797,6 +7805,7 @@
     "intellektuelle-beeinträchtigung",
     "krankenhaussozialdienst",
     "rechtsverkehr-in-deutschland",
+    "unterstützte-entscheidungsfindung",
     "verlängerung-der-betreuung",
     "verlängerung-der-betreuung",
     "vorläufiger-betreuer",
@@ -8600,6 +8609,7 @@
   "meldepflicht": [
     "aufenthaltsbestimmung",
     "betreuerpflichten",
+    "betreutes-wohnen",
     "checkliste-betreuerpflichten",
     "meldepflicht",
     "meldepflicht",
@@ -8947,6 +8957,7 @@
     "betreuervorschlag",
     "betreutes-wohnen",
     "datenschutz",
+    "globales-nachhaltigkeitsziel-10",
     "hauptseite",
     "heilbehandlung",
     "informationspflicht",
@@ -9934,6 +9945,7 @@
     "eingliederungshilfe",
     "eingliederungshilfe",
     "geheimhaltungspflicht",
+    "globales-nachhaltigkeitsziel-10",
     "persönliches-budget",
     "psychisch-kranken-gesetz",
     "schwerbehindertenausweis",
@@ -10937,6 +10949,7 @@
   ],
   "deshalb": [
     "beglaubigung-durch-betreuungsbehörde",
+    "globales-nachhaltigkeitsziel-10",
     "patientenverfügung"
   ],
   "verwaltungsakt": [
@@ -11043,9 +11056,9 @@
   ],
   "gesundheitsdatennutzungsgesetz": [
     "begleitforschung",
-    "behindertenkonvention",
     "checkliste-gesundheitssorge",
     "elektronische-patientenakte",
+    "globales-nachhaltigkeitsziel-10",
     "heilbehandlung",
     "mdk-gutachten",
     "neu"
@@ -11101,11 +11114,19 @@
     "behindertenkonvention",
     "eingliederungshilfe",
     "eingliederungshilfe",
+    "globales-nachhaltigkeitsziel-10",
     "neu",
     "werkstatt-für-behinderte-menschen"
   ],
   "behindertenrechtskonvention": [
     "behindertenkonvention"
+  ],
+  "globales": [
+    "behindertenkonvention"
+  ],
+  "nachhaltigkeitsziel": [
+    "behindertenkonvention",
+    "globales-nachhaltigkeitsziel-10"
   ],
   "ausschlussgründe": [
     "behindertenkonvention"
@@ -12847,7 +12868,6 @@
     "sterbehilfe",
     "strafprozess",
     "tod-des-betreuten",
-    "unterstützte-entscheidungsfindung",
     "vbvg-rechtsprechung",
     "verfahrenspfleger",
     "verhinderungsbetreuer",
@@ -13249,6 +13269,7 @@
     "betreutes-wohnen",
     "betreutes-wohnen",
     "heimmitarbeiter-als-betreuer",
+    "meldepflicht",
     "verbraucherstreitbeilegung"
   ],
   "dienstverträge": [
@@ -13265,15 +13286,10 @@
     "organspende",
     "rechtsweg-in-deutschland"
   ],
-  "betreuungsvertragsgesetz": [
-    "betreutes-wohnen",
-    "heimmitarbeiter-als-betreuer",
-    "neu",
-    "stundensatz"
-  ],
   "betreutes": [
     "betreutes-wohnen",
     "heimmitarbeiter-als-betreuer",
+    "meldepflicht",
     "verbraucherstreitbeilegung"
   ],
   "bundesplattform": [
@@ -13818,6 +13834,7 @@
     "betreuungsrechtsreform",
     "betreuungszahlen",
     "gesetzestexte",
+    "globales-nachhaltigkeitsziel-10",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
     "tod-des-betreuers"
@@ -14438,7 +14455,8 @@
     "buchverzeichnis"
   ],
   "gute": [
-    "buchverzeichnis"
+    "buchverzeichnis",
+    "globales-nachhaltigkeitsziel-10"
   ],
   "euthanasie": [
     "buchverzeichnis"
@@ -15437,6 +15455,7 @@
   "waren": [
     "eherecht-und-betreuung",
     "einwilligungsvorbehalt",
+    "globales-nachhaltigkeitsziel-10",
     "neu",
     "neu",
     "selbstverwaltung-der-deutschen-gemeinden",
@@ -15511,6 +15530,7 @@
   ],
   "teilhabe": [
     "eingliederungshilfe",
+    "globales-nachhaltigkeitsziel-10",
     "schwerbehindertenausweis",
     "unterstützungspflicht",
     "werkstatt-für-behinderte-menschen",
@@ -16340,6 +16360,7 @@
     "selbstbestimmung",
     "selbstbestimmung",
     "unterstützte-entscheidungsfindung",
+    "unterstützte-entscheidungsfindung",
     "unterstützte-kommunikation",
     "unterstützte-kommunikation",
     "vertrauensperson"
@@ -16350,6 +16371,7 @@
     "schweigepflicht",
     "selbstbestimmung",
     "selbstbestimmung",
+    "unterstützte-entscheidungsfindung",
     "unterstützte-entscheidungsfindung",
     "vertrauensperson"
   ],
@@ -17496,6 +17518,51 @@
   "basiskonto": [
     "girokonto"
   ],
+  "globale": [
+    "globales-nachhaltigkeitsziel-10"
+  ],
+  "vielen": [
+    "globales-nachhaltigkeitsziel-10",
+    "rechtsanwalt"
+  ],
+  "menschheit": [
+    "globales-nachhaltigkeitsziel-10",
+    "zugangsrecht"
+  ],
+  "völkerrechtlichem": [
+    "globales-nachhaltigkeitsziel-10"
+  ],
+  "junge": [
+    "globales-nachhaltigkeitsziel-10",
+    "unterstützungspflicht"
+  ],
+  "ebenso": [
+    "globales-nachhaltigkeitsziel-10"
+  ],
+  "weltoffenes": [
+    "globales-nachhaltigkeitsziel-10"
+  ],
+  "land": [
+    "globales-nachhaltigkeitsziel-10"
+  ],
+  "integration": [
+    "globales-nachhaltigkeitsziel-10"
+  ],
+  "weltweit": [
+    "globales-nachhaltigkeitsziel-10"
+  ],
+  "weltweite": [
+    "globales-nachhaltigkeitsziel-10"
+  ],
+  "gesundheitsversorgung": [
+    "globales-nachhaltigkeitsziel-10"
+  ],
+  "wichtig": [
+    "globales-nachhaltigkeitsziel-10"
+  ],
+  "nachhaltigkeitszielen": [
+    "globales-nachhaltigkeitsziel-10"
+  ],
   "freiheit": [
     "grundrechte",
     "grundrechte",
@@ -18024,6 +18091,7 @@
     "heimangelegenheiten",
     "heimmitarbeiter-als-betreuer",
     "heimvertrag",
+    "meldepflicht",
     "pflegeheim",
     "unterbringungsähnliche-maßnahme",
     "verbraucherstreitbeilegung",
@@ -18034,6 +18102,11 @@
   ],
   "interessenkollision": [
     "heimmitarbeiter-als-betreuer"
+  ],
+  "betreuungsvertragsgesetz": [
+    "heimmitarbeiter-als-betreuer",
+    "neu",
+    "stundensatz"
   ],
   "meyer": [
     "heimmitarbeiter-als-betreuer"
@@ -19794,9 +19867,6 @@
   "spielen": [
     "rechtsanwalt"
   ],
-  "vielen": [
-    "rechtsanwalt"
-  ],
   "anwälte": [
     "rechtsanwalt"
   ],
@@ -20232,7 +20302,6 @@
   "mensch": [
     "schwerbehindertenausweis",
     "tierschutz",
-    "unterstützte-entscheidungsfindung",
     "werkstatt-für-behinderte-menschen"
   ],
   "bundesministeriums": [
@@ -20374,7 +20443,6 @@
   "broschüre": [
     "sozialhilfe",
     "sterbehilfedokumente",
-    "unterstützte-entscheidungsfindung",
     "vorsorgevollmacht"
   ],
   "sobota": [
@@ -21236,9 +21304,6 @@
   "unterstützten": [
     "unterstützte-entscheidungsfindung"
   ],
-  "aktion": [
-    "unterstützte-entscheidungsfindung"
-  ],
   "kommuniziert": [
     "unterstützte-kommunikation"
   ],
@@ -21289,9 +21354,6 @@
     "unterstützungspflicht"
   ],
   "gegenseitigen": [
-    "unterstützungspflicht"
-  ],
-  "junge": [
     "unterstützungspflicht"
   ],
   "volljährige": [
@@ -22135,9 +22197,6 @@
     "zugangsrecht"
   ],
   "heiligen": [
-    "zugangsrecht"
-  ],
-  "menschheit": [
     "zugangsrecht"
   ],
   "nutzer": [
