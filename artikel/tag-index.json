@@ -14823,7 +14823,6 @@
   "rechtsmittel": [
     "corona",
     "einstweilige-anordnung",
-    "elektronisches-gerichts--und-verwaltungspostfach",
     "erinnerung",
     "gewaltschutzanordnung",
     "rechtsbeschwerde",
@@ -15230,7 +15229,9 @@
   ],
   "geheimhaltungspflicht": [
     "dokumentationspflicht",
-    "gesundheitsdatennutzungsgesetz"
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "gesundheitsdatennutzungsgesetz",
+    "globales-nachhaltigkeitsziel-10"
   ],
   "änderung": [
     "drittes-betreuungsrechtsänderungsgesetz",
