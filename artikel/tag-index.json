@@ -975,6 +975,7 @@
     "grundrechte",
     "grundrechte",
     "grundstück",
+    "grundstück",
     "heilbehandlung",
     "heilbehandlung",
     "heimmitarbeiter-als-betreuer",
@@ -1483,7 +1484,6 @@
     "vorführung",
     "vorläufiger-betreuer",
     "vormünder--und-betreuervergütungsgesetz",
-    "vorsorgeregister",
     "vorsorgeregisterverordnung",
     "wohnungsangelegenheiten",
     "wohnungsauflösung",
@@ -1936,6 +1936,7 @@
     "betreuerhaftung",
     "betreuerhaftung",
     "betreuerhaftung",
+    "betreuerhaftung",
     "betreuervergütung",
     "betreuervorschlag",
     "betreuervorschlag",
@@ -1992,6 +1993,7 @@
     "girokonto",
     "grundrechte",
     "grundrechte",
+    "grundstück",
     "heilbehandlung",
     "informationspflicht",
     "interoperabilität",
@@ -2524,7 +2526,6 @@
     "betreuerbestellung",
     "betreuerhaftung",
     "betreuerhaftung",
-    "betreuerhaftung",
     "betreuerpflichten",
     "betreuerpflichten",
     "betreuerpflichten",
@@ -2863,6 +2864,7 @@
     "vormundschaftsgericht",
     "vormundschaftsgericht",
     "vormünder--und-betreuervergütungsgesetz",
+    "vorsorgeregister",
     "vorsorgeregisterverordnung",
     "vorsorgeregisterverordnung",
     "vorsorgevollmacht",
@@ -4682,7 +4684,6 @@
     "gerichtskosten",
     "gerichtskosten",
     "gesundheitssorge",
-    "grundstück",
     "heilbehandlung",
     "heilbehandlung",
     "heilbehandlung",
@@ -6055,7 +6056,8 @@
     "psychisch-kranken-gesetz",
     "sachsen",
     "sachsen-anhalt",
-    "selbstverwaltung-der-deutschen-gemeinden"
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "vorsorgeregister"
   ],
   "anfangsgespräch": [
     "anfangsbericht",
@@ -6763,8 +6765,7 @@
   ],
   "vorsorgeregisters": [
     "angehörigenvertretungsrecht",
-    "beglaubigung-durch-betreuungsbehörde",
-    "vorsorgeregister"
+    "beglaubigung-durch-betreuungsbehörde"
   ],
   "präsentation": [
     "angehörigenvertretungsrecht",
@@ -6989,6 +6990,7 @@
     "querschnittsaufgaben",
     "sachkundenachweis",
     "software",
+    "vorsorgeregister",
     "zugriffsrecht"
   ],
   "rechtliches": [
@@ -7440,7 +7442,6 @@
     "gesetzestexte",
     "gesetzliche-vertretung",
     "grundrechte",
-    "grundstück",
     "grundstück",
     "heilbehandlung",
     "heilbehandlung",
@@ -8659,8 +8660,7 @@
   ],
   "umfassende": [
     "aufenthaltsbestimmung",
-    "betreuungsverfügung",
-    "vorsorgeregister"
+    "betreuungsverfügung"
   ],
   "checklisten": [
     "aufenthaltsbestimmung",
@@ -10243,7 +10243,8 @@
     "beaufsichtigung",
     "betreuerpflichten",
     "gesetzestexte",
-    "vormundschaftsgericht"
+    "vormundschaftsgericht",
+    "vorsorgeregister"
   ],
   "auskunftserteilung": [
     "beaufsichtigung"
@@ -10578,7 +10579,8 @@
   "zugriffsrecht": [
     "befreiter-betreuer",
     "informationspflicht",
-    "schweigepflicht"
+    "schweigepflicht",
+    "vorsorgeregister"
   ],
   "registrierte": [
     "beglaubigung-durch-betreuungsbehörde",
@@ -10595,6 +10597,7 @@
     "kontrollbetreuer",
     "kontrollbetreuer",
     "rechtsanwalt",
+    "vorsorgeregister",
     "vorsorgeregister",
     "vorsorgeregisterverordnung",
     "vorsorgevollmacht---vertiefte-infos"
@@ -14087,13 +14090,11 @@
     "unterstützte-kommunikation"
   ],
   "blaß": [
-    "betreuungsverfügung",
-    "vorsorgeregister"
+    "betreuungsverfügung"
   ],
   "fiala": [
     "betreuungsverfügung",
-    "vermögensverzeichnis",
-    "vorsorgeregister"
+    "vermögensverzeichnis"
   ],
   "sorge": [
     "betreuungsverfügung",
@@ -14101,12 +14102,10 @@
     "kindschaftsrecht",
     "kindschaftsrecht",
     "sterbehilfe",
-    "vorsorgeregister",
     "vulnerabilität"
   ],
   "vorsorgepaket": [
-    "betreuungsverfügung",
-    "vorsorgeregister"
+    "betreuungsverfügung"
   ],
   "ernst": [
     "betreuungsverfügung"
@@ -14196,6 +14195,7 @@
     "betreuungszahlen",
     "kontrollbetreuer",
     "neu",
+    "vorsorgeregister",
     "vorsorgeregister",
     "vorsorgeregister",
     "vorsorgeregisterverordnung",
@@ -14817,6 +14817,7 @@
     "einwilligungsvorbehalt",
     "freier-wille",
     "intellektuelle-beeinträchtigung",
+    "mdk-gutachten",
     "peg-sonde",
     "prozessfähigkeit"
   ],
@@ -15189,7 +15190,6 @@
   "amtspflichtverletzung": [
     "diskriminierungsverbot",
     "finanzamt",
-    "mdk-gutachten",
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "patienten": [
@@ -15282,6 +15282,7 @@
   "internetseite": [
     "e-rezept",
     "gesundheitsdatennutzungsgesetz",
+    "globales-nachhaltigkeitsziel-10",
     "mdk-gutachten",
     "tierschutz"
   ],
@@ -15295,6 +15296,7 @@
     "querschnittsaufgaben",
     "sachkundenachweis",
     "software",
+    "vorsorgeregister",
     "zugriffsrecht"
   ],
   "verwaltungspostfach": [
@@ -15575,10 +15577,25 @@
   "rosenow": [
     "eingliederungshilfe"
   ],
-  "umsetzungebegleitung": [
-    "eingliederungshilfe"
+  "unterstützte": [
+    "eingliederungshilfe",
+    "erörterungsgespräch",
+    "intellektuelle-beeinträchtigung",
+    "krankenhaussozialdienst",
+    "natürlicher-wille",
+    "psychisch-kranken-gesetz",
+    "rechtsprechung-zur-anhörung",
+    "sachkundelehrgang",
+    "schweigepflicht",
+    "selbstbestimmung",
+    "selbstbestimmung",
+    "unterstützte-entscheidungsfindung",
+    "unterstützte-entscheidungsfindung",
+    "unterstützte-kommunikation",
+    "unterstützte-kommunikation",
+    "vertrauensperson"
   ],
-  "bthg": [
+  "umsetzungebegleitung": [
     "eingliederungshilfe"
   ],
   "vergütungsgruppe": [
@@ -15748,7 +15765,8 @@
     "einwilligungsfähigkeit",
     "gesundheitssorge",
     "informationspflicht",
-    "medikationsplan"
+    "medikationsplan",
+    "vorsorgeregister"
   ],
   "amwf": [
     "einwilligungsfähigkeit"
@@ -16348,23 +16366,6 @@
   "patientenwillens": [
     "erörterungsgespräch",
     "sterbehilfe"
-  ],
-  "unterstützte": [
-    "erörterungsgespräch",
-    "intellektuelle-beeinträchtigung",
-    "krankenhaussozialdienst",
-    "natürlicher-wille",
-    "psychisch-kranken-gesetz",
-    "rechtsprechung-zur-anhörung",
-    "sachkundelehrgang",
-    "schweigepflicht",
-    "selbstbestimmung",
-    "selbstbestimmung",
-    "unterstützte-entscheidungsfindung",
-    "unterstützte-entscheidungsfindung",
-    "unterstützte-kommunikation",
-    "unterstützte-kommunikation",
-    "vertrauensperson"
   ],
   "entscheidungsfindung": [
     "erörterungsgespräch",
@@ -17445,7 +17446,8 @@
     "gesundheitsdatennutzungsgesetz"
   ],
   "weltgesundheitsorganisation": [
-    "gesundheitsdatennutzungsgesetz"
+    "gesundheitsdatennutzungsgesetz",
+    "globales-nachhaltigkeitsziel-10"
   ],
   "genf": [
     "gesundheitsdatennutzungsgesetz"
@@ -18711,6 +18713,7 @@
     "mdk-gutachten",
     "neu",
     "selbstverwaltung-der-deutschen-gemeinden",
+    "vorsorgeregister",
     "vorsorgeregisterverordnung"
   ],
   "sonde": [
@@ -19171,6 +19174,7 @@
   "register": [
     "neu",
     "registrierung",
+    "vorsorgeregister",
     "vorsorgeregisterverordnung"
   ],
   "telematikinfrastruktur": [
@@ -19506,8 +19510,7 @@
     "patientenverfügung"
   ],
   "betreuungsalternativen": [
-    "patientenverfügung",
-    "vorsorgeregister"
+    "patientenverfügung"
   ],
   "patientenvertreter": [
     "patientenvertreter"
@@ -21840,10 +21843,8 @@
     "vorsorgeregisterverordnung",
     "vorsorgevollmacht---vertiefte-infos"
   ],
-  "jahresberichte": [
-    "vorsorgeregister"
-  ],
   "automatisiertes": [
+    "vorsorgeregister",
     "vorsorgeregisterverordnung"
   ],
   "allgemeine": [
