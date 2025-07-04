@@ -1,7 +1,7 @@
 {
   "id": "erörterungsgespräch",
   "titel": "Erörterungsgespräch",
-  "inhalt": "Das \"Gespräch zur Feststellung des Patientenwillens\" wird in § 1828 Absatz 1 BGB gesetzlich geregelt. Demnach prüft der behandelnde Arzt, welche ärztliche Maßnahme im Hinblick auf den Gesamtzustand und die Prognose des Patienten indiziert ist. Dann erörtern Arzt und Betreuer (mit Aufgabenbereich [Gesundheitssorge](gesundheitssorge) diese Maßnahme unter Berücksichtigung des Patientenwillens und [Unterstützte Entscheidungsfindung](unterstützte-entscheidungsfindung). An die Stelle des Betreuers tritt der [Vorsorgevollmacht](vorsorgevollmacht) oder der [Angehörigenvertretungsrecht](angehörigenvertretungsrecht) (§ 1358 BGB).\n\nIn geeigneten Fällen kann auch das [Betreuungsgericht](betreuungsgericht) bzw. der [Rechtspfleger](rechtspfleger) den [Anfangsbericht](anfangsbericht) und das [Vermögensverzeichnis](vermögensverzeichnis) in einem Erörterungsgespräch mit dem Betreuten und dem Betreuer besprechen.\n\nSiehe auch\n [Unterstützte Entscheidungsfindung](unterstützte-entscheidungsfindung)\n [Dokumentationspflicht](dokumentationspflicht)\n [Checkliste für Arztgespräche](checkliste-für-arztgespräche)\n [Anhörung](anhörung)\n [Patientenverfügung](patientenverfügung)\n [Freier Wille](freier-wille)\n [Vertrauensperson](vertrauensperson)\n [Ausländer](ausländer)\n [Behindertenkonvention](behindertenkonvention) der Vereinten Nationen (UN)\n [Natürlicher Wille](natürlicher-wille)\n [Grundrechte](grundrechte)\n [Arztzeugnis](arztzeugnis)\n [MDK-Gutachten](mdk-gutachten)\n [Elektronische Patientenakte](elektronische-patientenakte)\n [Schweigepflicht](schweigepflicht)\n [Betreuungsrichter](betreuungsrichter)\n [Amtsermittlungspflicht](amtsermittlungspflicht)\n\n[Kategorie:Berichterstattung](kategorie:berichterstattung)",
+  "inhalt": "Das \"Gespräch zur Feststellung des Patientenwillens\" wird in § 1828 Absatz 1 BGB gesetzlich geregelt. Demnach prüft der behandelnde Arzt, welche ärztliche Maßnahme im Hinblick auf den Gesamtzustand und die Prognose des Patienten indiziert ist. Dann erörtern Arzt und Betreuer (mit Aufgabenbereich [Gesundheitssorge](gesundheitssorge) diese Maßnahme unter Berücksichtigung des Patientenwillens und [Unterstützte Entscheidungsfindung](unterstützte-entscheidungsfindung). An die Stelle des Betreuers tritt der [Vorsorgevollmacht](vorsorgevollmacht) oder der [Angehörigenvertretungsrecht](angehörigenvertretungsrecht) (§ 1358 BGB).\n\nIn geeigneten Fällen kann auch das [Betreuungsgericht](betreuungsgericht) bzw. der [Rechtspfleger](rechtspfleger) den [Anfangsbericht](anfangsbericht) und das [Vermögensverzeichnis](vermögensverzeichnis) in einem Erörterungsgespräch mit dem Betreuten und dem Betreuer besprechen.\n\nSiehe auch\n [Unterstützte Entscheidungsfindung](unterstützte-entscheidungsfindung)\n [Einwilligungsfähigkeit](einwilligungsfähigkeit)\n [Dokumentationspflicht](dokumentationspflicht)\n [Checkliste für Arztgespräche](checkliste-für-arztgespräche)\n [Anhörung](anhörung)\n [Patientenverfügung](patientenverfügung)\n [Freier Wille](freier-wille)\n [Vertrauensperson](vertrauensperson)\n [Ausländer](ausländer)\n [Behindertenkonvention](behindertenkonvention) der Vereinten Nationen (UN)\n [Natürlicher Wille](natürlicher-wille)\n [Grundrechte](grundrechte)\n [Arztzeugnis](arztzeugnis)\n [MDK-Gutachten](mdk-gutachten)\n [Elektronische Patientenakte](elektronische-patientenakte)\n [Schweigepflicht](schweigepflicht)\n [Betreuungsrichter](betreuungsrichter)\n [Amtsermittlungspflicht](amtsermittlungspflicht)\n\n[Kategorie:Berichterstattung](kategorie:berichterstattung)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -16,42 +16,43 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Unterstützte Entscheidungsfindung\n Dokumentationspflicht\n Checkliste für Arztgespräche\n Anhörung\n Patientenverfügung\n Freier Wille\n Vertrauensperson\n Ausländer\n Behindertenkonvention der Vereinten Nationen (UN)\n Natürlicher Wille\n Grundrechte\n Arztzeugnis\n MDK-Gutachten\n Elektronische Patientenakte\n Schweigepflicht\n Betreuungsrichter\n Amtsermittlungspflicht\n\nKategorie:Berichterstattung",
+      "inhalt": "Unterstützte Entscheidungsfindung\n Einwilligungsfähigkeit\n Dokumentationspflicht\n Checkliste für Arztgespräche\n Anhörung\n Patientenverfügung\n Freier Wille\n Vertrauensperson\n Ausländer\n Behindertenkonvention der Vereinten Nationen (UN)\n Natürlicher Wille\n Grundrechte\n Arztzeugnis\n MDK-Gutachten\n Elektronische Patientenakte\n Schweigepflicht\n Betreuungsrichter\n Amtsermittlungspflicht\n\nKategorie:Berichterstattung",
       "tags": [
         "wille",
         "unterstützte",
         "entscheidungsfindung",
-        "dokumentationspflicht",
-        "checkliste"
+        "einwilligungsfähigkeit",
+        "dokumentationspflicht"
       ]
     }
   ],
   "zusammenfassung": "Das \"Gespräch zur Feststellung des Patientenwillens\" wird in § 1828 Absatz 1 BGB gesetzlich geregelt. Demnach prüft der behandelnde Arzt, welche ärztliche Maßnahme im Hinblick auf den Gesamtzustand und die Prognose des Patienten indiziert ist. Dann erörtern Arzt und Betreuer (mit Aufgabenbereich [Ge...",
   "verwandteArtikel": [
-    "freier-wille",
-    "grundrechte",
-    "schweigepflicht",
-    "vermögensverzeichnis",
-    "elektronische-patientenakte",
-    "patientenverfügung",
-    "anfangsbericht",
-    "checkliste-für-arztgespräche",
-    "unterstützte-entscheidungsfindung",
-    "ausländer",
-    "betreuungsgericht",
-    "rechtspfleger",
-    "gesundheitssorge",
     "amtsermittlungspflicht",
     "vorsorgevollmacht",
-    "arztzeugnis",
-    "vertrauensperson",
-    "natürlicher-wille",
-    "dokumentationspflicht",
-    "behindertenkonvention",
+    "betreuungsgericht",
     "betreuungsrichter",
-    "angehörigenvertretungsrecht",
+    "natürlicher-wille",
+    "schweigepflicht",
+    "patientenverfügung",
+    "rechtspfleger",
+    "vertrauensperson",
+    "gesundheitssorge",
+    "unterstützte-entscheidungsfindung",
     "kategorie:berichterstattung",
+    "freier-wille",
     "mdk-gutachten",
-    "anhörung"
+    "checkliste-für-arztgespräche",
+    "einwilligungsfähigkeit",
+    "elektronische-patientenakte",
+    "arztzeugnis",
+    "grundrechte",
+    "vermögensverzeichnis",
+    "anfangsbericht",
+    "dokumentationspflicht",
+    "angehörigenvertretungsrecht",
+    "anhörung",
+    "ausländer",
+    "behindertenkonvention"
   ]
 }

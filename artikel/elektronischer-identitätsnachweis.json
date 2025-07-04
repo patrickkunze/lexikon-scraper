@@ -39,20 +39,20 @@
   ],
   "zusammenfassung": "Was der [Personalausweis](personalausweis) oder der Reisepass rechtlich im realen Leben leistet, leistet der elektronische Identitätsnachweis (eID) im Internet.\n\nBeide Aus- bzw. Nachweise können gefälscht werden. Dagegen gibt es im deutschen Strafgesetzbuch zahlreiche Strafvorschriften:\n\n Urkundenfä...",
   "verwandteArtikel": [
-    "rechtsverkehr-in-deutschland",
-    "registrierung",
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "zugriffsrecht",
     "betreuerausweis",
-    "informationspflicht",
+    "betreuungsrechtsreform",
     "datenschutz",
     "ordre-public",
-    "betreuungsrechtsreform",
-    "interoperabilität",
-    "personalausweis",
+    "zugriffsrecht",
+    "informationspflicht",
+    "registrierung",
     "strafprozess",
-    "software",
+    "rechtsverkehr-in-deutschland",
     "it-sicherheit",
-    "digitale-barrierefreiheit"
+    "software",
+    "digitale-barrierefreiheit",
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "interoperabilität",
+    "personalausweis"
   ]
 }

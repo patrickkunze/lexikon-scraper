@@ -10493,7 +10493,6 @@
     "checkliste-vermögenssorge",
     "checkliste-wohnungsangelegenheiten",
     "dokumentationspflicht",
-    "erörterungsgespräch",
     "geldanlage",
     "genehmigungspflichten",
     "vermögenssorge",
@@ -14815,6 +14814,7 @@
     "einwilligungsfähigkeit",
     "einwilligungsunfähigkeit",
     "einwilligungsvorbehalt",
+    "erörterungsgespräch",
     "freier-wille",
     "intellektuelle-beeinträchtigung",
     "mdk-gutachten",
@@ -15195,6 +15195,7 @@
   "patienten": [
     "dokumentationspflicht",
     "e-rezept",
+    "einwilligungsfähigkeit",
     "einwilligungsfähigkeit",
     "einwilligungsfähigkeit",
     "einwilligungsfähigkeit",
@@ -15720,6 +15721,22 @@
     "hauptseite",
     "neu",
     "tod-des-betreuten"
+  ],
+  "mutmaßlichen": [
+    "einwilligungsfähigkeit",
+    "grundrechte"
+  ],
+  "patientenwillens": [
+    "einwilligungsfähigkeit",
+    "erörterungsgespräch",
+    "sterbehilfe"
+  ],
+  "ermittlung": [
+    "einwilligungsfähigkeit",
+    "grundstück"
+  ],
+  "zumutbare": [
+    "einwilligungsfähigkeit"
   ],
   "einwilligungsfähig": [
     "einwilligungsfähigkeit",
@@ -16362,10 +16379,6 @@
   "sicherung": [
     "erziehungsmaßregeln",
     "rechtsprechung-zur-unterbringung"
-  ],
-  "patientenwillens": [
-    "erörterungsgespräch",
-    "sterbehilfe"
   ],
   "entscheidungsfindung": [
     "erörterungsgespräch",
@@ -17602,9 +17615,6 @@
   "berücksichtigung": [
     "grundrechte"
   ],
-  "mutmaßlichen": [
-    "grundrechte"
-  ],
   "beachten": [
     "grundrechte",
     "selbstbestimmung"
@@ -17757,9 +17767,6 @@
     "grundstück"
   ],
   "verkaufen": [
-    "grundstück"
-  ],
-  "ermittlung": [
     "grundstück"
   ],
   "wertes": [
