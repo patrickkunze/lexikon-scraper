@@ -1740,6 +1740,7 @@
     "eingliederungshilfe",
     "eingliederungshilfe",
     "einwilligungsvorbehalt",
+    "freier-wille",
     "geschäftsfähigkeit",
     "globales-nachhaltigkeitsziel-10",
     "globales-nachhaltigkeitsziel-10",
@@ -3579,6 +3580,7 @@
     "anzeigepflicht",
     "anzeigepflicht",
     "eingliederungshilfe",
+    "freier-wille",
     "werkstatt-für-behinderte-menschen"
   ],
   "gemäß": [
@@ -12117,6 +12119,7 @@
     "betreuungsbehördengesetz",
     "betreuungsrechtsreform",
     "freibetrag",
+    "freier-wille",
     "geldanlage",
     "mittellosigkeit",
     "mündelgeld",
@@ -16556,6 +16559,18 @@
     "wohnungsangelegenheiten",
     "zweites-betreuungsrechtsänderungsgesetz"
   ],
+  "kant": [
+    "freier-wille"
+  ],
+  "freiheit": [
+    "freier-wille",
+    "grundrechte",
+    "grundrechte",
+    "grundrechte",
+    "natürlicher-wille",
+    "sterbehilfe",
+    "zwangsbehandlung"
+  ],
   "freie": [
     "freier-wille",
     "krankenversicherung",
@@ -17578,14 +17593,6 @@
   ],
   "nachhaltigkeitszielen": [
     "globales-nachhaltigkeitsziel-10"
-  ],
-  "freiheit": [
-    "grundrechte",
-    "grundrechte",
-    "grundrechte",
-    "natürlicher-wille",
-    "sterbehilfe",
-    "zwangsbehandlung"
   ],
   "zwangsmedikation": [
     "grundrechte"
