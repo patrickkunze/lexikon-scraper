@@ -15422,6 +15422,7 @@
   "maßregeln": [
     "ehefähigkeit",
     "erziehungsmaßregeln",
+    "maßregeln-der-besserung-und-sicherung",
     "rechtsprechung-zur-unterbringung",
     "waffenbesitz"
   ],
@@ -16376,11 +16377,13 @@
   "besserung": [
     "erziehungsmaßregeln",
     "maßregeln-der-besserung-und-sicherung",
+    "maßregeln-der-besserung-und-sicherung",
     "rechtsprechung-zur-unterbringung",
     "waffenbesitz"
   ],
   "sicherung": [
     "erziehungsmaßregeln",
+    "maßregeln-der-besserung-und-sicherung",
     "rechtsprechung-zur-unterbringung"
   ],
   "entscheidungsfindung": [
@@ -18788,6 +18791,12 @@
   ],
   "forum": [
     "mailingliste"
+  ],
+  "unterschied": [
+    "maßregeln-der-besserung-und-sicherung"
+  ],
+  "strafe": [
+    "maßregeln-der-besserung-und-sicherung"
   ],
   "gleichzeitig": [
     "medikationsplan"

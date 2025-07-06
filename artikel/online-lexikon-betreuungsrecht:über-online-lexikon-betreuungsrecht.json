@@ -68,11 +68,11 @@
   "verwandteArtikel": [
     "btprax",
     "betreuungsrecht-lexikon:haftungsausschluss",
-    "wikia:text-of-the-gnu-free-documentation-license",
     "wikia:wikia-copyrights",
-    "wikipedia:de:wikipedia:lizenzbestimmungen",
     "spielwiese",
     "wikipedia:de:gnu-lizenz-für-freie-dokumentation",
-    "kategorie:betreuungsrecht-lexikon"
+    "kategorie:betreuungsrecht-lexikon",
+    "wikipedia:de:wikipedia:lizenzbestimmungen",
+    "wikia:text-of-the-gnu-free-documentation-license"
   ]
 }
