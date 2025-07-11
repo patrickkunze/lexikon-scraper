@@ -48,19 +48,19 @@
   "zusammenfassung": "Hatte der Betreuer den [Aufgabenbereich](aufgabenbereich) der [Vermögenssorge](vermögenssorge), so hat er das verwaltete Vermögen und den gesamten Schriftverkehr am [Ende der Betreuung](ende-der-betreuung) an den Ex-Betreuten, den Nachfolgebetreuer oder den Erben auszuhändigen (§ 1872 Abs. 1, 4 BGB)...",
   "verwandteArtikel": [
     "aufgabenbereich",
-    "kategorie:-betreuungsende",
-    "notgeschäftsführung",
-    "ende-der-betreuung",
     "btprax",
-    "betreuerwechsel",
-    "vermögenssorge",
-    "bild:zeitschrift.jpg",
-    "befreiter-betreuer",
-    "tod-des-betreuten",
-    "rechnungslegung",
-    "schlussbericht",
-    "kategorie:berichterstattung",
+    "kategorie:-betreuungsende",
     "schlusspflichten",
-    "tod-des-betreuers"
+    "notgeschäftsführung",
+    "tod-des-betreuers",
+    "bild:zeitschrift.jpg",
+    "vermögenssorge",
+    "ende-der-betreuung",
+    "rechnungslegung",
+    "befreiter-betreuer",
+    "kategorie:berichterstattung",
+    "tod-des-betreuten",
+    "schlussbericht",
+    "betreuerwechsel"
   ]
 }
