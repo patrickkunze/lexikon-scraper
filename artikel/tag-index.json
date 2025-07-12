@@ -1323,6 +1323,7 @@
     "vermögensverzeichnis",
     "vertrauensperson",
     "vertretung-gegenüber-behörden",
+    "vollmachtswiderruf",
     "vorläufiger-betreuer",
     "vorläufiger-betreuer",
     "vorsorgevollmacht",
@@ -1622,6 +1623,7 @@
     "patientenvertreter",
     "prozessführung",
     "vollmacht",
+    "vollmachtswiderruf",
     "vorsorgeregisterverordnung",
     "vorsorgevollmacht",
     "vorsorgevollmacht",
@@ -3618,6 +3620,7 @@
     "unterstützungspflicht",
     "unterstützungspflicht",
     "vermögensverzeichnis",
+    "vollmachtswiderruf",
     "wahlrecht",
     "zugangsrecht",
     "zugangsrecht"
@@ -3893,6 +3896,7 @@
     "girokonto",
     "mündelgeld",
     "vermögenssorge",
+    "vollmachtswiderruf",
     "vorsorgevollmacht",
     "vorsorgevollmacht---vertiefte-infos"
   ],
@@ -11075,7 +11079,6 @@
     "einwilligungsfähigkeit",
     "elektronische-patientenakte",
     "genehmigung-der-heilbehandlung",
-    "genehmigungspflichten",
     "gesundheitssorge",
     "gesundheitssorge",
     "heilbehandlung",
@@ -11799,6 +11802,7 @@
     "bestattungsvertrag",
     "genehmigungen",
     "genehmigungen-von-a-bis-z",
+    "vollmachtswiderruf",
     "vormundschaftsgericht",
     "wohnungsauflösung"
   ],
@@ -14310,6 +14314,7 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "gerichtskosten",
     "gesetzgebung",
+    "kontrollbetreuer",
     "kosten"
   ],
   "ansehen": [
@@ -17023,6 +17028,9 @@
   "rechtsgeschäfts": [
     "genehmigungspflichten"
   ],
+  "vollmachtswiderruf": [
+    "genehmigungspflichten"
+  ],
   "sachverständigengutachtens": [
     "gerichtsbeschluss"
   ],
@@ -17120,10 +17128,19 @@
     "gerichtskosten",
     "rechtsanwalt"
   ],
-  "subsidiaritätsprinzip": [
+  "kontrollbetreuer": [
     "gerichtskosten",
-    "rechtsweg-in-deutschland",
-    "selbstverwaltung-der-deutschen-gemeinden"
+    "grundrechte",
+    "grundrechte",
+    "kirchenaustritt",
+    "kontrollbetreuer",
+    "kontrollbetreuer",
+    "kontrollbetreuer",
+    "selbstbestimmung",
+    "vollmachtswiderruf",
+    "vollmachtswiderruf",
+    "vorsorgevollmacht",
+    "vorsorgevollmacht---vertiefte-infos"
   ],
   "antragsformular": [
     "gerichtskosten"
@@ -17599,17 +17616,6 @@
   ],
   "zwangsmedikation": [
     "grundrechte"
-  ],
-  "kontrollbetreuer": [
-    "grundrechte",
-    "grundrechte",
-    "kirchenaustritt",
-    "kontrollbetreuer",
-    "kontrollbetreuer",
-    "kontrollbetreuer",
-    "selbstbestimmung",
-    "vorsorgevollmacht",
-    "vorsorgevollmacht---vertiefte-infos"
   ],
   "kontrollbetreuers": [
     "grundrechte",
@@ -19975,6 +19981,10 @@
   "identitäten": [
     "rechtsverkehr-in-deutschland"
   ],
+  "subsidiaritätsprinzip": [
+    "rechtsweg-in-deutschland",
+    "selbstverwaltung-der-deutschen-gemeinden"
+  ],
   "wort": [
     "registrierung",
     "unterstützte-kommunikation"
@@ -21822,6 +21832,12 @@
   ],
   "verwaltungszustellungsgesetz": [
     "vertretung-gegenüber-behörden"
+  ],
+  "konkreten": [
+    "vollmachtswiderruf"
+  ],
+  "einzelfall": [
+    "vollmachtswiderruf"
   ],
   "termin": [
     "vorführung"
