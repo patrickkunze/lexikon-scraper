@@ -854,6 +854,7 @@
     "vertretung-gegenüber-behörden",
     "vorsorgeregister",
     "vulnerabilität",
+    "vulnerabilität",
     "wahlrecht",
     "wahlrecht",
     "widerspruchsrecht",
@@ -3596,6 +3597,7 @@
     "eingliederungshilfe",
     "erziehungsmaßregeln",
     "geldanlage",
+    "gesetzgebung",
     "gesundheitsdatennutzungsgesetz",
     "gesundheitsdatennutzungsgesetz",
     "grundrechte",
@@ -4082,6 +4084,7 @@
   ],
   "alten": [
     "altenheim",
+    "gesetzgebung",
     "neu",
     "unterbringungsverfahren",
     "vulnerabilität",
@@ -4983,7 +4986,6 @@
     "verfügungsgeld",
     "verlängerung-der-betreuung",
     "vertrauensperson",
-    "vulnerabilität",
     "wahlrecht",
     "werkstatt-für-behinderte-menschen"
   ],
@@ -5803,6 +5805,7 @@
     "geschäftsfähigkeit",
     "geschäftsfähigkeit",
     "geschäftsfähigkeit",
+    "gesetzgebung",
     "gesetzliche-vertretung",
     "haftpflichtversicherung",
     "mündelgeld",
@@ -13971,7 +13974,8 @@
     "betreuungsverein"
   ],
   "christlichen": [
-    "betreuungsverein"
+    "betreuungsverein",
+    "gesetzgebung"
   ],
   "kirchlichen": [
     "betreuungsverein"
@@ -14293,7 +14297,8 @@
     "wahlrecht"
   ],
   "sogenannte": [
-    "bezirksrevisor"
+    "bezirksrevisor",
+    "gesetzgebung"
   ],
   "bezirksrevisor": [
     "bezirksrevisor",
@@ -17388,6 +17393,40 @@
   "wiedervereinigung": [
     "gesetzgebung"
   ],
+  "europa": [
+    "gesetzgebung"
+  ],
+  "gottesfrieden": [
+    "gesetzgebung"
+  ],
+  "staaten": [
+    "gesetzgebung",
+    "haager-übereinkommen",
+    "haager-übereinkommen"
+  ],
+  "kammer": [
+    "gesetzgebung"
+  ],
+  "demokratischen": [
+    "gesetzgebung",
+    "sterbehilfe"
+  ],
+  "viele": [
+    "gesetzgebung",
+    "vorsorgevollmacht"
+  ],
+  "westliche": [
+    "gesetzgebung"
+  ],
+  "ganzen": [
+    "gesetzgebung"
+  ],
+  "volkes": [
+    "gesetzgebung"
+  ],
+  "aufträge": [
+    "gesetzgebung"
+  ],
   "machen": [
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
@@ -17810,10 +17849,6 @@
     "grundstück"
   ],
   "erwsü": [
-    "haager-übereinkommen"
-  ],
-  "staaten": [
-    "haager-übereinkommen",
     "haager-übereinkommen"
   ],
   "ratifiziert": [
@@ -20692,9 +20727,6 @@
     "sterbehilfe",
     "sterbehilfe"
   ],
-  "demokratischen": [
-    "sterbehilfe"
-  ],
   "verfassung": [
     "sterbehilfe"
   ],
@@ -21906,9 +21938,6 @@
     "vorsorgevollmacht"
   ],
   "kündigen": [
-    "vorsorgevollmacht"
-  ],
-  "viele": [
     "vorsorgevollmacht"
   ],
   "möglicherweise": [
