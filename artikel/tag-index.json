@@ -790,6 +790,7 @@
     "ausländer",
     "ausschließlichkeitserklärung",
     "behindertenkonvention",
+    "betreuungsorganisationsgesetz",
     "betreuungsrichter",
     "betreuungsverein",
     "betreuungsverein",
@@ -806,7 +807,10 @@
     "geheimhaltungspflicht",
     "gerichtskosten",
     "gesundheitliche-versorgungsplanung",
+    "gesundheitsdatennutzungsgesetz",
     "gewaltschutzanordnung",
+    "gewaltschutzanordnung",
+    "globales-nachhaltigkeitsziel-10",
     "globales-nachhaltigkeitsziel-10",
     "grundrechte",
     "grundrechte",
@@ -1565,7 +1569,6 @@
     "abschiebung",
     "aufgabenkreis",
     "freier-wille",
-    "maßregeln-der-besserung-und-sicherung",
     "selbstverwaltung-der-deutschen-gemeinden",
     "sterbehilfe",
     "tierschutz",
@@ -3502,8 +3505,7 @@
   "begleitforschung": [
     "allgemeines",
     "betreuungszahlen",
-    "evaluation",
-    "gesundheitsdatennutzungsgesetz"
+    "evaluation"
   ],
   "hauptseite": [
     "allgemeines"
@@ -4998,7 +5000,6 @@
     "corona",
     "freier-wille",
     "genehmigung-der-heilbehandlung",
-    "gesundheitsdatennutzungsgesetz",
     "gesundheitssorge",
     "heilbehandlung",
     "mdk-gutachten",
@@ -6946,7 +6947,6 @@
     "einstweilige-anordnung",
     "einstweilige-anordnung",
     "gerichtsbeschluss",
-    "gewaltschutzanordnung",
     "grundrechte",
     "rechtsprechung-zum-sachverständigengutachten",
     "rechtsprechung-zur-anhörung",
@@ -13105,7 +13105,6 @@
   ],
   "stand": [
     "betreuervergütung-2026",
-    "betreuungsorganisationsgesetz",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "strafprozess"
   ],
@@ -13384,6 +13383,7 @@
     "betreuungsrechtsreform",
     "btog",
     "gesetzestexte",
+    "gesetzgebung",
     "neu",
     "registrierung"
   ],
@@ -13545,7 +13545,6 @@
   ],
   "umgangsbestimmung": [
     "betreuungsgericht",
-    "gewaltschutzanordnung",
     "postkontrolle"
   ],
   "bedürfnisse": [
@@ -13611,9 +13610,15 @@
   ],
   "gesetzgebung": [
     "betreuungsgesetz",
+    "betreuungsorganisationsgesetz",
     "betreuungsrechtsreform",
+    "familienverfahrensgesetz",
     "gesetzestexte",
     "gesetzgebung",
+    "gesundheitsdatennutzungsgesetz",
+    "gewaltschutzanordnung",
+    "globales-nachhaltigkeitsziel-10",
+    "maßregeln-der-besserung-und-sicherung",
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "bundestagsdrucksache": [
@@ -13621,7 +13626,6 @@
   ],
   "regierungsentwurf": [
     "betreuungsgesetz",
-    "betreuungsorganisationsgesetz",
     "betreuungsrechtsreform"
   ],
   "aktueller": [
@@ -14318,7 +14322,6 @@
     "bezirksrevisor",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "gerichtskosten",
-    "gesetzgebung",
     "kontrollbetreuer",
     "kosten"
   ],
@@ -15245,8 +15248,7 @@
   "geheimhaltungspflicht": [
     "dokumentationspflicht",
     "elektronisches-gerichts--und-verwaltungspostfach",
-    "gesundheitsdatennutzungsgesetz",
-    "globales-nachhaltigkeitsziel-10"
+    "gesundheitsdatennutzungsgesetz"
   ],
   "änderung": [
     "drittes-betreuungsrechtsänderungsgesetz",
@@ -16059,7 +16061,6 @@
   "kindschaftsrecht": [
     "elterliche-sorge",
     "erbausschlagung",
-    "familienverfahrensgesetz",
     "sorgerecht",
     "vaterschaftsanerkennung",
     "vaterschaftsfeststellung"
