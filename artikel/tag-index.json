@@ -3949,6 +3949,7 @@
     "neu",
     "neu",
     "personalausweis",
+    "registrierung",
     "rundfunkbeitrag",
     "sozialhilfe",
     "sterbehilfedokumente",
@@ -4595,6 +4596,7 @@
     "altenheim",
     "betreuerpflichten",
     "grundstück",
+    "registrierung",
     "vermögenssorge"
   ],
   "barbeträge": [
@@ -4852,7 +4854,6 @@
   "begleitung": [
     "altenheim",
     "kooperationsvereinbarung",
-    "pflicht-zur-betreuungsübernahme",
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "verhinderungsbetreuer"
   ],
@@ -6045,8 +6046,7 @@
     "angehörigenvertretungsrecht",
     "broschüren",
     "buchverzeichnis",
-    "mitteilungspflicht",
-    "registrierung"
+    "mitteilungspflicht"
   ],
   "sachsen": [
     "anfangsbericht",
@@ -8663,6 +8663,7 @@
     "maßregeln-der-besserung-und-sicherung",
     "natürlicher-wille",
     "natürlicher-wille",
+    "pflicht-zur-betreuungsübernahme",
     "selbstbestimmung",
     "unterstützte-kommunikation",
     "vulnerabilität"
@@ -9515,7 +9516,6 @@
     "jahresbericht",
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz",
-    "registrierung",
     "unfallversicherung"
   ],
   "kiel": [
@@ -9792,6 +9792,7 @@
     "online-lexikon-betreuungsrecht:datenschutz",
     "organspende",
     "rechtsanwalt",
+    "registrierung",
     "unterbringungsähnliche-maßnahme"
   ],
   "mehrsprachig": [
@@ -11446,6 +11447,7 @@
     "betreuungsorganisationsgesetz",
     "betreuungsorganisationsgesetz",
     "betreuungsrechtsreform",
+    "gesetzgebung",
     "rechtspfleger",
     "registrierung",
     "registrierung",
@@ -13383,7 +13385,6 @@
     "betreuungsrechtsreform",
     "btog",
     "gesetzestexte",
-    "gesetzgebung",
     "neu",
     "registrierung"
   ],
@@ -14667,7 +14668,8 @@
   ],
   "beantragen": [
     "checkliste-gesundheitssorge",
-    "checkliste-wohnungsangelegenheiten"
+    "checkliste-wohnungsangelegenheiten",
+    "registrierung"
   ],
   "welche": [
     "checkliste-gesundheitssorge",
@@ -15429,6 +15431,7 @@
     "patientenvertreter",
     "psychisch-kranken-gesetz",
     "schlüsselgewalt",
+    "vollmachtswiderruf",
     "vorsorgeregisterverordnung"
   ],
   "maßregeln": [
@@ -16166,7 +16169,6 @@
     "kirchenaustritt",
     "kirchenaustritt",
     "organspende",
-    "registrierung",
     "selbstverwaltungserklärung",
     "vaterschaftsanerkennung"
   ],
@@ -20024,9 +20026,6 @@
   "wort": [
     "registrierung",
     "unterstützte-kommunikation"
-  ],
-  "stammt": [
-    "registrierung"
   ],
   "folge": [
     "registrierung"
