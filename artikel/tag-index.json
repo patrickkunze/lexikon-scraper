@@ -3906,7 +3906,6 @@
   ],
   "rechtsverkehr": [
     "alltagsgeschäfte",
-    "digitale-barrierefreiheit",
     "krankenversicherung",
     "rechtsverkehr-in-deutschland"
   ],
@@ -6994,7 +6993,6 @@
     "ebo",
     "egvp",
     "elektronisches-gerichts--und-verwaltungspostfach",
-    "it-sicherheit",
     "personalausweis",
     "prozessführung",
     "querschnittsaufgaben",
@@ -8652,6 +8650,7 @@
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
     "buchverzeichnis",
+    "digitale-barrierefreiheit",
     "ehefähigkeit",
     "eherecht-und-betreuung",
     "einwilligungsvorbehalt",
@@ -8665,6 +8664,7 @@
     "natürlicher-wille",
     "pflicht-zur-betreuungsübernahme",
     "selbstbestimmung",
+    "subsidiaritätsprinzip",
     "unterstützte-kommunikation",
     "vulnerabilität"
   ],
@@ -9920,7 +9920,6 @@
     "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zur-anhörung",
     "rechtsweg-in-deutschland",
-    "subsidiaritätsprinzip",
     "verfahrenspfleger",
     "vertretung-gegenüber-behörden",
     "vorsorgeregister"
@@ -9968,8 +9967,10 @@
     "bundesverband-der-berufsbetreuer",
     "bundesverband-freier-berufsbetreuer",
     "bundesverband-freier-berufsbetreuer",
+    "digitale-barrierefreiheit",
     "einwilligungsvorbehalt",
     "geschäftsfähigkeit",
+    "subsidiaritätsprinzip",
     "unterstützte-kommunikation",
     "verband-freiberuflicher-betreuer",
     "vulnerabilität"
@@ -14720,7 +14721,6 @@
   ],
   "medikationsplan": [
     "checkliste-für-arztgespräche",
-    "e-rezept",
     "gesundheitssorge"
   ],
   "datenschutz": [
@@ -15048,8 +15048,8 @@
     "digitale-barrierefreiheit",
     "digitale-barrierefreiheit",
     "e-rezept",
-    "elektronischer-identitätsnachweis",
     "formulare",
+    "it-sicherheit",
     "informationspflicht",
     "interoperabilität",
     "mailingliste",
@@ -15134,12 +15134,10 @@
   ],
   "elektronischer": [
     "digitale-barrierefreiheit",
+    "e-rezept",
     "medikationsplan",
     "vorsorgeregister",
     "zugriffsrecht"
-  ],
-  "identitätsnachweis": [
-    "digitale-barrierefreiheit"
   ],
   "plattform": [
     "digitale-barrierefreiheit",
@@ -15150,6 +15148,7 @@
     "digitale-barrierefreiheit",
     "e-rezept",
     "formulare",
+    "it-sicherheit",
     "informationspflicht",
     "interoperabilität",
     "mailingliste",
@@ -15280,6 +15279,7 @@
   "rezept": [
     "e-rezept",
     "e-rezept",
+    "elektronischer-identitätsnachweis",
     "neu"
   ],
   "sicherheit": [
@@ -15294,9 +15294,8 @@
     "interoperabilität",
     "ordre-public"
   ],
-  "krankenhaussozialdienst": [
-    "e-rezept",
-    "krankenhaussozialdienst"
+  "identitätsnachweis": [
+    "e-rezept"
   ],
   "internetseite": [
     "e-rezept",
@@ -15320,7 +15319,6 @@
   "verwaltungspostfach": [
     "ebo",
     "egvp",
-    "it-sicherheit",
     "sachkundenachweis",
     "software",
     "zugriffsrecht"
@@ -15524,7 +15522,6 @@
     "eherecht-und-betreuung",
     "einstweilige-anordnung",
     "gewaltschutzanordnung",
-    "subsidiaritätsprinzip",
     "umgangsbestimmung",
     "vorläufiger-betreuer",
     "zuführung-zur-unterbringung"
@@ -18639,6 +18636,9 @@
     "unterstützungspflicht"
   ],
   "grundlagen": [
+    "krankenhaussozialdienst"
+  ],
+  "krankenhaussozialdienst": [
     "krankenhaussozialdienst"
   ],
   "redirectkrankenversicherung": [
