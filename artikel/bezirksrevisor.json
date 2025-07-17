@@ -1,17 +1,17 @@
 {
   "id": "bezirksrevisor",
   "titel": "Bezirksrevisor",
-  "inhalt": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerde im Interesse der Staatskasse einlegen.\n\nSiehe auch\n [Regress der Staatskasse](regress-der-staatskasse)\n [Betreuungsverfahren](betreuungsverfahren)\n [Familienverfahrensgesetz](familienverfahrensgesetz)\n [Gerichtskosten](gerichtskosten)\n [Rechtsmittel](rechtsmittel)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)",
+  "inhalt": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerde im Interesse der [Staatskasse](staatskasse) einlegen, § 304 FamFG. Diese müssen zwingend in elektronischer Form erfolgen, § 14b FamFG.\n\nSiehe auch\n [Regress der Staatskasse](regress-der-staatskasse)\n [Betreuungsverfahren](betreuungsverfahren)\n [Familienverfahrensgesetz](familienverfahrensgesetz)\n [Gerichtskosten](gerichtskosten)\n [Rechtsmittel](rechtsmittel)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)",
   "struktur": [
     {
       "titel": "Einleitung",
-      "inhalt": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein Rechtspfleger, kann gegen Gerichtsentscheidungen das Rechtsmittel Beschwerde im Interesse der Staatskasse einlegen.",
+      "inhalt": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein Rechtspfleger, kann gegen Gerichtsentscheidungen das Rechtsmittel Beschwerde im Interesse der Staatskasse einlegen, § 304 FamFG. Diese müssen zwingend in elektronischer Form erfolgen, § 14b FamFG.",
       "tags": [
+        "famfg",
         "sogenannte",
         "bezirksrevisor",
         "berufsausbildung",
-        "meist",
-        "rechtspfleger"
+        "meist"
       ]
     },
     {
@@ -26,15 +26,16 @@
       ]
     }
   ],
-  "zusammenfassung": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerde im Interesse der Staatskasse einlegen.\n\nSiehe auch\n [Regress der Staatskasse](regress-der-staatskasse)\n ...",
+  "zusammenfassung": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerde im Interesse der [Staatskasse](staatskasse) einlegen, § 304 FamFG. Diese müssen zwingend in elektronisch...",
   "verwandteArtikel": [
     "betreuungsverfahren",
     "familienverfahrensgesetz",
-    "gerichtsbeschluss",
-    "gerichtskosten",
     "rechtsmittel",
-    "regress-der-staatskasse",
     "rechtspfleger",
-    "rechtsverkehr-in-deutschland"
+    "gerichtskosten",
+    "rechtsverkehr-in-deutschland",
+    "staatskasse",
+    "regress-der-staatskasse",
+    "gerichtsbeschluss"
   ]
 }
