@@ -1973,7 +1973,6 @@
     "einwilligungsvorbehalt",
     "einwilligungsvorbehalt",
     "elektronisches-gerichts--und-verwaltungspostfach",
-    "elektronisches-gerichts--und-verwaltungspostfach",
     "ergänzungsbetreuer",
     "ergänzungsbetreuer",
     "ergänzungsbetreuer",
@@ -2577,7 +2576,6 @@
     "einstweilige-anordnung",
     "einwilligungsvorbehalt",
     "elektronisches-gerichts--und-verwaltungspostfach",
-    "elektronisches-gerichts--und-verwaltungspostfach",
     "erbschaft",
     "erbschaft",
     "ergänzungsbetreuer",
@@ -2893,7 +2891,6 @@
     "betreuervergütung-2019",
     "betreuervorschlag",
     "betreuungsgerichtshilfe",
-    "elektronisches-gerichts--und-verwaltungspostfach",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "genehmigung-der-heilbehandlung",
     "gesetzliche-vertretung",
@@ -3603,7 +3600,6 @@
     "betreuerpflichten",
     "diskriminierungsverbot",
     "eingliederungshilfe",
-    "elektronisches-gerichts--und-verwaltungspostfach",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "erziehungsmaßregeln",
     "geldanlage",
@@ -5011,6 +5007,7 @@
     "gesundheitssorge",
     "heilbehandlung",
     "mdk-gutachten",
+    "mittellosigkeit",
     "persönliche-betreuung",
     "pflegeversicherung",
     "schwerbehindertenausweis",
@@ -5510,7 +5507,6 @@
     "einstweilige-anordnung",
     "einwilligungsvorbehalt",
     "einwilligungsvorbehalt",
-    "elektronisches-gerichts--und-verwaltungspostfach",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "familienverfahrensgesetz",
@@ -9067,6 +9063,7 @@
     "aufsicht",
     "beratung",
     "betreuungsarbeitsgemeinschaft",
+    "elektronisches-gerichts--und-verwaltungspostfach",
     "rechtspfleger",
     "regress-der-staatskasse",
     "verhältnismäßigkeitsprinzip"
@@ -9819,7 +9816,6 @@
     "ausweisrecht",
     "elektronischer-identitätsnachweis",
     "elektronischer-identitätsnachweis",
-    "elektronisches-gerichts--und-verwaltungspostfach",
     "grundrechte",
     "medikationsplan",
     "meldepflicht",
@@ -10225,7 +10221,6 @@
     "informationspflicht",
     "krankenhaussozialdienst",
     "krankenhaussozialdienst",
-    "mittellosigkeit",
     "pflicht-zur-betreuungsübernahme",
     "querschnittsaufgaben",
     "querschnittsaufgaben",
@@ -14318,7 +14313,8 @@
   ],
   "bezirksrevisor": [
     "bezirksrevisor",
-    "rechtspfleger"
+    "rechtspfleger",
+    "regress-der-staatskasse"
   ],
   "berufsausbildung": [
     "bezirksrevisor"
@@ -16202,7 +16198,6 @@
     "erbschaft",
     "grundrechte",
     "kindschaftsrecht",
-    "regress-der-staatskasse",
     "testierfähigkeit",
     "vaterschaftsanerkennung"
   ],

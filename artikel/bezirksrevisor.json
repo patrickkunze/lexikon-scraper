@@ -1,7 +1,7 @@
 {
   "id": "bezirksrevisor",
   "titel": "Bezirksrevisor",
-  "inhalt": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerde im Interesse der [Staatskasse](staatskasse) einlegen, § 304 FamFG. Diese müssen zwingend in elektronischer Form erfolgen, § 14b FamFG.\n\nSiehe auch\n [Regress der Staatskasse](regress-der-staatskasse)\n [Betreuungsverfahren](betreuungsverfahren)\n [Familienverfahrensgesetz](familienverfahrensgesetz)\n [Gerichtskosten](gerichtskosten)\n [Rechtsmittel](rechtsmittel)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)",
+  "inhalt": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerde im Interesse der [Regress der Staatskasse](regress-der-staatskasse) einlegen, § 304 FamFG. Diese müssen zwingend in elektronischer Form erfolgen, § 14b FamFG.\n\nSiehe auch\n [Regress der Staatskasse](regress-der-staatskasse)\n [Betreuungsverfahren](betreuungsverfahren)\n [Familienverfahrensgesetz](familienverfahrensgesetz)\n [Gerichtskosten](gerichtskosten)\n [Rechtsmittel](rechtsmittel)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -26,16 +26,15 @@
       ]
     }
   ],
-  "zusammenfassung": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerde im Interesse der [Staatskasse](staatskasse) einlegen, § 304 FamFG. Diese müssen zwingend in elektronisch...",
+  "zusammenfassung": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerde im Interesse der [Regress der Staatskasse](regress-der-staatskasse) einlegen, § 304 FamFG. Diese müssen ...",
   "verwandteArtikel": [
-    "betreuungsverfahren",
-    "familienverfahrensgesetz",
-    "rechtsmittel",
-    "rechtspfleger",
-    "gerichtskosten",
-    "rechtsverkehr-in-deutschland",
-    "staatskasse",
     "regress-der-staatskasse",
-    "gerichtsbeschluss"
+    "rechtspfleger",
+    "rechtsmittel",
+    "rechtsverkehr-in-deutschland",
+    "betreuungsverfahren",
+    "gerichtskosten",
+    "gerichtsbeschluss",
+    "familienverfahrensgesetz"
   ]
 }
