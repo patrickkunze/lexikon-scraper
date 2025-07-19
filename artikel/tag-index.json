@@ -797,6 +797,7 @@
     "betreuungsverfahren",
     "digitale-barrierefreiheit",
     "diskriminierungsverbot",
+    "diskriminierungsverbot",
     "dokumentationspflicht",
     "drittes-betreuungsrechtsänderungsgesetz",
     "e-rezept",
@@ -828,6 +829,7 @@
     "mdk-gutachten",
     "maßregeln-der-besserung-und-sicherung",
     "medikationsplan",
+    "neu",
     "neu",
     "neu",
     "neu",
@@ -5103,7 +5105,9 @@
   ],
   "bundes": [
     "altenheim",
-    "ausbildung"
+    "ausbildung",
+    "diskriminierungsverbot",
+    "diskriminierungsverbot"
   ],
   "aktuell": [
     "altenheim",
@@ -9304,6 +9308,7 @@
     "aufwendungsersatz",
     "ausbildung",
     "corona",
+    "diskriminierungsverbot",
     "heilbehandlung",
     "impressum",
     "mailingliste",
@@ -9427,13 +9432,15 @@
     "freibetrag",
     "freibetrag",
     "grundstück",
+    "mahnverfahren",
     "mittellosigkeit",
     "mittellosigkeit",
     "mittellosigkeit",
     "mittellosigkeit",
     "regress-der-staatskasse",
     "vbvg-rechtsprechung",
-    "vormünder--und-betreuervergütungsgesetz"
+    "vormünder--und-betreuervergütungsgesetz",
+    "zwangsvollstreckung"
   ],
   "regress": [
     "aufwendungsersatz",
@@ -11221,6 +11228,7 @@
   "wegen": [
     "behördenbetreuer",
     "betreuervergütung",
+    "diskriminierungsverbot",
     "diskriminierungsverbot",
     "diskriminierungsverbot",
     "einwilligungsvorbehalt",
@@ -15211,10 +15219,22 @@
     "diskriminierungsverbot",
     "subsidiaritätsprinzip"
   ],
+  "antidiskriminierungsstelle": [
+    "diskriminierungsverbot",
+    "diskriminierungsverbot"
+  ],
   "amtspflichtverletzung": [
     "diskriminierungsverbot",
     "finanzamt",
     "selbstverwaltung-der-deutschen-gemeinden"
+  ],
+  "internetseite": [
+    "diskriminierungsverbot",
+    "e-rezept",
+    "gesundheitsdatennutzungsgesetz",
+    "globales-nachhaltigkeitsziel-10",
+    "mdk-gutachten",
+    "tierschutz"
   ],
   "patienten": [
     "dokumentationspflicht",
@@ -15302,13 +15322,6 @@
   ],
   "identitätsnachweis": [
     "e-rezept"
-  ],
-  "internetseite": [
-    "e-rezept",
-    "gesundheitsdatennutzungsgesetz",
-    "globales-nachhaltigkeitsziel-10",
-    "mdk-gutachten",
-    "tierschutz"
   ],
   "elektronisches": [
     "ebo",
@@ -15668,6 +15681,7 @@
   ],
   "ganz": [
     "einverständniserklärung",
+    "neu",
     "neu",
     "testierfähigkeit"
   ],
@@ -19123,6 +19137,7 @@
     "neu",
     "neu",
     "neu",
+    "neu",
     "organspende"
   ],
   "bundesdatenschutzgesetz": [
@@ -19190,6 +19205,14 @@
     "neu"
   ],
   "vormundschaftsgerichte": [
+    "neu"
+  ],
+  "allgemeine": [
+    "neu",
+    "vorsorgevollmacht",
+    "vorsorgevollmacht---vertiefte-infos"
+  ],
+  "gleichbehandlungsgesetz": [
     "neu"
   ],
   "rehabilitationsrecht": [
@@ -21922,10 +21945,6 @@
   "automatisiertes": [
     "vorsorgeregister",
     "vorsorgeregisterverordnung"
-  ],
-  "allgemeine": [
-    "vorsorgevollmacht",
-    "vorsorgevollmacht---vertiefte-infos"
   ],
   "vorrangig": [
     "vorsorgevollmacht"
