@@ -798,6 +798,7 @@
     "digitale-barrierefreiheit",
     "diskriminierungsverbot",
     "diskriminierungsverbot",
+    "diskriminierungsverbot",
     "dokumentationspflicht",
     "drittes-betreuungsrechtsänderungsgesetz",
     "e-rezept",
@@ -7355,6 +7356,7 @@
   "gibt": [
     "anlagegeld",
     "anregung-der-betreuerbestellung",
+    "diskriminierungsverbot",
     "geschäftsfähigkeit",
     "kontrollbetreuer",
     "vorsorgevollmacht"
@@ -9995,6 +9997,7 @@
     "betreuungsverein",
     "betreuungsverfahren",
     "digitale-barrierefreiheit",
+    "diskriminierungsverbot",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "formulare",
     "neu",
@@ -10009,6 +10012,7 @@
     "baden-württemberg",
     "betreuungsgericht",
     "betreuungsverein",
+    "diskriminierungsverbot",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "neu",
     "rechtsprechung",
@@ -15223,6 +15227,17 @@
     "diskriminierungsverbot",
     "diskriminierungsverbot"
   ],
+  "eigene": [
+    "diskriminierungsverbot",
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "strafprozess"
+  ],
+  "landes": [
+    "diskriminierungsverbot"
+  ],
+  "antidiskriminierungsstellen": [
+    "diskriminierungsverbot"
+  ],
   "amtspflichtverletzung": [
     "diskriminierungsverbot",
     "finanzamt",
@@ -16015,10 +16030,6 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "elektronisches-gerichts--und-verwaltungspostfach"
-  ],
-  "eigene": [
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "strafprozess"
   ],
   "datenträgerkontrolle": [
     "elektronisches-gerichts--und-verwaltungspostfach"
@@ -17156,7 +17167,6 @@
     "gerichtskosten",
     "grundrechte",
     "grundrechte",
-    "kirchenaustritt",
     "kontrollbetreuer",
     "kontrollbetreuer",
     "kontrollbetreuer",
@@ -18572,6 +18582,11 @@
   ],
   "weder": [
     "kirchenaustritt"
+  ],
+  "diskriminierungsverbot": [
+    "kirchenaustritt",
+    "verhältnismäßigkeitsprinzip",
+    "wahlrecht"
   ],
   "kontrollbetreuern": [
     "kontrollbetreuer"
@@ -21665,10 +21680,6 @@
   ],
   "proportional": [
     "verhältnismäßigkeitsprinzip"
-  ],
-  "diskriminierungsverbot": [
-    "verhältnismäßigkeitsprinzip",
-    "wahlrecht"
   ],
   "endet": [
     "verlängerung-der-betreuung"
