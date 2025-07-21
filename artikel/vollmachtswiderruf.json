@@ -1,7 +1,7 @@
 {
   "id": "vollmachtswiderruf",
   "titel": "Vollmachtswiderruf",
-  "inhalt": "Allgemeines\nGemäß § 1820 Abs. 5 BGB kann ein [Kontrollbetreuer](kontrollbetreuer) im konkreten Einzelfall zum Widerruf einer [Vorsorgevollmacht](vorsorgevollmacht) berechtigt sein.\n\nSiehe auch\n [Vorsorgevollmacht](vorsorgevollmacht)\n [Bankvollmacht](bankvollmacht)\n [Genehmigungspflichten](genehmigungspflichten)\n [Kontrollbetreuer](kontrollbetreuer)\n [Angehörigenvertretungsrecht](angehörigenvertretungsrecht)",
+  "inhalt": "Allgemeines\nGemäß § 1820 Abs. 5 BGB kann ein [Kontrollbetreuer](kontrollbetreuer) im konkreten Einzelfall zum Widerruf einer [Vorsorgevollmacht](vorsorgevollmacht) berechtigt sein.\n\nSiehe auch\n [Vorsorgevollmacht](vorsorgevollmacht)\n [Bankvollmacht](bankvollmacht)\n [Vermögenssorge](vermögenssorge)\n [Genehmigungspflichten](genehmigungspflichten)\n [Kontrollbetreuer](kontrollbetreuer)\n [Angehörigenvertretungsrecht](angehörigenvertretungsrecht)",
   "struktur": [
     {
       "titel": "Allgemeines",
@@ -16,22 +16,23 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Vorsorgevollmacht\n Bankvollmacht\n Genehmigungspflichten\n Kontrollbetreuer\n Angehörigenvertretungsrecht",
+      "inhalt": "Vorsorgevollmacht\n Bankvollmacht\n Vermögenssorge\n Genehmigungspflichten\n Kontrollbetreuer\n Angehörigenvertretungsrecht",
       "tags": [
         "vorsorgevollmacht",
         "bankvollmacht",
+        "vermögenssorge",
         "genehmigungspflichten",
-        "kontrollbetreuer",
-        "angehörigenvertretungsrecht"
+        "kontrollbetreuer"
       ]
     }
   ],
-  "zusammenfassung": "Allgemeines\nGemäß § 1820 Abs. 5 BGB kann ein [Kontrollbetreuer](kontrollbetreuer) im konkreten Einzelfall zum Widerruf einer [Vorsorgevollmacht](vorsorgevollmacht) berechtigt sein.\n\nSiehe auch\n [Vorsorgevollmacht](vorsorgevollmacht)\n [Bankvollmacht](bankvollmacht)\n [Genehmigungspflichten](genehmigun...",
+  "zusammenfassung": "Allgemeines\nGemäß § 1820 Abs. 5 BGB kann ein [Kontrollbetreuer](kontrollbetreuer) im konkreten Einzelfall zum Widerruf einer [Vorsorgevollmacht](vorsorgevollmacht) berechtigt sein.\n\nSiehe auch\n [Vorsorgevollmacht](vorsorgevollmacht)\n [Bankvollmacht](bankvollmacht)\n [Vermögenssorge](vermögenssorge)\n ...",
   "verwandteArtikel": [
     "bankvollmacht",
+    "vermögenssorge",
+    "kontrollbetreuer",
     "genehmigungspflichten",
-    "angehörigenvertretungsrecht",
     "vorsorgevollmacht",
-    "kontrollbetreuer"
+    "angehörigenvertretungsrecht"
   ]
 }

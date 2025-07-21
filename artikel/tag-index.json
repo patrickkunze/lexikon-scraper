@@ -1621,6 +1621,7 @@
     "gerichtskosten",
     "gesundheitliche-versorgungsplanung",
     "grundrechte",
+    "grundstück",
     "kontrollbetreuer",
     "kontrollbetreuer",
     "kontrollbetreuer",
@@ -7323,6 +7324,7 @@
     "eherecht-und-betreuung",
     "erbausschlagung",
     "geldanlage",
+    "grundstück",
     "haftpflichtversicherung",
     "hamburger-mustergliederung",
     "insichgeschäft",
@@ -7340,6 +7342,7 @@
     "vermögenssorge",
     "vermögensverwaltung",
     "vermögensverzeichnis",
+    "vollmachtswiderruf",
     "wohnungsangelegenheiten",
     "wohnungsauflösung",
     "zwangsvollstreckung"
@@ -7498,6 +7501,7 @@
     "anlagegeld",
     "betreuungsplan",
     "gesetzestexte",
+    "grundstück",
     "mündelgeld",
     "vermögensverzeichnis",
     "vermögensverzeichnis",
@@ -9071,8 +9075,7 @@
     "betreuungsarbeitsgemeinschaft",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "rechtspfleger",
-    "regress-der-staatskasse",
-    "verhältnismäßigkeitsprinzip"
+    "regress-der-staatskasse"
   ],
   "aufwendungen": [
     "aufwandspauschale",
@@ -13299,6 +13302,7 @@
   "wohnen": [
     "betreutes-wohnen",
     "betreutes-wohnen",
+    "grundstück",
     "heimmitarbeiter-als-betreuer",
     "meldepflicht",
     "verbraucherstreitbeilegung"
@@ -13319,6 +13323,7 @@
   ],
   "betreutes": [
     "betreutes-wohnen",
+    "grundstück",
     "heimmitarbeiter-als-betreuer",
     "meldepflicht",
     "verbraucherstreitbeilegung"
@@ -15463,7 +15468,6 @@
     "patientenvertreter",
     "psychisch-kranken-gesetz",
     "schlüsselgewalt",
-    "vollmachtswiderruf",
     "vorsorgeregisterverordnung"
   ],
   "maßregeln": [
@@ -21681,6 +21685,10 @@
   "proportional": [
     "verhältnismäßigkeitsprinzip"
   ],
+  "grundstück": [
+    "verhältnismäßigkeitsprinzip",
+    "vermögenssorge"
+  ],
   "endet": [
     "verlängerung-der-betreuung"
   ],
@@ -21706,9 +21714,6 @@
     "vermögenssorge"
   ],
   "verwendet": [
-    "vermögenssorge"
-  ],
-  "grundstück": [
     "vermögenssorge"
   ],
   "juraforum": [
