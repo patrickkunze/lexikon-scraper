@@ -4458,7 +4458,8 @@
     "altenheim"
   ],
   "schon": [
-    "altenheim"
+    "altenheim",
+    "verhältnismäßigkeitsprinzip"
   ],
   "abschluss": [
     "altenheim",
@@ -6705,7 +6706,6 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "genehmigung-der-heilbehandlung",
     "gerichtskosten",
-    "gesetzgebung",
     "haager-übereinkommen",
     "hauptseite",
     "schlussrechnungslegung",
@@ -7055,8 +7055,10 @@
   ],
   "verhältnismäßigkeitsprinzip": [
     "anhörung",
+    "gesetzgebung",
     "neu",
-    "subsidiaritätsprinzip"
+    "subsidiaritätsprinzip",
+    "unterstützungspflicht"
   ],
   "betreuungs": [
     "anhörung",
@@ -8319,7 +8321,6 @@
   ],
   "behinderte": [
     "arbeitsvertrag",
-    "unterstützungspflicht",
     "werkstatt-für-behinderte-menschen",
     "werkstatt-für-behinderte-menschen"
   ],
@@ -13735,7 +13736,8 @@
     "kirchenaustritt",
     "kirchenaustritt",
     "patientenverfügung",
-    "patientenverfügung"
+    "patientenverfügung",
+    "verhältnismäßigkeitsprinzip"
   ],
   "gerichtlicher": [
     "betreuungsorganisationsgesetz"
@@ -19846,7 +19848,8 @@
   ],
   "gesetze": [
     "psychisch-kranken-gesetz",
-    "psychisch-kranken-gesetz"
+    "psychisch-kranken-gesetz",
+    "verhältnismäßigkeitsprinzip"
   ],
   "schutzmaßnahmen": [
     "psychisch-kranken-gesetz"
@@ -21683,6 +21686,12 @@
     "verhältnismäßigkeitsprinzip"
   ],
   "proportional": [
+    "verhältnismäßigkeitsprinzip"
+  ],
+  "auslegung": [
+    "verhältnismäßigkeitsprinzip"
+  ],
+  "gesetzeszweck": [
     "verhältnismäßigkeitsprinzip"
   ],
   "grundstück": [
