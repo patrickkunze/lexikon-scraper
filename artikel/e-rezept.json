@@ -1,7 +1,7 @@
 {
   "id": "e-rezept",
   "titel": "E-Rezept",
-  "inhalt": "Das E-Rezept, d.h. die elektronische Verordnung oder Verschreibung für den Patienten durch seinen Arzt oder seine Ärztin, ist für verschreibungspflichtige Arzneimittel in Deutschland seit dem 01.01.2024 zur Regel geworden. Die Verwendung von Verordnungen und Empfehlungen in elektronischer Form wurde in § 86 SGB V sozialgesetzlich vorbereitet. Es geht dabei um sogenannte Bundesmantelverträge zwischen den Kassenärztlichen Bundesvereinigungen und dem Spitzenverband Bund der Krankenkassen in Deutschland. \n\nDie verpflichtende Einführung des E-Rezepts mit Hilfe der deutschen Telematikinfrastruktur hat die jahrelange „Zettelwirtschaft“ im Gesundheitswesen beendet. Die früheren Arztrezepte auf Papier werden zur rechtssicheren Abrechnung der Arzneimittelkosten des [Krankenversicherung](krankenversicherung) Patienten heute nicht mehr benötigt. Bekanntlich konnten in Einzelfällen auch solche Arztrezepte gefälscht werden (= Urkundenfälschung).\n\nSiehe auch\n [digitale Barrierefreiheit](digitale-barrierefreiheit)\n [IT-Sicherheit](it-sicherheit)\n [elektronischer Identitätsnachweis](elektronischer-identitätsnachweis)\n [Medikationsplan](medikationsplan)\n [Neu](neu)\n [Krankenhaussozialdienst](krankenhaussozialdienst)\n\nWeblinks\n Internetseite zum E-Rezept",
+  "inhalt": "Das E-Rezept, d.h. die elektronische Verordnung oder Verschreibung für den Patienten durch seinen Arzt oder seine Ärztin, ist für verschreibungspflichtige Arzneimittel in Deutschland seit dem 01.01.2024 zur Regel geworden. Die Verwendung von Verordnungen und Empfehlungen in elektronischer Form wurde in § 86 SGB V sozialgesetzlich vorbereitet. Es geht dabei um sogenannte Bundesmantelverträge zwischen den Kassenärztlichen Bundesvereinigungen und dem Spitzenverband Bund der Krankenkassen in Deutschland. \n\nDie verpflichtende Einführung des E-Rezepts mit Hilfe der deutschen Telematikinfrastruktur hat die jahrelange „Zettelwirtschaft“ im Gesundheitswesen beendet. Die früheren Arztrezepte auf Papier werden zur rechtssicheren Abrechnung der Arzneimittelkosten des [Krankenversicherung](krankenversicherung) Patienten heute nicht mehr benötigt. Bekanntlich konnten in Einzelfällen auch solche Arztrezepte gefälscht werden (= Urkundenfälschung).\n\nSiehe auch\n [digitale Barrierefreiheit](digitale-barrierefreiheit)\n [IT-Sicherheit](it-sicherheit), [Datenschutz](datenschutz)\n [elektronischer Identitätsnachweis](elektronischer-identitätsnachweis)\n [Medikationsplan](medikationsplan)\n [Neu](neu)\n [Gesundheitsdatennutzungsgesetz](gesundheitsdatennutzungsgesetz)\n [Krankenhaussozialdienst](krankenhaussozialdienst)\n\nWeblinks\n Internetseite zum E-Rezept",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -16,13 +16,13 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "digitale Barrierefreiheit\n IT-Sicherheit\n elektronischer Identitätsnachweis\n Medikationsplan\n Was ist neu?\n Krankenhaussozialdienst",
+      "inhalt": "digitale Barrierefreiheit\n IT-Sicherheit, Datenschutz\n elektronischer Identitätsnachweis\n Medikationsplan\n Was ist neu?\n Gesundheitsdatennutzungsgesetz\n Krankenhaussozialdienst",
       "tags": [
         "digitale",
         "barrierefreiheit",
         "sicherheit",
-        "elektronischer",
-        "identitätsnachweis"
+        "datenschutz",
+        "elektronischer"
       ]
     },
     {
@@ -36,12 +36,14 @@
   ],
   "zusammenfassung": "Das E-Rezept, d.h. die elektronische Verordnung oder Verschreibung für den Patienten durch seinen Arzt oder seine Ärztin, ist für verschreibungspflichtige Arzneimittel in Deutschland seit dem 01.01.2024 zur Regel geworden. Die Verwendung von Verordnungen und Empfehlungen in elektronischer Form wurde...",
   "verwandteArtikel": [
-    "krankenhaussozialdienst",
+    "krankenversicherung",
     "digitale-barrierefreiheit",
-    "medikationsplan",
     "it-sicherheit",
+    "krankenhaussozialdienst",
+    "gesundheitsdatennutzungsgesetz",
     "elektronischer-identitätsnachweis",
     "neu",
-    "krankenversicherung"
+    "medikationsplan",
+    "datenschutz"
   ]
 }

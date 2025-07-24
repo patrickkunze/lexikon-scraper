@@ -858,7 +858,6 @@
     "synopse-patientenverfügungsgesetze",
     "unterstützungspflicht",
     "unterstützungspflicht",
-    "verhältnismäßigkeitsprinzip",
     "vertretung-gegenüber-behörden",
     "vorsorgeregister",
     "vulnerabilität",
@@ -8441,7 +8440,6 @@
     "interoperabilität",
     "interoperabilität",
     "medikationsplan",
-    "medikationsplan",
     "patientenverfügung",
     "postkontrolle",
     "sachverständigengutachten",
@@ -9075,7 +9073,8 @@
     "betreuungsarbeitsgemeinschaft",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "rechtspfleger",
-    "regress-der-staatskasse"
+    "regress-der-staatskasse",
+    "verhältnismäßigkeitsprinzip"
   ],
   "aufwendungen": [
     "aufwandspauschale",
@@ -9939,7 +9938,6 @@
     "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zur-anhörung",
     "rechtsweg-in-deutschland",
-    "verfahrenspfleger",
     "verhältnismäßigkeitsprinzip",
     "vertretung-gegenüber-behörden",
     "vorsorgeregister"
@@ -14752,6 +14750,7 @@
     "checkliste-für-arztgespräche",
     "datenschutz",
     "datenschutz",
+    "e-rezept",
     "elektronische-patientenakte",
     "geheimhaltungspflicht",
     "gesundheitsdatennutzungsgesetz",
@@ -15340,10 +15339,8 @@
     "it-sicherheit",
     "it-sicherheit",
     "interoperabilität",
+    "medikationsplan",
     "ordre-public"
-  ],
-  "identitätsnachweis": [
-    "e-rezept"
   ],
   "elektronisches": [
     "ebo",
@@ -18591,6 +18588,7 @@
   ],
   "diskriminierungsverbot": [
     "kirchenaustritt",
+    "verfahrenspfleger",
     "verhältnismäßigkeitsprinzip",
     "wahlrecht"
   ],
