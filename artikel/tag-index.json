@@ -3625,6 +3625,7 @@
     "mitteilungspflicht",
     "neu",
     "neu",
+    "neu",
     "personalausweis",
     "rechtspfleger",
     "selbstverwaltung-der-deutschen-gemeinden",
@@ -4989,7 +4990,6 @@
     "ausschließlichkeitserklärung",
     "digitale-barrierefreiheit",
     "inklusionsbetrieb",
-    "medikationsplan",
     "selbstbestimmung",
     "selbstbestimmung",
     "selbstbestimmungsrecht",
@@ -5852,7 +5852,8 @@
     "mitteilungspflicht",
     "schweigepflicht",
     "verbraucherstreitbeilegung",
-    "vermögensverzeichnis"
+    "vermögensverzeichnis",
+    "widerspruchsrecht"
   ],
   "achtung": [
     "anfangsbericht",
@@ -7206,6 +7207,7 @@
     "corona",
     "covid-19",
     "einwilligungsfähigkeit",
+    "neu",
     "zwangsbehandlung"
   ],
   "krise": [
@@ -9846,8 +9848,7 @@
   ],
   "ausschließlichkeitserklärung": [
     "ausschließlichkeitserklärung",
-    "verfahrensfähigkeit",
-    "widerspruchsrecht"
+    "verfahrensfähigkeit"
   ],
   "hintergrund": [
     "ausschließlichkeitserklärung"
@@ -10608,6 +10609,7 @@
   "zugriffsrecht": [
     "befreiter-betreuer",
     "informationspflicht",
+    "medikationsplan",
     "schweigepflicht",
     "vorsorgeregister"
   ],
@@ -11242,6 +11244,7 @@
     "genehmigung-der-heilbehandlung",
     "haftpflichtversicherung",
     "jahresbericht",
+    "neu",
     "schenkung",
     "schlussbericht",
     "sterbehilfe",
@@ -13325,7 +13328,8 @@
     "grundstück",
     "heimmitarbeiter-als-betreuer",
     "meldepflicht",
-    "verbraucherstreitbeilegung"
+    "verbraucherstreitbeilegung",
+    "zwangsvollstreckung"
   ],
   "bundesplattform": [
     "betreutes-wohnen"
@@ -17196,6 +17200,7 @@
     "mahnverfahren",
     "prozessfähigkeit",
     "prozesspfleger",
+    "rechtsanwalt",
     "verfahrensfähigkeit"
   ],
   "freiem": [
@@ -19157,6 +19162,7 @@
     "neu",
     "neu",
     "neu",
+    "neu",
     "organspende"
   ],
   "bundesdatenschutzgesetz": [
@@ -19253,6 +19259,9 @@
     "zweites-betreuungsrechtsänderungsgesetz"
   ],
   "dezember": [
+    "neu"
+  ],
+  "starug": [
     "neu"
   ],
   "aufwandspauschalen": [
@@ -19672,7 +19681,6 @@
   ],
   "zugangsrecht": [
     "persönliche-betreuung",
-    "rechtsanwalt",
     "rechtsverkehr-in-deutschland",
     "umgangsbestimmung"
   ],
@@ -21694,7 +21702,8 @@
   ],
   "grundstück": [
     "verhältnismäßigkeitsprinzip",
-    "vermögenssorge"
+    "vermögenssorge",
+    "zwangsvollstreckung"
   ],
   "endet": [
     "verlängerung-der-betreuung"
