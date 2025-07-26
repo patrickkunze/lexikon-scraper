@@ -496,6 +496,7 @@
     "genehmigung-der-heilbehandlung",
     "genehmigung-der-heilbehandlung",
     "genehmigungspflichten",
+    "genehmigungspflichten",
     "gerichtsbeschluss",
     "gesetzestexte",
     "gesetzestexte",
@@ -5721,8 +5722,7 @@
     "unterstützungspflicht",
     "vermögensverzeichnis",
     "vertretung-gegenüber-behörden",
-    "widerspruchsrecht",
-    "zugangsrecht"
+    "widerspruchsrecht"
   ],
   "behörden": [
     "amtsermittlungspflicht",
@@ -6706,6 +6706,7 @@
     "datenschutz",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "genehmigung-der-heilbehandlung",
+    "genehmigungspflichten",
     "gerichtskosten",
     "haager-übereinkommen",
     "hauptseite",
@@ -7464,6 +7465,7 @@
     "genehmigungspflichten",
     "genehmigungspflichten",
     "genehmigungspflichten",
+    "genehmigungspflichten",
     "gesetzestexte",
     "gesetzestexte",
     "gesetzestexte",
@@ -7863,7 +7865,6 @@
   ],
   "beeinträchtigung": [
     "anregung-der-betreuerbestellung",
-    "persönliche-betreuung",
     "tierschutz",
     "unterbringungsähnliche-maßnahme",
     "unterstützte-kommunikation"
@@ -11829,11 +11830,14 @@
   ],
   "genehmigungspflichten": [
     "bestattungsvertrag",
+    "elektronisches-gerichts--und-verwaltungspostfach",
     "genehmigungen",
     "genehmigungen-von-a-bis-z",
+    "persönliche-betreuung",
     "vollmachtswiderruf",
     "vormundschaftsgericht",
-    "wohnungsauflösung"
+    "wohnungsauflösung",
+    "zugangsrecht"
   ],
   "eulberg": [
     "bestattungsvertrag",
@@ -11916,7 +11920,6 @@
     "betreuerausweis",
     "betreuerausweis",
     "elektronischer-identitätsnachweis",
-    "elektronisches-gerichts--und-verwaltungspostfach",
     "gerichtsbeschluss",
     "personalausweis",
     "rechtsverkehr-in-deutschland"
@@ -17065,6 +17068,12 @@
     "genehmigungspflichten"
   ],
   "beteiligung": [
+    "genehmigungspflichten"
+  ],
+  "würde": [
+    "genehmigungspflichten"
+  ],
+  "innengenehmigung": [
     "genehmigungspflichten"
   ],
   "rechtsgeschäfts": [
