@@ -4827,6 +4827,7 @@
     "grundrechte",
     "heilbehandlung",
     "heilbehandlung",
+    "mdk-gutachten",
     "mahnverfahren",
     "meldepflicht",
     "natürlicher-wille",
@@ -8453,6 +8454,7 @@
     "arztzeugnis",
     "betreuervorschlag",
     "elektronische-patientenakte",
+    "mdk-gutachten",
     "mdk-gutachten",
     "medizinische-begriffe",
     "pflegeversicherung"
@@ -18818,6 +18820,15 @@
     "mdk-gutachten"
   ],
   "wirken": [
+    "mdk-gutachten"
+  ],
+  "sogenannten": [
+    "mdk-gutachten"
+  ],
+  "heimnotwendigkeitsbescheinigung": [
+    "mdk-gutachten"
+  ],
+  "bestätigt": [
     "mdk-gutachten"
   ],
   "dienstes": [
