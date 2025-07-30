@@ -952,6 +952,7 @@
     "diskriminierungsverbot",
     "drittes-betreuungsrechtsänderungsgesetz",
     "ehefähigkeit",
+    "ehefähigkeit",
     "eherecht-und-betreuung",
     "eherecht-und-betreuung",
     "einverständniserklärung",
@@ -1528,7 +1529,6 @@
     "datenschutz",
     "diskriminierungsverbot",
     "eherecht-und-betreuung",
-    "einstweilige-anordnung",
     "erbausschlagung",
     "freier-wille",
     "gerichtsbeschluss",
@@ -1746,6 +1746,7 @@
     "digitale-barrierefreiheit",
     "digitale-barrierefreiheit",
     "digitale-barrierefreiheit",
+    "ehefähigkeit",
     "eingliederungshilfe",
     "eingliederungshilfe",
     "eingliederungshilfe",
@@ -2575,6 +2576,7 @@
     "datenschutz",
     "datenschutz",
     "datenschutz",
+    "ehefähigkeit",
     "ehefähigkeit",
     "ehefähigkeit",
     "eherecht-und-betreuung",
@@ -5931,18 +5933,23 @@
     "betreuungsrichter",
     "betreuungssache",
     "diskriminierungsverbot",
+    "einstweilige-anordnung",
     "rechtsanwalt"
   ],
-  "informationspflicht": [
+  "einstweilige": [
     "amtspflichtverletzung",
-    "beratung",
-    "gesetzlicher-vertreter",
-    "informationspflicht",
-    "mitteilungspflicht",
-    "schweigepflicht",
-    "verbraucherstreitbeilegung",
-    "vermögensverzeichnis",
-    "widerspruchsrecht"
+    "betreuerwechsel",
+    "betreuungsvoraussetzung",
+    "eilfälle",
+    "einstweilige-anordnung",
+    "einstweilige-anordnung",
+    "familienverfahrensgesetz",
+    "gesetzestexte",
+    "unterbringungsverfahren",
+    "vorläufiger-betreuer",
+    "vorläufiger-betreuer",
+    "vorläufiger-betreuer",
+    "zwangsbehandlung"
   ],
   "achtung": [
     "anfangsbericht",
@@ -8073,6 +8080,7 @@
   ],
   "sache": [
     "anzeigepflicht",
+    "ehefähigkeit",
     "ordre-public",
     "ordre-public"
   ],
@@ -11433,6 +11441,16 @@
   "gerichtsbescheid": [
     "beratung"
   ],
+  "informationspflicht": [
+    "beratung",
+    "gesetzlicher-vertreter",
+    "informationspflicht",
+    "mitteilungspflicht",
+    "schweigepflicht",
+    "verbraucherstreitbeilegung",
+    "vermögensverzeichnis",
+    "widerspruchsrecht"
+  ],
   "klie": [
     "beratung",
     "eingruppierung",
@@ -13291,20 +13309,6 @@
   "dauer": [
     "betreuerwechsel",
     "gerichtsbeschluss"
-  ],
-  "einstweilige": [
-    "betreuerwechsel",
-    "betreuungsvoraussetzung",
-    "eilfälle",
-    "einstweilige-anordnung",
-    "einstweilige-anordnung",
-    "familienverfahrensgesetz",
-    "gesetzestexte",
-    "unterbringungsverfahren",
-    "vorläufiger-betreuer",
-    "vorläufiger-betreuer",
-    "vorläufiger-betreuer",
-    "zwangsbehandlung"
   ],
   "ausfüllen": [
     "betreuerwechsel"
@@ -15469,6 +15473,10 @@
   "männern": [
     "ehefähigkeit"
   ],
+  "kant": [
+    "ehefähigkeit",
+    "freier-wille"
+  ],
   "eherecht": [
     "ehefähigkeit",
     "eherecht",
@@ -16621,9 +16629,6 @@
     "selbstbestimmung",
     "wohnungsangelegenheiten",
     "zweites-betreuungsrechtsänderungsgesetz"
-  ],
-  "kant": [
-    "freier-wille"
   ],
   "freiheit": [
     "freier-wille",
