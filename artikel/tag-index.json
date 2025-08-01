@@ -8700,6 +8700,7 @@
     "pflicht-zur-betreuungsübernahme",
     "selbstbestimmung",
     "subsidiaritätsprinzip",
+    "testierfähigkeit",
     "unterstützte-kommunikation",
     "vulnerabilität"
   ],
@@ -10009,6 +10010,7 @@
     "einwilligungsvorbehalt",
     "geschäftsfähigkeit",
     "subsidiaritätsprinzip",
+    "testierfähigkeit",
     "unterstützte-kommunikation",
     "verband-freiberuflicher-betreuer",
     "vulnerabilität"
@@ -11210,7 +11212,8 @@
     "behördenbetreuer",
     "betreuerwechsel",
     "betreuungsbehörde",
-    "haftpflichtversicherung"
+    "haftpflichtversicherung",
+    "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "status": [
     "behördenbetreuer"
@@ -14148,6 +14151,7 @@
     "betreuungsverfügung",
     "eherecht-und-betreuung",
     "intellektuelle-beeinträchtigung",
+    "testierfähigkeit",
     "unterstützte-kommunikation"
   ],
   "blaß": [
@@ -15388,7 +15392,8 @@
     "ehefähigkeit",
     "eherecht-und-betreuung",
     "sterilisation",
-    "sterilisationsbetreuer"
+    "sterilisationsbetreuer",
+    "testierfähigkeit"
   ],
   "einsichtsfähigkeit": [
     "ehefähigkeit"
@@ -16234,7 +16239,6 @@
     "insichgeschäft",
     "regress-der-staatskasse",
     "schenkung",
-    "testierfähigkeit",
     "tod-des-betreuers",
     "tod-des-betreuten",
     "tod-des-betreuten"
@@ -16251,7 +16255,6 @@
     "erbschaft",
     "grundrechte",
     "kindschaftsrecht",
-    "testierfähigkeit",
     "vaterschaftsanerkennung"
   ],
   "rechtsfragen": [
@@ -17657,7 +17660,6 @@
   "selbstverwaltungserklärung": [
     "girokonto",
     "persönliches-budget",
-    "selbstverwaltung-der-deutschen-gemeinden",
     "verfügungsgeld"
   ],
   "abhebungen": [
@@ -19080,7 +19082,6 @@
   ],
   "bestattungsvertrag": [
     "mittellosigkeit",
-    "testierfähigkeit",
     "tod-des-betreuten"
   ],
   "teilen": [
