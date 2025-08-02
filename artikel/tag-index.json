@@ -656,7 +656,6 @@
     "synopse-patientenverfügungsgesetze",
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "tandembetreuung",
-    "testierfähigkeit",
     "tierschutz",
     "tierschutz",
     "tod-des-betreuten",
@@ -14889,7 +14888,8 @@
     "intellektuelle-beeinträchtigung",
     "mdk-gutachten",
     "peg-sonde",
-    "prozessfähigkeit"
+    "prozessfähigkeit",
+    "testierfähigkeit"
   ],
   "rechtsmittel": [
     "corona",
