@@ -846,6 +846,7 @@
     "ordre-public",
     "personalausweis",
     "prozessführung",
+    "prozessführung",
     "psychisch-kranken-gesetz",
     "rechtsmittel",
     "rechtsprechung-zum-verfahrenspfleger",
@@ -3630,6 +3631,7 @@
     "neu",
     "neu",
     "neu",
+    "neu",
     "personalausweis",
     "rechtspfleger",
     "selbstverwaltung-der-deutschen-gemeinden",
@@ -5688,8 +5690,10 @@
     "neu",
     "neu",
     "neu",
+    "neu",
     "ordre-public",
     "ordre-public",
+    "prozessführung",
     "selbstverwaltung-der-deutschen-gemeinden",
     "sterilisation",
     "unterstützungspflicht",
@@ -6675,6 +6679,7 @@
     "genehmigungspflichten",
     "haager-übereinkommen",
     "hauptseite",
+    "prozessführung",
     "schlussbericht"
   ],
   "enthält": [
@@ -8112,6 +8117,7 @@
   "sollen": [
     "anzeigepflicht",
     "kindschaftsrecht",
+    "neu",
     "selbstbestimmung",
     "wahlrecht"
   ],
@@ -9988,7 +9994,6 @@
     "beratung",
     "bundesteilhabegesetz",
     "egh",
-    "eingliederungshilfe",
     "eingliederungshilfe",
     "geheimhaltungspflicht",
     "globales-nachhaltigkeitsziel-10",
@@ -15658,7 +15663,10 @@
     "haftpflichtversicherung",
     "neu"
   ],
-  "rosenow": [
+  "düwell": [
+    "eingliederungshilfe"
+  ],
+  "lehr": [
     "eingliederungshilfe"
   ],
   "unterstützte": [
@@ -19346,6 +19354,12 @@
   "richtlinie": [
     "neu"
   ],
+  "prozessakten": [
+    "neu"
+  ],
+  "sozialgerichte": [
+    "neu"
+  ],
   "bestandsbetreuers": [
     "neu"
   ],
@@ -19849,6 +19863,12 @@
     "strafprozess",
     "strafprozess",
     "strafprozess"
+  ],
+  "eakte": [
+    "prozessführung"
+  ],
+  "zunehmenden": [
+    "prozessführung"
   ],
   "prinz": [
     "prozessführung"
