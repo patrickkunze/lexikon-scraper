@@ -1276,6 +1276,7 @@
     "prozessführung",
     "prozessführung",
     "prozessführung",
+    "prozessführung",
     "psychisch-kranken-gesetz",
     "rechnungslegung",
     "rechnungslegung",
@@ -2102,7 +2103,6 @@
     "abschlussbericht",
     "ausbildung",
     "bayern",
-    "betreuerpflichten",
     "betreuungsverein",
     "betreuungsverein",
     "betreuungsverein",
@@ -3291,6 +3291,7 @@
   ],
   "akteneinsicht": [
     "akteneinsicht",
+    "prozessführung",
     "psychisch-kranken-gesetz"
   ],
   "betreuung": [
@@ -5258,6 +5259,7 @@
     "genehmigungspflichten",
     "genehmigungspflichten",
     "heilbehandlung",
+    "prozessführung",
     "rente",
     "sachkundenachweis",
     "sozialhilfe",
@@ -5694,6 +5696,7 @@
     "ordre-public",
     "ordre-public",
     "prozessführung",
+    "prozessführung",
     "selbstverwaltung-der-deutschen-gemeinden",
     "sterilisation",
     "unterstützungspflicht",
@@ -5967,6 +5970,7 @@
     "beaufsichtigung",
     "betreuer-(ehrenamt)",
     "betreuerausweis",
+    "betreuerpflichten",
     "betreuerwechsel",
     "betreuungsbehörde",
     "betreuungsgericht",
@@ -6374,7 +6378,6 @@
   "behindertenkonvention": [
     "anfangsgespräch",
     "betreuungsverein",
-    "betreuungsverfahren",
     "globales-nachhaltigkeitsziel-10",
     "haager-übereinkommen",
     "inklusionsbetrieb",
@@ -9872,6 +9875,7 @@
   ],
   "ausschließlichkeitserklärung": [
     "ausschließlichkeitserklärung",
+    "elektronisches-gerichts--und-verwaltungspostfach",
     "verfahrensfähigkeit"
   ],
   "hintergrund": [
@@ -14100,6 +14104,17 @@
     "unterbringungsverfahren",
     "vermögensverzeichnis"
   ],
+  "prozessführung": [
+    "betreuungsverfahren",
+    "gerichtsverfahren",
+    "gesetzliche-vertretung",
+    "gesetzlicher-vertreter",
+    "mahnverfahren",
+    "prozessfähigkeit",
+    "prozesspfleger",
+    "rechtsanwalt",
+    "verfahrensfähigkeit"
+  ],
   "betreuungsanordnung": [
     "betreuungsverfahren",
     "betreuungsvoraussetzung"
@@ -14376,7 +14391,6 @@
   ],
   "gerichtskosten": [
     "bezirksrevisor",
-    "elektronisches-gerichts--und-verwaltungspostfach",
     "gerichtskosten",
     "kontrollbetreuer",
     "kosten"
@@ -17228,16 +17242,6 @@
   "streitigen": [
     "gerichtskosten"
   ],
-  "prozessführung": [
-    "gerichtsverfahren",
-    "gesetzliche-vertretung",
-    "gesetzlicher-vertreter",
-    "mahnverfahren",
-    "prozessfähigkeit",
-    "prozesspfleger",
-    "rechtsanwalt",
-    "verfahrensfähigkeit"
-  ],
   "freiem": [
     "geschäftsfähigkeit"
   ],
@@ -19796,7 +19800,8 @@
     "prozessfähigkeit"
   ],
   "besonderen": [
-    "prozessfähigkeit"
+    "prozessfähigkeit",
+    "prozessführung"
   ],
   "gerichtsverfahren": [
     "prozessfähigkeit"
