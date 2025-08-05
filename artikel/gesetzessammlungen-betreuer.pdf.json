@@ -16,9 +16,9 @@
   ],
   "zusammenfassung": "Siehe auch\n[Gesetzestexte](gesetzestexte)\n[Buchverzeichnis](buchverzeichnis)\n[Formulare](formulare)\n[Sachkundenachweis](sachkundenachweis)...",
   "verwandteArtikel": [
-    "sachkundenachweis",
-    "formulare",
     "buchverzeichnis",
-    "gesetzestexte"
+    "gesetzestexte",
+    "sachkundenachweis",
+    "formulare"
   ]
 }

@@ -8885,6 +8885,18 @@
     "aufgabenkreis",
     "haager-übereinkommen"
   ],
+  "prozessführung": [
+    "aufgabenkreis",
+    "betreuungsverfahren",
+    "gerichtsverfahren",
+    "gesetzliche-vertretung",
+    "gesetzlicher-vertreter",
+    "mahnverfahren",
+    "prozessfähigkeit",
+    "prozesspfleger",
+    "rechtsanwalt",
+    "verfahrensfähigkeit"
+  ],
   "lütgens": [
     "aufgabenkreis",
     "aufwandspauschale",
@@ -9854,6 +9866,7 @@
   "personalausweis": [
     "ausländer",
     "ausweisrecht",
+    "betreuerausweis",
     "elektronischer-identitätsnachweis",
     "elektronischer-identitätsnachweis",
     "grundrechte",
@@ -12240,6 +12253,31 @@
   "scheckkartenformat": [
     "betreuerausweis"
   ],
+  "elektronischer": [
+    "betreuerausweis",
+    "digitale-barrierefreiheit",
+    "e-rezept",
+    "medikationsplan",
+    "vorsorgeregister",
+    "zugriffsrecht"
+  ],
+  "identitätsnachweis": [
+    "betreuerausweis"
+  ],
+  "elektronisches": [
+    "betreuerausweis",
+    "ebo",
+    "egvp",
+    "formulare",
+    "genehmigungen-von-a-bis-z",
+    "it-sicherheit",
+    "personalausweis",
+    "querschnittsaufgaben",
+    "sachkundenachweis",
+    "software",
+    "vorsorgeregister",
+    "zugriffsrecht"
+  ],
   "abhandengekommende": [
     "betreuerausweis"
   ],
@@ -14104,17 +14142,6 @@
     "unterbringungsverfahren",
     "vermögensverzeichnis"
   ],
-  "prozessführung": [
-    "betreuungsverfahren",
-    "gerichtsverfahren",
-    "gesetzliche-vertretung",
-    "gesetzlicher-vertreter",
-    "mahnverfahren",
-    "prozessfähigkeit",
-    "prozesspfleger",
-    "rechtsanwalt",
-    "verfahrensfähigkeit"
-  ],
   "betreuungsanordnung": [
     "betreuungsverfahren",
     "betreuungsvoraussetzung"
@@ -15201,13 +15228,6 @@
     "digitale-barrierefreiheit",
     "vorsorgevollmacht"
   ],
-  "elektronischer": [
-    "digitale-barrierefreiheit",
-    "e-rezept",
-    "medikationsplan",
-    "vorsorgeregister",
-    "zugriffsrecht"
-  ],
   "plattform": [
     "digitale-barrierefreiheit",
     "schwerbehindertenausweis",
@@ -15385,19 +15405,6 @@
     "interoperabilität",
     "medikationsplan",
     "ordre-public"
-  ],
-  "elektronisches": [
-    "ebo",
-    "egvp",
-    "formulare",
-    "genehmigungen-von-a-bis-z",
-    "it-sicherheit",
-    "personalausweis",
-    "querschnittsaufgaben",
-    "sachkundenachweis",
-    "software",
-    "vorsorgeregister",
-    "zugriffsrecht"
   ],
   "verwaltungspostfach": [
     "ebo",
