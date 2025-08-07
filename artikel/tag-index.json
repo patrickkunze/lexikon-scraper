@@ -4546,6 +4546,7 @@
     "altenheim",
     "ausbildung",
     "buchverzeichnis",
+    "elektronische-patientenakte",
     "geschäftsfähigkeit",
     "geschäftsfähigkeit",
     "geschäftsfähigkeit",
@@ -12253,28 +12254,42 @@
   "scheckkartenformat": [
     "betreuerausweis"
   ],
+  "sicherheit": [
+    "betreuerausweis",
+    "e-rezept",
+    "geheimhaltungspflicht",
+    "gesundheitsdatennutzungsgesetz",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
+    "interoperabilität",
+    "medikationsplan",
+    "ordre-public"
+  ],
+  "datenschutz": [
+    "betreuerausweis",
+    "checkliste-für-arztgespräche",
+    "datenschutz",
+    "datenschutz",
+    "e-rezept",
+    "elektronische-patientenakte",
+    "geheimhaltungspflicht",
+    "gesundheitsdatennutzungsgesetz",
+    "gewaltschutzanordnung",
+    "medikationsplan",
+    "mitteilungspflicht",
+    "neu",
+    "personalausweis",
+    "schweigepflicht",
+    "vertreterdokumentation"
+  ],
   "elektronischer": [
     "betreuerausweis",
     "digitale-barrierefreiheit",
     "e-rezept",
     "medikationsplan",
-    "vorsorgeregister",
-    "zugriffsrecht"
-  ],
-  "identitätsnachweis": [
-    "betreuerausweis"
-  ],
-  "elektronisches": [
-    "betreuerausweis",
-    "ebo",
-    "egvp",
-    "formulare",
-    "genehmigungen-von-a-bis-z",
-    "it-sicherheit",
-    "personalausweis",
-    "querschnittsaufgaben",
-    "sachkundenachweis",
-    "software",
     "vorsorgeregister",
     "zugriffsrecht"
   ],
@@ -14818,22 +14833,6 @@
     "checkliste-für-arztgespräche",
     "gesundheitssorge"
   ],
-  "datenschutz": [
-    "checkliste-für-arztgespräche",
-    "datenschutz",
-    "datenschutz",
-    "e-rezept",
-    "elektronische-patientenakte",
-    "geheimhaltungspflicht",
-    "gesundheitsdatennutzungsgesetz",
-    "gewaltschutzanordnung",
-    "medikationsplan",
-    "mitteilungspflicht",
-    "neu",
-    "personalausweis",
-    "schweigepflicht",
-    "vertreterdokumentation"
-  ],
   "ärztlichen": [
     "checkliste-für-arztgespräche"
   ],
@@ -15393,18 +15392,18 @@
     "elektronischer-identitätsnachweis",
     "neu"
   ],
-  "sicherheit": [
-    "e-rezept",
-    "geheimhaltungspflicht",
-    "gesundheitsdatennutzungsgesetz",
+  "elektronisches": [
+    "ebo",
+    "egvp",
+    "formulare",
+    "genehmigungen-von-a-bis-z",
     "it-sicherheit",
-    "it-sicherheit",
-    "it-sicherheit",
-    "it-sicherheit",
-    "it-sicherheit",
-    "interoperabilität",
-    "medikationsplan",
-    "ordre-public"
+    "personalausweis",
+    "querschnittsaufgaben",
+    "sachkundenachweis",
+    "software",
+    "vorsorgeregister",
+    "zugriffsrecht"
   ],
   "verwaltungspostfach": [
     "ebo",
@@ -15995,6 +15994,18 @@
     "medikationsplan",
     "neu",
     "zugriffsrecht"
+  ],
+  "einsichtnahme": [
+    "elektronische-patientenakte"
+  ],
+  "erhebliche": [
+    "elektronische-patientenakte"
+  ],
+  "therapeutische": [
+    "elektronische-patientenakte"
+  ],
+  "gründe": [
+    "elektronische-patientenakte"
   ],
   "vortrag": [
     "elektronische-patientenakte",
