@@ -4992,7 +4992,8 @@
     "pflegeversicherung",
     "sachverständigengutachten",
     "sachverständigengutachten",
-    "unterbringungsähnliche-maßnahme"
+    "unterbringungsähnliche-maßnahme",
+    "verbraucherstreitbeilegung"
   ],
   "selbstbestimmung": [
     "altenheim",
@@ -8402,6 +8403,7 @@
     "attest",
     "checkliste-für-arztgespräche",
     "dokumentationspflicht",
+    "medizinische-begriffe",
     "rechtsprechung-zum-sachverständigengutachten",
     "sachverständigengutachten",
     "ärztliches-zeugnis"
@@ -8422,6 +8424,7 @@
     "freibetrag",
     "genehmigung-der-heilbehandlung",
     "gutachten",
+    "medizinische-begriffe",
     "rechtsprechung-zum-sachverständigengutachten",
     "sachverständigengutachten"
   ],
@@ -8479,6 +8482,7 @@
     "elektronische-patientenakte",
     "mdk-gutachten",
     "mdk-gutachten",
+    "mdk-gutachten",
     "medizinische-begriffe",
     "pflegeversicherung"
   ],
@@ -8489,7 +8493,7 @@
   ],
   "begriffe": [
     "arztzeugnis",
-    "medizinische-begriffe",
+    "mdk-gutachten",
     "medizinische-begriffe",
     "pflegeversicherung"
   ],
@@ -11137,7 +11141,6 @@
     "elektronische-patientenakte",
     "globales-nachhaltigkeitsziel-10",
     "heilbehandlung",
-    "mdk-gutachten",
     "neu"
   ],
   "heilbehandlung": [
@@ -11474,7 +11477,6 @@
     "informationspflicht",
     "mitteilungspflicht",
     "schweigepflicht",
-    "verbraucherstreitbeilegung",
     "vermögensverzeichnis",
     "widerspruchsrecht"
   ],
@@ -11565,8 +11567,7 @@
     "berufsbetreuer",
     "krankenversicherung",
     "krankenversicherung",
-    "krankenversicherung",
-    "mdk-gutachten"
+    "krankenversicherung"
   ],
   "ausscheiden": [
     "berufsbetreuer"
@@ -18805,6 +18806,7 @@
   "pflegeversicherung": [
     "krankenversicherung",
     "mdk-gutachten",
+    "medizinische-begriffe",
     "neu",
     "pflegebedürftigkeit",
     "pflegeversicherung",
@@ -18974,12 +18976,6 @@
     "medizinische-begriffe"
   ],
   "parkinson": [
-    "medizinische-begriffe"
-  ],
-  "glossar": [
-    "medizinische-begriffe"
-  ],
-  "medizinischer": [
     "medizinische-begriffe"
   ],
   "ummelden": [
