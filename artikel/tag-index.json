@@ -7890,6 +7890,7 @@
     "gesetzestexte",
     "intellektuelle-beeinträchtigung",
     "krankenhaussozialdienst",
+    "persönliche-betreuung",
     "rechtsverkehr-in-deutschland",
     "unterstützte-entscheidungsfindung",
     "verlängerung-der-betreuung",
@@ -7914,7 +7915,6 @@
   "intellektuelle": [
     "anregung-der-betreuerbestellung",
     "ordre-public",
-    "persönliche-betreuung",
     "tierschutz",
     "unterstützte-kommunikation"
   ],

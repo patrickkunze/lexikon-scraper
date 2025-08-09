@@ -133,21 +133,21 @@
   ],
   "zusammenfassung": "Achtung: Beitrag ist an die Rechtslage ab 1.1.2023 angepasst.\n\nHaftpflichtversicherung\n\nWegen der haftungsrechtlichen Folgen von [Betreuerhaftung](betreuerhaftung) des Betreuers (§ 1826 BGB) sollte dieser stets eine Haftpflichtversicherung besitzen, die die Tätigkeit als Betreuer mit abdeckt. Eine n...",
   "verwandteArtikel": [
-    "gesetzlicher-vertreter",
-    "betreuer-(ehrenamt)",
     "amtspflichtverletzung",
-    "finanzamt",
-    "betreuungsbehörde",
-    "betreuungsgericht",
-    "vermögenssorge",
-    "genehmigungspflichten",
-    "betreuungsverein",
-    "betreuerhaftung",
-    "vereinsbetreuer",
     "kategorie:arbeitshilfen",
+    "betreuerhaftung",
+    "betreuer-(ehrenamt)",
+    "betreuungsgericht",
+    "betreuungsbehörde",
+    "betreuungsverein",
     "berufsbetreuer",
-    "aufwendungsersatz",
+    "vereinsbetreuer",
+    "behördenbetreuer",
+    "gesetzlicher-vertreter",
+    "vermögenssorge",
+    "finanzamt",
     "unfallversicherung",
-    "behördenbetreuer"
+    "genehmigungspflichten",
+    "aufwendungsersatz"
   ]
 }
