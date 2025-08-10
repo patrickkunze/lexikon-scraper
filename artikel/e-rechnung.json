@@ -1,0 +1,36 @@
+{
+  "id": "e-rechnung",
+  "titel": "E-Rechnung",
+  "inhalt": "e-Rechnung\nDie e-Rechnung als ein Anwendungsbereich der Telematikinfrastruktur in Deutschland und in der Europäischen Union soll der Verbesserung der Wirtschaftlichkeit, der Qualität und der Transparenz der gesundheitlichen Versorgung der Bevölkerung dienen. Die elektronische Rechnung ist in § 359a SGB V anfänglich [Gesetzgebung](gesetzgebung), bis die erforderlichen Dienste und Komponenten in der Telematikinfrastruktur ausreichend und [IT-Sicherheit](it-sicherheit) zur Verfügung stehen.\n\nSiehe auch\n [Rechnungslegung](rechnungslegung)\n [Schlussrechnung](schlussrechnung)\n [digitale Barrierefreiheit](digitale-barrierefreiheit)",
+  "struktur": [
+    {
+      "titel": "e-Rechnung",
+      "inhalt": "Die e-Rechnung als ein Anwendungsbereich der Telematikinfrastruktur in Deutschland und in der Europäischen Union soll der Verbesserung der Wirtschaftlichkeit, der Qualität und der Transparenz der gesundheitlichen Versorgung der Bevölkerung dienen. Die elektronische Rechnung ist in § 359a SGB V anfänglich gesetzlich geregelt, bis die erforderlichen Dienste und Komponenten in der Telematikinfrastruktur ausreichend und rechtssicher zur Verfügung stehen.",
+      "tags": [
+        "rechnung",
+        "telematikinfrastruktur",
+        "anwendungsbereich",
+        "deutschland",
+        "europäischen"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Rechnungslegung\n Schlussrechnung\n digitale Barrierefreiheit",
+      "tags": [
+        "rechnungslegung",
+        "schlussrechnung",
+        "digitale",
+        "barrierefreiheit"
+      ]
+    }
+  ],
+  "zusammenfassung": "e-Rechnung\nDie e-Rechnung als ein Anwendungsbereich der Telematikinfrastruktur in Deutschland und in der Europäischen Union soll der Verbesserung der Wirtschaftlichkeit, der Qualität und der Transparenz der gesundheitlichen Versorgung der Bevölkerung dienen. Die elektronische Rechnung ist in § 359a ...",
+  "verwandteArtikel": [
+    "rechnungslegung",
+    "digitale-barrierefreiheit",
+    "schlussrechnung",
+    "it-sicherheit",
+    "gesetzgebung"
+  ]
+}

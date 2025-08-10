@@ -49,18 +49,18 @@
   "verwandteArtikel": [
     "rechnungslegung",
     "betreuerwechsel",
-    "kategorie:-betreuungsende",
-    "tod-des-betreuers",
-    "aufgabenbereich",
-    "notgeschäftsführung",
-    "tod-des-betreuten",
+    "ende-der-betreuung",
     "kategorie:berichterstattung",
-    "schlusspflichten",
-    "vermögenssorge",
-    "befreiter-betreuer",
-    "btprax",
+    "tod-des-betreuten",
     "schlussbericht",
+    "tod-des-betreuers",
+    "notgeschäftsführung",
+    "befreiter-betreuer",
     "bild:zeitschrift.jpg",
-    "ende-der-betreuung"
+    "aufgabenbereich",
+    "schlusspflichten",
+    "kategorie:-betreuungsende",
+    "btprax",
+    "vermögenssorge"
   ]
 }

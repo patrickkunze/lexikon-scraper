@@ -801,6 +801,7 @@
     "diskriminierungsverbot",
     "dokumentationspflicht",
     "drittes-betreuungsrechtsänderungsgesetz",
+    "e-rechnung",
     "e-rezept",
     "eingliederungshilfe",
     "einstweilige-anordnung",
@@ -10339,6 +10340,7 @@
   "rechnungslegung": [
     "beaufsichtigung",
     "betreuungsplan",
+    "e-rechnung",
     "gesetzestexte",
     "girokonto",
     "hamburger-mustergliederung",
@@ -12289,7 +12291,6 @@
   "elektronischer": [
     "betreuerausweis",
     "digitale-barrierefreiheit",
-    "e-rezept",
     "medikationsplan",
     "vorsorgeregister",
     "zugriffsrecht"
@@ -15143,6 +15144,7 @@
     "digitale-barrierefreiheit",
     "digitale-barrierefreiheit",
     "digitale-barrierefreiheit",
+    "e-rechnung",
     "e-rezept",
     "formulare",
     "it-sicherheit",
@@ -15235,6 +15237,7 @@
   ],
   "barrierefreiheit": [
     "digitale-barrierefreiheit",
+    "e-rechnung",
     "e-rezept",
     "formulare",
     "it-sicherheit",
@@ -15283,6 +15286,7 @@
   ],
   "europäischen": [
     "diskriminierungsverbot",
+    "e-rechnung",
     "grundrechte",
     "haager-übereinkommen",
     "neu",
@@ -15384,6 +15388,21 @@
   "datei": [
     "drittes-betreuungsrechtsänderungsgesetz"
   ],
+  "rechnung": [
+    "e-rechnung",
+    "gerichtskosten"
+  ],
+  "telematikinfrastruktur": [
+    "e-rechnung",
+    "neu"
+  ],
+  "anwendungsbereich": [
+    "e-rechnung"
+  ],
+  "schlussrechnung": [
+    "e-rechnung",
+    "rechnungslegung"
+  ],
   "arztrezepte": [
     "e-rezept"
   ],
@@ -15392,6 +15411,16 @@
     "e-rezept",
     "elektronischer-identitätsnachweis",
     "neu"
+  ],
+  "interoperabilität": [
+    "e-rezept",
+    "elektronische-patientenakte",
+    "it-sicherheit",
+    "interoperabilität",
+    "interoperabilität",
+    "interoperabilität",
+    "krankenversicherung",
+    "patientenverfügung"
   ],
   "elektronisches": [
     "ebo",
@@ -16017,15 +16046,6 @@
   ],
   "streit": [
     "elektronische-patientenakte"
-  ],
-  "interoperabilität": [
-    "elektronische-patientenakte",
-    "it-sicherheit",
-    "interoperabilität",
-    "interoperabilität",
-    "interoperabilität",
-    "krankenversicherung",
-    "patientenverfügung"
   ],
   "leistet": [
     "elektronischer-identitätsnachweis"
@@ -17170,9 +17190,6 @@
     "gerichtskosten"
   ],
   "gegenstandswert": [
-    "gerichtskosten"
-  ],
-  "rechnung": [
     "gerichtskosten"
   ],
   "gnotkg": [
@@ -19360,9 +19377,6 @@
     "vorsorgeregister",
     "vorsorgeregisterverordnung"
   ],
-  "telematikinfrastruktur": [
-    "neu"
-  ],
   "arbeitet": [
     "neu"
   ],
@@ -20032,9 +20046,6 @@
     "rechnungslegung"
   ],
   "befreiungsvorschriften": [
-    "rechnungslegung"
-  ],
-  "schlussrechnung": [
     "rechnungslegung"
   ],
   "konto": [
