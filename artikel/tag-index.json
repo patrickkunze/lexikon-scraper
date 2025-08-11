@@ -1809,6 +1809,7 @@
     "geschäftsfähigkeit",
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
+    "it-sicherheit",
     "krankenhaussozialdienst",
     "mitteilungspflicht",
     "mündelgeld",
@@ -8404,6 +8405,7 @@
     "attest",
     "checkliste-für-arztgespräche",
     "dokumentationspflicht",
+    "e-rechnung",
     "medizinische-begriffe",
     "rechtsprechung-zum-sachverständigengutachten",
     "sachverständigengutachten",
@@ -11711,6 +11713,7 @@
   ],
   "software": [
     "berufsbetreuer",
+    "e-rechnung",
     "elektronischer-identitätsnachweis",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "formulare",
@@ -12267,7 +12270,6 @@
     "it-sicherheit",
     "it-sicherheit",
     "it-sicherheit",
-    "interoperabilität",
     "medikationsplan",
     "ordre-public"
   ],
@@ -14833,6 +14835,7 @@
   ],
   "medikationsplan": [
     "checkliste-für-arztgespräche",
+    "e-rechnung",
     "gesundheitssorge"
   ],
   "ärztlichen": [
@@ -15144,7 +15147,6 @@
     "digitale-barrierefreiheit",
     "digitale-barrierefreiheit",
     "digitale-barrierefreiheit",
-    "e-rechnung",
     "e-rezept",
     "formulare",
     "it-sicherheit",
@@ -15237,7 +15239,6 @@
   ],
   "barrierefreiheit": [
     "digitale-barrierefreiheit",
-    "e-rechnung",
     "e-rezept",
     "formulare",
     "it-sicherheit",
@@ -15289,6 +15290,7 @@
     "e-rechnung",
     "grundrechte",
     "haager-übereinkommen",
+    "it-sicherheit",
     "neu",
     "subsidiaritätsprinzip",
     "unterstützungspflicht",
@@ -15390,7 +15392,8 @@
   ],
   "rechnung": [
     "e-rechnung",
-    "gerichtskosten"
+    "gerichtskosten",
+    "interoperabilität"
   ],
   "telematikinfrastruktur": [
     "e-rechnung",
@@ -18319,6 +18322,16 @@
     "krankenversicherung",
     "rechtsverkehr-in-deutschland"
   ],
+  "richtlinie": [
+    "it-sicherheit",
+    "neu"
+  ],
+  "vorgabe": [
+    "it-sicherheit"
+  ],
+  "entsprechendes": [
+    "it-sicherheit"
+  ],
   "bundesamt": [
     "it-sicherheit"
   ],
@@ -19381,9 +19394,6 @@
     "neu"
   ],
   "irland": [
-    "neu"
-  ],
-  "richtlinie": [
     "neu"
   ],
   "prozessakten": [
