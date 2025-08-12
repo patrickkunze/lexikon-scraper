@@ -1005,6 +1005,7 @@
     "mündelgeld",
     "mündelgeld",
     "neu",
+    "nutzungspflicht",
     "ordre-public",
     "organspende",
     "peg-sonde",
@@ -2446,6 +2447,7 @@
     "interoperabilität",
     "kindschaftsrecht",
     "kindschaftsrecht",
+    "nutzungspflicht",
     "personalausweis",
     "personalausweis",
     "persönliches-budget",
@@ -3635,6 +3637,7 @@
     "neu",
     "neu",
     "neu",
+    "nutzungspflicht",
     "personalausweis",
     "rechtspfleger",
     "selbstverwaltung-der-deutschen-gemeinden",
@@ -3813,6 +3816,7 @@
     "meldepflicht",
     "mündelgeld",
     "neu",
+    "nutzungspflicht",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "persönliche-betreuung",
@@ -4935,6 +4939,7 @@
     "grundrechte",
     "grundrechte",
     "krankenversicherung",
+    "nutzungspflicht",
     "prozessfähigkeit",
     "rechnungslegung",
     "vermögensverzeichnis",
@@ -5766,7 +5771,8 @@
     "amtsermittlungspflicht",
     "mitteilungspflicht",
     "mittellosigkeit",
-    "mitwirkungspflicht"
+    "mitwirkungspflicht",
+    "nutzungspflicht"
   ],
   "vertretung": [
     "amtsermittlungspflicht",
@@ -5829,6 +5835,7 @@
     "amtsermittlungspflicht",
     "behördenangelegenheiten",
     "eingruppierung",
+    "nutzungspflicht",
     "rente",
     "schwerbehindertenausweis",
     "strafprozess",
@@ -6306,6 +6313,7 @@
     "haftpflichtversicherung",
     "krankenversicherung",
     "meldepflicht",
+    "nutzungspflicht",
     "psychisch-kranken-gesetz",
     "querschnittsaufgaben",
     "registrierung",
@@ -7064,6 +7072,7 @@
     "ebo",
     "egvp",
     "elektronisches-gerichts--und-verwaltungspostfach",
+    "nutzungspflicht",
     "personalausweis",
     "prozessführung",
     "querschnittsaufgaben",
@@ -8141,6 +8150,7 @@
     "aufhebung-der-betreuung",
     "bestellung-mehrerer-betreuer",
     "girokonto",
+    "nutzungspflicht",
     "wohnungsangelegenheiten"
   ],
   "unterstützungspflicht": [
@@ -9806,7 +9816,8 @@
   ],
   "juristische": [
     "ausländer",
-    "einwilligungsvorbehalt"
+    "einwilligungsvorbehalt",
+    "nutzungspflicht"
   ],
   "haager": [
     "ausländer",
@@ -12678,8 +12689,7 @@
   ],
   "waffenfund": [
     "betreuerpflichten",
-    "erziehungsmaßregeln",
-    "mitteilungspflicht"
+    "erziehungsmaßregeln"
   ],
   "tierschutz": [
     "betreuerpflichten"
@@ -15431,6 +15441,7 @@
     "formulare",
     "genehmigungen-von-a-bis-z",
     "it-sicherheit",
+    "nutzungspflicht",
     "personalausweis",
     "querschnittsaufgaben",
     "sachkundenachweis",
@@ -15441,6 +15452,7 @@
   "verwaltungspostfach": [
     "ebo",
     "egvp",
+    "nutzungspflicht",
     "sachkundenachweis",
     "software",
     "zugriffsrecht"
@@ -16071,6 +16083,7 @@
   "nutzung": [
     "elektronischer-identitätsnachweis",
     "gesundheitsdatennutzungsgesetz",
+    "nutzungspflicht",
     "online-lexikon-betreuungsrecht:datenschutz",
     "personalausweis"
   ],
@@ -19086,6 +19099,9 @@
   "mitzuteilen": [
     "mitteilungspflicht"
   ],
+  "nutzungspflicht": [
+    "mitteilungspflicht"
+  ],
   "anschluss": [
     "mittellosigkeit"
   ],
@@ -19410,6 +19426,10 @@
   ],
   "test": [
     "neu"
+  ],
+  "rechtsanwälte": [
+    "nutzungspflicht",
+    "rechtsanwalt"
   ],
   "folgenden": [
     "online-lexikon-betreuungsrecht:datenschutz",
@@ -20081,9 +20101,6 @@
   ],
   "bankgeschäfte": [
     "rechnungslegung"
-  ],
-  "rechtsanwälte": [
-    "rechtsanwalt"
   ],
   "spielen": [
     "rechtsanwalt"
