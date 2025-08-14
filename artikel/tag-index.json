@@ -7571,6 +7571,7 @@
   "vermögensverzeichnis": [
     "anlagegeld",
     "betreuungsplan",
+    "e-rechnung",
     "gesetzestexte",
     "grundstück",
     "mündelgeld",
@@ -8415,7 +8416,6 @@
     "attest",
     "checkliste-für-arztgespräche",
     "dokumentationspflicht",
-    "e-rechnung",
     "medizinische-begriffe",
     "rechtsprechung-zum-sachverständigengutachten",
     "sachverständigengutachten",
@@ -12274,7 +12274,6 @@
   "sicherheit": [
     "betreuerausweis",
     "e-rezept",
-    "geheimhaltungspflicht",
     "gesundheitsdatennutzungsgesetz",
     "it-sicherheit",
     "it-sicherheit",
@@ -16804,6 +16803,10 @@
   "erfassten": [
     "geheimhaltungspflicht"
   ],
+  "nutzungspflicht": [
+    "geheimhaltungspflicht",
+    "mitteilungspflicht"
+  ],
   "nachstehende": [
     "geldanlage",
     "mündelgeld"
@@ -19097,9 +19100,6 @@
     "sachkundenachweis"
   ],
   "mitzuteilen": [
-    "mitteilungspflicht"
-  ],
-  "nutzungspflicht": [
     "mitteilungspflicht"
   ],
   "anschluss": [

@@ -1,7 +1,7 @@
 {
   "id": "nutzungspflicht",
   "titel": "Nutzungspflicht",
-  "inhalt": "Allgemeines\nUnter einer Nutzung wird im marktwirtschaftlichen Rechtssystem die Verwendung verstanden von in Eigentum stehenden Sachen oder Systemen zum Eigengebrauch oder zur wirtschaftlichen Gewinnerzielung. Ein sogenannter Nutznießer (im „[Neu](neu)land“: „user“) besitzt alle Vorteile des Eigentums, darf jedoch die Substanz des Nutzungsgegenstands nicht antasten oder verringern (vergleiche: § 100 BGB).\n\nDie Verpflichtung des Eigentümers oder der Eigentümerin in Deutschland zur gemeinwohlorientierten Nutzung ist in Art. 14 Abs. 2 GG verfassungsrechtlich normiert.\n\nIm Sozialistischen Recht (z.B. in der ehemaligen DDR) waren oder wären im Idealfall alle „Volksgenossen“ aufgrund ihrer Staatsangehörigkeit (= Genossenschaft?) zur Nutzung des sogenannten „Volkseigentums“ formal gleichberechtigt und -verpflichtet.\n\nNutzungspflicht für elektronische Dokumente beim Sozialgericht\nGemäß § 65d SGG sind [Rechtsanwalt](rechtsanwalt), Behörden und juristische Personen des öffentlichen Rechts zur Nutzung von elektronischen Dokumenten verpflichtet, wenn sie vorbereitende Schriftsätze und deren Anlagen sowie schriftlich einzureichende Anträge und Erklärungen beim Sozialgericht einreichen wollen. Gleiches gilt u.U. für [gesetzlicher Vertreter](gesetzlicher-vertreter). Begründete Ausnahmen von dieser neuen Nutzungspflicht sind derzeit aus Gründen der „usability“ für zahlreiche Betroffene noch zulässig.\n\nSiehe auch\n [Mitwirkungspflicht](mitwirkungspflicht)\n [Mitteilungspflicht](mitteilungspflicht)\n [elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach)",
+  "inhalt": "Allgemeines\nUnter einer Nutzung wird im marktwirtschaftlichen Rechtssystem die Verwendung verstanden von in Eigentum stehenden Sachen oder Systemen zum Eigengebrauch oder zur wirtschaftlichen Gewinnerzielung. Ein sogenannter Nutznießer (im „[Neu](neu)land“: „user“) besitzt alle Vorteile des Eigentums, darf jedoch die Substanz des Nutzungsgegenstands nicht antasten oder verringern (vergleiche: § 100 BGB).\n\nDie Verpflichtung des Eigentümers oder der Eigentümerin in Deutschland zur gemeinwohlorientierten Nutzung ist in Art. 14 Abs. 2 GG verfassungsrechtlich normiert.\n\nIm Sozialistischen Recht (z.B. in der ehemaligen DDR) waren oder wären im Idealfall alle „Volksgenossen“ aufgrund ihrer Staatsangehörigkeit (= Genossenschaft?) zur Nutzung des sogenannten „Volkseigentums“ formal gleichberechtigt und -verpflichtet.\n\nNutzungspflicht für elektronische Dokumente beim Sozialgericht\nGemäß § 65d SGG sind [Rechtsanwalt](rechtsanwalt), Behörden und juristische Personen des öffentlichen Rechts zur Nutzung von elektronischen Dokumenten verpflichtet, wenn sie vorbereitende Schriftsätze und deren Anlagen sowie schriftlich einzureichende Anträge und Erklärungen beim Sozialgericht einreichen wollen. Gleiches gilt u.U. für [gesetzlicher Vertreter](gesetzlicher-vertreter). Begründete Ausnahmen von dieser neuen Nutzungspflicht sind derzeit aus Gründen der „usability“ für zahlreiche Betroffene noch zulässig.\n\nSiehe auch\n [Mitwirkungspflicht](mitwirkungspflicht)\n [Mitteilungspflicht](mitteilungspflicht)\n [elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach)\n [Amtspflichtverletzung](amtspflichtverletzung)\n [Schweigepflicht](schweigepflicht)\n [Geheimhaltungspflicht](geheimhaltungspflicht)\n [Gesundheitsdatennutzungsgesetz](gesundheitsdatennutzungsgesetz)",
   "struktur": [
     {
       "titel": "Allgemeines",
@@ -27,7 +27,7 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Mitwirkungspflicht\n Mitteilungspflicht\n elektronisches Gerichts- und Verwaltungspostfach",
+      "inhalt": "Mitwirkungspflicht\n Mitteilungspflicht\n elektronisches Gerichts- und Verwaltungspostfach\n Amtspflichtverletzung\n Schweigepflicht\n Geheimhaltungspflicht\n Gesundheitsdatennutzungsgesetz",
       "tags": [
         "mitwirkungspflicht",
         "mitteilungspflicht",
@@ -39,11 +39,15 @@
   ],
   "zusammenfassung": "Allgemeines\nUnter einer Nutzung wird im marktwirtschaftlichen Rechtssystem die Verwendung verstanden von in Eigentum stehenden Sachen oder Systemen zum Eigengebrauch oder zur wirtschaftlichen Gewinnerzielung. Ein sogenannter Nutznießer (im „[Neu](neu)land“: „user“) besitzt alle Vorteile des Eigentum...",
   "verwandteArtikel": [
-    "mitwirkungspflicht",
-    "gesetzlicher-vertreter",
-    "neu",
-    "rechtsanwalt",
     "elektronisches-gerichts--und-verwaltungspostfach",
-    "mitteilungspflicht"
+    "mitwirkungspflicht",
+    "neu",
+    "gesundheitsdatennutzungsgesetz",
+    "amtspflichtverletzung",
+    "mitteilungspflicht",
+    "geheimhaltungspflicht",
+    "schweigepflicht",
+    "gesetzlicher-vertreter",
+    "rechtsanwalt"
   ]
 }
