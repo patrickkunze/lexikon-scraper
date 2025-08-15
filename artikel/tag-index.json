@@ -844,6 +844,7 @@
     "neu",
     "neu",
     "neu",
+    "nutzungspflicht",
     "ordre-public",
     "personalausweis",
     "prozessführung",
@@ -868,6 +869,7 @@
     "wahlrecht",
     "widerspruchsrecht",
     "wohn--und-betreuungsvertragsgesetz",
+    "zugangsrecht",
     "zugangsrecht",
     "zugangsrecht"
   ],
@@ -1116,6 +1118,7 @@
     "wohnungsauflösung",
     "wohnungsauflösung",
     "zuführung-zur-unterbringung",
+    "zugangsrecht",
     "zwangsbehandlung",
     "zwangsbehandlung",
     "zwangsbehandlung",
@@ -3648,6 +3651,7 @@
     "vollmachtswiderruf",
     "wahlrecht",
     "zugangsrecht",
+    "zugangsrecht",
     "zugangsrecht"
   ],
   "dies": [
@@ -5835,7 +5839,6 @@
     "amtsermittlungspflicht",
     "behördenangelegenheiten",
     "eingruppierung",
-    "nutzungspflicht",
     "rente",
     "schwerbehindertenausweis",
     "strafprozess",
@@ -9816,8 +9819,7 @@
   ],
   "juristische": [
     "ausländer",
-    "einwilligungsvorbehalt",
-    "nutzungspflicht"
+    "einwilligungsvorbehalt"
   ],
   "haager": [
     "ausländer",
@@ -11725,7 +11727,6 @@
   "software": [
     "berufsbetreuer",
     "e-rechnung",
-    "elektronischer-identitätsnachweis",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "formulare",
     "it-sicherheit",
@@ -14844,7 +14845,7 @@
   ],
   "medikationsplan": [
     "checkliste-für-arztgespräche",
-    "e-rechnung",
+    "elektronischer-identitätsnachweis",
     "gesundheitssorge"
   ],
   "ärztlichen": [
@@ -15415,6 +15416,11 @@
     "e-rechnung",
     "rechnungslegung"
   ],
+  "nutzungspflicht": [
+    "e-rechnung",
+    "geheimhaltungspflicht",
+    "mitteilungspflicht"
+  ],
   "arztrezepte": [
     "e-rezept"
   ],
@@ -15603,6 +15609,7 @@
   "zulässig": [
     "eherecht-und-betreuung",
     "gesetzliche-vertretung",
+    "nutzungspflicht",
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz",
     "verfügungsgeld"
@@ -16802,10 +16809,6 @@
   ],
   "erfassten": [
     "geheimhaltungspflicht"
-  ],
-  "nutzungspflicht": [
-    "geheimhaltungspflicht",
-    "mitteilungspflicht"
   ],
   "nachstehende": [
     "geldanlage",
@@ -19427,9 +19430,9 @@
   "test": [
     "neu"
   ],
-  "rechtsanwälte": [
+  "urhg": [
     "nutzungspflicht",
-    "rechtsanwalt"
+    "zugangsrecht"
   ],
   "folgenden": [
     "online-lexikon-betreuungsrecht:datenschutz",
@@ -20101,6 +20104,9 @@
   ],
   "bankgeschäfte": [
     "rechnungslegung"
+  ],
+  "rechtsanwälte": [
+    "rechtsanwalt"
   ],
   "spielen": [
     "rechtsanwalt"
@@ -22437,6 +22443,9 @@
     "zugangsrecht"
   ],
   "nutzer": [
+    "zugangsrecht"
+  ],
+  "werken": [
     "zugangsrecht"
   ],
   "zugriff": [

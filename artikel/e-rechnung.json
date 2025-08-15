@@ -1,7 +1,7 @@
 {
   "id": "e-rechnung",
   "titel": "E-Rechnung",
-  "inhalt": "e-Rechnung\nDie e-Rechnung als ein Anwendungsbereich der Telematikinfrastruktur in Deutschland und in der Europäischen Union soll der Verbesserung der Wirtschaftlichkeit, der Qualität und der Transparenz der gesundheitlichen Versorgung der Bevölkerung dienen. Die elektronische Rechnung ist in § 359a SGB V anfänglich [Gesetzgebung](gesetzgebung), bis die erforderlichen Dienste und Komponenten in der Telematikinfrastruktur ausreichend und [IT-Sicherheit](it-sicherheit) zur Verfügung stehen.\n\nSiehe auch\n [Rechnungslegung](rechnungslegung)\n [Schlussrechnung](schlussrechnung)\n [Vermögensverzeichnis](vermögensverzeichnis)\n [Software](software)\n [Medikationsplan](medikationsplan), [Arztzeugnis](arztzeugnis), [Heilbehandlung](heilbehandlung), [Sachverständigengutachten](sachverständigengutachten), [e-Rezept](e-rezept)\n [digitale Barrierefreiheit](digitale-barrierefreiheit)",
+  "inhalt": "e-Rechnung\nDie e-Rechnung als ein Anwendungsbereich der Telematikinfrastruktur in Deutschland und in der Europäischen Union soll der Verbesserung der Wirtschaftlichkeit, der Qualität und der Transparenz der gesundheitlichen Versorgung der Bevölkerung dienen. Die elektronische Rechnung ist in § 359a SGB V anfänglich [Gesetzgebung](gesetzgebung), bis die erforderlichen Dienste und Komponenten in der Telematikinfrastruktur ausreichend und [IT-Sicherheit](it-sicherheit) zur Verfügung stehen.\n\nSiehe auch\n [Rechnungslegung](rechnungslegung)\n [Schlussrechnung](schlussrechnung)\n [Vermögensverzeichnis](vermögensverzeichnis)\n [Software](software)\n [Nutzungspflicht](nutzungspflicht)\n [Medikationsplan](medikationsplan), [Arztzeugnis](arztzeugnis), [Heilbehandlung](heilbehandlung), [Sachverständigengutachten](sachverständigengutachten), [e-Rezept](e-rezept)\n [digitale Barrierefreiheit](digitale-barrierefreiheit)",
   "struktur": [
     {
       "titel": "e-Rechnung",
@@ -16,29 +16,30 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Rechnungslegung\n Schlussrechnung\n Vermögensverzeichnis\n Software\n Medikationsplan, Arztzeugnis, Heilbehandlung, Sachverständigengutachten, e-Rezept\n digitale Barrierefreiheit",
+      "inhalt": "Rechnungslegung\n Schlussrechnung\n Vermögensverzeichnis\n Software\n Nutzungspflicht\n Medikationsplan, Arztzeugnis, Heilbehandlung, Sachverständigengutachten, e-Rezept\n digitale Barrierefreiheit",
       "tags": [
         "rechnungslegung",
         "schlussrechnung",
         "vermögensverzeichnis",
         "software",
-        "medikationsplan"
+        "nutzungspflicht"
       ]
     }
   ],
   "zusammenfassung": "e-Rechnung\nDie e-Rechnung als ein Anwendungsbereich der Telematikinfrastruktur in Deutschland und in der Europäischen Union soll der Verbesserung der Wirtschaftlichkeit, der Qualität und der Transparenz der gesundheitlichen Versorgung der Bevölkerung dienen. Die elektronische Rechnung ist in § 359a ...",
   "verwandteArtikel": [
     "vermögensverzeichnis",
-    "heilbehandlung",
-    "arztzeugnis",
-    "it-sicherheit",
-    "rechnungslegung",
-    "e-rezept",
+    "nutzungspflicht",
     "digitale-barrierefreiheit",
-    "schlussrechnung",
-    "sachverständigengutachten",
-    "software",
     "medikationsplan",
-    "gesetzgebung"
+    "schlussrechnung",
+    "rechnungslegung",
+    "heilbehandlung",
+    "software",
+    "sachverständigengutachten",
+    "gesetzgebung",
+    "e-rezept",
+    "arztzeugnis",
+    "it-sicherheit"
   ]
 }
