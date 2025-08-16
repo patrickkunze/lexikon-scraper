@@ -802,6 +802,7 @@
     "dokumentationspflicht",
     "drittes-betreuungsrechtsänderungsgesetz",
     "e-rechnung",
+    "e-rechnung",
     "e-rezept",
     "eingliederungshilfe",
     "einstweilige-anordnung",
@@ -3923,7 +3924,6 @@
     "betreuungsverfügung",
     "checkliste-vermögenssorge",
     "geschäftsfähigkeit",
-    "girokonto",
     "mündelgeld",
     "vermögenssorge",
     "vollmachtswiderruf",
@@ -5773,6 +5773,7 @@
   ],
   "mitwirkungspflicht": [
     "amtsermittlungspflicht",
+    "girokonto",
     "mitteilungspflicht",
     "mittellosigkeit",
     "mitwirkungspflicht",
@@ -8261,7 +8262,6 @@
     "arbeitsvertrag",
     "bankvollmacht",
     "geheimhaltungspflicht",
-    "girokonto",
     "werkstatt-für-behinderte-menschen"
   ],
   "anwesend": [
@@ -8478,6 +8478,7 @@
     "arztzeugnis",
     "befreiter-betreuer",
     "digitale-barrierefreiheit",
+    "e-rechnung",
     "e-rezept",
     "elektronische-patientenakte",
     "elektronisches-gerichts--und-verwaltungspostfach",
@@ -12275,6 +12276,7 @@
   "sicherheit": [
     "betreuerausweis",
     "e-rezept",
+    "elektronische-patientenakte",
     "gesundheitsdatennutzungsgesetz",
     "it-sicherheit",
     "it-sicherheit",
@@ -15398,11 +15400,14 @@
     "drittes-betreuungsrechtsänderungsgesetz"
   ],
   "datei": [
-    "drittes-betreuungsrechtsänderungsgesetz"
+    "drittes-betreuungsrechtsänderungsgesetz",
+    "e-rechnung"
   ],
   "rechnung": [
     "e-rechnung",
+    "e-rechnung",
     "gerichtskosten",
+    "girokonto",
     "interoperabilität"
   ],
   "telematikinfrastruktur": [
@@ -15410,6 +15415,9 @@
     "neu"
   ],
   "anwendungsbereich": [
+    "e-rechnung"
+  ],
+  "rechnungen": [
     "e-rechnung"
   ],
   "schlussrechnung": [
@@ -15432,7 +15440,6 @@
   ],
   "interoperabilität": [
     "e-rezept",
-    "elektronische-patientenakte",
     "it-sicherheit",
     "interoperabilität",
     "interoperabilität",
