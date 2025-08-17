@@ -1770,6 +1770,7 @@
     "inklusionsbetrieb",
     "kindschaftsrecht",
     "natürlicher-wille",
+    "natürlicher-wille",
     "neu",
     "peg-sonde",
     "persönliches-budget",
@@ -2451,6 +2452,7 @@
     "interoperabilität",
     "kindschaftsrecht",
     "kindschaftsrecht",
+    "natürlicher-wille",
     "nutzungspflicht",
     "personalausweis",
     "personalausweis",
@@ -4847,6 +4849,7 @@
     "mdk-gutachten",
     "mahnverfahren",
     "meldepflicht",
+    "natürlicher-wille",
     "natürlicher-wille",
     "patientenverfügung",
     "prozessführung",
@@ -17833,7 +17836,8 @@
     "grundrechte"
   ],
   "staat": [
-    "grundrechte"
+    "grundrechte",
+    "natürlicher-wille"
   ],
   "früher": [
     "grundrechte",
@@ -19196,6 +19200,9 @@
     "natürlicher-wille"
   ],
   "angriff": [
+    "natürlicher-wille"
+  ],
+  "meinungen": [
     "natürlicher-wille"
   ],
   "wohl": [
