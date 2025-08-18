@@ -1008,7 +1008,6 @@
     "mündelgeld",
     "mündelgeld",
     "neu",
-    "nutzungspflicht",
     "ordre-public",
     "organspende",
     "peg-sonde",
@@ -2453,7 +2452,6 @@
     "kindschaftsrecht",
     "kindschaftsrecht",
     "natürlicher-wille",
-    "nutzungspflicht",
     "personalausweis",
     "personalausweis",
     "persönliches-budget",
@@ -5033,7 +5031,6 @@
     "corona",
     "freier-wille",
     "genehmigung-der-heilbehandlung",
-    "gesundheitssorge",
     "heilbehandlung",
     "mdk-gutachten",
     "mittellosigkeit",
@@ -6745,6 +6742,7 @@
     "haager-übereinkommen",
     "hauptseite",
     "heilbehandlung",
+    "heilbehandlung",
     "ordre-public",
     "peg-sonde",
     "patientenverfügung",
@@ -8393,7 +8391,8 @@
   ],
   "beendigung": [
     "arbeitsvertrag",
-    "aufenthaltsbestimmung"
+    "aufenthaltsbestimmung",
+    "heilbehandlung"
   ],
   "arbeitsverhältnisses": [
     "arbeitsvertrag"
@@ -8726,6 +8725,7 @@
     "freier-wille",
     "freier-wille",
     "geschäftsfähigkeit",
+    "gesundheitssorge",
     "intellektuelle-beeinträchtigung",
     "maßregeln-der-besserung-und-sicherung",
     "natürlicher-wille",
@@ -9775,6 +9775,7 @@
     "heilbehandlung",
     "intellektuelle-beeinträchtigung",
     "interoperabilität",
+    "nutzungspflicht",
     "online-lexikon-betreuungsrecht:datenschutz",
     "online-lexikon-betreuungsrecht:datenschutz",
     "patientenverfügung",
@@ -10057,7 +10058,6 @@
     "geschäftsfähigkeit",
     "subsidiaritätsprinzip",
     "testierfähigkeit",
-    "unterstützte-kommunikation",
     "verband-freiberuflicher-betreuer",
     "vulnerabilität"
   ],
@@ -12136,7 +12136,6 @@
     "betreuer-(ehrenamt)",
     "betreuungsverfügung",
     "betreuungsvoraussetzung",
-    "heilbehandlung",
     "patientenverfügung",
     "sterbehilfe",
     "vorsorgevollmacht"
@@ -14093,7 +14092,6 @@
     "haager-übereinkommen",
     "haager-übereinkommen",
     "hamburger-mustergliederung",
-    "heilbehandlung",
     "sterilisation",
     "unterbringungsverfahren",
     "zugangsrecht"
@@ -14230,6 +14228,7 @@
   "natürlicher": [
     "betreuungsverfügung",
     "eherecht-und-betreuung",
+    "gesundheitssorge",
     "intellektuelle-beeinträchtigung",
     "testierfähigkeit",
     "unterstützte-kommunikation"
@@ -14850,8 +14849,7 @@
   ],
   "medikationsplan": [
     "checkliste-für-arztgespräche",
-    "elektronischer-identitätsnachweis",
-    "gesundheitssorge"
+    "elektronischer-identitätsnachweis"
   ],
   "ärztlichen": [
     "checkliste-für-arztgespräche"
@@ -14954,7 +14952,8 @@
     "mdk-gutachten",
     "peg-sonde",
     "prozessfähigkeit",
-    "testierfähigkeit"
+    "testierfähigkeit",
+    "unterstützte-kommunikation"
   ],
   "rechtsmittel": [
     "corona",
@@ -18280,16 +18279,16 @@
   "homöopathischen": [
     "heilbehandlung"
   ],
+  "arzneimittel": [
+    "heilbehandlung"
+  ],
   "heidelberg": [
     "heilbehandlung"
   ],
   "laufs": [
     "heilbehandlung"
   ],
-  "patientenrechte": [
-    "heilbehandlung"
-  ],
-  "bundesjustizministerium": [
+  "lebenserhaltender": [
     "heilbehandlung"
   ],
   "altenheim": [
@@ -19443,6 +19442,9 @@
   ],
   "test": [
     "neu"
+  ],
+  "sozialistischen": [
+    "nutzungspflicht"
   ],
   "urhg": [
     "nutzungspflicht",
