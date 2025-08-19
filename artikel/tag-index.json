@@ -3272,6 +3272,7 @@
     "checkliste-gesundheitssorge",
     "checkliste-vermögenssorge",
     "checkliste-wohnungsangelegenheiten",
+    "dokumentationspflicht",
     "einwilligungsfähigkeit",
     "elektronische-patientenakte",
     "gesundheitssorge",
@@ -5736,6 +5737,7 @@
     "betreuungsgericht",
     "betreuungsverfügung",
     "betreuungsverfügung",
+    "dokumentationspflicht",
     "ende-der-betreuung",
     "genehmigungen-von-a-bis-z",
     "gesetzliche-vertretung",
@@ -6388,8 +6390,7 @@
   "erörterungsgespräch": [
     "anfangsgespräch",
     "betreuungsrichter",
-    "checkliste-für-arztgespräche",
-    "dokumentationspflicht"
+    "checkliste-für-arztgespräche"
   ],
   "behindertenkonvention": [
     "anfangsgespräch",
@@ -7510,6 +7511,7 @@
     "betreuerhaftung",
     "betreuerpflichten",
     "betreuerpflichten",
+    "dokumentationspflicht",
     "einwilligungsfähigkeit",
     "erbausschlagung",
     "erbausschlagung",
@@ -11168,6 +11170,7 @@
     "behandlungsvertrag",
     "behindertenkonvention",
     "checkliste-für-arztgespräche",
+    "dokumentationspflicht",
     "einwilligungsfähigkeit",
     "einwilligungsfähigkeit",
     "elektronische-patientenakte",
@@ -15111,7 +15114,6 @@
   ],
   "informationspflichten": [
     "datenschutz",
-    "dokumentationspflicht",
     "informationspflicht",
     "informationspflicht",
     "informationspflicht"
@@ -15378,9 +15380,20 @@
   "behandelnden": [
     "dokumentationspflicht"
   ],
-  "geheimhaltungspflicht": [
+  "altarzneimittel": [
+    "dokumentationspflicht"
+  ],
+  "therapierichtungen": [
+    "dokumentationspflicht"
+  ],
+  "drei": [
     "dokumentationspflicht",
-    "elektronisches-gerichts--und-verwaltungspostfach"
+    "medikationsplan",
+    "registrierung",
+    "regress-der-staatskasse"
+  ],
+  "monographien": [
+    "dokumentationspflicht"
   ],
   "änderung": [
     "drittes-betreuungsrechtsänderungsgesetz",
@@ -16212,6 +16225,9 @@
     "elektronisches-gerichts--und-verwaltungspostfach"
   ],
   "benutzung": [
+    "elektronisches-gerichts--und-verwaltungspostfach"
+  ],
+  "geheimhaltungspflicht": [
     "elektronisches-gerichts--und-verwaltungspostfach"
   ],
   "kindschaftsrecht": [
@@ -19013,11 +19029,6 @@
   ],
   "gleichzeitig": [
     "medikationsplan"
-  ],
-  "drei": [
-    "medikationsplan",
-    "registrierung",
-    "regress-der-staatskasse"
   ],
   "zurverfügungstellung": [
     "medikationsplan"
