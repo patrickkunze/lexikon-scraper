@@ -6937,7 +6937,6 @@
     "angehörigenvertretungsrecht",
     "ausländer",
     "ausländer",
-    "begleitforschung",
     "buchverzeichnis",
     "hauptseite",
     "link-liste"
@@ -11166,6 +11165,17 @@
     "heilbehandlung",
     "neu"
   ],
+  "dokumentationspflicht": [
+    "begleitforschung",
+    "betreuungszahlen",
+    "delegation",
+    "einwilligungsfähigkeit",
+    "erörterungsgespräch",
+    "genehmigung-der-heilbehandlung",
+    "gesundheitliche-versorgungsplanung",
+    "patientenverfügung",
+    "vertreterdokumentation"
+  ],
   "heilbehandlung": [
     "behandlungsvertrag",
     "behindertenkonvention",
@@ -15135,15 +15145,6 @@
   ],
   "beauftragt": [
     "delegation"
-  ],
-  "dokumentationspflicht": [
-    "delegation",
-    "einwilligungsfähigkeit",
-    "erörterungsgespräch",
-    "genehmigung-der-heilbehandlung",
-    "gesundheitliche-versorgungsplanung",
-    "patientenverfügung",
-    "vertreterdokumentation"
   ],
   "delegation": [
     "delegation",
