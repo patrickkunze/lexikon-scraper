@@ -39,21 +39,21 @@
   ],
   "zusammenfassung": "e-Rechnung\nDie e-Rechnung als ein Anwendungsbereich der Telematikinfrastruktur in Deutschland und in der Europäischen Union soll der Verbesserung der Wirtschaftlichkeit, der Qualität und der Transparenz der gesundheitlichen Versorgung der Bevölkerung dienen. Die elektronische Rechnung ist in § 359a ...",
   "verwandteArtikel": [
-    "rechnungslegung",
     "it-sicherheit",
-    "software",
-    "nutzungspflicht",
-    "girokonto",
-    "digitale-barrierefreiheit",
     "datenschutz",
-    "medikationsplan",
-    "heilbehandlung",
-    "gesetzgebung",
+    "vermögensverzeichnis",
+    "nutzungspflicht",
     "sachverständigengutachten",
     "e-rezept",
-    "bankvollmacht",
-    "schlussrechnung",
+    "digitale-barrierefreiheit",
+    "girokonto",
     "arztzeugnis",
-    "vermögensverzeichnis"
+    "schlussrechnung",
+    "bankvollmacht",
+    "medikationsplan",
+    "rechnungslegung",
+    "heilbehandlung",
+    "software",
+    "gesetzgebung"
   ]
 }

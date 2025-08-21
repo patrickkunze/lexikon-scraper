@@ -6945,7 +6945,6 @@
     "angehörigenvertretungsrecht",
     "ausbildung",
     "ausländer",
-    "begleitforschung",
     "broschüren",
     "bücher",
     "gesetzessammlungen-betreuer.pdf",
@@ -11164,6 +11163,12 @@
     "globales-nachhaltigkeitsziel-10",
     "heilbehandlung",
     "neu"
+  ],
+  "nutzungspflicht": [
+    "begleitforschung",
+    "e-rechnung",
+    "geheimhaltungspflicht",
+    "mitteilungspflicht"
   ],
   "dokumentationspflicht": [
     "begleitforschung",
@@ -15439,11 +15444,6 @@
   "schlussrechnung": [
     "e-rechnung",
     "rechnungslegung"
-  ],
-  "nutzungspflicht": [
-    "e-rechnung",
-    "geheimhaltungspflicht",
-    "mitteilungspflicht"
   ],
   "arztrezepte": [
     "e-rezept"
