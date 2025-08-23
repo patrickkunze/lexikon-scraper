@@ -4109,7 +4109,8 @@
     "vertretung-gegenüber-behörden",
     "vertretung-gegenüber-behörden",
     "vorläufiger-betreuer",
-    "vorsorgevollmacht"
+    "vorsorgevollmacht",
+    "zwangsvollstreckung"
   ],
   "alten": [
     "altenheim",
@@ -5472,6 +5473,7 @@
     "delegation",
     "erbschaft",
     "kirchenaustritt",
+    "maßregeln-der-besserung-und-sicherung",
     "mitteilungspflicht",
     "peg-sonde",
     "persönliche-betreuung",
@@ -11648,8 +11650,7 @@
   ],
   "versicherung": [
     "berufsbetreuer",
-    "krankenversicherung",
-    "zwangsvollstreckung"
+    "krankenversicherung"
   ],
   "gesetzgeber": [
     "berufsbetreuer",
@@ -13764,7 +13765,6 @@
     "gesundheitsdatennutzungsgesetz",
     "gewaltschutzanordnung",
     "globales-nachhaltigkeitsziel-10",
-    "maßregeln-der-besserung-und-sicherung",
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "bundestagsdrucksache": [
