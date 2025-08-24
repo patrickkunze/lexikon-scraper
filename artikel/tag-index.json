@@ -189,7 +189,6 @@
     "betreuungsrechtsreform-2023",
     "betreuungsreform",
     "elektronischer-identitätsnachweis",
-    "gesetzgebung",
     "reform",
     "sachkundenachweis",
     "zugangsrecht",
@@ -1579,6 +1578,7 @@
     "abschiebung",
     "aufgabenkreis",
     "freier-wille",
+    "gesetzgebung",
     "selbstverwaltung-der-deutschen-gemeinden",
     "sterbehilfe",
     "tierschutz",
@@ -1589,6 +1589,7 @@
   "public": [
     "abschiebung",
     "aufgabenkreis",
+    "gesetzgebung",
     "selbstverwaltung-der-deutschen-gemeinden",
     "sterbehilfe",
     "tierschutz",
@@ -3620,6 +3621,7 @@
     "diskriminierungsverbot",
     "eingliederungshilfe",
     "elektronisches-gerichts--und-verwaltungspostfach",
+    "elektronisches-gerichts--und-verwaltungspostfach",
     "erziehungsmaßregeln",
     "geldanlage",
     "gesetzgebung",
@@ -5541,6 +5543,7 @@
     "einwilligungsvorbehalt",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "elektronisches-gerichts--und-verwaltungspostfach",
+    "elektronisches-gerichts--und-verwaltungspostfach",
     "familienverfahrensgesetz",
     "familienverfahrensgesetz",
     "familienverfahrensgesetz",
@@ -7108,6 +7111,7 @@
     "betreuervergütung",
     "betreuervergütung",
     "betreutes-wohnen",
+    "betreuungsorganisationsgesetz",
     "gerichtsbeschluss",
     "gerichtskosten",
     "geschäftsfähigkeit",
@@ -7124,7 +7128,8 @@
     "verfahrenspfleger",
     "vergütungsrechtsprechung",
     "vorläufiger-betreuer",
-    "vormünder--und-betreuervergütungsgesetz"
+    "vormünder--und-betreuervergütungsgesetz",
+    "waffenbesitz"
   ],
   "verhältnismäßigkeitsprinzip": [
     "anhörung",
@@ -7256,6 +7261,7 @@
     "betreuungssache",
     "betreuungssache",
     "betreuungsvoraussetzung",
+    "elektronisches-gerichts--und-verwaltungspostfach",
     "gerichtskosten",
     "grundstück",
     "haager-übereinkommen",
@@ -8140,6 +8146,7 @@
   ],
   "sollen": [
     "anzeigepflicht",
+    "elektronisches-gerichts--und-verwaltungspostfach",
     "kindschaftsrecht",
     "neu",
     "selbstbestimmung",
@@ -11569,7 +11576,6 @@
     "betreuungsorganisationsgesetz",
     "betreuungsorganisationsgesetz",
     "betreuungsrechtsreform",
-    "gesetzgebung",
     "rechtspfleger",
     "registrierung",
     "registrierung",
@@ -13765,7 +13771,8 @@
     "gesundheitsdatennutzungsgesetz",
     "gewaltschutzanordnung",
     "globales-nachhaltigkeitsziel-10",
-    "selbstverwaltung-der-deutschen-gemeinden"
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "waffenbesitz"
   ],
   "bundestagsdrucksache": [
     "betreuungsgesetz"
@@ -13908,10 +13915,6 @@
   "reparaturnovelle": [
     "betreuungsorganisationsgesetz",
     "betreuungsrechtsreform"
-  ],
-  "volltext": [
-    "betreuungsorganisationsgesetz",
-    "sterbehilfe"
   ],
   "plitzko": [
     "betreuungsorganisationsgesetz",
@@ -15602,8 +15605,7 @@
     "ehefähigkeit",
     "erziehungsmaßregeln",
     "maßregeln-der-besserung-und-sicherung",
-    "rechtsprechung-zur-unterbringung",
-    "waffenbesitz"
+    "rechtsprechung-zur-unterbringung"
   ],
   "bundesverfassungsgericht": [
     "ehefähigkeit",
@@ -16133,6 +16135,9 @@
   "beschwerden": [
     "elektronisches-gerichts--und-verwaltungspostfach"
   ],
+  "gerichtsakten": [
+    "elektronisches-gerichts--und-verwaltungspostfach"
+  ],
   "umsetzung": [
     "elektronisches-gerichts--und-verwaltungspostfach",
     "neu"
@@ -16558,8 +16563,7 @@
     "erziehungsmaßregeln",
     "maßregeln-der-besserung-und-sicherung",
     "maßregeln-der-besserung-und-sicherung",
-    "rechtsprechung-zur-unterbringung",
-    "waffenbesitz"
+    "rechtsprechung-zur-unterbringung"
   ],
   "sicherung": [
     "erziehungsmaßregeln",
@@ -20892,6 +20896,9 @@
     "sterbehilfe"
   ],
   "fundstelle": [
+    "sterbehilfe"
+  ],
+  "volltext": [
     "sterbehilfe"
   ],
   "dokumentes": [
