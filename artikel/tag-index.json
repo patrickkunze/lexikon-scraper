@@ -3652,6 +3652,7 @@
     "unterstützungspflicht",
     "unterstützungspflicht",
     "unterstützungspflicht",
+    "verbraucherstreitbeilegung",
     "vermögensverzeichnis",
     "vollmachtswiderruf",
     "wahlrecht",
@@ -4496,7 +4497,8 @@
     "wohnungsangelegenheiten"
   ],
   "vertrags": [
-    "altenheim"
+    "altenheim",
+    "verbraucherstreitbeilegung"
   ],
   "muss": [
     "altenheim",
@@ -10562,6 +10564,7 @@
     "tod-des-betreuten",
     "unfallversicherung",
     "unterstützungspflicht",
+    "verbraucherstreitbeilegung",
     "vertretung-gegenüber-behörden",
     "wohn--und-betreuungsvertragsgesetz"
   ],
@@ -21733,6 +21736,12 @@
     "verbraucherstreitbeilegung"
   ],
   "prüfbericht": [
+    "verbraucherstreitbeilegung"
+  ],
+  "unterzeichneten": [
+    "verbraucherstreitbeilegung"
+  ],
+  "einrede": [
     "verbraucherstreitbeilegung"
   ],
   "biva": [
