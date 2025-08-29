@@ -607,6 +607,7 @@
     "rechnungslegung",
     "rechnungslegung",
     "rechnungslegung",
+    "rechnungslegung",
     "rechtsanwalt",
     "rechtsanwalt",
     "rechtsanwalt",
@@ -803,6 +804,7 @@
     "e-rechnung",
     "e-rechnung",
     "e-rezept",
+    "eidesstattliche-versicherung",
     "eingliederungshilfe",
     "einstweilige-anordnung",
     "familienverfahrensgesetz",
@@ -2837,6 +2839,7 @@
     "betreuungsrichter",
     "betreuungsverein",
     "checkliste-vermögenssorge",
+    "eidesstattliche-versicherung",
     "einstweilige-anordnung",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "ermessensvergütung",
@@ -3620,6 +3623,7 @@
     "beratung",
     "betreuerpflichten",
     "diskriminierungsverbot",
+    "eidesstattliche-versicherung",
     "eingliederungshilfe",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "elektronisches-gerichts--und-verwaltungspostfach",
@@ -5476,6 +5480,7 @@
     "betreuerpflichten",
     "checkliste-betreuerpflichten",
     "delegation",
+    "eidesstattliche-versicherung",
     "erbschaft",
     "kirchenaustritt",
     "maßregeln-der-besserung-und-sicherung",
@@ -7408,6 +7413,7 @@
     "checkliste-vermögenssorge",
     "checkliste-wohnungsangelegenheiten",
     "eherecht-und-betreuung",
+    "eidesstattliche-versicherung",
     "erbausschlagung",
     "geldanlage",
     "grundstück",
@@ -9357,6 +9363,7 @@
   ],
   "einnahmen": [
     "aufwandspauschale",
+    "eidesstattliche-versicherung",
     "vermögenssorge",
     "vermögensverzeichnis"
   ],
@@ -10371,6 +10378,7 @@
     "beaufsichtigung",
     "betreuungsplan",
     "e-rechnung",
+    "eidesstattliche-versicherung",
     "gesetzestexte",
     "girokonto",
     "hamburger-mustergliederung",
@@ -11179,7 +11187,8 @@
   "nutzungspflicht": [
     "begleitforschung",
     "e-rechnung",
-    "mitteilungspflicht"
+    "mitteilungspflicht",
+    "zugriffsrecht"
   ],
   "dokumentationspflicht": [
     "begleitforschung",
@@ -11361,7 +11370,9 @@
   ],
   "befreiter": [
     "behördenbetreuer",
-    "gesetzestexte"
+    "gesetzestexte",
+    "girokonto",
+    "rechnungslegung"
   ],
   "eingruppierung": [
     "behördenbetreuer",
@@ -11658,7 +11669,8 @@
   ],
   "versicherung": [
     "berufsbetreuer",
-    "krankenversicherung"
+    "krankenversicherung",
+    "rechnungslegung"
   ],
   "gesetzgeber": [
     "berufsbetreuer",
@@ -12335,8 +12347,7 @@
     "betreuerausweis",
     "digitale-barrierefreiheit",
     "medikationsplan",
-    "vorsorgeregister",
-    "zugriffsrecht"
+    "vorsorgeregister"
   ],
   "abhandengekommende": [
     "betreuerausweis"
@@ -14425,6 +14436,7 @@
   ],
   "ausgaben": [
     "betreuungszahlen",
+    "eidesstattliche-versicherung",
     "vermögenssorge",
     "vermögensverzeichnis",
     "zeitschrift-für-professionelle-betreuungsarbeit"
@@ -15476,6 +15488,7 @@
     "nutzungspflicht",
     "personalausweis",
     "querschnittsaufgaben",
+    "rechnungslegung",
     "sachkundenachweis",
     "software",
     "vorsorgeregister",
@@ -15701,6 +15714,14 @@
     "pflicht-zur-betreuungsübernahme",
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "vereinbarung-über-begleitung-und-unterstützung"
+  ],
+  "schlussrechnungslegung": [
+    "eidesstattliche-versicherung",
+    "ende-der-betreuung",
+    "schlussbericht",
+    "schlussrechnung",
+    "schlusstätigkeiten",
+    "tod-des-betreuers"
   ],
   "verpflichtungsgespräch": [
     "einführungsgespräch",
@@ -16250,13 +16271,6 @@
     "entlastungserklärung",
     "schlussrechung",
     "tod-des-betreuten"
-  ],
-  "schlussrechnungslegung": [
-    "ende-der-betreuung",
-    "schlussbericht",
-    "schlussrechnung",
-    "schlusstätigkeiten",
-    "tod-des-betreuers"
   ],
   "notgeschäftsführung": [
     "ende-der-betreuung",
@@ -17758,11 +17772,6 @@
   "missbrauchs": [
     "girokonto",
     "vorsorgevollmacht---vertiefte-infos"
-  ],
-  "selbstverwaltungserklärung": [
-    "girokonto",
-    "persönliches-budget",
-    "verfügungsgeld"
   ],
   "abhebungen": [
     "girokonto"
@@ -19859,6 +19868,10 @@
   "bmas": [
     "persönliches-budget"
   ],
+  "selbstverwaltungserklärung": [
+    "persönliches-budget",
+    "verfügungsgeld"
+  ],
   "fuchs": [
     "persönliches-budget"
   ],
@@ -20127,6 +20140,9 @@
     "vermögensverzeichnis"
   ],
   "anhaltspunkte": [
+    "rechnungslegung"
+  ],
+  "eidesstattliche": [
     "rechnungslegung"
   ],
   "reinfarth": [
