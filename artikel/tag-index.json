@@ -805,6 +805,9 @@
     "e-rechnung",
     "e-rezept",
     "eidesstattliche-versicherung",
+    "eidesstattliche-versicherung",
+    "eidesstattliche-versicherung",
+    "eidesstattliche-versicherung",
     "eingliederungshilfe",
     "einstweilige-anordnung",
     "familienverfahrensgesetz",
@@ -2840,6 +2843,7 @@
     "betreuungsverein",
     "checkliste-vermögenssorge",
     "eidesstattliche-versicherung",
+    "eidesstattliche-versicherung",
     "einstweilige-anordnung",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "ermessensvergütung",
@@ -3623,6 +3627,9 @@
     "beratung",
     "betreuerpflichten",
     "diskriminierungsverbot",
+    "eidesstattliche-versicherung",
+    "eidesstattliche-versicherung",
+    "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
     "eingliederungshilfe",
     "elektronisches-gerichts--und-verwaltungspostfach",
@@ -8260,7 +8267,9 @@
     "wohn--und-betreuungsvertragsgesetz"
   ],
   "verlangen": [
-    "arbeitsvertrag"
+    "arbeitsvertrag",
+    "eidesstattliche-versicherung",
+    "eidesstattliche-versicherung"
   ],
   "arbeitsverträge": [
     "arbeitsvertrag"
@@ -9398,6 +9407,7 @@
     "ausbildung",
     "corona",
     "diskriminierungsverbot",
+    "eidesstattliche-versicherung",
     "heilbehandlung",
     "impressum",
     "mailingliste",
@@ -11865,6 +11875,8 @@
   ],
   "erben": [
     "bestattung",
+    "eidesstattliche-versicherung",
+    "eidesstattliche-versicherung",
     "erbschaft",
     "freibetrag",
     "schlusstätigkeiten",
@@ -15715,6 +15727,25 @@
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "vereinbarung-über-begleitung-und-unterstützung"
   ],
+  "erbe": [
+    "eidesstattliche-versicherung",
+    "erbausschlagung",
+    "erbschaft",
+    "insichgeschäft",
+    "regress-der-staatskasse",
+    "schenkung",
+    "tod-des-betreuers",
+    "tod-des-betreuten",
+    "tod-des-betreuten"
+  ],
+  "erblassers": [
+    "eidesstattliche-versicherung",
+    "erbschaft",
+    "testierfähigkeit"
+  ],
+  "hausgenosse": [
+    "eidesstattliche-versicherung"
+  ],
   "schlussrechnungslegung": [
     "eidesstattliche-versicherung",
     "ende-der-betreuung",
@@ -15722,6 +15753,11 @@
     "schlussrechnung",
     "schlusstätigkeiten",
     "tod-des-betreuers"
+  ],
+  "selbstverwaltungserklärung": [
+    "eidesstattliche-versicherung",
+    "persönliches-budget",
+    "verfügungsgeld"
   ],
   "verpflichtungsgespräch": [
     "einführungsgespräch",
@@ -16363,16 +16399,6 @@
     "selbstverwaltungserklärung",
     "vaterschaftsanerkennung"
   ],
-  "erbe": [
-    "erbausschlagung",
-    "erbschaft",
-    "insichgeschäft",
-    "regress-der-staatskasse",
-    "schenkung",
-    "tod-des-betreuers",
-    "tod-des-betreuten",
-    "tod-des-betreuten"
-  ],
   "nachlass": [
     "erbausschlagung",
     "regress-der-staatskasse"
@@ -16467,10 +16493,6 @@
   ],
   "behindertentestament": [
     "erbschaft"
-  ],
-  "erblassers": [
-    "erbschaft",
-    "testierfähigkeit"
   ],
   "testierunfähigkeit": [
     "erbschaft",
@@ -19867,10 +19889,6 @@
   ],
   "bmas": [
     "persönliches-budget"
-  ],
-  "selbstverwaltungserklärung": [
-    "persönliches-budget",
-    "verfügungsgeld"
   ],
   "fuchs": [
     "persönliches-budget"
