@@ -963,6 +963,7 @@
     "ehefähigkeit",
     "eherecht-und-betreuung",
     "eherecht-und-betreuung",
+    "eidesstattliche-versicherung",
     "einverständniserklärung",
     "einwilligungsfähigkeit",
     "erbausschlagung",
@@ -1229,6 +1230,7 @@
     "eherecht-und-betreuung",
     "eherecht-und-betreuung",
     "eherecht-und-betreuung",
+    "eidesstattliche-versicherung",
     "einstweilige-anordnung",
     "einwilligungsfähigkeit",
     "einwilligungsvorbehalt",
@@ -2271,6 +2273,7 @@
     "betreuungsvoraussetzung",
     "digitale-barrierefreiheit",
     "eherecht-und-betreuung",
+    "eidesstattliche-versicherung",
     "einwilligungsfähigkeit",
     "einwilligungsfähigkeit",
     "einwilligungsfähigkeit",
@@ -2844,6 +2847,7 @@
     "checkliste-vermögenssorge",
     "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
+    "eidesstattliche-versicherung",
     "einstweilige-anordnung",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "ermessensvergütung",
@@ -3294,7 +3298,6 @@
   ],
   "betreuungsverfahren": [
     "akteneinsicht",
-    "amtsermittlungspflicht",
     "beteiligte",
     "betreuungssache",
     "betreuungsverfahren",
@@ -3627,6 +3630,8 @@
     "beratung",
     "betreuerpflichten",
     "diskriminierungsverbot",
+    "eidesstattliche-versicherung",
+    "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
@@ -5551,6 +5556,7 @@
     "datenschutz",
     "datenschutz",
     "drittes-betreuungsrechtsänderungsgesetz",
+    "eidesstattliche-versicherung",
     "einstweilige-anordnung",
     "einstweilige-anordnung",
     "einstweilige-anordnung",
@@ -5802,6 +5808,16 @@
     "mitwirkungspflicht",
     "nutzungspflicht"
   ],
+  "eidesstattliche": [
+    "amtsermittlungspflicht",
+    "rechnungslegung"
+  ],
+  "versicherung": [
+    "amtsermittlungspflicht",
+    "berufsbetreuer",
+    "krankenversicherung",
+    "rechnungslegung"
+  ],
   "vertretung": [
     "amtsermittlungspflicht",
     "angehörigenvertretungsrecht",
@@ -5856,17 +5872,6 @@
     "tod-des-betreuten",
     "unterstützungspflicht",
     "vermögensverzeichnis",
-    "vertretung-gegenüber-behörden",
-    "widerspruchsrecht"
-  ],
-  "behörden": [
-    "amtsermittlungspflicht",
-    "behördenangelegenheiten",
-    "eingruppierung",
-    "rente",
-    "schwerbehindertenausweis",
-    "strafprozess",
-    "vertretung-gegenüber-behörden",
     "vertretung-gegenüber-behörden",
     "widerspruchsrecht"
   ],
@@ -6579,6 +6584,7 @@
     "betreuerpflichten",
     "betreuungsgesetz",
     "betreuungsvoraussetzung",
+    "eidesstattliche-versicherung",
     "eingliederungshilfe",
     "familienverfahrensgesetz",
     "persönliche-betreuung",
@@ -9995,7 +10001,8 @@
     "ausschließlichkeitserklärung"
   ],
   "aussagen": [
-    "ausschließlichkeitserklärung"
+    "ausschließlichkeitserklärung",
+    "eidesstattliche-versicherung"
   ],
   "seiner": [
     "ausschließlichkeitserklärung",
@@ -11295,6 +11302,16 @@
     "behindertenkonvention",
     "patientenverfügung"
   ],
+  "behörden": [
+    "behördenangelegenheiten",
+    "eingruppierung",
+    "rente",
+    "schwerbehindertenausweis",
+    "strafprozess",
+    "vertretung-gegenüber-behörden",
+    "vertretung-gegenüber-behörden",
+    "widerspruchsrecht"
+  ],
   "anteile": [
     "behördenbetreuer",
     "berufsbetreuer",
@@ -11677,11 +11694,6 @@
   ],
   "kennt": [
     "berufsbetreuer"
-  ],
-  "versicherung": [
-    "berufsbetreuer",
-    "krankenversicherung",
-    "rechnungslegung"
   ],
   "gesetzgeber": [
     "berufsbetreuer",
@@ -12268,6 +12280,7 @@
     "betreuerbestellung",
     "datenschutz",
     "datenschutz",
+    "eidesstattliche-versicherung",
     "geldanlage",
     "genehmigung-der-heilbehandlung",
     "genehmigung-der-heilbehandlung",
@@ -15748,6 +15761,44 @@
   "hausgenosse": [
     "eidesstattliche-versicherung"
   ],
+  "freiwilligen": [
+    "eidesstattliche-versicherung",
+    "eidesstattliche-versicherung",
+    "familienverfahrensgesetz",
+    "familienverfahrensgesetz",
+    "krankenversicherung",
+    "krankenversicherung"
+  ],
+  "gerichtsbarkeit": [
+    "eidesstattliche-versicherung",
+    "eidesstattliche-versicherung",
+    "familienverfahrensgesetz",
+    "familienverfahrensgesetz"
+  ],
+  "aufklärung": [
+    "eidesstattliche-versicherung",
+    "einwilligungsfähigkeit",
+    "heilbehandlung",
+    "heilbehandlung",
+    "heilbehandlung",
+    "heilbehandlung"
+  ],
+  "verbleib": [
+    "eidesstattliche-versicherung"
+  ],
+  "herauszugebenden": [
+    "eidesstattliche-versicherung"
+  ],
+  "weiteren": [
+    "eidesstattliche-versicherung",
+    "einverständniserklärung"
+  ],
+  "herbeiführung": [
+    "eidesstattliche-versicherung"
+  ],
+  "wahrheitsgemäßer": [
+    "eidesstattliche-versicherung"
+  ],
   "schlussrechnungslegung": [
     "eidesstattliche-versicherung",
     "ende-der-betreuung",
@@ -15915,9 +15966,6 @@
   "verlauf": [
     "einverständniserklärung"
   ],
-  "weiteren": [
-    "einverständniserklärung"
-  ],
   "einsichts": [
     "einwilligungsfähigkeit",
     "gesundheitssorge",
@@ -16011,13 +16059,6 @@
   ],
   "beppel": [
     "einwilligungsfähigkeit"
-  ],
-  "aufklärung": [
-    "einwilligungsfähigkeit",
-    "heilbehandlung",
-    "heilbehandlung",
-    "heilbehandlung",
-    "heilbehandlung"
   ],
   "merkblatt": [
     "einwilligungsfähigkeit",
@@ -16627,16 +16668,6 @@
     "unterbringung",
     "unterbringungsverfahren",
     "zuführung-zur-unterbringung"
-  ],
-  "freiwilligen": [
-    "familienverfahrensgesetz",
-    "familienverfahrensgesetz",
-    "krankenversicherung",
-    "krankenversicherung"
-  ],
-  "gerichtsbarkeit": [
-    "familienverfahrensgesetz",
-    "familienverfahrensgesetz"
   ],
   "familiensachen": [
     "familienverfahrensgesetz"
@@ -20165,9 +20196,6 @@
     "vermögensverzeichnis"
   ],
   "anhaltspunkte": [
-    "rechnungslegung"
-  ],
-  "eidesstattliche": [
     "rechnungslegung"
   ],
   "reinfarth": [
