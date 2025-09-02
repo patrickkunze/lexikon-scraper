@@ -1553,6 +1553,7 @@
     "grundrechte",
     "grundrechte",
     "inklusionsbetrieb",
+    "kindschaftsrecht",
     "mittellosigkeit",
     "ordre-public",
     "postkontrolle",
@@ -5810,6 +5811,7 @@
   ],
   "eidesstattliche": [
     "amtsermittlungspflicht",
+    "kindschaftsrecht",
     "rechnungslegung"
   ],
   "versicherung": [
@@ -11910,6 +11912,26 @@
   "bestattungspflichtig": [
     "bestattung"
   ],
+  "erbschaft": [
+    "bestattung",
+    "erbannahme",
+    "erbausschlagung",
+    "erbausschlagung",
+    "erbausschlagung",
+    "erbausschlagung",
+    "erbausschlagung",
+    "erbausschlagung",
+    "erbausschlagung",
+    "erbausschlagung",
+    "erbschaft",
+    "kindschaftsrecht",
+    "vaterschaftsanerkennung"
+  ],
+  "bestattungsvertrag": [
+    "bestattung",
+    "mittellosigkeit",
+    "tod-des-betreuten"
+  ],
   "todesfall": [
     "bestattung",
     "bestattungsvertrag",
@@ -16364,20 +16386,6 @@
     "schadenersatz",
     "schadensersatz"
   ],
-  "erbschaft": [
-    "erbannahme",
-    "erbausschlagung",
-    "erbausschlagung",
-    "erbausschlagung",
-    "erbausschlagung",
-    "erbausschlagung",
-    "erbausschlagung",
-    "erbausschlagung",
-    "erbausschlagung",
-    "erbschaft",
-    "kindschaftsrecht",
-    "vaterschaftsanerkennung"
-  ],
   "schulden": [
     "erbausschlagung",
     "krankenversicherung"
@@ -18666,6 +18674,13 @@
   "haften": [
     "kindschaftsrecht"
   ],
+  "diskriminierungsverbot": [
+    "kindschaftsrecht",
+    "kirchenaustritt",
+    "verfahrenspfleger",
+    "verhältnismäßigkeitsprinzip",
+    "wahlrecht"
+  ],
   "elternassistenz": [
     "kindschaftsrecht"
   ],
@@ -18797,12 +18812,6 @@
   ],
   "weder": [
     "kirchenaustritt"
-  ],
-  "diskriminierungsverbot": [
-    "kirchenaustritt",
-    "verfahrenspfleger",
-    "verhältnismäßigkeitsprinzip",
-    "wahlrecht"
   ],
   "kontrollbetreuern": [
     "kontrollbetreuer"
@@ -19251,10 +19260,6 @@
   ],
   "gegenseitig": [
     "mittellosigkeit"
-  ],
-  "bestattungsvertrag": [
-    "mittellosigkeit",
-    "tod-des-betreuten"
   ],
   "teilen": [
     "mitwirkungspflicht"
