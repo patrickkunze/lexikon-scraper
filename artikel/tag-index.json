@@ -9525,6 +9525,8 @@
     "betreuervergütung",
     "betreuervergütung-2019",
     "betreuervergütung-2019",
+    "betreuervergütung-2019",
+    "betreuervergütung-2026",
     "freibetrag",
     "freibetrag",
     "inflationsausgleich",
@@ -10063,6 +10065,7 @@
   ],
   "rechtsnormen": [
     "bgb",
+    "betreuervergütung-2026",
     "btbg",
     "drittes-betreuungsrechtsänderungsgesetz",
     "fgg",
@@ -13269,6 +13272,23 @@
   "inflationsausgleich": [
     "betreuervergütung-2019"
   ],
+  "vormünder": [
+    "betreuervergütung-2019",
+    "betreuervergütung-2026",
+    "gesetzestexte",
+    "vbvg",
+    "vbvg-rechtsprechung",
+    "vormünder--und-betreuervergütungsgesetz",
+    "vormünder--und-betreuervergütungsgesetz"
+  ],
+  "betreuervergütungsgesetz": [
+    "betreuervergütung-2019",
+    "betreuervergütung-2026",
+    "gesetzestexte",
+    "vbvg",
+    "vbvg-rechtsprechung",
+    "vormünder--und-betreuervergütungsgesetz"
+  ],
   "kreutzer": [
     "betreuervergütung-2019",
     "betreuungsverfahren",
@@ -13349,6 +13369,9 @@
     "betreuervergütung-2026"
   ],
   "umrechnung": [
+    "betreuervergütung-2026"
+  ],
+  "stufen": [
     "betreuervergütung-2026"
   ],
   "kein": [
@@ -17589,19 +17612,6 @@
     "gesetzestexte",
     "pflegeversicherung",
     "pflegeversicherung"
-  ],
-  "vormünder": [
-    "gesetzestexte",
-    "vbvg",
-    "vbvg-rechtsprechung",
-    "vormünder--und-betreuervergütungsgesetz",
-    "vormünder--und-betreuervergütungsgesetz"
-  ],
-  "betreuervergütungsgesetz": [
-    "gesetzestexte",
-    "vbvg",
-    "vbvg-rechtsprechung",
-    "vormünder--und-betreuervergütungsgesetz"
   ],
   "schutz": [
     "gesetzestexte",
