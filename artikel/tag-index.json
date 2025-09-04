@@ -5058,7 +5058,6 @@
     "heilbehandlung",
     "mdk-gutachten",
     "mittellosigkeit",
-    "persönliche-betreuung",
     "pflegeversicherung",
     "schwerbehindertenausweis",
     "sozialhilfe",
@@ -5491,6 +5490,7 @@
     "beaufsichtigung",
     "betreuerpflichten",
     "betreuerpflichten",
+    "betreuungsarbeitsgemeinschaft",
     "checkliste-betreuerpflichten",
     "delegation",
     "eidesstattliche-versicherung",
@@ -12133,7 +12133,8 @@
     "betreuer-(ehrenamt)"
   ],
   "einverständniserklärung": [
-    "betreuer-(ehrenamt)"
+    "betreuer-(ehrenamt)",
+    "persönliche-betreuung"
   ],
   "jede": [
     "betreuer-(ehrenamt)",
@@ -13571,8 +13572,9 @@
     "spielwiese",
     "spielwiese"
   ],
-  "obligatorisch": [
-    "betreuungsarbeitsgemeinschaft"
+  "verpflichtend": [
+    "betreuungsarbeitsgemeinschaft",
+    "haftpflichtversicherung"
   ],
   "entwicklung": [
     "betreuungsarbeitsgemeinschaft",
@@ -13588,10 +13590,6 @@
   ],
   "strategien": [
     "betreuungsarbeitsgemeinschaft"
-  ],
-  "sozialpsychiatrischer": [
-    "betreuungsarbeitsgemeinschaft",
-    "sachverständigengutachten"
   ],
   "betreuungsgesetzes": [
     "betreuungsbehörde"
@@ -18176,9 +18174,6 @@
   "sammelversicherung": [
     "haftpflichtversicherung"
   ],
-  "verpflichtend": [
-    "haftpflichtversicherung"
-  ],
   "nötig": [
     "haftpflichtversicherung"
   ],
@@ -20531,6 +20526,9 @@
     "sachverständigengutachten"
   ],
   "würdigung": [
+    "sachverständigengutachten"
+  ],
+  "sozialpsychiatrischer": [
     "sachverständigengutachten"
   ],
   "psychiatrische": [
