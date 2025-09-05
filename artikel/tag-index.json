@@ -791,7 +791,6 @@
     "ausschließlichkeitserklärung",
     "behindertenkonvention",
     "betreuungsorganisationsgesetz",
-    "betreuungsrichter",
     "betreuungsverein",
     "betreuungsverein",
     "betreuungsverfahren",
@@ -3300,6 +3299,7 @@
   "betreuungsverfahren": [
     "akteneinsicht",
     "beteiligte",
+    "betreuungsrichter",
     "betreuungssache",
     "betreuungsverfahren",
     "betreuungszahlen",
@@ -3631,6 +3631,7 @@
     "beratung",
     "betreuerpflichten",
     "diskriminierungsverbot",
+    "dokumentationspflicht",
     "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
@@ -5981,7 +5982,6 @@
     "amtspflichtverletzung",
     "anzeigepflicht",
     "betreuungsarbeitsgemeinschaft",
-    "betreuungsrichter",
     "betreuungssache",
     "diskriminierungsverbot",
     "einstweilige-anordnung",
@@ -6804,6 +6804,7 @@
     "betreuungsgericht",
     "betreuungsverfügung",
     "datenschutz",
+    "dokumentationspflicht",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "genehmigung-der-heilbehandlung",
     "genehmigungspflichten",
@@ -7137,6 +7138,7 @@
     "betreuervergütung",
     "betreutes-wohnen",
     "betreuungsorganisationsgesetz",
+    "betreuungsrichter",
     "gerichtsbeschluss",
     "gerichtskosten",
     "geschäftsfähigkeit",
@@ -12504,7 +12506,8 @@
   ],
   "umstände": [
     "betreuerbestellung",
-    "betreuerwechsel"
+    "betreuerwechsel",
+    "dokumentationspflicht"
   ],
   "berufsbetreuers": [
     "betreuerbestellung",
@@ -15436,6 +15439,16 @@
     "mdk-gutachten",
     "tierschutz"
   ],
+  "machen": [
+    "dokumentationspflicht",
+    "gesetzliche-vertretung",
+    "gesetzlicher-vertreter",
+    "testierfähigkeit",
+    "tod-des-betreuers"
+  ],
+  "dokumentieren": [
+    "dokumentationspflicht"
+  ],
   "patienten": [
     "dokumentationspflicht",
     "e-rezept",
@@ -17678,12 +17691,6 @@
   ],
   "aufträge": [
     "gesetzgebung"
-  ],
-  "machen": [
-    "gesetzliche-vertretung",
-    "gesetzlicher-vertreter",
-    "testierfähigkeit",
-    "tod-des-betreuers"
   ],
   "innenverhältnis": [
     "gesetzliche-vertretung",
