@@ -1,7 +1,7 @@
 {
   "id": "software",
   "titel": "Software",
-  "inhalt": "Betreuungssoftware\n\n(ohne Anspruch auf Vollständigkeit oder Bewertung der einzelnen Programme)\n\nLOGO Datensysteme GmbH (Software BdB at work)\n\nInternet: www.betreuung.de\n\nprosozial GmbH (Software butler Ehrenamt, butler Light, butler, butler Verein und butler Behörde)\n\nInternet: http://www.betreuungssoftware.de\n\nGauss GmbH (Software BtS-Win)\n\nInternet: http://www.gausslvs.de\n\nPeter Pledel Softwareentwicklung (Betreuung §BtG)\n\nInternet: http://www.betreuung-btg.de/\n\nRoCOM GmbH (Software Tau-Office)\n\nInternet: http://www.rocom.de\n\nBT-Professional (IFB Würselen)\n\nInternet: http://www.bt-professional.de\n\nCABS-Betreuungsbehörde\n\nAllgemeine Infoseite:  http://www.cabs-chemnitz.de/\n\nkBetreuungsManager\n\nhttps://kbetreuungsmanager.knetsoft.de\n\nSiehe auch\n [Elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach)\n [elektronischer Identitätsnachweis](elektronischer-identitätsnachweis)\n [Rechnungslegung](rechnungslegung), [Schlussrechnung](schlussrechnung)\n [elektronische Patientenakte](elektronische-patientenakte), [e-Rechnung](e-rechnung)\n [Geheimhaltungspflicht](geheimhaltungspflicht), [Nutzungspflicht](nutzungspflicht)\n [IT-Sicherheit](it-sicherheit)\n [Interoperabilität](interoperabilität)\n [Formulare](formulare)\n [Neu](neu)\n [Digitale Barrierefreiheit](digitale-barrierefreiheit)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n [Bundesverband der Berufsbetreuer](bundesverband-der-berufsbetreuer)\n [Sachkundenachweis](sachkundenachweis)\n [Ausbildung](ausbildung)\n [Link-Liste](link-liste)\n\n[Kategorie:Arbeitshilfen](kategorie:arbeitshilfen)\n[Kategorie:Betreuerentschädigung](kategorie:betreuerentschädigung)\n[Kategorie:Berufsbetreuer](kategorie:berufsbetreuer)",
+  "inhalt": "Betreuungssoftware\n\n(ohne Anspruch auf Vollständigkeit oder Bewertung der einzelnen Programme)\n\nLOGO Datensysteme GmbH (Software BdB at work)\n\nInternet: www.betreuung.de\n\nprosozial GmbH (Software butler Ehrenamt, butler Light, butler, butler Verein und butler Behörde)\n\nInternet: http://www.betreuungssoftware.de\n\nGauss GmbH (Software BtS-Win)\n\nInternet: http://www.gausslvs.de\n\nPeter Pledel Softwareentwicklung (Betreuung §BtG)\n\nInternet: http://www.betreuung-btg.de/\n\nRoCOM GmbH (Software Tau-Office)\n\nInternet: http://www.rocom.de\n\nBT-Professional (IFB Würselen)\n\nInternet: http://www.bt-professional.de\n\nCABS-Betreuungsbehörde\n\nAllgemeine Infoseite:  http://www.cabs-chemnitz.de/\n\nkBetreuungsManager\n\nhttps://kbetreuungsmanager.knetsoft.de\n\nSiehe auch\n [Elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach)\n [elektronischer Identitätsnachweis](elektronischer-identitätsnachweis)\n [Rechnungslegung](rechnungslegung), [Schlussrechnung](schlussrechnung)\n [elektronische Patientenakte](elektronische-patientenakte), [e-Rechnung](e-rechnung)\n [Geheimhaltungspflicht](geheimhaltungspflicht), [Nutzungspflicht](nutzungspflicht)\n [Datenschutz](datenschutz), [IT-Sicherheit](it-sicherheit)\n [Interoperabilität](interoperabilität)\n [Formulare](formulare)\n [Neu](neu)\n [Digitale Barrierefreiheit](digitale-barrierefreiheit)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n [Bundesverband der Berufsbetreuer](bundesverband-der-berufsbetreuer)\n [Bundesverband freier Berufsbetreuer](bundesverband-freier-berufsbetreuer)\n [Sachkundenachweis](sachkundenachweis)\n [Ausbildung](ausbildung)\n [Link-Liste](link-liste)\n\n[Kategorie:Arbeitshilfen](kategorie:arbeitshilfen)\n[Kategorie:Betreuerentschädigung](kategorie:betreuerentschädigung)\n[Kategorie:Berufsbetreuer](kategorie:berufsbetreuer)",
   "struktur": [
     {
       "titel": "Betreuungssoftware",
@@ -16,38 +16,40 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Elektronisches Gerichts- und Verwaltungspostfach\n elektronischer Identitätsnachweis\n Rechnungslegung, Schlussrechnung\n elektronische Patientenakte, e-Rechnung\n Geheimhaltungspflicht, Nutzungspflicht\n IT-Sicherheit\n Interoperabilität\n Formulare\n Was ist neu?\n Digitale Barrierefreiheit\n Rechtsverkehr in Deutschland\n Bundesverband der Berufsbetreuer\n Sachkundenachweis\n Ausbildung\n Link-Liste\n\nKategorie:Arbeitshilfen\nKategorie:Betreuerentschädigung\nKategorie:Berufsbetreuer",
+      "inhalt": "Elektronisches Gerichts- und Verwaltungspostfach\n elektronischer Identitätsnachweis\n Rechnungslegung, Schlussrechnung\n elektronische Patientenakte, e-Rechnung\n Geheimhaltungspflicht, Nutzungspflicht\n Datenschutz, IT-Sicherheit\n Interoperabilität\n Formulare\n Was ist neu?\n Digitale Barrierefreiheit\n Rechtsverkehr in Deutschland\n Bundesverband der Berufsbetreuer\n Bundesverband freier Berufsbetreuer\n Sachkundenachweis\n Ausbildung\n Link-Liste\n\nKategorie:Arbeitshilfen\nKategorie:Betreuerentschädigung\nKategorie:Berufsbetreuer",
       "tags": [
-        "kategorie",
         "berufsbetreuer",
+        "kategorie",
+        "bundesverband",
         "elektronisches",
-        "gerichts",
-        "verwaltungspostfach"
+        "gerichts"
       ]
     }
   ],
   "zusammenfassung": "Betreuungssoftware\n\n(ohne Anspruch auf Vollständigkeit oder Bewertung der einzelnen Programme)\n\nLOGO Datensysteme GmbH (Software BdB at work)\n\nInternet: www.betreuung.de\n\nprosozial GmbH (Software butler Ehrenamt, butler Light, butler, butler Verein und butler Behörde)\n\nInternet: http://www.betreuung...",
   "verwandteArtikel": [
-    "digitale-barrierefreiheit",
-    "elektronische-patientenakte",
-    "interoperabilität",
-    "bundesverband-der-berufsbetreuer",
-    "elektronischer-identitätsnachweis",
-    "geheimhaltungspflicht",
-    "kategorie:betreuerentschädigung",
     "elektronisches-gerichts--und-verwaltungspostfach",
+    "neu",
+    "kategorie:betreuerentschädigung",
+    "it-sicherheit",
+    "elektronischer-identitätsnachweis",
     "kategorie:berufsbetreuer",
     "sachkundenachweis",
-    "e-rechnung",
-    "schlussrechnung",
-    "kategorie:arbeitshilfen",
-    "it-sicherheit",
-    "formulare",
-    "neu",
-    "ausbildung",
-    "nutzungspflicht",
+    "link-liste",
+    "interoperabilität",
+    "elektronische-patientenakte",
+    "digitale-barrierefreiheit",
     "rechnungslegung",
+    "formulare",
+    "schlussrechnung",
+    "e-rechnung",
+    "kategorie:arbeitshilfen",
+    "bundesverband-freier-berufsbetreuer",
+    "ausbildung",
+    "bundesverband-der-berufsbetreuer",
     "rechtsverkehr-in-deutschland",
-    "link-liste"
+    "geheimhaltungspflicht",
+    "nutzungspflicht",
+    "datenschutz"
   ]
 }
