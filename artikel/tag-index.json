@@ -1172,7 +1172,6 @@
     "beaufsichtigung",
     "beaufsichtigung",
     "beaufsichtigung",
-    "beaufsichtigung",
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
@@ -10491,6 +10490,9 @@
     "beaufsichtigung"
   ],
   "zwangsgeldes": [
+    "beaufsichtigung"
+  ],
+  "hinweist": [
     "beaufsichtigung"
   ],
   "höhe": [

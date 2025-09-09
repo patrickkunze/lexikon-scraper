@@ -68,12 +68,12 @@
   "verwandteArtikel": [
     "spielwiese",
     "wikipedia:de:wikipedia:lizenzbestimmungen",
-    "wikia:text-of-the-gnu-free-documentation-license",
-    "betreuungsrecht-lexikon:haftungsausschluss",
     "wikipedia:de:gnu-lizenz-für-freie-dokumentation",
+    "wikia:text-of-the-gnu-free-documentation-license",
     "btprax",
+    "software",
     "kategorie:betreuungsrecht-lexikon",
-    "wikia:wikia-copyrights",
-    "software"
+    "betreuungsrecht-lexikon:haftungsausschluss",
+    "wikia:wikia-copyrights"
   ]
 }
