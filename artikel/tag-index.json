@@ -3303,7 +3303,6 @@
     "betreuungssache",
     "betreuungsverfahren",
     "betreuungszahlen",
-    "bezirksrevisor",
     "datenschutz",
     "rechtspfleger",
     "rechtsprechung-zum-verfahrenspfleger",
@@ -7104,6 +7103,7 @@
   ],
   "gerichts": [
     "anhörung",
+    "bezirksrevisor",
     "ebo",
     "egvp",
     "elektronisches-gerichts--und-verwaltungspostfach",
@@ -7356,6 +7356,7 @@
     "anlagegeld",
     "anlagegeld",
     "bankvollmacht",
+    "eidesstattliche-versicherung",
     "mündelsicher",
     "sperrvereinbarung"
   ],
@@ -9175,6 +9176,7 @@
     "aufsicht",
     "beratung",
     "betreuungsarbeitsgemeinschaft",
+    "betreuungsrichter",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "rechtspfleger",
     "regress-der-staatskasse",
@@ -9893,7 +9895,6 @@
     "ausländer",
     "behindertenkonvention",
     "behindertenkonvention",
-    "betreuungsverfahren",
     "erwachsenenschutz",
     "erwachsenenschutzabkommen",
     "erwachsenenschutzübereinkommen",
@@ -10041,7 +10042,6 @@
   ],
   "rechtsweg": [
     "ausschließlichkeitserklärung",
-    "betreuungsrichter",
     "einstweilige-anordnung",
     "prozessführung",
     "prozesspfleger",
@@ -14282,6 +14282,20 @@
     "unterbringungsverfahren",
     "vermögensverzeichnis"
   ],
+  "rechtsmittel": [
+    "betreuungsverfahren",
+    "corona",
+    "erinnerung",
+    "gewaltschutzanordnung",
+    "rechtsbeschwerde",
+    "rechtsmittel",
+    "rechtsmittel",
+    "rechtsweg-in-deutschland",
+    "subsidiaritätsprinzip",
+    "verlängerung-der-betreuung",
+    "vertretung-gegenüber-behörden",
+    "widerspruchsrecht"
+  ],
   "betreuungsanordnung": [
     "betreuungsverfahren",
     "betreuungsvoraussetzung"
@@ -14551,18 +14565,28 @@
   "berufsausbildung": [
     "bezirksrevisor"
   ],
-  "familienverfahrensgesetz": [
+  "elektronisches": [
     "bezirksrevisor",
-    "famfg",
-    "neu",
-    "pflicht-zur-betreuungsübernahme",
-    "vaterschaftsanerkennung"
+    "ebo",
+    "egvp",
+    "formulare",
+    "genehmigungen-von-a-bis-z",
+    "it-sicherheit",
+    "nutzungspflicht",
+    "personalausweis",
+    "querschnittsaufgaben",
+    "rechnungslegung",
+    "sachkundenachweis",
+    "software",
+    "vorsorgeregister",
+    "zugriffsrecht"
   ],
-  "gerichtskosten": [
+  "verwaltungspostfach": [
     "bezirksrevisor",
-    "gerichtskosten",
-    "kontrollbetreuer",
-    "kosten"
+    "ebo",
+    "egvp",
+    "sachkundenachweis",
+    "zugriffsrecht"
   ],
   "ansehen": [
     "brandenburg",
@@ -15064,19 +15088,6 @@
     "testierfähigkeit",
     "unterstützte-kommunikation"
   ],
-  "rechtsmittel": [
-    "corona",
-    "erinnerung",
-    "gewaltschutzanordnung",
-    "rechtsbeschwerde",
-    "rechtsmittel",
-    "rechtsmittel",
-    "rechtsweg-in-deutschland",
-    "subsidiaritätsprinzip",
-    "verlängerung-der-betreuung",
-    "vertretung-gegenüber-behörden",
-    "widerspruchsrecht"
-  ],
   "datenschutzregelung": [
     "datenschutz"
   ],
@@ -15565,27 +15576,6 @@
     "krankenversicherung",
     "patientenverfügung"
   ],
-  "elektronisches": [
-    "ebo",
-    "egvp",
-    "formulare",
-    "genehmigungen-von-a-bis-z",
-    "it-sicherheit",
-    "nutzungspflicht",
-    "personalausweis",
-    "querschnittsaufgaben",
-    "rechnungslegung",
-    "sachkundenachweis",
-    "software",
-    "vorsorgeregister",
-    "zugriffsrecht"
-  ],
-  "verwaltungspostfach": [
-    "ebo",
-    "egvp",
-    "sachkundenachweis",
-    "zugriffsrecht"
-  ],
   "ehefähigkeit": [
     "ehefähigkeit",
     "ehefähigkeit",
@@ -15864,11 +15854,6 @@
     "schlussrechnung",
     "schlusstätigkeiten",
     "tod-des-betreuers"
-  ],
-  "selbstverwaltungserklärung": [
-    "eidesstattliche-versicherung",
-    "persönliches-budget",
-    "verfügungsgeld"
   ],
   "verpflichtungsgespräch": [
     "einführungsgespräch",
@@ -16713,6 +16698,12 @@
     "unterbringungsverfahren",
     "zuführung-zur-unterbringung"
   ],
+  "familienverfahrensgesetz": [
+    "famfg",
+    "neu",
+    "pflicht-zur-betreuungsübernahme",
+    "vaterschaftsanerkennung"
+  ],
   "familiensachen": [
     "familienverfahrensgesetz"
   ],
@@ -17422,6 +17413,11 @@
   "jurbüro": [
     "gerichtskosten",
     "rechtsanwalt"
+  ],
+  "gerichtskosten": [
+    "gerichtskosten",
+    "kontrollbetreuer",
+    "kosten"
   ],
   "kontrollbetreuer": [
     "gerichtskosten",
@@ -19946,6 +19942,10 @@
   ],
   "bmas": [
     "persönliches-budget"
+  ],
+  "selbstverwaltungserklärung": [
+    "persönliches-budget",
+    "verfügungsgeld"
   ],
   "fuchs": [
     "persönliches-budget"
