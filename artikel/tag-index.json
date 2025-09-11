@@ -836,6 +836,7 @@
     "mdk-gutachten",
     "maßregeln-der-besserung-und-sicherung",
     "medikationsplan",
+    "mitwirkungspflicht",
     "neu",
     "neu",
     "neu",
@@ -879,7 +880,8 @@
     "zugangsrecht"
   ],
   "aufenthg": [
-    "abschiebung"
+    "abschiebung",
+    "mitwirkungspflicht"
   ],
   "geregelt": [
     "abschiebung",
@@ -1523,86 +1525,27 @@
     "geschäftsfähigkeit",
     "ordre-public"
   ],
-  "grundrechte": [
+  "mitwirkungspflicht": [
     "abschiebung",
-    "altenheim",
-    "anhörung",
-    "aufenthaltsbestimmung",
-    "ausländer",
-    "ausschließlichkeitserklärung",
-    "beaufsichtigung",
-    "befreiter-betreuer",
-    "beratung",
-    "betreuerhaftung",
-    "betreuerwechsel",
-    "betreuungsgericht",
-    "betreuungsverein",
-    "datenschutz",
-    "diskriminierungsverbot",
-    "eherecht-und-betreuung",
-    "erbausschlagung",
-    "freier-wille",
-    "gerichtsbeschluss",
-    "gesetzliche-vertretung",
-    "gewaltschutzanordnung",
-    "grundrechte",
-    "grundrechte",
-    "grundrechte",
-    "grundrechte",
-    "grundrechte",
-    "grundrechte",
-    "inklusionsbetrieb",
-    "kindschaftsrecht",
+    "amtsermittlungspflicht",
+    "girokonto",
+    "mitteilungspflicht",
     "mittellosigkeit",
-    "ordre-public",
-    "postkontrolle",
-    "prozessführung",
-    "psychisch-kranken-gesetz",
-    "querschnittsaufgaben",
-    "rechtspfleger",
-    "rundfunkbeitrag",
-    "selbstverwaltungserklärung",
-    "sozialhilfe",
-    "sterbehilfe",
-    "sterilisation",
-    "sterilisationsbetreuer",
-    "subsidiaritätsprinzip",
-    "umgangsbestimmung",
-    "vereinsbetreuer",
-    "verfahrenspfleger",
-    "verfügungsgeld",
-    "verhältnismäßigkeitsprinzip",
-    "verhältnismäßigkeitsprinzip",
-    "vertretung-gegenüber-behörden",
-    "vorläufiger-betreuer",
-    "wahlrecht",
-    "werkstatt-für-behinderte-menschen",
-    "wohnungsangelegenheiten",
-    "wohnungsauflösung",
-    "zuführung-zur-unterbringung"
+    "mitwirkungspflicht",
+    "nutzungspflicht"
   ],
-  "ordre": [
+  "eidesstattliche": [
     "abschiebung",
-    "aufgabenkreis",
-    "freier-wille",
-    "gesetzgebung",
-    "selbstverwaltung-der-deutschen-gemeinden",
-    "sterbehilfe",
-    "tierschutz",
-    "unterstützte-entscheidungsfindung",
-    "waffenbesitz",
-    "wahlrecht"
+    "amtsermittlungspflicht",
+    "kindschaftsrecht",
+    "rechnungslegung"
   ],
-  "public": [
+  "versicherung": [
     "abschiebung",
-    "aufgabenkreis",
-    "gesetzgebung",
-    "selbstverwaltung-der-deutschen-gemeinden",
-    "sterbehilfe",
-    "tierschutz",
-    "unterstützte-entscheidungsfindung",
-    "waffenbesitz",
-    "wahlrecht"
+    "amtsermittlungspflicht",
+    "berufsbetreuer",
+    "krankenversicherung",
+    "rechnungslegung"
   ],
   "konferenz": [
     "abschlussbericht"
@@ -3658,6 +3601,7 @@
     "maßregeln-der-besserung-und-sicherung",
     "medikationsplan",
     "mitteilungspflicht",
+    "mitwirkungspflicht",
     "neu",
     "neu",
     "neu",
@@ -4968,6 +4912,7 @@
     "grundrechte",
     "grundrechte",
     "krankenversicherung",
+    "mitwirkungspflicht",
     "nutzungspflicht",
     "prozessfähigkeit",
     "rechnungslegung",
@@ -5016,6 +4961,63 @@
     "altenheim",
     "betreuer-als-erbe",
     "testierfähigkeit"
+  ],
+  "grundrechte": [
+    "altenheim",
+    "anhörung",
+    "aufenthaltsbestimmung",
+    "ausländer",
+    "ausschließlichkeitserklärung",
+    "beaufsichtigung",
+    "befreiter-betreuer",
+    "beratung",
+    "betreuerhaftung",
+    "betreuerwechsel",
+    "betreuungsgericht",
+    "betreuungsverein",
+    "datenschutz",
+    "diskriminierungsverbot",
+    "eherecht-und-betreuung",
+    "erbausschlagung",
+    "freier-wille",
+    "gerichtsbeschluss",
+    "gesetzliche-vertretung",
+    "gewaltschutzanordnung",
+    "grundrechte",
+    "grundrechte",
+    "grundrechte",
+    "grundrechte",
+    "grundrechte",
+    "grundrechte",
+    "inklusionsbetrieb",
+    "kindschaftsrecht",
+    "mittellosigkeit",
+    "ordre-public",
+    "postkontrolle",
+    "prozessführung",
+    "psychisch-kranken-gesetz",
+    "querschnittsaufgaben",
+    "rechtspfleger",
+    "rundfunkbeitrag",
+    "selbstverwaltungserklärung",
+    "sozialhilfe",
+    "sterbehilfe",
+    "sterilisation",
+    "sterilisationsbetreuer",
+    "subsidiaritätsprinzip",
+    "umgangsbestimmung",
+    "vereinsbetreuer",
+    "verfahrenspfleger",
+    "verfügungsgeld",
+    "verhältnismäßigkeitsprinzip",
+    "verhältnismäßigkeitsprinzip",
+    "vertretung-gegenüber-behörden",
+    "vorläufiger-betreuer",
+    "wahlrecht",
+    "werkstatt-für-behinderte-menschen",
+    "wohnungsangelegenheiten",
+    "wohnungsauflösung",
+    "zuführung-zur-unterbringung"
   ],
   "gutachten": [
     "altenheim",
@@ -5800,25 +5802,6 @@
   ],
   "strafrechtlichen": [
     "amtsermittlungspflicht"
-  ],
-  "mitwirkungspflicht": [
-    "amtsermittlungspflicht",
-    "girokonto",
-    "mitteilungspflicht",
-    "mittellosigkeit",
-    "mitwirkungspflicht",
-    "nutzungspflicht"
-  ],
-  "eidesstattliche": [
-    "amtsermittlungspflicht",
-    "kindschaftsrecht",
-    "rechnungslegung"
-  ],
-  "versicherung": [
-    "amtsermittlungspflicht",
-    "berufsbetreuer",
-    "krankenversicherung",
-    "rechnungslegung"
   ],
   "vertretung": [
     "amtsermittlungspflicht",
@@ -8948,6 +8931,27 @@
   "erweiterung": [
     "aufgabenkreis",
     "haager-übereinkommen"
+  ],
+  "ordre": [
+    "aufgabenkreis",
+    "freier-wille",
+    "gesetzgebung",
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "sterbehilfe",
+    "tierschutz",
+    "unterstützte-entscheidungsfindung",
+    "waffenbesitz",
+    "wahlrecht"
+  ],
+  "public": [
+    "aufgabenkreis",
+    "gesetzgebung",
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "sterbehilfe",
+    "tierschutz",
+    "unterstützte-entscheidungsfindung",
+    "waffenbesitz",
+    "wahlrecht"
   ],
   "prozessführung": [
     "aufgabenkreis",
@@ -19283,6 +19287,9 @@
     "schweigepflicht"
   ],
   "mitwirkungsforderungen": [
+    "mitwirkungspflicht"
+  ],
+  "ausländerinnen": [
     "mitwirkungspflicht"
   ],
   "nippel": [
