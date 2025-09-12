@@ -311,6 +311,7 @@
     "befreiter-betreuer",
     "befreiter-betreuer",
     "befreiter-betreuer",
+    "befreiter-betreuer",
     "behördenbetreuer",
     "behördenbetreuer",
     "beratung",
@@ -461,6 +462,7 @@
     "ehrenamt",
     "ehrenamtler",
     "ehrenamtlicher-betreuer",
+    "eidesstattliche-versicherung",
     "eingliederungshilfe",
     "einstweilige-anordnung",
     "einverständniserklärung",
@@ -965,6 +967,7 @@
     "ehefähigkeit",
     "eherecht-und-betreuung",
     "eherecht-und-betreuung",
+    "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
     "einverständniserklärung",
     "einwilligungsfähigkeit",
@@ -1537,15 +1540,20 @@
   "eidesstattliche": [
     "abschiebung",
     "amtsermittlungspflicht",
+    "amtspflichtverletzung",
     "kindschaftsrecht",
-    "rechnungslegung"
+    "rechnungslegung",
+    "schlussrechnungslegung",
+    "schlusstätigkeiten"
   ],
   "versicherung": [
     "abschiebung",
     "amtsermittlungspflicht",
     "berufsbetreuer",
     "krankenversicherung",
-    "rechnungslegung"
+    "rechnungslegung",
+    "schlussrechnungslegung",
+    "schlusstätigkeiten"
   ],
   "konferenz": [
     "abschlussbericht"
@@ -2475,6 +2483,7 @@
     "beamte-als-betreuer",
     "beaufsichtigung",
     "befreiter-betreuer",
+    "befreiter-betreuer",
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
@@ -2770,7 +2779,6 @@
     "beaufsichtigung",
     "beaufsichtigung",
     "beaufsichtigung",
-    "befreiter-betreuer",
     "befreiter-betreuer",
     "begleitforschung",
     "behindertenkonvention",
@@ -4288,7 +4296,6 @@
     "schenkung",
     "schenkung",
     "schenkung",
-    "schlussrechnungslegung",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
@@ -5253,7 +5260,6 @@
     "rechtspfleger",
     "regress-der-staatskasse",
     "schenkung",
-    "schlussrechnungslegung",
     "schlusstätigkeiten",
     "sterbehilfedokumente",
     "sterilisationsbetreuer",
@@ -5960,29 +5966,19 @@
     "wohn--und-betreuungsvertragsgesetz",
     "zwangsvollstreckung"
   ],
-  "amtsermittlungspflicht": [
+  "vermögensverzeichnis": [
     "amtspflichtverletzung",
-    "anzeigepflicht",
-    "betreuungsarbeitsgemeinschaft",
-    "betreuungssache",
-    "diskriminierungsverbot",
-    "einstweilige-anordnung",
-    "rechtsanwalt"
-  ],
-  "einstweilige": [
-    "amtspflichtverletzung",
-    "betreuerwechsel",
-    "betreuungsvoraussetzung",
-    "eilfälle",
-    "einstweilige-anordnung",
-    "einstweilige-anordnung",
-    "familienverfahrensgesetz",
+    "anlagegeld",
+    "betreuungsplan",
+    "e-rechnung",
     "gesetzestexte",
-    "unterbringungsverfahren",
-    "vorläufiger-betreuer",
-    "vorläufiger-betreuer",
-    "vorläufiger-betreuer",
-    "zwangsbehandlung"
+    "grundstück",
+    "mündelgeld",
+    "schlussrechnungslegung",
+    "vermögensverzeichnis",
+    "vermögensverzeichnis",
+    "vermögensverzeichnis",
+    "wohn--und-betreuungsvertragsgesetz"
   ],
   "achtung": [
     "anfangsbericht",
@@ -6170,6 +6166,7 @@
   "befreite": [
     "anfangsbericht",
     "anlagegeld",
+    "befreiter-betreuer",
     "befreiter-betreuer",
     "befreiter-betreuer"
   ],
@@ -7593,18 +7590,6 @@
     "steuerpflicht",
     "steuerrecht"
   ],
-  "vermögensverzeichnis": [
-    "anlagegeld",
-    "betreuungsplan",
-    "e-rechnung",
-    "gesetzestexte",
-    "grundstück",
-    "mündelgeld",
-    "vermögensverzeichnis",
-    "vermögensverzeichnis",
-    "vermögensverzeichnis",
-    "wohn--und-betreuungsvertragsgesetz"
-  ],
   "podcast": [
     "anlagegeld",
     "beaufsichtigung",
@@ -8179,6 +8164,14 @@
     "nutzungspflicht",
     "wohnungsangelegenheiten"
   ],
+  "amtsermittlungspflicht": [
+    "anzeigepflicht",
+    "betreuungsarbeitsgemeinschaft",
+    "betreuungssache",
+    "diskriminierungsverbot",
+    "einstweilige-anordnung",
+    "rechtsanwalt"
+  ],
   "unterstützungspflicht": [
     "anzeigepflicht",
     "checkliste-betreuerpflichten",
@@ -8414,6 +8407,7 @@
   "beendigung": [
     "arbeitsvertrag",
     "aufenthaltsbestimmung",
+    "eidesstattliche-versicherung",
     "heilbehandlung"
   ],
   "arbeitsverhältnisses": [
@@ -8922,6 +8916,7 @@
     "aufgabenkreis",
     "diskriminierungsverbot",
     "diskriminierungsverbot",
+    "eidesstattliche-versicherung",
     "prozessführung"
   ],
   "aufgabenbereiche": [
@@ -10358,7 +10353,6 @@
   "aufsicht": [
     "beaufsichtigung",
     "beaufsichtigung",
-    "befreiter-betreuer",
     "betreuerpflichten",
     "gesetzestexte",
     "grundrechte"
@@ -10405,6 +10399,7 @@
   ],
   "rechnungslegung": [
     "beaufsichtigung",
+    "befreiter-betreuer",
     "betreuungsplan",
     "e-rechnung",
     "eidesstattliche-versicherung",
@@ -10693,24 +10688,8 @@
     "befreiter-betreuer",
     "rechnungslegung"
   ],
-  "coen": [
+  "grothe": [
     "befreiter-betreuer"
-  ],
-  "betreuungsvereins": [
-    "befreiter-betreuer",
-    "vereinsbetreuer"
-  ],
-  "vereinsbetreuer": [
-    "befreiter-betreuer",
-    "berufsbetreuer",
-    "betreuerbestellung",
-    "betreuervergütung",
-    "betreuungsverein",
-    "haftpflichtversicherung",
-    "vereinsbetreuer",
-    "vereinsbetreuer",
-    "vereinsbetreuer",
-    "vereinsbetreuer"
   ],
   "patientenakte": [
     "befreiter-betreuer",
@@ -11618,6 +11597,17 @@
     "betreuer-(ehrenamt)",
     "datenschutz",
     "registrierung"
+  ],
+  "vereinsbetreuer": [
+    "berufsbetreuer",
+    "betreuerbestellung",
+    "betreuervergütung",
+    "betreuungsverein",
+    "haftpflichtversicherung",
+    "vereinsbetreuer",
+    "vereinsbetreuer",
+    "vereinsbetreuer",
+    "vereinsbetreuer"
   ],
   "registrierung": [
     "berufsbetreuer",
@@ -13512,6 +13502,20 @@
   "dauer": [
     "betreuerwechsel",
     "gerichtsbeschluss"
+  ],
+  "einstweilige": [
+    "betreuerwechsel",
+    "betreuungsvoraussetzung",
+    "eilfälle",
+    "einstweilige-anordnung",
+    "einstweilige-anordnung",
+    "familienverfahrensgesetz",
+    "gesetzestexte",
+    "unterbringungsverfahren",
+    "vorläufiger-betreuer",
+    "vorläufiger-betreuer",
+    "vorläufiger-betreuer",
+    "zwangsbehandlung"
   ],
   "ausfüllen": [
     "betreuerwechsel"
@@ -15560,7 +15564,8 @@
   ],
   "schlussrechnung": [
     "e-rechnung",
-    "rechnungslegung"
+    "rechnungslegung",
+    "schlusstätigkeiten"
   ],
   "arztrezepte": [
     "e-rezept"
@@ -15793,6 +15798,9 @@
     "pflicht-zur-betreuungsübernahme",
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "vereinbarung-über-begleitung-und-unterstützung"
+  ],
+  "vermögensübersicht": [
+    "eidesstattliche-versicherung"
   ],
   "erbe": [
     "eidesstattliche-versicherung",
@@ -16400,8 +16408,7 @@
   ],
   "notgeschäftsführung": [
     "ende-der-betreuung",
-    "schlussbericht",
-    "schlussrechnungslegung"
+    "schlussbericht"
   ],
   "betreuerhaftung": [
     "ende-der-betreuung",
@@ -21859,6 +21866,9 @@
     "vertretung-gegenüber-behörden"
   ],
   "entgeltgruppe": [
+    "vereinsbetreuer"
+  ],
+  "betreuungsvereins": [
     "vereinsbetreuer"
   ],
   "anforderungsprofil": [
