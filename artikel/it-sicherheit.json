@@ -92,20 +92,20 @@
   ],
   "zusammenfassung": "Allgemeines\nDer abgekürzte Begriff IT-Sicherheit steht für die Sicherheit der Informationstechnologie, d.h. der Computer und ihrer Vernetzung.\n\nvertragsärztliche und vertragszahnärztliche Versorgung in Deutschland\nIn Deutschland sind gemäß § 390 SGB V die Kassenärztlichen Bundesvereinigungen die ver...",
   "verwandteArtikel": [
-    "elektronischer-identitätsnachweis",
     "neu",
+    "digitale-barrierefreiheit",
+    "elektronische-patientenakte",
+    "software",
+    "nutzungspflicht",
+    "datenschutz",
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "interoperabilität",
+    "elektronischer-identitätsnachweis",
+    "e-rechnung",
     "familienverfahrensgesetz",
     "zugriffsrecht",
-    "digitale-barrierefreiheit",
-    "e-rechnung",
-    "interoperabilität",
-    "nutzungspflicht",
-    "elektronische-patientenakte",
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "datenschutz",
-    "software",
-    "rechtsverkehr-in-deutschland",
     "e-rezept",
-    "gesetzgebung"
+    "gesetzgebung",
+    "rechtsverkehr-in-deutschland"
   ]
 }

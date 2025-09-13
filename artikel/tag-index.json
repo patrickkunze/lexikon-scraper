@@ -2628,6 +2628,7 @@
     "neu",
     "neu",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
+    "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "ordre-public",
     "organspende",
     "patientenverfügung",
@@ -5743,6 +5744,7 @@
     "neu",
     "neu",
     "neu",
+    "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "ordre-public",
     "ordre-public",
     "prozessführung",
@@ -12862,7 +12864,8 @@
     "vormünder--und-betreuervergütungsgesetz"
   ],
   "juristen": [
-    "betreuerregistrierungsverordnung"
+    "betreuerregistrierungsverordnung",
+    "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht"
   ],
   "registrierverfahren": [
     "betreuerregistrierungsverordnung"
@@ -13820,6 +13823,7 @@
     "betreuungszahlen",
     "betreuungszahlen",
     "intellektuelle-beeinträchtigung",
+    "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "sterilisationsbetreuer"
   ],
   "enthalten": [
@@ -19635,6 +19639,9 @@
   ],
   "anfragen": [
     "online-lexikon-betreuungsrecht:datenschutz"
+  ],
+  "jahrhundert": [
+    "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht"
   ],
   "wissenschaftlichen": [
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht"
