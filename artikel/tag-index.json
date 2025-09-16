@@ -1968,6 +1968,7 @@
     "gerichtskosten",
     "geschäftsfähigkeit",
     "geschäftsfähigkeit",
+    "geschäftsfähigkeit",
     "gesetzestexte",
     "gesetzestexte",
     "gesetzliche-vertretung",
@@ -3921,6 +3922,7 @@
     "alltagsgeschäfte",
     "geschäftsfähigkeit",
     "geschäftsfähigkeit",
+    "geschäftsfähigkeit",
     "geschäftsfähigkeit"
   ],
   "erwachsener": [
@@ -4582,6 +4584,7 @@
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
+    "freibetrag",
     "freibetrag",
     "geldanlage",
     "gerichtskosten",
@@ -6593,6 +6596,7 @@
   "deren": [
     "angehörigenvertretungsrecht",
     "anzeigepflicht",
+    "freibetrag",
     "geheimhaltungspflicht"
   ],
   "rechtlichen": [
@@ -10284,6 +10288,7 @@
     "beglaubigung-durch-betreuungsbehörde",
     "betreuer-als-erbe",
     "eingruppierung",
+    "geschäftsfähigkeit",
     "gesetzliche-vertretung",
     "kindschaftsrecht",
     "testierfähigkeit",
@@ -16638,6 +16643,7 @@
   ],
   "eltern": [
     "ergänzungsbetreuer",
+    "freibetrag",
     "geschäftsfähigkeit",
     "insichgeschäft",
     "kindschaftsrecht",
@@ -16860,6 +16866,25 @@
   ],
   "einschl": [
     "freibetrag"
+  ],
+  "beträgt": [
+    "freibetrag"
+  ],
+  "sozialhilfe": [
+    "freibetrag",
+    "grundsicherung",
+    "mittellosigkeit",
+    "mittellosigkeit",
+    "mitwirkungspflicht",
+    "neu",
+    "rente",
+    "sozialhilfe",
+    "sozialhilfe",
+    "sozialhilfe",
+    "sozialhilfe",
+    "unterstützungspflicht",
+    "vertretung-gegenüber-behörden",
+    "vertretung-gegenüber-behörden"
   ],
   "willen": [
     "freier-wille",
@@ -17512,6 +17537,15 @@
   "alkoholismus": [
     "geschäftsfähigkeit"
   ],
+  "störung": [
+    "geschäftsfähigkeit",
+    "intellektuelle-beeinträchtigung"
+  ],
+  "zeitpunkt": [
+    "geschäftsfähigkeit",
+    "heilbehandlung",
+    "vorsorgevollmacht"
+  ],
   "partielle": [
     "geschäftsfähigkeit"
   ],
@@ -18058,21 +18092,6 @@
     "grundrechte",
     "postverkehr"
   ],
-  "sozialhilfe": [
-    "grundsicherung",
-    "mittellosigkeit",
-    "mittellosigkeit",
-    "mitwirkungspflicht",
-    "neu",
-    "rente",
-    "sozialhilfe",
-    "sozialhilfe",
-    "sozialhilfe",
-    "sozialhilfe",
-    "unterstützungspflicht",
-    "vertretung-gegenüber-behörden",
-    "vertretung-gegenüber-behörden"
-  ],
   "bebaute": [
     "grundstück"
   ],
@@ -18357,10 +18376,6 @@
     "heilbehandlung",
     "rente"
   ],
-  "zeitpunkt": [
-    "heilbehandlung",
-    "vorsorgevollmacht"
-  ],
   "heilkunde": [
     "heilbehandlung"
   ],
@@ -18592,9 +18607,6 @@
     "intellektuelle-beeinträchtigung"
   ],
   "seelische": [
-    "intellektuelle-beeinträchtigung"
-  ],
-  "störung": [
     "intellektuelle-beeinträchtigung"
   ],
   "schwachsinn": [
