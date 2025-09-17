@@ -3859,6 +3859,7 @@
   ],
   "geschäftsfähigkeit": [
     "alltagsgeschäfte",
+    "ausschließlichkeitserklärung",
     "ehefähigkeit",
     "ehefähigkeit",
     "einwilligungsvorbehalt",
@@ -10063,10 +10064,6 @@
     "vertretung-gegenüber-behörden",
     "vorsorgeregister"
   ],
-  "widerspruchsrecht": [
-    "ausschließlichkeitserklärung",
-    "diskriminierungsverbot"
-  ],
   "gesetzestexte": [
     "bgb",
     "fgg",
@@ -15470,6 +15467,9 @@
     "diskriminierungsverbot",
     "finanzamt",
     "selbstverwaltung-der-deutschen-gemeinden"
+  ],
+  "widerspruchsrecht": [
+    "diskriminierungsverbot"
   ],
   "internetseite": [
     "diskriminierungsverbot",
