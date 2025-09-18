@@ -4159,7 +4159,6 @@
     "bestattung",
     "bestattungsvertrag",
     "bestattungsvertrag",
-    "bestattungsvertrag",
     "bestellung-mehrerer-betreuer",
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
@@ -9549,6 +9548,7 @@
   "mittellosigkeit": [
     "aufwendungsersatz",
     "bestattung",
+    "bestattungsvertrag",
     "freibetrag",
     "freibetrag",
     "freibetrag",
@@ -11839,6 +11839,7 @@
     "bestattungsvertrag",
     "bestattungsvertrag",
     "bestattungsvertrag",
+    "diskriminierungsverbot",
     "erbschaft",
     "mittellosigkeit",
     "mittellosigkeit",
@@ -11942,6 +11943,7 @@
   ],
   "freibetrag": [
     "bestattung",
+    "bestattungsvertrag",
     "freibetrag",
     "mittellosigkeit",
     "regress-der-staatskasse",
@@ -14979,7 +14981,6 @@
   ],
   "kirchenaustritt": [
     "checkliste-personenbogen",
-    "diskriminierungsverbot",
     "kirchenaustritt",
     "kirchenaustritt",
     "kirchenaustritt",
@@ -15468,8 +15469,11 @@
     "finanzamt",
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
-  "widerspruchsrecht": [
-    "diskriminierungsverbot"
+  "bestattungsvertrag": [
+    "diskriminierungsverbot",
+    "freibetrag",
+    "mittellosigkeit",
+    "tod-des-betreuten"
   ],
   "internetseite": [
     "diskriminierungsverbot",
@@ -19301,10 +19305,6 @@
   ],
   "gegenseitig": [
     "mittellosigkeit"
-  ],
-  "bestattungsvertrag": [
-    "mittellosigkeit",
-    "tod-des-betreuten"
   ],
   "teilen": [
     "mitwirkungspflicht"
