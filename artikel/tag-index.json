@@ -10211,6 +10211,7 @@
   "girokonto": [
     "bankvollmacht",
     "basiskonto",
+    "bestattungsvertrag",
     "girokonto",
     "kontokorrentkonto",
     "verfügungsgeld",
@@ -11418,7 +11419,8 @@
   ],
   "eigenständig": [
     "behördenbetreuer",
-    "betreuungsbehördengesetz"
+    "betreuungsbehördengesetz",
+    "rechnungslegung"
   ],
   "kommentiert": [
     "behördenbetreuer",
@@ -11943,7 +11945,6 @@
   ],
   "freibetrag": [
     "bestattung",
-    "bestattungsvertrag",
     "freibetrag",
     "mittellosigkeit",
     "regress-der-staatskasse",
@@ -20247,10 +20248,6 @@
   "befreiungsvorschriften": [
     "rechnungslegung"
   ],
-  "konto": [
-    "rechnungslegung",
-    "verfügungsgeld"
-  ],
   "belege": [
     "rechnungslegung",
     "vermögensverzeichnis"
@@ -21943,6 +21940,9 @@
     "vermögensverzeichnis"
   ],
   "bargeld": [
+    "verfügungsgeld"
+  ],
+  "konto": [
     "verfügungsgeld"
   ],
   "anlagekonten": [
