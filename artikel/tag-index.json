@@ -1502,7 +1502,6 @@
     "verfahrensbeteiligte",
     "verfahrensfähigkeit",
     "verfahrenspfleger",
-    "verfügungsgeld",
     "verlängerung-der-betreuung",
     "vermögenssorge",
     "vermögensverzeichnis",
@@ -10222,7 +10221,8 @@
     "bankvollmacht",
     "genehmigungen-von-a-bis-z",
     "geschäftsfähigkeit",
-    "geschäftsfähigkeit"
+    "geschäftsfähigkeit",
+    "verfügungsgeld"
   ],
   "anzahl": [
     "bayern",
