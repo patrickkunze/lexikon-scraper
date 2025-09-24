@@ -3454,6 +3454,7 @@
     "mittellosigkeit",
     "neu",
     "neu",
+    "neu",
     "personalausweis",
     "rechtsanwalt",
     "regress-der-staatskasse",
@@ -6054,6 +6055,7 @@
     "jahresbericht",
     "link-liste",
     "neu",
+    "neu",
     "online-lexikon-betreuungsrecht:datenschutz",
     "postkontrolle",
     "prozessführung",
@@ -8021,6 +8023,7 @@
     "anzeigepflicht",
     "datenschutz",
     "schweigepflicht",
+    "vertreterdokumentation",
     "zeugnisverweigerungsrecht"
   ],
   "anzuzeigen": [
@@ -16093,6 +16096,7 @@
     "einwilligungsfähigkeit",
     "hauptseite",
     "neu",
+    "neu",
     "tod-des-betreuten"
   ],
   "mutmaßlichen": [
@@ -16414,6 +16418,7 @@
   "geheimhaltungspflicht": [
     "elektronisches-gerichts--und-verwaltungspostfach",
     "inklusionsbetrieb",
+    "vertreterdokumentation",
     "werkstatt-für-behinderte-menschen"
   ],
   "kindschaftsrecht": [
@@ -17800,7 +17805,7 @@
   "leichter": [
     "gesundheitliche-versorgungsplanung"
   ],
-  "notfall": [
+  "zukunftsplanung": [
     "gesundheitliche-versorgungsplanung"
   ],
   "fokus": [
@@ -17810,7 +17815,9 @@
     "gesundheitliche-versorgungsplanung"
   ],
   "advance": [
-    "gesundheitliche-versorgungsplanung"
+    "gesundheitliche-versorgungsplanung",
+    "neu",
+    "vertreterdokumentation"
   ],
   "care": [
     "gesundheitliche-versorgungsplanung"
@@ -19530,6 +19537,10 @@
   "starug": [
     "neu"
   ],
+  "wiki": [
+    "neu",
+    "spielwiese"
+  ],
   "aufwandspauschalen": [
     "neu"
   ],
@@ -20979,9 +20990,6 @@
     "spielwiese"
   ],
   "echten": [
-    "spielwiese"
-  ],
-  "wiki": [
     "spielwiese"
   ],
   "heutigen": [

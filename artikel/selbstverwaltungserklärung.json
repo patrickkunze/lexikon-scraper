@@ -37,16 +37,16 @@
   "zusammenfassung": "Dieser Artikel ist an die Rechtslage ab 1.1.2023 angepasst.\n\nIm Rahmen der jährlichen [Rechnungslegung](rechnungslegung) legt der Betreuer ggü. dem [Betreuungsgericht](betreuungsgericht) über das vom Betreuten verwaltete Vermögen Rechnung ab (§ 1865 BGB). Im Umkehrschluss kann ein Betreuer keine Rec...",
   "verwandteArtikel": [
     "girokonto",
-    "persönliches-budget",
-    "kategorie:berichterstattung",
-    "jahresbericht",
-    "kategorie:vermögenssorge",
-    "betreuungsgericht",
     "rechnungslegung",
-    "selbstbestimmung",
-    "verfügungsgeld",
+    "kategorie:berichterstattung",
+    "betreuungsgericht",
     "selbstverwaltung-der-deutschen-gemeinden",
+    "verfügungsgeld",
+    "persönliches-budget",
+    "selbstbestimmung",
     "eidesstattliche-versicherung",
-    "grundrechte"
+    "grundrechte",
+    "kategorie:vermögenssorge",
+    "jahresbericht"
   ]
 }
