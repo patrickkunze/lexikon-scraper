@@ -197,9 +197,11 @@
   "gesundheitliche": [
     "acp",
     "advance-care-planning",
+    "dokumentationspflicht",
     "gesundheitliche-versorgungsplanung",
     "krankenhaussozialdienst",
-    "peg-sonde"
+    "peg-sonde",
+    "vertrauensperson"
   ],
   "versorgungsplanung": [
     "acp",
@@ -209,6 +211,7 @@
     "gesundheitliche-versorgungsplanung",
     "krankenhaussozialdienst",
     "peg-sonde",
+    "vertrauensperson",
     "vertreterdokumentation"
   ],
   "links": [
@@ -5055,7 +5058,6 @@
     "selbstverwaltungserklärung",
     "verfügungsgeld",
     "verlängerung-der-betreuung",
-    "vertrauensperson",
     "wahlrecht",
     "werkstatt-für-behinderte-menschen"
   ],
@@ -5075,7 +5077,6 @@
     "schwerbehindertenausweis",
     "sozialhilfe",
     "sozialpsychiatrischer-dienst",
-    "vertrauensperson",
     "vulnerabilität",
     "vulnerabilität"
   ],
@@ -5084,6 +5085,8 @@
     "ausländer",
     "behindertenkonvention",
     "inklusionsbetrieb",
+    "rundfunkbeitrag",
+    "schwerbehindertenausweis",
     "werkstatt-für-behinderte-menschen"
   ],
   "rechtstipp": [
@@ -8443,7 +8446,6 @@
     "arztbericht",
     "attest",
     "checkliste-für-arztgespräche",
-    "dokumentationspflicht",
     "medizinische-begriffe",
     "rechtsprechung-zum-sachverständigengutachten",
     "sachverständigengutachten",
@@ -15120,7 +15122,8 @@
     "datenschutz"
   ],
   "einheitliche": [
-    "datenschutz"
+    "datenschutz",
+    "schwerbehindertenausweis"
   ],
   "getreten": [
     "datenschutz",
@@ -15445,6 +15448,7 @@
     "it-sicherheit",
     "neu",
     "neu",
+    "schwerbehindertenausweis",
     "subsidiaritätsprinzip",
     "unterstützungspflicht",
     "zugangsrecht"
@@ -18731,6 +18735,7 @@
     "kindschaftsrecht",
     "kirchenaustritt",
     "ordre-public",
+    "rundfunkbeitrag",
     "verfahrenspfleger",
     "verhältnismäßigkeitsprinzip",
     "wahlrecht"
@@ -20725,6 +20730,12 @@
     "schwerbehindertenausweis",
     "tierschutz",
     "werkstatt-für-behinderte-menschen"
+  ],
+  "europäische": [
+    "schwerbehindertenausweis"
+  ],
+  "european": [
+    "schwerbehindertenausweis"
   ],
   "bundesministeriums": [
     "schwerbehindertenausweis"

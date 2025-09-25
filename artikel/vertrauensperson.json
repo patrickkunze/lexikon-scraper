@@ -1,7 +1,7 @@
 {
   "id": "vertrauensperson",
   "titel": "Vertrauensperson",
-  "inhalt": "Die Vertrauensperson (Person des Vertrauens) wird im Betreuungsrecht an zahlreichen Stellen erwähnt. Es ist eine natürliche Person, die der Betreute benennen kann. Sie ist nicht der Verfahrensbevollmächtigte (nach § 10 FamFG) und muss auch kein [Anwalt](anwalt) oder Familienangehöriger sein.\n\nRegelungen finden sich in folgenden Paragraphen:\n\n§ 274 Abs. 4 Nr 1 FamFG (Benennung als Verfahrensbeteiligter im [Betreuungsverfahren](betreuungsverfahren))\n§ 303 Abs. 2 FamFG ([Beschwerde](beschwerde)recht)\n§ 315 Abs. 4 FamFG (Benennung als Verfahrensbeteiligter im [Unterbringungsverfahren](unterbringungsverfahren))\n§ 335 Abs. 1 FamFG (Beschwerderecht bei Unterbringung)\n§ 339 FamFG (Benachrichtigung bei [Unterbringung](unterbringung) und deren Verlängerung)\n§ 170 Abs. 1 GVG (Teilnahme an [Anhörung](anhörung)en)\n\nIn weiteren Gesetzen gibt es die Vertrauensperson ebenfalls. Beispiele:\n§ 117 Abs. 2 SGB IX: Gesamtplanverfahren bei der [Eingliederungshilfe](eingliederungshilfe)\n§ 179 SGB IX: Persönliche Rechte und Pflichten der Vertrauenspersonen der [Schwerbehindertenausweis](schwerbehindertenausweis)\n§ 432 FamFG: Freiheitsentziehungsverfahren\n§ 114c StPO: Benachrichtung bei Inhaftierung.\n\nBei der Ausübung des [Wahlrecht](wahlrecht)es kann ein behinderter Wähler sich ebenfalls einer Person seines Vertrauens bedienen.\n\nSiehe auch\n [Unterstützte Entscheidungsfindung](unterstützte-entscheidungsfindung)\n [Selbstbestimmung](selbstbestimmung)\n [Vulnerabilität](vulnerabilität)\n [MDK-Gutachten](mdk-gutachten)\n [Unterstützungspflicht](unterstützungspflicht)\n [Schweigepflicht](schweigepflicht)\n [Zugangsrecht](zugangsrecht)\n [Vertreterdokumentation](vertreterdokumentation)\n [Grundrechte](grundrechte)\n [Anhörung](anhörung)\n [Beschwerde](beschwerde)\n [Prozesspfleger](prozesspfleger)\n [Verfahrenspfleger](verfahrenspfleger)\n [Rechtspfleger](rechtspfleger)\n [Sachverständigengutachten](sachverständigengutachten)\n [Anfangsgespräch](anfangsgespräch)\n [Erörterungsgespräch](erörterungsgespräch)\n\n[Kategorie:Betreuungspersonen](kategorie:betreuungspersonen)\n[Kategorie:Betreuungsverfahren](kategorie:betreuungsverfahren)",
+  "inhalt": "Die Vertrauensperson (Person des Vertrauens) wird im Betreuungsrecht an zahlreichen Stellen erwähnt. Es ist eine natürliche Person, die der Betreute benennen kann. Sie ist nicht der Verfahrensbevollmächtigte (nach § 10 FamFG) und muss auch kein [Anwalt](anwalt) oder Familienangehöriger sein.\n\nRegelungen finden sich in folgenden Paragraphen:\n\n§ 274 Abs. 4 Nr 1 FamFG (Benennung als Verfahrensbeteiligter im [Betreuungsverfahren](betreuungsverfahren))\n§ 303 Abs. 2 FamFG ([Beschwerde](beschwerde)recht)\n§ 315 Abs. 4 FamFG (Benennung als Verfahrensbeteiligter im [Unterbringungsverfahren](unterbringungsverfahren))\n§ 335 Abs. 1 FamFG (Beschwerderecht bei Unterbringung)\n§ 339 FamFG (Benachrichtigung bei [Unterbringung](unterbringung) und deren Verlängerung)\n§ 170 Abs. 1 GVG (Teilnahme an [Anhörung](anhörung)en)\n\nIn weiteren Gesetzen gibt es die Vertrauensperson ebenfalls. Beispiele:\n§ 117 Abs. 2 SGB IX: Gesamtplanverfahren bei der [Eingliederungshilfe](eingliederungshilfe)\n§ 179 SGB IX: Persönliche Rechte und Pflichten der Vertrauenspersonen der [Schwerbehindertenausweis](schwerbehindertenausweis)\n§ 432 FamFG: Freiheitsentziehungsverfahren\n§ 114c StPO: Benachrichtung bei Inhaftierung.\n\nBei der Ausübung des [Wahlrecht](wahlrecht)es kann ein behinderter Wähler sich ebenfalls einer Person seines Vertrauens bedienen.\n\nSiehe auch\n [Unterstützte Entscheidungsfindung](unterstützte-entscheidungsfindung), [Gesundheitliche Versorgungsplanung](gesundheitliche-versorgungsplanung)\n [Selbstbestimmung](selbstbestimmung)\n [Vulnerabilität](vulnerabilität)\n [MDK-Gutachten](mdk-gutachten)\n [Unterstützungspflicht](unterstützungspflicht)\n [Schweigepflicht](schweigepflicht)\n [Zugangsrecht](zugangsrecht)\n [Vertreterdokumentation](vertreterdokumentation)\n [Grundrechte](grundrechte)\n [Anhörung](anhörung)\n [Beschwerde](beschwerde)\n [Prozesspfleger](prozesspfleger)\n [Verfahrenspfleger](verfahrenspfleger)\n [Rechtspfleger](rechtspfleger)\n [Sachverständigengutachten](sachverständigengutachten)\n [Anfangsgespräch](anfangsgespräch)\n [Erörterungsgespräch](erörterungsgespräch)\n\n[Kategorie:Betreuungspersonen](kategorie:betreuungspersonen)\n[Kategorie:Betreuungsverfahren](kategorie:betreuungsverfahren)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -16,43 +16,44 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Unterstützte Entscheidungsfindung\n Selbstbestimmung\n Vulnerabilität\n MDK-Gutachten\n Unterstützungspflicht\n Schweigepflicht\n Zugangsrecht\n Vertreterdokumentation\n Grundrechte\n Anhörung\n Beschwerde\n Prozesspfleger\n Verfahrenspfleger\n Rechtspfleger\n Sachverständigengutachten\n Anfangsgespräch\n Erörterungsgespräch\n\nKategorie:Betreuungspersonen\nKategorie:Betreuungsverfahren",
+      "inhalt": "Unterstützte Entscheidungsfindung, Gesundheitliche Versorgungsplanung\n Selbstbestimmung\n Vulnerabilität\n MDK-Gutachten\n Unterstützungspflicht\n Schweigepflicht\n Zugangsrecht\n Vertreterdokumentation\n Grundrechte\n Anhörung\n Beschwerde\n Prozesspfleger\n Verfahrenspfleger\n Rechtspfleger\n Sachverständigengutachten\n Anfangsgespräch\n Erörterungsgespräch\n\nKategorie:Betreuungspersonen\nKategorie:Betreuungsverfahren",
       "tags": [
         "kategorie",
         "unterstützte",
         "entscheidungsfindung",
-        "selbstbestimmung",
-        "vulnerabilität"
+        "gesundheitliche",
+        "versorgungsplanung"
       ]
     }
   ],
   "zusammenfassung": "Die Vertrauensperson (Person des Vertrauens) wird im Betreuungsrecht an zahlreichen Stellen erwähnt. Es ist eine natürliche Person, die der Betreute benennen kann. Sie ist nicht der Verfahrensbevollmächtigte (nach § 10 FamFG) und muss auch kein [Anwalt](anwalt) oder Familienangehöriger sein.\n\nRegelu...",
   "verwandteArtikel": [
-    "mdk-gutachten",
-    "unterbringungsverfahren",
+    "kategorie:betreuungspersonen",
     "anwalt",
+    "selbstbestimmung",
+    "unterstützte-entscheidungsfindung",
+    "vulnerabilität",
     "beschwerde",
     "rechtspfleger",
-    "vulnerabilität",
-    "sachverständigengutachten",
-    "grundrechte",
-    "wahlrecht",
-    "anhörung",
-    "schweigepflicht",
-    "vertreterdokumentation",
-    "prozesspfleger",
-    "erörterungsgespräch",
     "unterstützungspflicht",
-    "eingliederungshilfe",
+    "sachverständigengutachten",
+    "unterbringungsverfahren",
+    "gesundheitliche-versorgungsplanung",
     "verfahrenspfleger",
-    "selbstbestimmung",
-    "kategorie:betreuungsverfahren",
-    "kategorie:betreuungspersonen",
-    "schwerbehindertenausweis",
     "zugangsrecht",
-    "anfangsgespräch",
-    "unterstützte-entscheidungsfindung",
+    "wahlrecht",
+    "erörterungsgespräch",
     "betreuungsverfahren",
-    "unterbringung"
+    "mdk-gutachten",
+    "grundrechte",
+    "schweigepflicht",
+    "prozesspfleger",
+    "anhörung",
+    "vertreterdokumentation",
+    "eingliederungshilfe",
+    "kategorie:betreuungsverfahren",
+    "anfangsgespräch",
+    "unterbringung",
+    "schwerbehindertenausweis"
   ]
 }
