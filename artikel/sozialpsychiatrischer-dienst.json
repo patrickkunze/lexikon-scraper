@@ -1,7 +1,7 @@
 {
   "id": "sozialpsychiatrischer-dienst",
   "titel": "Sozialpsychiatrischer Dienst",
-  "inhalt": "Menschen in Deutschland mit einer chronischen Erkrankung oder Behinderung sowie deren Angehörige stehen in ihrer jeweils besonderen Lebenssituation häufig vor tiefgreifenden Problemen und haben viele Fragen. Die Sozialdienste der örtlichen Gesundheitsämter bieten hoffentlich qualifizierte Hilfen dafür an. Die Teams bestehen meistens aus Sozialarbeitenden und sozialpädagogischen Fachkräften und arbeiten mit den fachärztlichen Diensten des Gesundheitsamtes vor Ort eng zusammen.\n\nSozialpsychiatrische Dienste sind in den [Psychisch-Kranken-Gesetz](psychisch-kranken-gesetz) geregelt. In [Baden-Württemberg](baden-württemberg) ist das Gesetz über Hilfen und Schutzmaßnahmen bei psychischen Krankheiten einschlägig (§ 6 PsychKHG BW). Die Einschränkung von [Grundrechte](grundrechte)n der psychisch Kranken wird durch § 56 PsychKHG BW ermöglicht bzw. gesetzlich gerechtfertigt. Dieses Landesgesetz ist seit dem [Neu](neu) in Kraft. Eine Zusammenarbeit der Sozialdienste mit den Rechtsbetreuenden ist gesetzlich nicht vorgeschrieben, kann aber im Rahmen einer fallbezogenen [Betreuungsarbeitsgemeinschaft](betreuungsarbeitsgemeinschaft) Vorteile für alle Beteiligten bedeuten.\n\nSiehe auch\n [Psychisch-Kranken-Gesetz](psychisch-kranken-gesetz)\n [Vulnerabilität](vulnerabilität)\n [Krankenhaussozialdienst](krankenhaussozialdienst)\n [Anhörung](anhörung)\n [MDK-Gutachten](mdk-gutachten)\n [Eingliederungshilfe](eingliederungshilfe)\n [Rechtsprechung zur Anhörung](rechtsprechung-zur-anhörung)\n [Unterbringungsähnliche Maßnahme](unterbringungsähnliche-maßnahme)\n [Vulnerabilität](vulnerabilität)\n [Grundrechte](grundrechte)\n [ordre public](ordre-public)\n [Ausländer](ausländer)\n [Selbstverwaltung der deutschen Gemeinden](selbstverwaltung-der-deutschen-gemeinden)\n [Unterstützungspflicht](unterstützungspflicht)\n [Betreuungsgerichtshilfe](betreuungsgerichtshilfe)\n [Subsidiaritätsprinzip](subsidiaritätsprinzip)\n\nWeblinks\n Was macht der sozialpsychiatrische Dienst?",
+  "inhalt": "Menschen in Deutschland mit einer chronischen Erkrankung oder Behinderung sowie deren Angehörige stehen in ihrer jeweils besonderen Lebenssituation häufig vor tiefgreifenden Problemen und haben viele Fragen. Die Sozialdienste der örtlichen Gesundheitsämter bieten hoffentlich qualifizierte Hilfen dafür an. Die Teams bestehen meistens aus Sozialarbeitenden und sozialpädagogischen Fachkräften und arbeiten mit den fachärztlichen Diensten des Gesundheitsamtes vor Ort eng zusammen.\n\nSozialpsychiatrische Dienste sind in den [Psychisch-Kranken-Gesetz](psychisch-kranken-gesetz) geregelt. In [Baden-Württemberg](baden-württemberg) ist das Gesetz über Hilfen und Schutzmaßnahmen bei psychischen Krankheiten einschlägig (§ 6 PsychKHG BW). Die Einschränkung von [Grundrechte](grundrechte)n der psychisch Kranken wird durch § 56 PsychKHG BW ermöglicht bzw. gesetzlich gerechtfertigt. Dieses Landesgesetz ist seit dem [Neu](neu) in Kraft. Eine Zusammenarbeit der Sozialdienste mit den Rechtsbetreuenden ist gesetzlich nicht vorgeschrieben, kann aber im Rahmen einer fallbezogenen [Betreuungsarbeitsgemeinschaft](betreuungsarbeitsgemeinschaft) Vorteile für alle Beteiligten bedeuten.\n\nSiehe auch\n [Psychisch-Kranken-Gesetz](psychisch-kranken-gesetz)\n [Vulnerabilität](vulnerabilität)\n [Krankenhaussozialdienst](krankenhaussozialdienst)\n [Anhörung](anhörung)\n [MDK-Gutachten](mdk-gutachten)\n [Eingliederungshilfe](eingliederungshilfe)\n [Rechtsprechung zur Anhörung](rechtsprechung-zur-anhörung)\n [Unterbringungsähnliche Maßnahme](unterbringungsähnliche-maßnahme)\n [Vulnerabilität](vulnerabilität)\n [Grundrechte](grundrechte)\n [ordre public](ordre-public)\n [Ausländer](ausländer)\n [Selbstverwaltung der deutschen Gemeinden](selbstverwaltung-der-deutschen-gemeinden)\n [Unterstützungspflicht](unterstützungspflicht)\n [Betreuungsgerichtshilfe](betreuungsgerichtshilfe)\n [Subsidiaritätsprinzip](subsidiaritätsprinzip)\n\nWeblinks\n Was macht der sozialpsychiatrische Dienst?\n\n[Kategorie:Sozialrecht](kategorie:sozialrecht)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -27,33 +27,36 @@
     },
     {
       "titel": "Weblinks",
-      "inhalt": "Was macht der sozialpsychiatrische Dienst?",
+      "inhalt": "Was macht der sozialpsychiatrische Dienst?\n\nKategorie:Sozialrecht",
       "tags": [
         "macht",
         "sozialpsychiatrische",
-        "dienst"
+        "dienst",
+        "kategorie",
+        "sozialrecht"
       ]
     }
   ],
   "zusammenfassung": "Menschen in Deutschland mit einer chronischen Erkrankung oder Behinderung sowie deren Angehörige stehen in ihrer jeweils besonderen Lebenssituation häufig vor tiefgreifenden Problemen und haben viele Fragen. Die Sozialdienste der örtlichen Gesundheitsämter bieten hoffentlich qualifizierte Hilfen daf...",
   "verwandteArtikel": [
-    "neu",
-    "baden-württemberg",
-    "anhörung",
     "psychisch-kranken-gesetz",
-    "eingliederungshilfe",
-    "unterbringungsähnliche-maßnahme",
-    "mdk-gutachten",
-    "selbstverwaltung-der-deutschen-gemeinden",
-    "betreuungsgerichtshilfe",
-    "vulnerabilität",
     "rechtsprechung-zur-anhörung",
     "ordre-public",
-    "ausländer",
-    "subsidiaritätsprinzip",
-    "betreuungsarbeitsgemeinschaft",
+    "neu",
+    "mdk-gutachten",
+    "baden-württemberg",
     "krankenhaussozialdienst",
+    "unterbringungsähnliche-maßnahme",
+    "betreuungsgerichtshilfe",
+    "betreuungsarbeitsgemeinschaft",
     "grundrechte",
-    "unterstützungspflicht"
+    "anhörung",
+    "kategorie:sozialrecht",
+    "ausländer",
+    "vulnerabilität",
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "unterstützungspflicht",
+    "subsidiaritätsprinzip",
+    "eingliederungshilfe"
   ]
 }

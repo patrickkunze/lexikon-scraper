@@ -1,7 +1,7 @@
 {
   "id": "erziehungsmaßregeln",
   "titel": "Erziehungsmaßregeln",
-  "inhalt": "Gemäß § 9 JGG kennt das deutsche Jugendstrafrecht zwei Erziehungsmaßregeln für den jugendlichen Täter oder die jugendliche Täterin nach dem Begehen einer strafbaren Tat: die jugendgerichtliche Erteilung von Weisungen gemäß § 10 JGG und die jugendgerichtliche Anordnung, Hilfe zur Erziehung im Sinne des § 12 JGG in Anspruch zu nehmen. Demnach kann der Jugendrichter dem Jugendlichen nach [Anhörung](anhörung) des zuständigen Jugendamtes auferlegen, entweder eine Erziehungsbeistandschaft gemäß § 30 SGB VIII oder eine [betreutes Wohnen](betreutes-wohnen) gemäß § 34 SGB VIII in Anspruch zu nehmen.\n\nGemäß § 7 JGG sind auch die [Maßregeln der Besserung und Sicherung](maßregeln-der-besserung-und-sicherung) aus dem StGB im deutschen Jugendstrafrecht im Einzelfall gesetzlich zulässig bzw. anwendbar. Zwischen den Erziehungsmaßregeln und der Jugendstrafe hat der Jugendrichter noch die sogenannten Zuchtmittel als Ahndungsmöglichkeit ohne Rechtswirkung einer Strafe zur Auswahl. Gesetzliche Zuchtmittel in Deutschland sind die Verwarnung (§ 14 JGG), die Erteilung von Auflagen (§ 15 JGG) und der Jugendarrest (§ 16 JGG). Das Jugendgericht in Deutschland soll nur dann eine Jugendstrafe verhängen, wenn wegen der schädlichen Neigungen des Jugendlichen, die in der begangenen Tat hervorgetreten sind, Erziehungsmaßregeln oder Zuchtmittel zur Erziehung nicht ausreichen oder wenn wegen der Schwere der Schuld Strafe erforderlich ist (§ 17 JGG).\n\nSiehe auch\n [Maßregeln der Besserung und Sicherung](maßregeln-der-besserung-und-sicherung)\n [Waffenfund](waffenfund)\n [Unterstützungspflicht](unterstützungspflicht)\n [Gewaltschutzanordnung](gewaltschutzanordnung)\n [ordre public](ordre-public)",
+  "inhalt": "Gemäß § 9 JGG kennt das deutsche Jugendstrafrecht zwei Erziehungsmaßregeln für den jugendlichen Täter oder die jugendliche Täterin nach dem Begehen einer strafbaren Tat: die jugendgerichtliche Erteilung von Weisungen gemäß § 10 JGG und die jugendgerichtliche Anordnung, Hilfe zur Erziehung im Sinne des § 12 JGG in Anspruch zu nehmen. Demnach kann der Jugendrichter dem Jugendlichen nach [Anhörung](anhörung) des zuständigen Jugendamtes auferlegen, entweder eine Erziehungsbeistandschaft gemäß § 30 SGB VIII oder eine [betreutes Wohnen](betreutes-wohnen) gemäß § 34 SGB VIII in Anspruch zu nehmen.\n\nGemäß § 7 JGG sind auch die [Maßregeln der Besserung und Sicherung](maßregeln-der-besserung-und-sicherung) aus dem StGB im deutschen Jugendstrafrecht im Einzelfall gesetzlich zulässig bzw. anwendbar. Zwischen den Erziehungsmaßregeln und der Jugendstrafe hat der Jugendrichter noch die sogenannten Zuchtmittel als Ahndungsmöglichkeit ohne Rechtswirkung einer Strafe zur Auswahl. Gesetzliche Zuchtmittel in Deutschland sind die Verwarnung (§ 14 JGG), die Erteilung von Auflagen (§ 15 JGG) und der Jugendarrest (§ 16 JGG). Das Jugendgericht in Deutschland soll nur dann eine Jugendstrafe verhängen, wenn wegen der schädlichen Neigungen des Jugendlichen, die in der begangenen Tat hervorgetreten sind, Erziehungsmaßregeln oder Zuchtmittel zur Erziehung nicht ausreichen oder wenn wegen der Schwere der Schuld Strafe erforderlich ist (§ 17 JGG).\n\nSiehe auch\n [Maßregeln der Besserung und Sicherung](maßregeln-der-besserung-und-sicherung)\n [Waffenfund](waffenfund)\n [Unterstützungspflicht](unterstützungspflicht)\n [Gewaltschutzanordnung](gewaltschutzanordnung)\n [ordre public](ordre-public)\n\n[Kategorie:Auswirkungen](kategorie:auswirkungen)\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -16,24 +16,26 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Maßregeln der Besserung und Sicherung\n Waffenfund\n Unterstützungspflicht\n Gewaltschutzanordnung\n ordre public",
+      "inhalt": "Maßregeln der Besserung und Sicherung\n Waffenfund\n Unterstützungspflicht\n Gewaltschutzanordnung\n ordre public\n\nKategorie:Auswirkungen\nKategorie:Rechtsnormen",
       "tags": [
+        "kategorie",
         "maßregeln",
         "besserung",
         "sicherung",
-        "waffenfund",
-        "unterstützungspflicht"
+        "waffenfund"
       ]
     }
   ],
   "zusammenfassung": "Gemäß § 9 JGG kennt das deutsche Jugendstrafrecht zwei Erziehungsmaßregeln für den jugendlichen Täter oder die jugendliche Täterin nach dem Begehen einer strafbaren Tat: die jugendgerichtliche Erteilung von Weisungen gemäß § 10 JGG und die jugendgerichtliche Anordnung, Hilfe zur Erziehung im Sinne d...",
   "verwandteArtikel": [
-    "anhörung",
-    "betreutes-wohnen",
+    "unterstützungspflicht",
     "maßregeln-der-besserung-und-sicherung",
+    "kategorie:rechtsnormen",
+    "betreutes-wohnen",
     "gewaltschutzanordnung",
-    "ordre-public",
+    "kategorie:auswirkungen",
     "waffenfund",
-    "unterstützungspflicht"
+    "ordre-public",
+    "anhörung"
   ]
 }
