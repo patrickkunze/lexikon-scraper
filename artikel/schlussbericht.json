@@ -60,18 +60,18 @@
   ],
   "zusammenfassung": "Achtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst.\n\n[Bild:Akten.jpg](bild:akten.jpg)\nDie letzte [Berichterstattung](berichterstattung)\nEin Schlussbericht muss nach der [Ende der Betreuung](ende-der-betreuung) durch den Betreuer ...",
   "verwandteArtikel": [
-    "kategorie:berichterstattung",
-    "bild:akten.jpg",
-    "schlussrechnungslegung",
+    "berichterstattung",
     "jahresbericht",
-    "notgeschäftsführung",
-    "selbstverwaltungserklärung",
     "anfangsbericht",
+    "schlussrechnungslegung",
+    "bild:akten.jpg",
+    "kategorie:berichterstattung",
     "betreuerausweis",
     "bild:zeitschrift.jpg",
-    "berichterstattung",
-    "hamburger-mustergliederung",
+    "notgeschäftsführung",
     "ende-der-betreuung",
-    "vermögenssorge"
+    "vermögenssorge",
+    "hamburger-mustergliederung",
+    "selbstverwaltungserklärung"
   ]
 }

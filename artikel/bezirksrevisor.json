@@ -1,7 +1,7 @@
 {
   "id": "bezirksrevisor",
   "titel": "Bezirksrevisor",
-  "inhalt": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerde im Interesse der [Regress der Staatskasse](regress-der-staatskasse) einlegen, § 304 FamFG. Diese müssen zwingend in elektronischer Form erfolgen, § 14b FamFG.\n\nSiehe auch\n [Regress der Staatskasse](regress-der-staatskasse)\n [elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach), [Nutzungspflicht](nutzungspflicht)\n [Betreuungsverfahren](betreuungsverfahren), [Beaufsichtigung](beaufsichtigung)\n [Familienverfahrensgesetz](familienverfahrensgesetz)\n [Gerichtskosten](gerichtskosten), [Eidesstattliche Versicherung](eidesstattliche-versicherung)\n [Rechtsmittel](rechtsmittel)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)",
+  "inhalt": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerde im Interesse der [Regress der Staatskasse](regress-der-staatskasse) einlegen, § 304 FamFG. Diese müssen zwingend in elektronischer Form erfolgen, § 14b FamFG.\n\nSiehe auch\n [Regress der Staatskasse](regress-der-staatskasse)\n [elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach), [Nutzungspflicht](nutzungspflicht)\n [Betreuungsverfahren](betreuungsverfahren), [Beaufsichtigung](beaufsichtigung)\n [Familienverfahrensgesetz](familienverfahrensgesetz)\n [Gerichtskosten](gerichtskosten), [Eidesstattliche Versicherung](eidesstattliche-versicherung)\n [Rechtsmittel](rechtsmittel)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n\n[Kategorie:Rechtsprechung](kategorie:rechtsprechung)\n[Kategorie:Betreuungsverfahren](kategorie:betreuungsverfahren)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -16,29 +16,31 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Regress der Staatskasse\n elektronisches Gerichts- und Verwaltungspostfach, Nutzungspflicht\n Betreuungsverfahren, Beaufsichtigung\n Familienverfahrensgesetz\n Gerichtskosten, Eidesstattliche Versicherung\n Rechtsmittel\n Rechtsverkehr in Deutschland",
+      "inhalt": "Regress der Staatskasse\n elektronisches Gerichts- und Verwaltungspostfach, Nutzungspflicht\n Betreuungsverfahren, Beaufsichtigung\n Familienverfahrensgesetz\n Gerichtskosten, Eidesstattliche Versicherung\n Rechtsmittel\n Rechtsverkehr in Deutschland\n\nKategorie:Rechtsprechung\nKategorie:Betreuungsverfahren",
       "tags": [
+        "betreuungsverfahren",
+        "kategorie",
         "regress",
         "staatskasse",
-        "elektronisches",
-        "gerichts",
-        "verwaltungspostfach"
+        "elektronisches"
       ]
     }
   ],
   "zusammenfassung": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerde im Interesse der [Regress der Staatskasse](regress-der-staatskasse) einlegen, § 304 FamFG. Diese müssen ...",
   "verwandteArtikel": [
     "eidesstattliche-versicherung",
-    "nutzungspflicht",
     "rechtsmittel",
-    "rechtsverkehr-in-deutschland",
-    "regress-der-staatskasse",
     "gerichtsbeschluss",
     "gerichtskosten",
-    "familienverfahrensgesetz",
+    "beaufsichtigung",
     "elektronisches-gerichts--und-verwaltungspostfach",
-    "rechtspfleger",
+    "regress-der-staatskasse",
+    "familienverfahrensgesetz",
+    "kategorie:rechtsprechung",
+    "nutzungspflicht",
     "betreuungsverfahren",
-    "beaufsichtigung"
+    "rechtsverkehr-in-deutschland",
+    "rechtspfleger",
+    "kategorie:betreuungsverfahren"
   ]
 }

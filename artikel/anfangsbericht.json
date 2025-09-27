@@ -50,16 +50,16 @@
   ],
   "zusammenfassung": "Achtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst.\n\nDie erste [Berichterstattung](berichterstattung)\nEin Anfangsbericht muss nach [Betreuerbestellung](betreuerbestellung) innerhalb von drei Monaten durch den Betreuer erstellt un...",
   "verwandteArtikel": [
-    "kategorie:berichterstattung",
+    "berichterstattung",
+    "anfangsgespräch",
     "betreuungsplan",
-    "vermögensverzeichnis",
-    "aufgabenbereich",
-    "betreuerbestellung",
     "befreiter-betreuer",
     "erörterungsgespräch",
-    "anfangsgespräch",
-    "berichterstattung",
+    "aufgabenbereich",
+    "kategorie:berichterstattung",
+    "vermögensverzeichnis",
+    "vermögenssorge",
     "rechtspfleger",
-    "vermögenssorge"
+    "betreuerbestellung"
   ]
 }

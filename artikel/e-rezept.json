@@ -1,7 +1,7 @@
 {
   "id": "e-rezept",
   "titel": "E-Rezept",
-  "inhalt": "Das E-Rezept, d.h. die elektronische Verordnung oder Verschreibung für den Patienten durch seinen Arzt oder seine Ärztin, ist für verschreibungspflichtige Arzneimittel in Deutschland seit dem 01.01.2024 zur Regel geworden. Die Verwendung von Verordnungen und Empfehlungen in elektronischer Form wurde in § 86 SGB V sozialgesetzlich vorbereitet. Es geht dabei um sogenannte Bundesmantelverträge zwischen den Kassenärztlichen Bundesvereinigungen und dem Spitzenverband Bund der Krankenkassen in Deutschland. \n\nDie verpflichtende Einführung des E-Rezepts mit Hilfe der deutschen Telematikinfrastruktur hat die jahrelange „Zettelwirtschaft“ im Gesundheitswesen beendet. Die früheren Arztrezepte auf Papier werden zur rechtssicheren Abrechnung der Arzneimittelkosten des [Krankenversicherung](krankenversicherung) Patienten heute nicht mehr benötigt. Bekanntlich konnten in Einzelfällen auch solche Arztrezepte gefälscht werden (= Urkundenfälschung).\n\nSiehe auch\n [digitale Barrierefreiheit](digitale-barrierefreiheit)\n [IT-Sicherheit](it-sicherheit), [Datenschutz](datenschutz), [Interoperabilität](interoperabilität)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n [elektronischer Identitätsnachweis](elektronischer-identitätsnachweis)\n [Medikationsplan](medikationsplan)\n [e-Rechnung](e-rechnung)\n [Neu](neu)\n [Gesundheitsdatennutzungsgesetz](gesundheitsdatennutzungsgesetz)\n [Krankenhaussozialdienst](krankenhaussozialdienst)\n\nWeblinks\n Internetseite zum E-Rezept",
+  "inhalt": "Das E-Rezept, d.h. die elektronische Verordnung oder Verschreibung für den Patienten durch seinen Arzt oder seine Ärztin, ist für verschreibungspflichtige Arzneimittel in Deutschland seit dem 01.01.2024 zur Regel geworden. Die Verwendung von Verordnungen und Empfehlungen in elektronischer Form wurde in § 86 SGB V sozialgesetzlich vorbereitet. Es geht dabei um sogenannte Bundesmantelverträge zwischen den Kassenärztlichen Bundesvereinigungen und dem Spitzenverband Bund der Krankenkassen in Deutschland. \n\nDie verpflichtende Einführung des E-Rezepts mit Hilfe der deutschen Telematikinfrastruktur hat die jahrelange „Zettelwirtschaft“ im Gesundheitswesen beendet. Die früheren Arztrezepte auf Papier werden zur rechtssicheren Abrechnung der Arzneimittelkosten des [Krankenversicherung](krankenversicherung) Patienten heute nicht mehr benötigt. Bekanntlich konnten in Einzelfällen auch solche Arztrezepte gefälscht werden (= Urkundenfälschung).\n\nSiehe auch\n [digitale Barrierefreiheit](digitale-barrierefreiheit)\n [IT-Sicherheit](it-sicherheit), [Datenschutz](datenschutz), [Interoperabilität](interoperabilität)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n [elektronischer Identitätsnachweis](elektronischer-identitätsnachweis)\n [Medikationsplan](medikationsplan)\n [e-Rechnung](e-rechnung)\n [Neu](neu)\n [Gesundheitsdatennutzungsgesetz](gesundheitsdatennutzungsgesetz)\n [Krankenhaussozialdienst](krankenhaussozialdienst)\n\nWeblinks\n Internetseite zum E-Rezept\n\n[Kategorie:Gesundheitssorge](kategorie:gesundheitssorge)\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -27,26 +27,31 @@
     },
     {
       "titel": "Weblinks",
-      "inhalt": "Internetseite zum E-Rezept",
+      "inhalt": "Internetseite zum E-Rezept\n\nKategorie:Gesundheitssorge\nKategorie:Rechtsnormen",
       "tags": [
+        "kategorie",
         "internetseite",
-        "rezept"
+        "rezept",
+        "gesundheitssorge",
+        "rechtsnormen"
       ]
     }
   ],
   "zusammenfassung": "Das E-Rezept, d.h. die elektronische Verordnung oder Verschreibung für den Patienten durch seinen Arzt oder seine Ärztin, ist für verschreibungspflichtige Arzneimittel in Deutschland seit dem 01.01.2024 zur Regel geworden. Die Verwendung von Verordnungen und Empfehlungen in elektronischer Form wurde...",
   "verwandteArtikel": [
-    "interoperabilität",
+    "it-sicherheit",
+    "digitale-barrierefreiheit",
     "elektronischer-identitätsnachweis",
+    "interoperabilität",
+    "datenschutz",
+    "medikationsplan",
     "neu",
+    "krankenhaussozialdienst",
+    "kategorie:gesundheitssorge",
+    "kategorie:rechtsnormen",
+    "krankenversicherung",
     "e-rechnung",
     "gesundheitsdatennutzungsgesetz",
-    "krankenhaussozialdienst",
-    "rechtsverkehr-in-deutschland",
-    "medikationsplan",
-    "krankenversicherung",
-    "datenschutz",
-    "digitale-barrierefreiheit",
-    "it-sicherheit"
+    "rechtsverkehr-in-deutschland"
   ]
 }
