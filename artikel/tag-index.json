@@ -1380,6 +1380,7 @@
     "altenheim",
     "amtsermittlungspflicht",
     "amtspflichtverletzung",
+    "anlagegeld",
     "arztzeugnis",
     "aufenthaltsbestimmung",
     "aufgabenkreis",
@@ -1426,11 +1427,13 @@
     "delegation",
     "drittes-betreuungsrechtsänderungsgesetz",
     "e-rezept",
+    "eidesstattliche-versicherung",
     "eingruppierung",
     "einverständniserklärung",
     "einwilligungsfähigkeit",
     "einwilligungsvorbehalt",
     "elektronische-patientenakte",
+    "elektronisches-gerichts--und-verwaltungspostfach",
     "erbausschlagung",
     "erbschaft",
     "erziehungsmaßregeln",
@@ -1446,6 +1449,8 @@
     "haftpflichtversicherung",
     "heimangelegenheiten",
     "it-sicherheit",
+    "informationspflicht",
+    "interoperabilität",
     "kirchenaustritt",
     "kontrollbetreuer",
     "link-liste",
@@ -1458,6 +1463,7 @@
     "mietvertragsangelegenheiten",
     "mündelgeld",
     "natürlicher-wille",
+    "neu",
     "peg-sonde",
     "patientenverfügung",
     "patientenverfügungsgesetz",
@@ -1475,6 +1481,7 @@
     "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zur-anhörung",
     "rechtsprechung-zur-unterbringung",
+    "rechtsverkehr-in-deutschland",
     "registrierung",
     "regress-der-staatskasse",
     "rente",
@@ -1498,6 +1505,7 @@
     "strafprozess",
     "strafverfahren",
     "stundensatz",
+    "subsidiaritätsprinzip",
     "synopse-patientenverfügungsgesetze",
     "tabelleneinstufung",
     "testierfähigkeit",
@@ -1533,6 +1541,8 @@
     "wohnungsauflösung",
     "zeitschrift-für-professionelle-betreuungsarbeit",
     "zuführung-zur-unterbringung",
+    "zugangsrecht",
+    "zugriffsrecht",
     "zwangsbehandlung",
     "zwangsvollstreckung"
   ],
@@ -6931,8 +6941,7 @@
     "verfahrensfähigkeit",
     "vertretung-gegenüber-behörden",
     "vertretungsmacht",
-    "widerspruchsrecht",
-    "zugangsrecht"
+    "widerspruchsrecht"
   ],
   "bundesnotarkammer": [
     "angehörigenvertretungsrecht",
@@ -7334,7 +7343,6 @@
     "anlagegeld",
     "anlagegeld",
     "bankvollmacht",
-    "eidesstattliche-versicherung",
     "mündelsicher",
     "sperrvereinbarung"
   ],
@@ -7399,6 +7407,7 @@
     "wohnungsangelegenheiten"
   ],
   "vermögenssorge": [
+    "anlagegeld",
     "anlagegeld",
     "anlagegeld",
     "anlagegeld",
@@ -10737,7 +10746,6 @@
   ],
   "zugriffsrecht": [
     "befreiter-betreuer",
-    "informationspflicht",
     "medikationsplan",
     "schweigepflicht",
     "vorsorgeregister"
@@ -11227,8 +11235,7 @@
   "nutzungspflicht": [
     "begleitforschung",
     "e-rechnung",
-    "mitteilungspflicht",
-    "zugriffsrecht"
+    "mitteilungspflicht"
   ],
   "dokumentationspflicht": [
     "begleitforschung",
@@ -14333,7 +14340,6 @@
     "rechtsmittel",
     "rechtsmittel",
     "rechtsweg-in-deutschland",
-    "subsidiaritätsprinzip",
     "verlängerung-der-betreuung",
     "vertretung-gegenüber-behörden",
     "widerspruchsrecht"
@@ -15312,7 +15318,6 @@
     "informationspflicht",
     "interoperabilität",
     "mailingliste",
-    "neu",
     "organspende",
     "patientenverfügung",
     "postkontrolle",
@@ -15725,7 +15730,6 @@
     "ehefähigkeit",
     "eherecht",
     "lebenspartnerschaft",
-    "rechtsverkehr-in-deutschland",
     "sterilisation",
     "trennungsgebot"
   ],
@@ -16428,12 +16432,6 @@
   ],
   "benutzung": [
     "elektronisches-gerichts--und-verwaltungspostfach"
-  ],
-  "geheimhaltungspflicht": [
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "inklusionsbetrieb",
-    "vertreterdokumentation",
-    "werkstatt-für-behinderte-menschen"
   ],
   "kindschaftsrecht": [
     "elterliche-sorge",
@@ -18580,6 +18578,11 @@
   ],
   "inklusionsbetriebe": [
     "inklusionsbetrieb"
+  ],
+  "geheimhaltungspflicht": [
+    "inklusionsbetrieb",
+    "vertreterdokumentation",
+    "werkstatt-für-behinderte-menschen"
   ],
   "rechtsbegriff": [
     "insichgeschäft",

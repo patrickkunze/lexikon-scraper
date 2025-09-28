@@ -1,7 +1,7 @@
 {
   "id": "elektronischer-identitätsnachweis",
   "titel": "Elektronischer Identitätsnachweis",
-  "inhalt": "Was der [Personalausweis](personalausweis) oder der Reisepass rechtlich im realen Leben leistet, leistet der elektronische Identitätsnachweis (eID) im Internet.\n\nBeide Aus- bzw. Nachweise können gefälscht werden. Dagegen gibt es im deutschen Strafgesetzbuch zahlreiche Strafvorschriften:\n\n Urkundenfälschung § 267 StGB\n Fälschung beweiserheblicher Daten § 269 StGB\n Täuschung im Rechtsverkehr bei Datenverarbeitung § 270 StGB\n Missbrauch von Ausweispapieren § 281 StGB\n\nSiehe auch\n [Personalausweis](personalausweis)\n [Betreuerausweis](betreuerausweis)\n [Betreuungsrechtsreform](betreuungsrechtsreform)\n [e-Rezept](e-rezept), [Medikationsplan](medikationsplan), [elektronische Patientenakte](elektronische-patientenakte)\n [Software](software)\n [digitale Barrierefreiheit](digitale-barrierefreiheit)\n [Informationspflicht](informationspflicht)\n [Interoperabilität](interoperabilität)\n [Datenschutz](datenschutz)\n [IT-Sicherheit](it-sicherheit)\n [Registrierung](registrierung)\n [ordre public](ordre-public)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n [Strafprozess](strafprozess)\n [Zugriffsrecht](zugriffsrecht)\n [Elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach), [Nutzungspflicht](nutzungspflicht)\n\nWeblinks\n gemeinnütziger Bürgerservice e.V. zur Förderung der Nutzung der Online-Ausweisfunktion",
+  "inhalt": "Was der [Personalausweis](personalausweis) oder der Reisepass rechtlich im realen Leben leistet, leistet der elektronische Identitätsnachweis (eID) im Internet.\n\nBeide Aus- bzw. Nachweise können gefälscht werden. Dagegen gibt es im deutschen Strafgesetzbuch zahlreiche Strafvorschriften:\n\n Urkundenfälschung § 267 StGB\n Fälschung beweiserheblicher Daten § 269 StGB\n Täuschung im Rechtsverkehr bei Datenverarbeitung § 270 StGB\n Missbrauch von Ausweispapieren § 281 StGB\n\nSiehe auch\n [Personalausweis](personalausweis)\n [Betreuerausweis](betreuerausweis)\n [Betreuungsrechtsreform](betreuungsrechtsreform)\n [e-Rezept](e-rezept), [Medikationsplan](medikationsplan), [elektronische Patientenakte](elektronische-patientenakte)\n [Software](software)\n [digitale Barrierefreiheit](digitale-barrierefreiheit)\n [Informationspflicht](informationspflicht)\n [Interoperabilität](interoperabilität)\n [Datenschutz](datenschutz)\n [IT-Sicherheit](it-sicherheit)\n [Registrierung](registrierung)\n [ordre public](ordre-public)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n [Strafprozess](strafprozess)\n [Zugriffsrecht](zugriffsrecht)\n [Elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach), [Nutzungspflicht](nutzungspflicht)\n\nWeblinks\n gemeinnütziger Bürgerservice e.V. zur Förderung der Nutzung der Online-Ausweisfunktion\n\n[Kategorie:Auswirkungen](kategorie:auswirkungen)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -27,7 +27,7 @@
     },
     {
       "titel": "Weblinks",
-      "inhalt": "gemeinnütziger Bürgerservice e.V. zur Förderung der Nutzung der Online-Ausweisfunktion",
+      "inhalt": "gemeinnütziger Bürgerservice e.V. zur Förderung der Nutzung der Online-Ausweisfunktion\n\nKategorie:Auswirkungen",
       "tags": [
         "gemeinnütziger",
         "bürgerservice",
@@ -39,24 +39,25 @@
   ],
   "zusammenfassung": "Was der [Personalausweis](personalausweis) oder der Reisepass rechtlich im realen Leben leistet, leistet der elektronische Identitätsnachweis (eID) im Internet.\n\nBeide Aus- bzw. Nachweise können gefälscht werden. Dagegen gibt es im deutschen Strafgesetzbuch zahlreiche Strafvorschriften:\n\n Urkundenfä...",
   "verwandteArtikel": [
-    "informationspflicht",
-    "digitale-barrierefreiheit",
-    "medikationsplan",
+    "ordre-public",
+    "nutzungspflicht",
+    "elektronisches-gerichts--und-verwaltungspostfach",
     "e-rezept",
+    "rechtsverkehr-in-deutschland",
+    "elektronische-patientenakte",
     "personalausweis",
-    "strafprozess",
-    "zugriffsrecht",
-    "interoperabilität",
+    "it-sicherheit",
     "datenschutz",
+    "zugriffsrecht",
+    "informationspflicht",
     "betreuerausweis",
     "registrierung",
-    "nutzungspflicht",
-    "elektronische-patientenakte",
-    "it-sicherheit",
     "betreuungsrechtsreform",
+    "kategorie:auswirkungen",
+    "interoperabilität",
+    "medikationsplan",
     "software",
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "ordre-public",
-    "rechtsverkehr-in-deutschland"
+    "digitale-barrierefreiheit",
+    "strafprozess"
   ]
 }
