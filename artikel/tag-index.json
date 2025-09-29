@@ -1418,6 +1418,7 @@
     "broschüren",
     "btbg",
     "buchverzeichnis",
+    "bundesverband-der-berufsbetreuer",
     "checkliste-betreuerpflichten",
     "checkliste-gesundheitssorge",
     "checkliste-personenbogen",
@@ -1426,6 +1427,7 @@
     "checkliste-für-arztgespräche",
     "delegation",
     "drittes-betreuungsrechtsänderungsgesetz",
+    "e-rechnung",
     "e-rezept",
     "eidesstattliche-versicherung",
     "eingruppierung",
@@ -1464,6 +1466,7 @@
     "mündelgeld",
     "natürlicher-wille",
     "neu",
+    "nutzungspflicht",
     "peg-sonde",
     "patientenverfügung",
     "patientenverfügungsgesetz",
@@ -5863,6 +5866,7 @@
   "deutsche": [
     "amtspflichtverletzung",
     "betreuungsverein",
+    "föderalismus",
     "gesundheitsdatennutzungsgesetz",
     "globales-nachhaltigkeitsziel-10",
     "grundrechte",
@@ -7094,7 +7098,6 @@
     "ebo",
     "egvp",
     "elektronisches-gerichts--und-verwaltungspostfach",
-    "nutzungspflicht",
     "personalausweis",
     "prozessführung",
     "querschnittsaufgaben",
@@ -10667,7 +10670,6 @@
     "betreuungsgesetz",
     "betreuungsgesetz",
     "btg",
-    "gesetzgebung",
     "vormundschaftsgericht",
     "vorsorgevollmacht"
   ],
@@ -11234,7 +11236,6 @@
   ],
   "nutzungspflicht": [
     "begleitforschung",
-    "e-rechnung",
     "mitteilungspflicht"
   ],
   "dokumentationspflicht": [
@@ -12277,6 +12278,7 @@
     "betreuer-als-erbe",
     "betreuervorschlag",
     "betreuungsplan",
+    "föderalismus",
     "gegenbetreuer",
     "haager-übereinkommen",
     "heilbehandlung",
@@ -14126,7 +14128,6 @@
   "betreuungsrechtliche": [
     "betreuungsrechtliche-praxis",
     "buchverzeichnis",
-    "bundesverband-der-berufsbetreuer",
     "bundesverband-freier-berufsbetreuer"
   ],
   "verlagsseite": [
@@ -14581,6 +14582,12 @@
   "vergütungen": [
     "betreuungszahlen",
     "gerichtskosten"
+  ],
+  "föderalismus": [
+    "betreuungszahlen",
+    "föderalismus",
+    "gesetzgebung",
+    "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "warum": [
     "betreuungszahlen"
@@ -15483,8 +15490,7 @@
   ],
   "amtspflichtverletzung": [
     "diskriminierungsverbot",
-    "finanzamt",
-    "selbstverwaltung-der-deutschen-gemeinden"
+    "finanzamt"
   ],
   "bestattungsvertrag": [
     "diskriminierungsverbot",
@@ -16951,6 +16957,71 @@
     "freier-wille",
     "umgangsbestimmung",
     "umgangsbestimmung"
+  ],
+  "fachbegriff": [
+    "föderalismus",
+    "interoperabilität",
+    "interoperabilität",
+    "interoperabilität"
+  ],
+  "bezeichnet": [
+    "föderalismus",
+    "prozesspfleger"
+  ],
+  "verfassungsrechtliche": [
+    "föderalismus"
+  ],
+  "gestaltungsform": [
+    "föderalismus"
+  ],
+  "foedus": [
+    "föderalismus"
+  ],
+  "lateinische": [
+    "föderalismus"
+  ],
+  "wort": [
+    "föderalismus",
+    "registrierung",
+    "unterstützte-kommunikation"
+  ],
+  "zahlreiche": [
+    "föderalismus"
+  ],
+  "streben": [
+    "föderalismus"
+  ],
+  "bundesstaat": [
+    "föderalismus"
+  ],
+  "unitarismus": [
+    "föderalismus"
+  ],
+  "partikularismus": [
+    "föderalismus"
+  ],
+  "emotionale": [
+    "föderalismus"
+  ],
+  "regierungen": [
+    "föderalismus",
+    "neu"
+  ],
+  "bund": [
+    "föderalismus",
+    "mdk-gutachten",
+    "neu",
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "vorsorgeregister",
+    "vorsorgeregisterverordnung"
+  ],
+  "ländern": [
+    "föderalismus",
+    "selbstverwaltung-der-deutschen-gemeinden"
+  ],
+  "allem": [
+    "föderalismus",
+    "patientenverfügung"
   ],
   "gegenbetreuers": [
     "gegenbetreuer",
@@ -18641,11 +18712,6 @@
   "schwachsinn": [
     "intellektuelle-beeinträchtigung"
   ],
-  "fachbegriff": [
-    "interoperabilität",
-    "interoperabilität",
-    "interoperabilität"
-  ],
   "verliehen": [
     "interoperabilität"
   ],
@@ -19111,13 +19177,6 @@
   "dienstes": [
     "mdk-gutachten"
   ],
-  "bund": [
-    "mdk-gutachten",
-    "neu",
-    "selbstverwaltung-der-deutschen-gemeinden",
-    "vorsorgeregister",
-    "vorsorgeregisterverordnung"
-  ],
   "sonde": [
     "magensonde",
     "peg-sonde",
@@ -19418,9 +19477,6 @@
     "neu"
   ],
   "beiden": [
-    "neu"
-  ],
-  "regierungen": [
     "neu"
   ],
   "schlossen": [
@@ -19850,9 +19906,6 @@
   "weist": [
     "patientenverfügung"
   ],
-  "allem": [
-    "patientenverfügung"
-  ],
   "staatliche": [
     "patientenverfügung"
   ],
@@ -20153,9 +20206,6 @@
     "prozesspfleger",
     "rechtsanwalt"
   ],
-  "bezeichnet": [
-    "prozesspfleger"
-  ],
   "verwaltungsverfahren": [
     "prozesspfleger"
   ],
@@ -20387,10 +20437,6 @@
   "subsidiaritätsprinzip": [
     "rechtsweg-in-deutschland",
     "selbstverwaltung-der-deutschen-gemeinden"
-  ],
-  "wort": [
-    "registrierung",
-    "unterstützte-kommunikation"
   ],
   "folge": [
     "registrierung"
@@ -20791,9 +20837,6 @@
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "westdeutschen": [
-    "selbstverwaltung-der-deutschen-gemeinden"
-  ],
-  "ländern": [
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "säkularen": [
