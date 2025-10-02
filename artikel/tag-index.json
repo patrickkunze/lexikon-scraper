@@ -1438,13 +1438,16 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "erbausschlagung",
     "erbschaft",
+    "ermessensvergütung",
     "erziehungsmaßregeln",
     "fgg",
     "famfg",
     "formulare",
+    "föderalismus",
     "geheimhaltungspflicht",
     "geldanlage",
     "genehmigungspflichten",
+    "gesetzgebung",
     "gesetzlicher-vertreter",
     "gesundheitsdatennutzungsgesetz",
     "gesundheitssorge",
@@ -1467,6 +1470,7 @@
     "natürlicher-wille",
     "neu",
     "nutzungspflicht",
+    "organspende",
     "peg-sonde",
     "patientenverfügung",
     "patientenverfügungsgesetz",
@@ -1491,6 +1495,7 @@
     "rheinland-pfalz",
     "rundfunkbeitrag",
     "saarland",
+    "sachkundelehrgang",
     "sachkundenachweis",
     "sachsen-anhalt",
     "schenkung",
@@ -5766,6 +5771,7 @@
     "delegation",
     "digitale-barrierefreiheit",
     "ehefähigkeit",
+    "föderalismus",
     "geschäftsfähigkeit",
     "gesetzgebung",
     "grundrechte",
@@ -8974,7 +8980,6 @@
   ],
   "public": [
     "aufgabenkreis",
-    "gesetzgebung",
     "selbstverwaltung-der-deutschen-gemeinden",
     "sterbehilfe",
     "tierschutz",
@@ -9564,6 +9569,7 @@
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuervergütung-2026",
+    "ermessensvergütung",
     "freibetrag",
     "freibetrag",
     "inflationsausgleich",
@@ -9628,6 +9634,7 @@
   ],
   "betreuerentschädigung": [
     "aufwendungsersatz",
+    "ermessensvergütung",
     "tabelleneinstufung"
   ],
   "sachkundenachweis": [
@@ -9984,11 +9991,13 @@
   ],
   "selbstverwaltung": [
     "ausländer",
+    "föderalismus",
     "selbstverwaltung-der-deutschen-gemeinden",
     "selbstverwaltungserklärung"
   ],
   "gemeinden": [
     "ausländer",
+    "föderalismus",
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "ausgesprochene": [
@@ -10103,7 +10112,6 @@
   ],
   "rechtsnormen": [
     "bgb",
-    "betreuervergütung-2026",
     "btbg",
     "drittes-betreuungsrechtsänderungsgesetz",
     "e-rezept",
@@ -12314,6 +12322,7 @@
   ],
   "betreuungsende": [
     "betreuer-als-erbe",
+    "organspende",
     "schlusstätigkeiten"
   ],
   "erbrecht": [
@@ -13332,6 +13341,12 @@
     "vbvg-rechtsprechung",
     "vormünder--und-betreuervergütungsgesetz"
   ],
+  "ermessensvergütung": [
+    "betreuervergütung-2019",
+    "betreuervergütung-2026",
+    "ermessensvergütung",
+    "gesetzestexte"
+  ],
   "kreutzer": [
     "betreuervergütung-2019",
     "betreuungsverfahren",
@@ -13904,6 +13919,7 @@
     "betreuungsorganisationsgesetz",
     "betreuungsrechtsreform",
     "familienverfahrensgesetz",
+    "föderalismus",
     "gesetzestexte",
     "gesetzgebung",
     "gesundheitsdatennutzungsgesetz",
@@ -15988,7 +16004,6 @@
     "natürlicher-wille",
     "psychisch-kranken-gesetz",
     "rechtsprechung-zur-anhörung",
-    "sachkundelehrgang",
     "schweigepflicht",
     "selbstbestimmung",
     "selbstbestimmung",
@@ -16554,6 +16569,7 @@
     "erbausschlagung",
     "erbschaft",
     "mahnverfahren",
+    "organspende",
     "selbstbestimmung",
     "strafprozess",
     "testierfähigkeit",
@@ -16711,10 +16727,6 @@
   ],
   "mühlhausen": [
     "ergänzungsbetreuer"
-  ],
-  "ermessensvergütung": [
-    "ermessensvergütung",
-    "gesetzestexte"
   ],
   "erziehungsmaßregeln": [
     "erziehungsmaßregeln"
