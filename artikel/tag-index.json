@@ -708,6 +708,7 @@
     "vermögensverzeichnis",
     "vermögensverzeichnis",
     "verpflichtungsgespräch",
+    "verpflichtungsgespräch",
     "vertreterdokumentation",
     "vertretung-gegenüber-behörden",
     "vertretung-gegenüber-behörden",
@@ -5558,6 +5559,7 @@
     "tod-des-betreuten",
     "trennungsgebot",
     "unterstützte-entscheidungsfindung",
+    "verpflichtungsgespräch",
     "vertretung-gegenüber-behörden",
     "zugangsrecht",
     "zwangsvollstreckung"
@@ -9029,6 +9031,7 @@
     "aufgabenkreis",
     "gesetzliche-vertretung",
     "vermögenssorge",
+    "verpflichtungsgespräch",
     "vormundschaftsgericht",
     "wohnungsauflösung"
   ],
@@ -12268,6 +12271,12 @@
     "betreuer-(ehrenamt)",
     "gesetzestexte",
     "vereinsbetreuer"
+  ],
+  "verpflichtungsgespräch": [
+    "betreuer-(ehrenamt)",
+    "einführungsgespräch",
+    "gerichtsbeschluss",
+    "verpflichtungsgespräch"
   ],
   "ratgeber": [
     "betreuer-(ehrenamt)",
@@ -15863,7 +15872,8 @@
     "ehrenamtlicher-betreuer",
     "pflicht-zur-betreuungsübernahme",
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
-    "vereinbarung-über-begleitung-und-unterstützung"
+    "vereinbarung-über-begleitung-und-unterstützung",
+    "verpflichtungsgespräch"
   ],
   "vermögensübersicht": [
     "eidesstattliche-versicherung"
@@ -15932,11 +15942,6 @@
     "schlussrechnung",
     "schlusstätigkeiten",
     "tod-des-betreuers"
-  ],
-  "verpflichtungsgespräch": [
-    "einführungsgespräch",
-    "gerichtsbeschluss",
-    "verpflichtungsgespräch"
   ],
   "bundesteilhabegesetz": [
     "eingliederungshilfe"
@@ -16347,6 +16352,7 @@
     "freibetrag",
     "schenkung",
     "schlusstätigkeiten",
+    "verpflichtungsgespräch",
     "wohnungsauflösung"
   ],
   "anwaltliche": [
