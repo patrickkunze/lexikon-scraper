@@ -1409,6 +1409,7 @@
     "betreuungsarbeitsgemeinschaft",
     "betreuungsbehörde",
     "betreuungsbehördengesetz",
+    "betreuungsgericht",
     "betreuungsgerichtshilfe",
     "betreuungskosten-im-steuerrecht",
     "betreuungsmanagement",
@@ -1456,6 +1457,7 @@
     "heimangelegenheiten",
     "it-sicherheit",
     "informationspflicht",
+    "insichgeschäft",
     "interoperabilität",
     "kirchenaustritt",
     "kontrollbetreuer",
@@ -3530,7 +3532,8 @@
   "begleitforschung": [
     "allgemeines",
     "betreuungszahlen",
-    "evaluation"
+    "evaluation",
+    "vorsorgeregister"
   ],
   "hauptseite": [
     "allgemeines"
@@ -5022,7 +5025,6 @@
     "beratung",
     "betreuerhaftung",
     "betreuerwechsel",
-    "betreuungsgericht",
     "betreuungsverein",
     "datenschutz",
     "diskriminierungsverbot",
@@ -5545,6 +5547,7 @@
     "delegation",
     "eidesstattliche-versicherung",
     "erbschaft",
+    "insichgeschäft",
     "kirchenaustritt",
     "mitteilungspflicht",
     "peg-sonde",
@@ -5873,6 +5876,7 @@
   ],
   "deutsche": [
     "amtspflichtverletzung",
+    "begleitforschung",
     "betreuungsverein",
     "föderalismus",
     "gesundheitsdatennutzungsgesetz",
@@ -7111,7 +7115,6 @@
     "querschnittsaufgaben",
     "sachkundenachweis",
     "software",
-    "vorsorgeregister",
     "zugriffsrecht"
   ],
   "rechtliches": [
@@ -7436,6 +7439,7 @@
     "grundstück",
     "haftpflichtversicherung",
     "hamburger-mustergliederung",
+    "insichgeschäft",
     "insichgeschäft",
     "mündelgeld",
     "rechnungslegung",
@@ -10122,6 +10126,7 @@
     "famfg",
     "gesundheitsdatennutzungsgesetz",
     "it-sicherheit",
+    "insichgeschäft",
     "patientenverfügungsgesetz",
     "vbvg"
   ],
@@ -11204,6 +11209,20 @@
     "betreuungsplan",
     "verbraucherstreitbeilegung"
   ],
+  "onkologischen": [
+    "begleitforschung"
+  ],
+  "bundeskrebsregisterdatengesetz": [
+    "begleitforschung"
+  ],
+  "bkrg": [
+    "begleitforschung"
+  ],
+  "dazu": [
+    "begleitforschung",
+    "prozessfähigkeit",
+    "wahlrecht"
+  ],
   "sellin": [
     "begleitforschung"
   ],
@@ -12278,6 +12297,13 @@
     "gerichtsbeschluss",
     "verpflichtungsgespräch"
   ],
+  "ermessensvergütung": [
+    "betreuer-(ehrenamt)",
+    "betreuervergütung-2019",
+    "betreuervergütung-2026",
+    "ermessensvergütung",
+    "gesetzestexte"
+  ],
   "ratgeber": [
     "betreuer-(ehrenamt)",
     "betreuungsverfügung",
@@ -13349,12 +13375,6 @@
     "vbvg",
     "vbvg-rechtsprechung",
     "vormünder--und-betreuervergütungsgesetz"
-  ],
-  "ermessensvergütung": [
-    "betreuervergütung-2019",
-    "betreuervergütung-2026",
-    "ermessensvergütung",
-    "gesetzestexte"
   ],
   "kreutzer": [
     "betreuervergütung-2019",
@@ -14658,7 +14678,6 @@
     "rechnungslegung",
     "sachkundenachweis",
     "software",
-    "vorsorgeregister",
     "zugriffsrecht"
   ],
   "ansehen": [
@@ -20137,10 +20156,6 @@
   "prozesshandlungen": [
     "prozessfähigkeit"
   ],
-  "dazu": [
-    "prozessfähigkeit",
-    "wahlrecht"
-  ],
   "ziegltrum": [
     "prozessfähigkeit"
   ],
@@ -20454,7 +20469,8 @@
   ],
   "subsidiaritätsprinzip": [
     "rechtsweg-in-deutschland",
-    "selbstverwaltung-der-deutschen-gemeinden"
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "vorsorgeregister"
   ],
   "folge": [
     "registrierung"
