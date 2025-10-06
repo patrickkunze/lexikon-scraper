@@ -482,6 +482,7 @@
     "ergänzungsbetreuer",
     "ergänzungsbetreuer",
     "ermessensvergütung",
+    "ermessensvergütung",
     "erörterungsgespräch",
     "finanzamt",
     "gegenbetreuer",
@@ -1477,6 +1478,7 @@
     "peg-sonde",
     "patientenverfügung",
     "patientenverfügungsgesetz",
+    "patientenvertreter",
     "persönliche-betreuung",
     "persönliches-budget",
     "pflegeversicherung",
@@ -1548,6 +1550,7 @@
     "vormünder--und-betreuervergütungsgesetz",
     "vorsorgeregisterverordnung",
     "widerspruchsrecht",
+    "wohn--und-betreuungsvertragsgesetz",
     "wohnungsangelegenheiten",
     "wohnungsauflösung",
     "zeitschrift-für-professionelle-betreuungsarbeit",
@@ -9641,7 +9644,6 @@
   ],
   "betreuerentschädigung": [
     "aufwendungsersatz",
-    "ermessensvergütung",
     "tabelleneinstufung"
   ],
   "sachkundenachweis": [
@@ -12175,6 +12177,7 @@
     "betreuerhaftung",
     "betreuervergütung-2019",
     "ermessensvergütung",
+    "ermessensvergütung",
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "vereinbarung-über-begleitung-und-unterstützung"
   ],
@@ -13846,8 +13849,7 @@
     "betreuungsbehördengesetz"
   ],
   "landesrecht": [
-    "betreuungsbehördengesetz",
-    "wohn--und-betreuungsvertragsgesetz"
+    "betreuungsbehördengesetz"
   ],
   "organisation": [
     "betreuungsbehördengesetz",
@@ -15787,7 +15789,6 @@
     "ehefähigkeit",
     "ehegattenvertretungsrecht",
     "gesetzliche-vertretung",
-    "patientenvertreter",
     "psychisch-kranken-gesetz",
     "schlüsselgewalt",
     "vorsorgeregisterverordnung"
@@ -16752,6 +16753,10 @@
   ],
   "mühlhausen": [
     "ergänzungsbetreuer"
+  ],
+  "betreuerinnen": [
+    "ermessensvergütung",
+    "unterstützungspflicht"
   ],
   "erziehungsmaßregeln": [
     "erziehungsmaßregeln"
@@ -21865,9 +21870,6 @@
     "unterstützte-kommunikation"
   ],
   "gewaltenteilung": [
-    "unterstützungspflicht"
-  ],
-  "betreuerinnen": [
     "unterstützungspflicht"
   ],
   "exekutive": [
