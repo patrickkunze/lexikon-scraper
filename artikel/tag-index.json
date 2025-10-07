@@ -2839,6 +2839,7 @@
     "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
+    "eidesstattliche-versicherung",
     "einstweilige-anordnung",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "ermessensvergütung",
@@ -5968,6 +5969,7 @@
     "betreuungsplan",
     "e-rechnung",
     "gesetzestexte",
+    "girokonto",
     "grundstück",
     "mündelgeld",
     "schlussrechnungslegung",
@@ -11459,7 +11461,6 @@
   "befreiter": [
     "behördenbetreuer",
     "gesetzestexte",
-    "girokonto",
     "rechnungslegung"
   ],
   "eingruppierung": [
@@ -15491,6 +15492,7 @@
   ],
   "darf": [
     "diskriminierungsverbot",
+    "eidesstattliche-versicherung",
     "grundrechte",
     "heilbehandlung",
     "insichgeschäft",
@@ -15953,6 +15955,20 @@
     "eidesstattliche-versicherung"
   ],
   "wahrheitsgemäßer": [
+    "eidesstattliche-versicherung"
+  ],
+  "gerichtsvollzieher": [
+    "eidesstattliche-versicherung",
+    "zwangsvollstreckung",
+    "zwangsvollstreckung"
+  ],
+  "schuldner": [
+    "eidesstattliche-versicherung",
+    "zwangsvollstreckung",
+    "zwangsvollstreckung",
+    "zwangsvollstreckung"
+  ],
+  "auskünfte": [
     "eidesstattliche-versicherung"
   ],
   "schlussrechnungslegung": [
@@ -22801,16 +22817,7 @@
   "überweisungsbeschlusses": [
     "zwangsvollstreckung"
   ],
-  "gerichtsvollzieher": [
-    "zwangsvollstreckung",
-    "zwangsvollstreckung"
-  ],
   "pflegeeinrichtung": [
-    "zwangsvollstreckung"
-  ],
-  "schuldner": [
-    "zwangsvollstreckung",
-    "zwangsvollstreckung",
     "zwangsvollstreckung"
   ],
   "vermögensauskunft": [
