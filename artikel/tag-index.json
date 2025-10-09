@@ -881,6 +881,7 @@
     "wahlrecht",
     "widerspruchsrecht",
     "wohn--und-betreuungsvertragsgesetz",
+    "zug-um-zug-leistung",
     "zugangsrecht",
     "zugangsrecht",
     "zugangsrecht"
@@ -1555,6 +1556,7 @@
     "wohnungsauflösung",
     "zeitschrift-für-professionelle-betreuungsarbeit",
     "zuführung-zur-unterbringung",
+    "zug-um-zug-leistung",
     "zugangsrecht",
     "zugriffsrecht",
     "zwangsbehandlung",
@@ -2483,7 +2485,8 @@
     "vorsorgevollmacht",
     "vorsorgevollmacht---vertiefte-infos",
     "wohnungsangelegenheiten",
-    "wohnungsauflösung"
+    "wohnungsauflösung",
+    "zug-um-zug-leistung"
   ],
   "nach": [
     "abschlussbericht",
@@ -3672,6 +3675,9 @@
     "vermögensverzeichnis",
     "vollmachtswiderruf",
     "wahlrecht",
+    "zug-um-zug-leistung",
+    "zug-um-zug-leistung",
+    "zug-um-zug-leistung",
     "zugangsrecht",
     "zugangsrecht",
     "zugangsrecht"
@@ -3955,7 +3961,8 @@
   "rechtsverkehr": [
     "alltagsgeschäfte",
     "krankenversicherung",
-    "rechtsverkehr-in-deutschland"
+    "rechtsverkehr-in-deutschland",
+    "zug-um-zug-leistung"
   ],
   "reck": [
     "alltagsgeschäfte"
@@ -4132,6 +4139,7 @@
     "vertretung-gegenüber-behörden",
     "vorläufiger-betreuer",
     "vorsorgevollmacht",
+    "zug-um-zug-leistung",
     "zwangsvollstreckung"
   ],
   "alten": [
@@ -4514,7 +4522,8 @@
   ],
   "vertrags": [
     "altenheim",
-    "verbraucherstreitbeilegung"
+    "verbraucherstreitbeilegung",
+    "zug-um-zug-leistung"
   ],
   "muss": [
     "altenheim",
@@ -5804,7 +5813,8 @@
     "unterstützungspflicht",
     "unterstützungspflicht",
     "unterstützungspflicht",
-    "vulnerabilität"
+    "vulnerabilität",
+    "zug-um-zug-leistung"
   ],
   "diese": [
     "amtsermittlungspflicht",
@@ -6381,6 +6391,7 @@
   "betreuungsrichter": [
     "anfangsgespräch",
     "betreuungsgericht",
+    "gerichtsbeschluss",
     "gewaltschutzanordnung",
     "grundrechte",
     "rechtsmittel",
@@ -6787,6 +6798,7 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "genehmigung-der-heilbehandlung",
     "genehmigungspflichten",
+    "gerichtsbeschluss",
     "gerichtskosten",
     "haager-übereinkommen",
     "hauptseite",
@@ -6798,6 +6810,7 @@
     "vorsorgevollmacht---vertiefte-infos",
     "wohnungsangelegenheiten",
     "wohnungsangelegenheiten",
+    "zug-um-zug-leistung",
     "zwangsvollstreckung"
   ],
   "krankenhauses": [
@@ -7144,8 +7157,6 @@
     "betreuervergütung",
     "betreutes-wohnen",
     "betreuungsorganisationsgesetz",
-    "betreuungsrichter",
-    "gerichtsbeschluss",
     "gerichtskosten",
     "geschäftsfähigkeit",
     "gesetzestexte",
@@ -7207,7 +7218,6 @@
     "anhörung",
     "betreuerwechsel",
     "betreuungsverfahren",
-    "gerichtsbeschluss",
     "prozessführung",
     "unterbringung",
     "unterbringungssache",
@@ -7377,7 +7387,8 @@
     "betreuervorschlag",
     "haager-übereinkommen",
     "unterstützungspflicht",
-    "wahlrecht"
+    "wahlrecht",
+    "zug-um-zug-leistung"
   ],
   "anlage": [
     "anlagegeld",
@@ -9927,7 +9938,8 @@
   ],
   "juristische": [
     "ausländer",
-    "einwilligungsvorbehalt"
+    "einwilligungsvorbehalt",
+    "zug-um-zug-leistung"
   ],
   "haager": [
     "ausländer",
@@ -11874,7 +11886,10 @@
     "software"
   ],
   "gerichtsbeschluss": [
-    "beschluss"
+    "beschluss",
+    "betreuungsgericht",
+    "betreuungsrichter",
+    "zug-um-zug-leistung"
   ],
   "totenfürsorge": [
     "bestattung"
@@ -13879,10 +13894,6 @@
   ],
   "akten": [
     "betreuungsgericht"
-  ],
-  "umgangsbestimmung": [
-    "betreuungsgericht",
-    "postkontrolle"
   ],
   "bedürfnisse": [
     "betreuungsgerichtshilfe"
@@ -20155,6 +20166,9 @@
   "kontrollbefugnisse": [
     "postkontrolle"
   ],
+  "umgangsbestimmung": [
+    "postkontrolle"
+  ],
   "außner": [
     "postkontrolle"
   ],
@@ -21998,7 +22012,9 @@
     "verbraucherstreitbeilegung"
   ],
   "einrede": [
-    "verbraucherstreitbeilegung"
+    "verbraucherstreitbeilegung",
+    "zug-um-zug-leistung",
+    "zug-um-zug-leistung"
   ],
   "biva": [
     "verbraucherstreitbeilegung"
@@ -22710,6 +22726,18 @@
   ],
   "demenzkranke": [
     "zuführung-zur-unterbringung"
+  ],
+  "zurückbehaltungsrecht": [
+    "zug-um-zug-leistung"
+  ],
+  "erfüllten": [
+    "zug-um-zug-leistung"
+  ],
+  "schadensersatz": [
+    "zug-um-zug-leistung"
+  ],
+  "abtretung": [
+    "zug-um-zug-leistung"
   ],
   "gebrauch": [
     "zugangsrecht"
