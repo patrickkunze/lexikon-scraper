@@ -1,7 +1,7 @@
 {
   "id": "zug-um-zug-leistung",
   "titel": "Zug-um-Zug-Leistung",
-  "inhalt": " Zurückbehaltungsrecht\nDas Zurückbehaltungsrecht im deutschen Schuldrecht (§ 273 BGB) ist eine Folge des Grundsatzes von Treu und Glauben gemäß § 242 BGB. Demnach darf eine geschuldete Leistung solange verweigert werden, bis die entsprechende Gegenleistung bewirkt wird. Dieses Zurückbehaltungsrecht wird juristisch „Einrede“ genannt. Dabei spielt es keine Rolle, ob sich die gegenseitigen Rechtsansprüche aus Vertrag oder [Gesetzgebung](gesetzgebung) ergeben und ob sie schuldrechtlicher oder dinglicher Art (= Sachenrecht ab § 854 BGB) sind. Gemäß § 274 Abs. 1 BGB ist die „Einrede“ nur aufschiebend wirksam. Die Verurteilung vor dem Zivilgericht nach einer entsprechenden Klage lautet oft: Erfüllung Zug um Zug, d.h. beide Parteien werden vom Gericht zu sich gegenseitig bedingenden Wenn-Dann-Handlungen verurteilt. Für verurteilte [Geschäftsfähigkeit](geschäftsfähigkeit) handeln ggf. Bevollmächtigte oder [Betreuer](betreuer) als [gesetzlicher Vertreter](gesetzlicher-vertreter).\n\nEinrede des nicht erfüllten Vertrags\nDie juristische „Einrede“ des nicht erfüllten Vertrags gemäß § 320 BGB führt vor dem Zivilgericht ebenfalls häufig zur Verurteilung Zug um Zug (§ 322 BGB). \n\nAbtretung der Schadensersatzansprüche\nBeim [Schadensersatz](schadensersatz) verbunden mit der Abtretung der Ersatzansprüche gemäß § 255 BGB werden alle Ansprüche, die ein Geschädigter gegen einen Dritten aufgrund des Eigentums an einer Sache hat, an einen anderen abgetreten. Gemäß § 273 Abs. 1 BGB hätte dann der eigentliche Schuldner des Schadensersatzes (= Schädiger) ein Zurückbehaltungsrecht gegenüber dem Geschädigten, weil er ja den Schadensersatz wegen der Abtretung an einen anderen leisten muss. \n\nSiehe auch\n [Gerichtsbeschluss](gerichtsbeschluss)\n [Betreuungsgericht](betreuungsgericht)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)\n[Kategorie:Rechtsprechung](kategorie:rechtsprechung)",
+  "inhalt": " Zurückbehaltungsrecht\nDas Zurückbehaltungsrecht im deutschen Schuldrecht (§ 273 BGB) ist eine Folge des Grundsatzes von Treu und Glauben gemäß § 242 BGB. Demnach darf eine geschuldete Leistung solange verweigert werden, bis die entsprechende Gegenleistung bewirkt wird. Dieses Zurückbehaltungsrecht wird juristisch „Einrede“ genannt. Dabei spielt es keine Rolle, ob sich die gegenseitigen Rechtsansprüche aus Vertrag oder [Gesetzgebung](gesetzgebung) ergeben und ob sie schuldrechtlicher oder dinglicher Art (= Sachenrecht ab § 854 BGB) sind. Gemäß § 274 Abs. 1 BGB ist die „Einrede“ nur aufschiebend wirksam. Die Verurteilung vor dem Zivilgericht nach einer entsprechenden Klage lautet oft: Erfüllung Zug um Zug, d.h. beide Parteien werden vom Gericht zu sich gegenseitig bedingenden Wenn-Dann-Handlungen verurteilt. Für verurteilte [Geschäftsfähigkeit](geschäftsfähigkeit) handeln ggf. Bevollmächtigte oder [Betreuer](betreuer) als [gesetzlicher Vertreter](gesetzlicher-vertreter).\n\nEinrede des nicht erfüllten Vertrags\nDie juristische „Einrede“ des nicht erfüllten Vertrags gemäß § 320 BGB führt vor dem Zivilgericht ebenfalls häufig zur Verurteilung Zug um Zug (§ 322 BGB). \n\nAbtretung der Schadensersatzansprüche\nBeim [Schadensersatz](schadensersatz) verbunden mit der Abtretung der Ersatzansprüche gemäß § 255 BGB werden alle Ansprüche, die ein Geschädigter gegen einen Dritten aufgrund des Eigentums an einer Sache hat, an einen anderen abgetreten. Gemäß § 273 Abs. 1 BGB hätte dann der eigentliche Schuldner des Schadensersatzes (= Schädiger) ein Zurückbehaltungsrecht gegenüber dem Geschädigten, weil er ja den Schadensersatz wegen der Abtretung an einen anderen leisten muss. \n\nSiehe auch\n [Gerichtsbeschluss](gerichtsbeschluss)\n [Betreuungsgericht](betreuungsgericht)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n [Verbraucherstreitbeilegung](verbraucherstreitbeilegung)\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)\n[Kategorie:Rechtsprechung](kategorie:rechtsprechung)",
   "struktur": [
     {
       "titel": "Zurückbehaltungsrecht",
@@ -38,7 +38,7 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Gerichtsbeschluss\n Betreuungsgericht\n Rechtsverkehr in Deutschland\n\nKategorie:Rechtsnormen\nKategorie:Rechtsprechung",
+      "inhalt": "Gerichtsbeschluss\n Betreuungsgericht\n Rechtsverkehr in Deutschland\n Verbraucherstreitbeilegung\n\nKategorie:Rechtsnormen\nKategorie:Rechtsprechung",
       "tags": [
         "kategorie",
         "gerichtsbeschluss",
@@ -51,14 +51,15 @@
   "zusammenfassung": " Zurückbehaltungsrecht\nDas Zurückbehaltungsrecht im deutschen Schuldrecht (§ 273 BGB) ist eine Folge des Grundsatzes von Treu und Glauben gemäß § 242 BGB. Demnach darf eine geschuldete Leistung solange verweigert werden, bis die entsprechende Gegenleistung bewirkt wird. Dieses Zurückbehaltungsrecht ...",
   "verwandteArtikel": [
     "gesetzgebung",
-    "geschäftsfähigkeit",
     "rechtsverkehr-in-deutschland",
     "betreuer",
-    "kategorie:rechtsprechung",
-    "gerichtsbeschluss",
+    "geschäftsfähigkeit",
     "schadensersatz",
-    "gesetzlicher-vertreter",
     "kategorie:rechtsnormen",
-    "betreuungsgericht"
+    "kategorie:rechtsprechung",
+    "gesetzlicher-vertreter",
+    "gerichtsbeschluss",
+    "betreuungsgericht",
+    "verbraucherstreitbeilegung"
   ]
 }

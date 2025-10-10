@@ -857,6 +857,8 @@
     "neu",
     "neu",
     "nutzungspflicht",
+    "nutzungspflicht",
+    "nutzungspflicht",
     "ordre-public",
     "personalausweis",
     "prozessführung",
@@ -5803,6 +5805,7 @@
     "neu",
     "neu",
     "neu",
+    "nutzungspflicht",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "ordre-public",
     "ordre-public",
@@ -8093,6 +8096,8 @@
     "arbeitsvertrag",
     "gerichtskosten",
     "krankenversicherung",
+    "nutzungspflicht",
+    "nutzungspflicht",
     "unterbringungsähnliche-maßnahme",
     "vorsorgevollmacht---vertiefte-infos"
   ],
@@ -11282,7 +11287,9 @@
   ],
   "nutzungspflicht": [
     "begleitforschung",
-    "mitteilungspflicht"
+    "interoperabilität",
+    "mitteilungspflicht",
+    "patientenverfügung"
   ],
   "dokumentationspflicht": [
     "begleitforschung",
@@ -15087,7 +15094,8 @@
   ],
   "medikationsplan": [
     "checkliste-für-arztgespräche",
-    "elektronischer-identitätsnachweis"
+    "elektronischer-identitätsnachweis",
+    "patientenverfügung"
   ],
   "ärztlichen": [
     "checkliste-für-arztgespräche"
@@ -15384,7 +15392,6 @@
     "interoperabilität",
     "mailingliste",
     "organspende",
-    "patientenverfügung",
     "postkontrolle",
     "rechtsverkehr-in-deutschland",
     "rundfunkbeitrag"
@@ -15472,7 +15479,6 @@
     "formulare",
     "it-sicherheit",
     "informationspflicht",
-    "interoperabilität",
     "mailingliste",
     "organspende",
     "postkontrolle",
@@ -15686,8 +15692,7 @@
     "interoperabilität",
     "interoperabilität",
     "interoperabilität",
-    "krankenversicherung",
-    "patientenverfügung"
+    "krankenversicherung"
   ],
   "verwaltungspostfach": [
     "ebo",
@@ -19290,6 +19295,9 @@
   "mangelhafter": [
     "mahnverfahren"
   ],
+  "leistung": [
+    "mahnverfahren"
+  ],
   "ruhr": [
     "mailingliste",
     "mailingliste",
@@ -19747,6 +19755,34 @@
   "urhg": [
     "nutzungspflicht",
     "zugangsrecht"
+  ],
+  "leistungserbringer": [
+    "nutzungspflicht",
+    "nutzungspflicht",
+    "nutzungspflicht"
+  ],
+  "vertragsärztlichen": [
+    "nutzungspflicht"
+  ],
+  "patientenversorgung": [
+    "nutzungspflicht"
+  ],
+  "zugelassenen": [
+    "nutzungspflicht"
+  ],
+  "krankenhäusern": [
+    "nutzungspflicht"
+  ],
+  "gesundheitswesens": [
+    "nutzungspflicht"
+  ],
+  "außerhalb": [
+    "nutzungspflicht",
+    "rechtsanwalt",
+    "verfahrensfähigkeit"
+  ],
+  "arztpraxen": [
+    "nutzungspflicht"
   ],
   "folgenden": [
     "online-lexikon-betreuungsrecht:datenschutz",
@@ -20448,10 +20484,6 @@
   ],
   "anwaltsvergütung": [
     "rechtsanwalt"
-  ],
-  "außerhalb": [
-    "rechtsanwalt",
-    "verfahrensfähigkeit"
   ],
   "beschwerdefrist": [
     "rechtsmittel"
