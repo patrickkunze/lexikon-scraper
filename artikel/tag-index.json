@@ -7166,6 +7166,7 @@
     "girokonto",
     "prozesspfleger",
     "rechtsanwalt",
+    "rechtsanwalt",
     "rechtsprechung",
     "rechtsprechung",
     "rechtsprechung-zum-sachverständigengutachten",
@@ -8025,6 +8026,7 @@
     "rechtsanwalt",
     "rechtsanwalt",
     "rechtsanwalt",
+    "rechtsweg-in-deutschland",
     "sterbehilfe",
     "strafprozess",
     "vbvg-rechtsprechung",
@@ -8212,8 +8214,7 @@
     "betreuungsarbeitsgemeinschaft",
     "betreuungssache",
     "diskriminierungsverbot",
-    "einstweilige-anordnung",
-    "rechtsanwalt"
+    "einstweilige-anordnung"
   ],
   "unterstützungspflicht": [
     "anzeigepflicht",
@@ -20534,11 +20535,6 @@
   "identitäten": [
     "rechtsverkehr-in-deutschland"
   ],
-  "subsidiaritätsprinzip": [
-    "rechtsweg-in-deutschland",
-    "selbstverwaltung-der-deutschen-gemeinden",
-    "vorsorgeregister"
-  ],
   "folge": [
     "registrierung"
   ],
@@ -20948,6 +20944,10 @@
   ],
   "konkurrierenden": [
     "selbstverwaltung-der-deutschen-gemeinden"
+  ],
+  "subsidiaritätsprinzip": [
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "vorsorgeregister"
   ],
   "verwaltet": [
     "selbstverwaltungserklärung"
