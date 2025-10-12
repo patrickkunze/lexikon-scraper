@@ -1465,6 +1465,7 @@
     "interoperabilität",
     "kirchenaustritt",
     "kontrollbetreuer",
+    "krankenversicherung",
     "link-liste",
     "mdk-gutachten",
     "mahnverfahren",
@@ -2092,6 +2093,7 @@
   ],
   "rehabilitation": [
     "abschlussbericht",
+    "begleitforschung",
     "berufsbetreuer",
     "eingliederungshilfe",
     "gerichtskosten"
@@ -3630,6 +3632,8 @@
     "altenheim",
     "anzeigepflicht",
     "anzeigepflicht",
+    "begleitforschung",
+    "begleitforschung",
     "beratung",
     "betreuerpflichten",
     "diskriminierungsverbot",
@@ -10906,6 +10910,7 @@
   ],
   "ihre": [
     "beglaubigung-durch-betreuungsbehörde",
+    "begleitforschung",
     "digitale-barrierefreiheit",
     "eingliederungshilfe",
     "eingliederungshilfe",
@@ -11244,6 +11249,27 @@
     "begleitforschung",
     "prozessfähigkeit",
     "wahlrecht"
+  ],
+  "modellvorhaben": [
+    "begleitforschung",
+    "begleitforschung"
+  ],
+  "krankenkassen": [
+    "begleitforschung",
+    "it-sicherheit",
+    "informationspflicht",
+    "krankenhaussozialdienst",
+    "krankenversicherung",
+    "rechtsverkehr-in-deutschland"
+  ],
+  "verbände": [
+    "begleitforschung"
+  ],
+  "zeitraum": [
+    "begleitforschung"
+  ],
+  "fördert": [
+    "begleitforschung"
   ],
   "sellin": [
     "begleitforschung"
@@ -13248,7 +13274,8 @@
     "betreuervergütung",
     "betreuervergütung-2019",
     "betreuervergütung-2019",
-    "betreuervergütung-2019"
+    "betreuervergütung-2019",
+    "krankenversicherung"
   ],
   "inkl": [
     "betreuervergütung",
@@ -18433,7 +18460,6 @@
     "hamburger-mustergliederung",
     "jahresbericht",
     "kirchenaustritt",
-    "krankenversicherung",
     "schlussbericht",
     "tod-des-betreuten",
     "vorsorgevollmacht",
@@ -18656,13 +18682,6 @@
   "krankenhäuser": [
     "it-sicherheit",
     "krankenhaussozialdienst"
-  ],
-  "krankenkassen": [
-    "it-sicherheit",
-    "informationspflicht",
-    "krankenhaussozialdienst",
-    "krankenversicherung",
-    "rechtsverkehr-in-deutschland"
   ],
   "richtlinie": [
     "it-sicherheit",
@@ -19191,17 +19210,13 @@
     "krankenversicherung",
     "vorsorgevollmacht"
   ],
-  "richtlinien": [
-    "krankenversicherung",
-    "neu"
-  ],
-  "krankenkassenbeiträgen": [
+  "ecxel": [
     "krankenversicherung"
   ],
-  "sozialhilfeempfänger": [
+  "belegeinreichung": [
     "krankenversicherung"
   ],
-  "antragsvordruck": [
+  "beihilfe": [
     "krankenversicherung"
   ],
   "aktuelles": [
@@ -19537,6 +19552,9 @@
     "neu"
   ],
   "rechtsfortbildung": [
+    "neu"
+  ],
+  "richtlinien": [
     "neu"
   ],
   "republik": [
