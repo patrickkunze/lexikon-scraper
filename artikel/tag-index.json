@@ -2592,6 +2592,7 @@
     "datenschutz",
     "datenschutz",
     "datenschutz",
+    "dokumentationspflicht",
     "ehefähigkeit",
     "ehefähigkeit",
     "ehefähigkeit",
@@ -12744,6 +12745,7 @@
   ],
   "während": [
     "betreuerhaftung",
+    "dokumentationspflicht",
     "girokonto",
     "grundrechte",
     "unfallversicherung"
@@ -14340,6 +14342,7 @@
   ],
   "jahr": [
     "betreuungsverein",
+    "dokumentationspflicht",
     "gerichtskosten",
     "haager-übereinkommen",
     "haager-übereinkommen",
@@ -15660,6 +15663,20 @@
   "monographien": [
     "dokumentationspflicht"
   ],
+  "ärzte": [
+    "dokumentationspflicht",
+    "einwilligungsfähigkeit",
+    "gesundheitssorge",
+    "informationspflicht",
+    "medikationsplan",
+    "vorsorgeregister"
+  ],
+  "schweiz": [
+    "dokumentationspflicht",
+    "patientenverfügung",
+    "patientenverfügung",
+    "sterbehilfe"
+  ],
   "änderung": [
     "drittes-betreuungsrechtsänderungsgesetz",
     "drittes-betreuungsrechtsänderungsgesetz",
@@ -16271,13 +16288,6 @@
     "geldanlage",
     "gesundheitssorge",
     "haftpflichtversicherung"
-  ],
-  "ärzte": [
-    "einwilligungsfähigkeit",
-    "gesundheitssorge",
-    "informationspflicht",
-    "medikationsplan",
-    "vorsorgeregister"
   ],
   "amwf": [
     "einwilligungsfähigkeit"
@@ -20044,11 +20054,6 @@
   ],
   "exit": [
     "patientenverfügung"
-  ],
-  "schweiz": [
-    "patientenverfügung",
-    "patientenverfügung",
-    "sterbehilfe"
   ],
   "patientenverfügungsgesetz": [
     "patientenverfügung",
