@@ -1862,6 +1862,7 @@
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
+    "betreuungsvoraussetzung",
     "corona",
     "einstweilige-anordnung",
     "einstweilige-anordnung",
@@ -2264,6 +2265,7 @@
     "betreuungskosten-im-steuerrecht",
     "betreuungsverfahren",
     "betreuungsverfügung",
+    "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
@@ -4268,7 +4270,6 @@
     "betreuerwechsel",
     "betreutes-wohnen",
     "betreuungsplan",
-    "betreuungsvoraussetzung",
     "betreuungszahlen",
     "buchverzeichnis",
     "checkliste-betreuerpflichten",
@@ -14569,9 +14570,6 @@
     "sozialpsychiatrischer-dienst"
   ],
   "ambulant": [
-    "betreuungsvoraussetzung"
-  ],
-  "wohnens": [
     "betreuungsvoraussetzung"
   ],
   "bäuml": [
