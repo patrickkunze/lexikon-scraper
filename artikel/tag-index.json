@@ -8225,7 +8225,6 @@
   "unterstützungspflicht": [
     "anzeigepflicht",
     "checkliste-betreuerpflichten",
-    "corona",
     "datenschutz",
     "delegation",
     "freier-wille",
@@ -11025,6 +11024,7 @@
     "beglaubigung-durch-betreuungsbehörde",
     "betreuerpflichten",
     "genehmigungspflichten",
+    "patientenverfügung",
     "sterbehilfe",
     "sterbehilfe",
     "sterbehilfe",
@@ -11335,6 +11335,7 @@
     "behandlungsvertrag",
     "behindertenkonvention",
     "checkliste-für-arztgespräche",
+    "corona",
     "dokumentationspflicht",
     "einwilligungsfähigkeit",
     "einwilligungsfähigkeit",
@@ -13894,7 +13895,6 @@
     "neu",
     "neu",
     "neu",
-    "patientenverfügung",
     "vormundschaftsgericht",
     "wohn--und-betreuungsvertragsgesetz",
     "zweites-betreuungsrechtsänderungsgesetz"
