@@ -39,20 +39,20 @@
   ],
   "zusammenfassung": "Das E-Rezept, d.h. die elektronische Verordnung oder Verschreibung für den Patienten durch seinen Arzt oder seine Ärztin, ist für verschreibungspflichtige Arzneimittel in Deutschland seit dem 01.01.2024 zur Regel geworden. Die Verwendung von Verordnungen und Empfehlungen in elektronischer Form wurde...",
   "verwandteArtikel": [
-    "nutzungspflicht",
     "e-rechnung",
+    "nutzungspflicht",
+    "digitale-barrierefreiheit",
+    "it-sicherheit",
     "neu",
     "krankenversicherung",
-    "digitale-barrierefreiheit",
-    "rechtsverkehr-in-deutschland",
-    "krankenhaussozialdienst",
+    "kategorie:gesundheitssorge",
     "kategorie:rechtsnormen",
-    "it-sicherheit",
+    "elektronischer-identitätsnachweis",
+    "krankenhaussozialdienst",
+    "rechtsverkehr-in-deutschland",
+    "datenschutz",
     "gesundheitsdatennutzungsgesetz",
     "interoperabilität",
-    "kategorie:gesundheitssorge",
-    "datenschutz",
-    "medikationsplan",
-    "elektronischer-identitätsnachweis"
+    "medikationsplan"
   ]
 }

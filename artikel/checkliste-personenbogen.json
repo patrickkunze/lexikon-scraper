@@ -29,21 +29,21 @@
   "zusammenfassung": "Empfehlung für ein Deckblatt für Betreuerakten (Excel-Datei o.ä.)\n\n Name der Betreuten\n [Aufgabenbereich](aufgabenbereich)e (ggf mit oder ohne [Einwilligungsvorbehalt](einwilligungsvorbehalt))\n Aktuelle Adresse (und ggf frühere, soweit bekannt)\n Geburtsdatum und Geburtsort des Betreuten, Staatsangeh...",
   "verwandteArtikel": [
     "gesundheitssorge",
+    "rechtspfleger",
+    "kategorie:checklisten",
+    "personalausweis",
+    "rechnungslegung",
+    "aufgabenbereich",
+    "einwilligungsvorbehalt",
     "haftpflichtversicherung",
     "krankenversicherung",
-    "aufgabenbereich",
-    "betreuungsrichter",
-    "checkliste-vermögenssorge",
-    "rechtspfleger",
-    "rente",
-    "einwilligungsvorbehalt",
-    "sozialhilfe",
     "betreuerbestellung",
-    "personalausweis",
-    "rundfunkbeitrag",
     "betreuungsbehörde",
+    "betreuungsrichter",
     "kirchenaustritt",
-    "rechnungslegung",
-    "kategorie:checklisten"
+    "sozialhilfe",
+    "rundfunkbeitrag",
+    "rente",
+    "checkliste-vermögenssorge"
   ]
 }

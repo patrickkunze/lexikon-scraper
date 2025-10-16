@@ -1235,7 +1235,6 @@
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
-    "corona",
     "datenschutz",
     "datenschutz",
     "ehefähigkeit",
@@ -7125,6 +7124,7 @@
   "persönlichen": [
     "anhörung",
     "betreuungsverfügung",
+    "corona",
     "persönliche-betreuung",
     "persönliches-budget",
     "rechtsprechung-zur-anhörung",
@@ -7196,7 +7196,6 @@
     "anhörung",
     "begleitforschung",
     "betreuerpflichten",
-    "betreuerwechsel",
     "betreuungssache",
     "betreuungsverfahren",
     "betreuungsverfahren",
@@ -7215,18 +7214,15 @@
   ],
   "fröschle": [
     "anhörung",
-    "betreuerwechsel",
     "betreuungsverfahren"
   ],
   "praxiskommentar": [
     "anhörung",
     "betreuerbestellung",
-    "betreuerwechsel",
     "betreuungsverfahren"
   ],
   "unterbringungsverfahren": [
     "anhörung",
-    "betreuerwechsel",
     "betreuungsverfahren",
     "prozessführung",
     "unterbringung",
@@ -11553,7 +11549,6 @@
   "neuauflage": [
     "behördenbetreuer",
     "betreuerbestellung",
-    "betreuerwechsel",
     "buchverzeichnis",
     "ermessensvergütung",
     "familienverfahrensgesetz",
@@ -12209,7 +12204,6 @@
     "betreuerausweis",
     "betreuerausweis",
     "elektronischer-identitätsnachweis",
-    "gerichtsbeschluss",
     "personalausweis",
     "rechtsverkehr-in-deutschland"
   ],
@@ -12350,7 +12344,6 @@
   "verpflichtungsgespräch": [
     "betreuer-(ehrenamt)",
     "einführungsgespräch",
-    "gerichtsbeschluss",
     "verpflichtungsgespräch"
   ],
   "ermessensvergütung": [
@@ -13140,6 +13133,7 @@
   ],
   "betreuerwechsel": [
     "betreuervergütung",
+    "betreuervergütung-2019",
     "rechtsprechung",
     "schlusstätigkeiten",
     "tod-des-betreuers",
@@ -13420,6 +13414,7 @@
   "vormünder": [
     "betreuervergütung-2019",
     "betreuervergütung-2026",
+    "gerichtsbeschluss",
     "gesetzestexte",
     "vbvg",
     "vbvg-rechtsprechung",
@@ -13429,6 +13424,7 @@
   "betreuervergütungsgesetz": [
     "betreuervergütung-2019",
     "betreuervergütung-2026",
+    "gerichtsbeschluss",
     "gesetzestexte",
     "vbvg",
     "vbvg-rechtsprechung",
@@ -14270,7 +14266,6 @@
   ],
   "infoseite": [
     "betreuungsrechtsreform",
-    "corona",
     "peg-sonde",
     "verbraucherstreitbeilegung"
   ],
@@ -15176,18 +15171,19 @@
     "corona",
     "corona"
   ],
-  "kassenärztlichen": [
-    "corona",
-    "elektronische-patientenakte",
-    "it-sicherheit"
-  ],
-  "bundesvereinigung": [
-    "corona"
-  ],
   "lübecker": [
     "corona"
   ],
   "ampel": [
+    "corona"
+  ],
+  "system": [
+    "corona"
+  ],
+  "testinfos": [
+    "corona"
+  ],
+  "einwilligungserklärung": [
     "corona"
   ],
   "landgericht": [
@@ -16406,6 +16402,10 @@
   ],
   "streit": [
     "elektronische-patientenakte"
+  ],
+  "kassenärztlichen": [
+    "elektronische-patientenakte",
+    "it-sicherheit"
   ],
   "leistet": [
     "elektronischer-identitätsnachweis"
