@@ -1129,6 +1129,7 @@
     "wahlrecht",
     "wahlrecht",
     "werkstatt-für-behinderte-menschen",
+    "wohn--und-betreuungsvertragsgesetz",
     "wohnungsangelegenheiten",
     "wohnungsangelegenheiten",
     "wohnungsangelegenheiten",
@@ -3485,6 +3486,7 @@
     "vorsorgevollmacht---vertiefte-infos",
     "wahlrecht",
     "werkstatt-für-behinderte-menschen",
+    "wohn--und-betreuungsvertragsgesetz",
     "zeitschrift-für-professionelle-betreuungsarbeit",
     "zwangsbehandlung",
     "zwangsvollstreckung",
@@ -3683,6 +3685,7 @@
     "vermögensverzeichnis",
     "vollmachtswiderruf",
     "wahlrecht",
+    "wohn--und-betreuungsvertragsgesetz",
     "zug-um-zug-leistung",
     "zug-um-zug-leistung",
     "zug-um-zug-leistung",
@@ -5816,6 +5819,7 @@
     "ordre-public",
     "prozessführung",
     "prozessführung",
+    "psychisch-kranken-gesetz",
     "selbstverwaltung-der-deutschen-gemeinden",
     "sterilisation",
     "unterstützungspflicht",
@@ -7179,6 +7183,7 @@
     "rechtsweg-in-deutschland",
     "sachverständigengutachten",
     "unterbringungsähnliche-maßnahme",
+    "vbvg-rechtsprechung",
     "verfahrenspfleger",
     "vergütungsrechtsprechung",
     "vorläufiger-betreuer",
@@ -8270,7 +8275,8 @@
     "arbeitsvertrag",
     "krankenhaussozialdienst",
     "krankenhaussozialdienst",
-    "krankenhaussozialdienst"
+    "krankenhaussozialdienst",
+    "psychisch-kranken-gesetz"
   ],
   "beziehung": [
     "arbeitsvertrag",
@@ -8860,6 +8866,7 @@
     "ubg",
     "unterstützungspflicht",
     "vormundschaftsgericht",
+    "vormünder--und-betreuervergütungsgesetz",
     "vormünder--und-betreuervergütungsgesetz",
     "wohn--und-betreuungsvertragsgesetz"
   ],
@@ -9480,8 +9487,7 @@
     "berufliche-dienste",
     "betreuervergütung",
     "betreuungszahlen",
-    "gesetzestexte",
-    "vbvg-rechtsprechung"
+    "gesetzestexte"
   ],
   "siehe": [
     "aufwendungsersatz",
@@ -15594,6 +15600,7 @@
     "gesundheitsdatennutzungsgesetz",
     "globales-nachhaltigkeitsziel-10",
     "mdk-gutachten",
+    "psychisch-kranken-gesetz",
     "tierschutz"
   ],
   "machen": [
@@ -15897,8 +15904,7 @@
     "globales-nachhaltigkeitsziel-10",
     "neu",
     "neu",
-    "selbstverwaltung-der-deutschen-gemeinden",
-    "vormünder--und-betreuervergütungsgesetz"
+    "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "zurückgeführt": [
     "eherecht-und-betreuung"
@@ -16073,7 +16079,8 @@
     "intellektuelle-beeinträchtigung"
   ],
   "leistungsberechtigten": [
-    "eingliederungshilfe"
+    "eingliederungshilfe",
+    "wohn--und-betreuungsvertragsgesetz"
   ],
   "eutb": [
     "eingliederungshilfe"
@@ -16271,6 +16278,7 @@
   ],
   "psychiatrie": [
     "einwilligungsfähigkeit",
+    "psychisch-kranken-gesetz",
     "sachverständigengutachten",
     "zwangsbehandlung"
   ],
@@ -17876,7 +17884,8 @@
   "pflegeperson": [
     "gesetzestexte",
     "pflegeversicherung",
-    "pflegeversicherung"
+    "pflegeversicherung",
+    "wohn--und-betreuungsvertragsgesetz"
   ],
   "schutz": [
     "gesetzestexte",
@@ -18732,6 +18741,7 @@
   ],
   "gesellschaft": [
     "informationspflicht",
+    "psychisch-kranken-gesetz",
     "rechtsverkehr-in-deutschland",
     "sterbehilfe"
   ],
