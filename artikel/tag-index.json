@@ -1449,7 +1449,6 @@
     "fgg",
     "famfg",
     "formulare",
-    "föderalismus",
     "geheimhaltungspflicht",
     "geldanlage",
     "genehmigungspflichten",
@@ -5118,7 +5117,6 @@
     "selbstverwaltungserklärung",
     "verfügungsgeld",
     "verlängerung-der-betreuung",
-    "wahlrecht",
     "werkstatt-für-behinderte-menschen"
   ],
   "vulnerabilität": [
@@ -14684,7 +14682,8 @@
     "betreuungszahlen",
     "föderalismus",
     "gesetzgebung",
-    "selbstverwaltung-der-deutschen-gemeinden"
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "wahlrecht"
   ],
   "warum": [
     "betreuungszahlen"
@@ -17140,6 +17139,13 @@
   "allem": [
     "föderalismus",
     "patientenverfügung"
+  ],
+  "wahlrecht": [
+    "föderalismus",
+    "wahlrecht",
+    "wahlrecht",
+    "wahlrecht",
+    "wahlrecht"
   ],
   "gegenbetreuers": [
     "gegenbetreuer",
@@ -22607,12 +22613,6 @@
     "wahlrecht"
   ],
   "wahlen": [
-    "wahlrecht"
-  ],
-  "wahlrecht": [
-    "wahlrecht",
-    "wahlrecht",
-    "wahlrecht",
     "wahlrecht"
   ],
   "zähl": [

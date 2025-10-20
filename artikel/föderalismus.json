@@ -1,7 +1,7 @@
 {
   "id": "föderalismus",
   "titel": "Föderalismus",
-  "inhalt": "Allgemeines\nDer Fachbegriff Föderalismus bezeichnet die verfassungsrechtliche Gestaltungsform eines Bundesstaates, in dem den Gliedern bzw. Ländern möglichst große staatliche Selbständigkeit verliehen bleibt. Der Begriff leitet sich vom lateinischen „foedus“ her.\n\nBündnis (lat. foedus)\nDas lateinische Wort „foedus“ hatte zahlreiche Bedeutungen. Es konnte sowohl Vertrag (juristisch) als auch Bündnis bedeuten (durch Schwur oder Versprechen wie in der alten Eidgenossenschaft = Schweiz seit 1386). Auch ein einfacher Bund zwischen Menschen durch emotionale Liebe oder Treue, eine Interessenverbindung, im übertragenen Sinn eine abstrakte Bestimmung oder ein [Gesetzgebung](gesetzgebung) konnten mit „foedus“ gemeint sein.\n\nUnitarismus und Partikularismus\nDas emotionale menschliche Streben nach einer starken Zentralgewalt in einem Bundesstaat (= Unitarismus) soll meist der Vereinfachung von komplizierten Verwaltungsstrukturen (= Bürokratie) dienen. Mit Partikularismus dagegen wird das entgegengesetzte Streben kleinerer Gliedstaaten oder Landschaften im vereinigten Bundesstaat bezeichnet. Sowohl der Unitarismus als auch der Partikularismus sind natürliche gruppendynamische Tendenzen unter Menschengruppen im Staat, also zwischen vielfältigen Staatsbürgerinnen und Staatbürgern.\n\nBundesrepublik Deutschland\nTräger des sogenannten kooperativen und koordinierenden Föderalismus in Deutschland sind vor allem die Regierungen von Bund und Ländern (insgesamt 17 deutsche Regierungen bzw. Exekutiven). Gemäß dem Grundgesetz von 1949 sollen diese Regierungen in einem zweistufigen Staatsaufbau von Bund und Ländern kooperativ zusammenwirken. Die Länderzusammenarbeit beruht quasi auf einem Bündnisvertrag s.o. und die Kooperation von Bund und Ländern wird durch die ursprünglich westdeutsche Verfassung, d.h. durch das Deutsche Grundgesetz geregelt. Erhellend sind in diesem Zusammenhang vor allem Art. 84 GG (landeseigene Verwaltung), Art. 85 GG (Auftragsverwaltung) und Art. 86 GG (bundeseigene Verwaltung).\n\nSiehe auch\n [Gesetzgebung](gesetzgebung)\n [Selbstverwaltung der deutschen Gemeinden](selbstverwaltung-der-deutschen-gemeinden)\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)",
+  "inhalt": "Allgemeines\nDer Fachbegriff Föderalismus bezeichnet die verfassungsrechtliche Gestaltungsform eines Bundesstaates, in dem den Gliedern bzw. Ländern möglichst große staatliche Selbständigkeit verliehen bleibt. Der Begriff leitet sich vom lateinischen „foedus“ her.\n\nBündnis (lat. foedus)\nDas lateinische Wort „foedus“ hatte zahlreiche Bedeutungen. Es konnte sowohl Vertrag (juristisch) als auch Bündnis bedeuten (durch Schwur oder Versprechen wie in der alten Eidgenossenschaft = Schweiz seit 1386). Auch ein einfacher Bund zwischen Menschen durch emotionale Liebe oder Treue, eine Interessenverbindung, im übertragenen Sinn eine abstrakte Bestimmung oder ein [Gesetzgebung](gesetzgebung) konnten mit „foedus“ gemeint sein.\n\nUnitarismus und Partikularismus\nDas emotionale menschliche Streben nach einer starken Zentralgewalt in einem Bundesstaat (= Unitarismus) soll meist der Vereinfachung von komplizierten Verwaltungsstrukturen (= Bürokratie) dienen. Mit Partikularismus dagegen wird das entgegengesetzte Streben kleinerer Gliedstaaten oder Landschaften im vereinigten Bundesstaat bezeichnet. Sowohl der Unitarismus als auch der Partikularismus sind natürliche gruppendynamische Tendenzen unter Menschengruppen im Staat, also zwischen vielfältigen Staatsbürgerinnen und Staatbürgern.\n\nBundesrepublik Deutschland\nTräger des sogenannten kooperativen und koordinierenden Föderalismus in Deutschland sind vor allem die Regierungen von Bund und Ländern (insgesamt 17 deutsche Regierungen bzw. Exekutiven). Gemäß dem Grundgesetz von 1949 sollen diese Regierungen in einem zweistufigen Staatsaufbau von Bund und Ländern kooperativ zusammenwirken. Die Länderzusammenarbeit beruht quasi auf einem Bündnisvertrag s.o. und die Kooperation von Bund und Ländern wird durch die ursprünglich westdeutsche Verfassung, d.h. durch das Deutsche Grundgesetz geregelt. Erhellend sind in diesem Zusammenhang vor allem Art. 84 GG (landeseigene Verwaltung), Art. 85 GG (Auftragsverwaltung) und Art. 86 GG (bundeseigene Verwaltung).\n\nSiehe auch\n [Gesetzgebung](gesetzgebung)\n [Selbstverwaltung der deutschen Gemeinden](selbstverwaltung-der-deutschen-gemeinden), [Wahlrecht](wahlrecht)\n [Subsidiaritätsprinzip](subsidiaritätsprinzip)\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)",
   "struktur": [
     {
       "titel": "Allgemeines",
@@ -49,20 +49,22 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Gesetzgebung\n Selbstverwaltung der deutschen Gemeinden\n\nKategorie:Rechtsnormen",
+      "inhalt": "Gesetzgebung\n Selbstverwaltung der deutschen Gemeinden, Wahlrecht\n Subsidiaritätsprinzip\n\nKategorie:Rechtsnormen",
       "tags": [
         "gesetzgebung",
         "selbstverwaltung",
         "deutschen",
         "gemeinden",
-        "kategorie"
+        "wahlrecht"
       ]
     }
   ],
   "zusammenfassung": "Allgemeines\nDer Fachbegriff Föderalismus bezeichnet die verfassungsrechtliche Gestaltungsform eines Bundesstaates, in dem den Gliedern bzw. Ländern möglichst große staatliche Selbständigkeit verliehen bleibt. Der Begriff leitet sich vom lateinischen „foedus“ her.\n\nBündnis (lat. foedus)\nDas lateinisc...",
   "verwandteArtikel": [
-    "kategorie:rechtsnormen",
+    "wahlrecht",
     "gesetzgebung",
+    "kategorie:rechtsnormen",
+    "subsidiaritätsprinzip",
     "selbstverwaltung-der-deutschen-gemeinden"
   ]
 }
