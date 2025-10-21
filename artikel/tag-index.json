@@ -15583,15 +15583,17 @@
   "antidiskriminierungsstellen": [
     "diskriminierungsverbot"
   ],
+  "wahlrecht": [
+    "diskriminierungsverbot",
+    "föderalismus",
+    "wahlrecht",
+    "wahlrecht",
+    "wahlrecht",
+    "wahlrecht"
+  ],
   "amtspflichtverletzung": [
     "diskriminierungsverbot",
     "finanzamt"
-  ],
-  "bestattungsvertrag": [
-    "diskriminierungsverbot",
-    "freibetrag",
-    "mittellosigkeit",
-    "tod-des-betreuten"
   ],
   "internetseite": [
     "diskriminierungsverbot",
@@ -17031,6 +17033,11 @@
     "vertretung-gegenüber-behörden",
     "vertretung-gegenüber-behörden"
   ],
+  "bestattungsvertrag": [
+    "freibetrag",
+    "mittellosigkeit",
+    "tod-des-betreuten"
+  ],
   "willen": [
     "freier-wille",
     "freier-wille",
@@ -17139,13 +17146,6 @@
   "allem": [
     "föderalismus",
     "patientenverfügung"
-  ],
-  "wahlrecht": [
-    "föderalismus",
-    "wahlrecht",
-    "wahlrecht",
-    "wahlrecht",
-    "wahlrecht"
   ],
   "gegenbetreuers": [
     "gegenbetreuer",
