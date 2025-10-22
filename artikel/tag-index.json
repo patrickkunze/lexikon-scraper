@@ -4279,7 +4279,6 @@
     "datenschutz",
     "datenschutz",
     "datenschutz",
-    "datenschutz",
     "delegation",
     "eherecht-und-betreuung",
     "einwilligungsvorbehalt",
@@ -5158,7 +5157,6 @@
     "altenheim",
     "checkliste-für-arztgespräche",
     "corona",
-    "datenschutz",
     "girokonto"
   ],
   "verbraucherzentrale": [
@@ -5794,6 +5792,7 @@
     "betreuerpflichten",
     "betreuungsverein",
     "betreuungsverfahren",
+    "datenschutz",
     "delegation",
     "digitale-barrierefreiheit",
     "ehefähigkeit",
@@ -7893,7 +7892,6 @@
     "betreuungsverfügung",
     "corona",
     "corona",
-    "datenschutz",
     "erbausschlagung",
     "erbausschlagung",
     "erbausschlagung",
@@ -9159,6 +9157,7 @@
     "betreuervergütung",
     "betreuervorschlag",
     "betreutes-wohnen",
+    "datenschutz",
     "datenschutz",
     "globales-nachhaltigkeitsziel-10",
     "hauptseite",
@@ -14640,6 +14639,7 @@
   "jeweils": [
     "betreuungszahlen",
     "betreuungszahlen",
+    "datenschutz",
     "zwangsvollstreckung"
   ],
   "gefährliche": [
@@ -15373,13 +15373,10 @@
     "datenschutz",
     "vermögensverzeichnis"
   ],
-  "informationspflichten": [
-    "datenschutz",
-    "informationspflicht",
-    "informationspflicht",
-    "informationspflicht"
+  "ldsg": [
+    "datenschutz"
   ],
-  "anwaltsverein": [
+  "gliedstaaten": [
     "datenschutz"
   ],
   "kranken": [
@@ -18724,6 +18721,11 @@
   ],
   "redirectgrundstück": [
     "immobilie"
+  ],
+  "informationspflichten": [
+    "informationspflicht",
+    "informationspflicht",
+    "informationspflicht"
   ],
   "demokratische": [
     "informationspflicht",
