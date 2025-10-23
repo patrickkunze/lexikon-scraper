@@ -3849,7 +3849,6 @@
     "betreuungszahlen",
     "bundesverband-der-berufsbetreuer",
     "datenschutz",
-    "ehefähigkeit",
     "eherecht-und-betreuung",
     "einwilligungsvorbehalt",
     "haftpflichtversicherung",
@@ -5795,7 +5794,6 @@
     "datenschutz",
     "delegation",
     "digitale-barrierefreiheit",
-    "ehefähigkeit",
     "föderalismus",
     "geschäftsfähigkeit",
     "gesetzgebung",
@@ -6164,6 +6162,7 @@
     "betreuungsgericht",
     "betreuungsgesetz",
     "betreuungsverfügung",
+    "datenschutz",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "geldanlage",
     "neu",
@@ -9158,7 +9157,6 @@
     "betreuervorschlag",
     "betreutes-wohnen",
     "datenschutz",
-    "datenschutz",
     "globales-nachhaltigkeitsziel-10",
     "hauptseite",
     "heilbehandlung",
@@ -10030,7 +10028,6 @@
   ],
   "gemeinden": [
     "ausländer",
-    "föderalismus",
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "ausgesprochene": [
@@ -12506,6 +12503,7 @@
     "betreuerausweis",
     "e-rezept",
     "elektronische-patientenakte",
+    "föderalismus",
     "gesundheitsdatennutzungsgesetz",
     "it-sicherheit",
     "it-sicherheit",
@@ -12522,6 +12520,7 @@
     "datenschutz",
     "e-rezept",
     "elektronische-patientenakte",
+    "föderalismus",
     "gesundheitsdatennutzungsgesetz",
     "gewaltschutzanordnung",
     "medikationsplan",
@@ -14639,7 +14638,6 @@
   "jeweils": [
     "betreuungszahlen",
     "betreuungszahlen",
-    "datenschutz",
     "zwangsvollstreckung"
   ],
   "gefährliche": [
@@ -15376,6 +15374,9 @@
   "ldsg": [
     "datenschutz"
   ],
+  "saarland": [
+    "datenschutz"
+  ],
   "gliedstaaten": [
     "datenschutz"
   ],
@@ -15582,7 +15583,6 @@
   ],
   "wahlrecht": [
     "diskriminierungsverbot",
-    "föderalismus",
     "wahlrecht",
     "wahlrecht",
     "wahlrecht",
@@ -15809,32 +15809,6 @@
     "ehefähigkeit",
     "eherecht-und-betreuung",
     "psychisch-kranken-gesetz"
-  ],
-  "homosexualität": [
-    "ehefähigkeit"
-  ],
-  "stgb": [
-    "ehefähigkeit",
-    "einwilligungsfähigkeit",
-    "elektronischer-identitätsnachweis",
-    "geheimhaltungspflicht",
-    "heilbehandlung",
-    "maßregeln-der-besserung-und-sicherung",
-    "psychisch-kranken-gesetz",
-    "schweigepflicht",
-    "sterbehilfe",
-    "sterbehilfe",
-    "strafprozess",
-    "strafprozess",
-    "strafprozess",
-    "unterstützungspflicht",
-    "wahlrecht",
-    "wahlrecht",
-    "wahlrecht",
-    "zwangsbehandlung"
-  ],
-  "männern": [
-    "ehefähigkeit"
   ],
   "kant": [
     "ehefähigkeit",
@@ -16186,6 +16160,25 @@
   ],
   "verlauf": [
     "einverständniserklärung"
+  ],
+  "stgb": [
+    "einwilligungsfähigkeit",
+    "elektronischer-identitätsnachweis",
+    "geheimhaltungspflicht",
+    "heilbehandlung",
+    "maßregeln-der-besserung-und-sicherung",
+    "psychisch-kranken-gesetz",
+    "schweigepflicht",
+    "sterbehilfe",
+    "sterbehilfe",
+    "strafprozess",
+    "strafprozess",
+    "strafprozess",
+    "unterstützungspflicht",
+    "wahlrecht",
+    "wahlrecht",
+    "wahlrecht",
+    "zwangsbehandlung"
   ],
   "einsichts": [
     "einwilligungsfähigkeit",
