@@ -4039,7 +4039,6 @@
     "umgangsbestimmung",
     "unterbringung",
     "wohnungsangelegenheiten",
-    "wohnungsangelegenheiten",
     "wohnungsauflösung"
   ],
   "aufgabenkreis": [
@@ -4601,8 +4600,16 @@
     "geschäftsfähigkeit",
     "pflegeversicherung"
   ],
-  "regelunge": [
-    "altenheim"
+  "regelungen": [
+    "altenheim",
+    "angehörigenvertretungsrecht",
+    "angehörigenvertretungsrecht",
+    "beglaubigung-durch-betreuungsbehörde",
+    "gerichtskosten",
+    "geschäftsfähigkeit",
+    "kirchenaustritt",
+    "neu",
+    "prozessfähigkeit"
   ],
   "vorschrift": [
     "altenheim"
@@ -6532,16 +6539,6 @@
   ],
   "individuelle": [
     "angehörigenvertretungsrecht"
-  ],
-  "regelungen": [
-    "angehörigenvertretungsrecht",
-    "angehörigenvertretungsrecht",
-    "beglaubigung-durch-betreuungsbehörde",
-    "gerichtskosten",
-    "geschäftsfähigkeit",
-    "kirchenaustritt",
-    "neu",
-    "prozessfähigkeit"
   ],
   "justizministerkonferenz": [
     "angehörigenvertretungsrecht"
@@ -18650,8 +18647,7 @@
     "meldepflicht",
     "pflegeheim",
     "unterbringungsähnliche-maßnahme",
-    "verbraucherstreitbeilegung",
-    "wohnungsauflösung"
+    "verbraucherstreitbeilegung"
   ],
   "engen": [
     "heimmitarbeiter-als-betreuer"
@@ -18930,7 +18926,9 @@
     "rundfunkbeitrag",
     "verfahrenspfleger",
     "verhältnismäßigkeitsprinzip",
-    "wahlrecht"
+    "wahlrecht",
+    "wohnungsangelegenheiten",
+    "wohnungsauflösung"
   ],
   "elternassistenz": [
     "kindschaftsrecht"
