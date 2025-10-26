@@ -263,7 +263,6 @@
     "anlagegeld",
     "anregung-der-betreuerbestellung",
     "anzeigepflicht",
-    "anzeigepflicht",
     "arbeitsvertrag",
     "arbeitsvertrag",
     "arbeitsvertrag",
@@ -802,6 +801,7 @@
     "betreuungsverein",
     "betreuungsverfahren",
     "digitale-barrierefreiheit",
+    "diskriminierungsverbot",
     "diskriminierungsverbot",
     "diskriminierungsverbot",
     "diskriminierungsverbot",
@@ -3640,6 +3640,7 @@
     "beratung",
     "betreuerpflichten",
     "diskriminierungsverbot",
+    "diskriminierungsverbot",
     "dokumentationspflicht",
     "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
@@ -4496,6 +4497,7 @@
     "altenheim",
     "altenheim",
     "betreuervergütung",
+    "diskriminierungsverbot",
     "eingliederungshilfe",
     "krankenversicherung",
     "krankenversicherung",
@@ -5126,6 +5128,7 @@
   ],
   "vulnerabilität": [
     "altenheim",
+    "anzeigepflicht",
     "arztzeugnis",
     "begleitforschung",
     "beratung",
@@ -8043,6 +8046,7 @@
     "betreuerbestellung",
     "betreuerhaftung",
     "datenschutz",
+    "delegation",
     "strafprozess"
   ],
   "rechtlich": [
@@ -8123,6 +8127,7 @@
     "anzeigepflicht",
     "arbeitsvertrag",
     "arbeitsvertrag",
+    "diskriminierungsverbot",
     "haftpflichtversicherung"
   ],
   "jahresdurchschnittlich": [
@@ -8220,7 +8225,6 @@
     "anzeigepflicht",
     "checkliste-betreuerpflichten",
     "datenschutz",
-    "delegation",
     "freier-wille",
     "kirchenaustritt",
     "sozialhilfe",
@@ -11370,6 +11374,7 @@
   "rechte": [
     "behindertenkonvention",
     "behindertenkonvention",
+    "diskriminierungsverbot",
     "vermögensverzeichnis",
     "vertretung-gegenüber-behörden"
   ],
@@ -11891,6 +11896,7 @@
   ],
   "sozialer": [
     "berufsbetreuer",
+    "diskriminierungsverbot",
     "krankenhaussozialdienst"
   ],
   "arbeit": [
@@ -15534,6 +15540,7 @@
   ],
   "darf": [
     "diskriminierungsverbot",
+    "diskriminierungsverbot",
     "eidesstattliche-versicherung",
     "grundrechte",
     "heilbehandlung",
@@ -15545,6 +15552,36 @@
     "umgangsbestimmung",
     "wahlrecht",
     "zugriffsrecht"
+  ],
+  "beschäftigten": [
+    "diskriminierungsverbot",
+    "geheimhaltungspflicht"
+  ],
+  "schwerbehinderte": [
+    "diskriminierungsverbot"
+  ],
+  "arbeitnehmerinnen": [
+    "diskriminierungsverbot"
+  ],
+  "allen": [
+    "diskriminierungsverbot",
+    "meldepflicht",
+    "psychisch-kranken-gesetz"
+  ],
+  "inanspruchnahme": [
+    "diskriminierungsverbot",
+    "diskriminierungsverbot"
+  ],
+  "zugang": [
+    "diskriminierungsverbot",
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "postkontrolle",
+    "prozesspfleger"
+  ],
+  "formen": [
+    "diskriminierungsverbot",
+    "erbausschlagung",
+    "natürlicher-wille"
   ],
   "europäischen": [
     "diskriminierungsverbot",
@@ -16530,11 +16567,6 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "zugriffsrecht"
   ],
-  "zugang": [
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "postkontrolle",
-    "prozesspfleger"
-  ],
   "datenverarbeitungsanlagen": [
     "elektronisches-gerichts--und-verwaltungspostfach"
   ],
@@ -16668,10 +16700,6 @@
   "fristen": [
     "erbausschlagung",
     "wohnungsauflösung"
-  ],
-  "formen": [
-    "erbausschlagung",
-    "natürlicher-wille"
   ],
   "nachlassverzeichnis": [
     "erbausschlagung",
@@ -17173,9 +17201,6 @@
     "neu",
     "tierschutz",
     "zuführung-zur-unterbringung"
-  ],
-  "beschäftigten": [
-    "geheimhaltungspflicht"
   ],
   "integrationsämter": [
     "geheimhaltungspflicht"
@@ -19416,10 +19441,6 @@
   ],
   "meldegesetz": [
     "meldepflicht"
-  ],
-  "allen": [
-    "meldepflicht",
-    "psychisch-kranken-gesetz"
   ],
   "heimes": [
     "meldepflicht"
