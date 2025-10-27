@@ -210,7 +210,6 @@
     "gesundheitliche-versorgungsplanung",
     "gesundheitliche-versorgungsplanung",
     "krankenhaussozialdienst",
-    "peg-sonde",
     "vertrauensperson"
   ],
   "links": [
@@ -3295,6 +3294,7 @@
     "heilbehandlung",
     "medikationsplan",
     "peg-sonde",
+    "peg-sonde",
     "patientenvertreter",
     "patientenvertreter",
     "pflegeversicherung"
@@ -5165,7 +5165,6 @@
   ],
   "info": [
     "altenheim",
-    "checkliste-für-arztgespräche",
     "corona",
     "girokonto"
   ],
@@ -5575,6 +5574,7 @@
     "checkliste-betreuerpflichten",
     "delegation",
     "eidesstattliche-versicherung",
+    "einwilligungsfähigkeit",
     "erbschaft",
     "insichgeschäft",
     "kirchenaustritt",
@@ -6425,8 +6425,7 @@
   ],
   "erörterungsgespräch": [
     "anfangsgespräch",
-    "betreuungsrichter",
-    "checkliste-für-arztgespräche"
+    "betreuungsrichter"
   ],
   "behindertenkonvention": [
     "anfangsgespräch",
@@ -8626,7 +8625,6 @@
     "betreuungsbehörde",
     "betreuungsorganisationsgesetz",
     "betreuungssache",
-    "checkliste-für-arztgespräche",
     "hauptseite",
     "querschnittsaufgaben"
   ],
@@ -8791,7 +8789,6 @@
     "gesundheitssorge",
     "intellektuelle-beeinträchtigung",
     "maßregeln-der-besserung-und-sicherung",
-    "natürlicher-wille",
     "natürlicher-wille",
     "pflicht-zur-betreuungsübernahme",
     "selbstbestimmung",
@@ -10722,6 +10719,7 @@
     "checkliste-vermögenssorge",
     "checkliste-wohnungsangelegenheiten",
     "dokumentationspflicht",
+    "elektronische-patientenakte",
     "geldanlage",
     "genehmigungspflichten",
     "vermögenssorge",
@@ -12506,7 +12504,6 @@
   "sicherheit": [
     "betreuerausweis",
     "e-rezept",
-    "elektronische-patientenakte",
     "föderalismus",
     "gesundheitsdatennutzungsgesetz",
     "it-sicherheit",
@@ -12519,7 +12516,6 @@
   ],
   "datenschutz": [
     "betreuerausweis",
-    "checkliste-für-arztgespräche",
     "datenschutz",
     "datenschutz",
     "e-rezept",
@@ -13466,7 +13462,6 @@
     "delegation",
     "eherecht-und-betreuung",
     "mittellosigkeit",
-    "natürlicher-wille",
     "tod-des-betreuten",
     "vormünder--und-betreuervergütungsgesetz"
   ],
@@ -13854,7 +13849,6 @@
     "betreuungsorganisationsgesetz",
     "genehmigungen-von-a-bis-z",
     "kindschaftsrecht",
-    "natürlicher-wille",
     "sachkundenachweis",
     "vaterschaftsanerkennung",
     "vaterschaftsanerkennung"
@@ -15128,9 +15122,6 @@
     "elektronischer-identitätsnachweis",
     "patientenverfügung"
   ],
-  "ärztlichen": [
-    "checkliste-für-arztgespräche"
-  ],
   "infektion": [
     "corona",
     "corona",
@@ -16316,11 +16307,16 @@
     "gesundheitssorge",
     "haftpflichtversicherung"
   ],
-  "amwf": [
-    "einwilligungsfähigkeit"
-  ],
-  "leitlinien": [
-    "einwilligungsfähigkeit"
+  "auswirkungen": [
+    "einwilligungsfähigkeit",
+    "erbausschlagung",
+    "erbschaft",
+    "mahnverfahren",
+    "organspende",
+    "selbstbestimmung",
+    "strafprozess",
+    "testierfähigkeit",
+    "testierfähigkeit"
   ],
   "beschlüssen": [
     "einwilligungsvorbehalt"
@@ -16686,16 +16682,6 @@
   "zerb": [
     "erbausschlagung",
     "erbschaft"
-  ],
-  "auswirkungen": [
-    "erbausschlagung",
-    "erbschaft",
-    "mahnverfahren",
-    "organspende",
-    "selbstbestimmung",
-    "strafprozess",
-    "testierfähigkeit",
-    "testierfähigkeit"
   ],
   "fristen": [
     "erbausschlagung",
@@ -17085,7 +17071,6 @@
   ],
   "krüger": [
     "freier-wille",
-    "natürlicher-wille",
     "natürlicher-wille"
   ],
   "natur": [
@@ -19560,11 +19545,6 @@
   "meinungen": [
     "natürlicher-wille"
   ],
-  "wohl": [
-    "natürlicher-wille",
-    "selbstbestimmung",
-    "selbstbestimmung"
-  ],
   "bschor": [
     "natürlicher-wille"
   ],
@@ -20957,6 +20937,10 @@
     "sterilisation"
   ],
   "vertrauensvolle": [
+    "selbstbestimmung"
+  ],
+  "wohl": [
+    "selbstbestimmung",
     "selbstbestimmung"
   ],
   "lassen": [
