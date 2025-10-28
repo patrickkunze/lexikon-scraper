@@ -11735,6 +11735,7 @@
     "betreuungsorganisationsgesetz",
     "betreuungsorganisationsgesetz",
     "betreuungsrechtsreform",
+    "organspende",
     "rechtspfleger",
     "registrierung",
     "registrierung",
@@ -20001,6 +20002,10 @@
   "gesetzesänderung": [
     "organspende"
   ],
+  "patientenvertreter": [
+    "organspende",
+    "patientenvertreter"
+  ],
   "schäfer": [
     "organspende"
   ],
@@ -20129,9 +20134,6 @@
   ],
   "betreuungsalternativen": [
     "patientenverfügung"
-  ],
-  "patientenvertreter": [
-    "patientenvertreter"
   ],
   "beinhaltet": [
     "patientenvertreter"
