@@ -1069,7 +1069,6 @@
     "sterbehilfe",
     "sterbehilfe",
     "sterbehilfe",
-    "sterbehilfe",
     "sterbehilfedokumente",
     "sterbehilfedokumente",
     "sterilisation",
@@ -14866,7 +14865,6 @@
     "sterbehilfedokumente",
     "sterbehilfedokumente",
     "sterbehilfedokumente",
-    "sterbehilfedokumente",
     "synopse-patientenverfügungsgesetze"
   ],
   "benzenhöfer": [
@@ -15875,8 +15873,7 @@
   ],
   "fragen": [
     "ehefähigkeit",
-    "sterbehilfe",
-    "sterbehilfedokumente"
+    "sterbehilfe"
   ],
   "familienangehörigen": [
     "ehegatte-als-betreuer",
@@ -16195,6 +16192,7 @@
     "maßregeln-der-besserung-und-sicherung",
     "psychisch-kranken-gesetz",
     "schweigepflicht",
+    "sterbehilfe",
     "sterbehilfe",
     "sterbehilfe",
     "strafprozess",
@@ -21379,15 +21377,6 @@
     "sterbehilfedokumente"
   ],
   "gewerbsmäßiger": [
-    "sterbehilfedokumente"
-  ],
-  "stellungnahmen": [
-    "sterbehilfedokumente"
-  ],
-  "hospizstiftung": [
-    "sterbehilfedokumente"
-  ],
-  "externer": [
     "sterbehilfedokumente"
   ],
   "aufsatz": [
