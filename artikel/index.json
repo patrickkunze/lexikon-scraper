@@ -105,6 +105,10 @@
       "titel": "Arztzeugnis"
     },
     {
+      "id": "assistenzleistungen",
+      "titel": "Assistenzleistungen"
+    },
+    {
       "id": "attest",
       "titel": "Attest"
     },

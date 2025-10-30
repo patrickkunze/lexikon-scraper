@@ -201,6 +201,7 @@
     "gesundheitliche-versorgungsplanung",
     "krankenhaussozialdienst",
     "peg-sonde",
+    "patientenvertreter",
     "vertrauensperson"
   ],
   "versorgungsplanung": [
@@ -789,6 +790,7 @@
     "anzeigepflicht",
     "anzeigepflicht",
     "anzeigepflicht",
+    "assistenzleistungen",
     "ausländer",
     "ausländer",
     "ausländer",
@@ -1251,6 +1253,7 @@
     "erbschaft",
     "erbschaft",
     "ermessensvergütung",
+    "erörterungsgespräch",
     "freier-wille",
     "geldanlage",
     "geldanlage",
@@ -1625,7 +1628,6 @@
     "buchverzeichnis",
     "geldanlage",
     "gerichtskosten",
-    "gesundheitliche-versorgungsplanung",
     "grundrechte",
     "grundstück",
     "kontrollbetreuer",
@@ -1634,7 +1636,6 @@
     "mündelgeld",
     "patientenverfügung",
     "patientenverfügung",
-    "patientenvertreter",
     "prozessführung",
     "vollmacht",
     "vollmachtswiderruf",
@@ -1742,6 +1743,7 @@
     "amtsermittlungspflicht",
     "amtsermittlungspflicht",
     "arbeitsvertrag",
+    "assistenzleistungen",
     "bankvollmacht",
     "behindertenkonvention",
     "behindertenkonvention",
@@ -5842,6 +5844,7 @@
     "arbeitsvertrag",
     "arztzeugnis",
     "arztzeugnis",
+    "assistenzleistungen",
     "aufgabenkreis",
     "aufwandspauschale",
     "beglaubigung-durch-betreuungsbehörde",
@@ -6382,7 +6385,6 @@
     "anfangsgespräch",
     "checkliste-gesundheitssorge",
     "einverständniserklärung",
-    "erörterungsgespräch",
     "heilbehandlung"
   ],
   "persönliche": [
@@ -8611,6 +8613,80 @@
     "unterbringungsähnliche-maßnahme",
     "wohnungsangelegenheiten"
   ],
+  "assistenzleistungen": [
+    "assistenzleistungen",
+    "persönliches-budget"
+  ],
+  "teilhabe": [
+    "assistenzleistungen",
+    "eingliederungshilfe",
+    "globales-nachhaltigkeitsziel-10",
+    "schwerbehindertenausweis",
+    "unterstützungspflicht",
+    "werkstatt-für-behinderte-menschen",
+    "wohn--und-betreuungsvertragsgesetz"
+  ],
+  "eingliederungshilfe": [
+    "assistenzleistungen",
+    "bthg",
+    "beratung",
+    "bundesteilhabegesetz",
+    "egh",
+    "eingliederungshilfe",
+    "geheimhaltungspflicht",
+    "globales-nachhaltigkeitsziel-10",
+    "persönliches-budget",
+    "psychisch-kranken-gesetz",
+    "schwerbehindertenausweis",
+    "unterstützungspflicht"
+  ],
+  "persönliches": [
+    "assistenzleistungen",
+    "ergänzungsbetreuer",
+    "insichgeschäft",
+    "persönliches-budget",
+    "selbstverwaltungserklärung"
+  ],
+  "budget": [
+    "assistenzleistungen",
+    "betreuungsmanagement",
+    "neu",
+    "persönliches-budget",
+    "persönliches-budget",
+    "persönliches-budget",
+    "persönliches-budget"
+  ],
+  "sicherheit": [
+    "assistenzleistungen",
+    "betreuerausweis",
+    "e-rezept",
+    "föderalismus",
+    "gesundheitsdatennutzungsgesetz",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
+    "medikationsplan",
+    "ordre-public"
+  ],
+  "datenschutz": [
+    "assistenzleistungen",
+    "betreuerausweis",
+    "datenschutz",
+    "datenschutz",
+    "e-rezept",
+    "elektronische-patientenakte",
+    "föderalismus",
+    "gesundheitsdatennutzungsgesetz",
+    "gewaltschutzanordnung",
+    "medikationsplan",
+    "mitteilungspflicht",
+    "neu",
+    "personalausweis",
+    "schweigepflicht",
+    "vertreterdokumentation"
+  ],
   "einsicht": [
     "aufenthaltsbestimmung"
   ],
@@ -10150,19 +10226,6 @@
     "insichgeschäft",
     "patientenverfügungsgesetz",
     "vbvg"
-  ],
-  "eingliederungshilfe": [
-    "bthg",
-    "beratung",
-    "bundesteilhabegesetz",
-    "egh",
-    "eingliederungshilfe",
-    "geheimhaltungspflicht",
-    "globales-nachhaltigkeitsziel-10",
-    "persönliches-budget",
-    "psychisch-kranken-gesetz",
-    "schwerbehindertenausweis",
-    "unterstützungspflicht"
   ],
   "freier": [
     "bvfb",
@@ -12501,35 +12564,6 @@
   "scheckkartenformat": [
     "betreuerausweis"
   ],
-  "sicherheit": [
-    "betreuerausweis",
-    "e-rezept",
-    "föderalismus",
-    "gesundheitsdatennutzungsgesetz",
-    "it-sicherheit",
-    "it-sicherheit",
-    "it-sicherheit",
-    "it-sicherheit",
-    "it-sicherheit",
-    "medikationsplan",
-    "ordre-public"
-  ],
-  "datenschutz": [
-    "betreuerausweis",
-    "datenschutz",
-    "datenschutz",
-    "e-rezept",
-    "elektronische-patientenakte",
-    "föderalismus",
-    "gesundheitsdatennutzungsgesetz",
-    "gewaltschutzanordnung",
-    "medikationsplan",
-    "mitteilungspflicht",
-    "neu",
-    "personalausweis",
-    "schweigepflicht",
-    "vertreterdokumentation"
-  ],
   "elektronischer": [
     "betreuerausweis",
     "digitale-barrierefreiheit",
@@ -14040,14 +14074,6 @@
   ],
   "betreuungswesen": [
     "betreuungsmanagement"
-  ],
-  "budget": [
-    "betreuungsmanagement",
-    "neu",
-    "persönliches-budget",
-    "persönliches-budget",
-    "persönliches-budget",
-    "persönliches-budget"
   ],
   "betreuungsarbeit": [
     "betreuungsmanagement"
@@ -16044,14 +16070,6 @@
   "arbeitsleben": [
     "eingliederungshilfe"
   ],
-  "teilhabe": [
-    "eingliederungshilfe",
-    "globales-nachhaltigkeitsziel-10",
-    "schwerbehindertenausweis",
-    "unterstützungspflicht",
-    "werkstatt-für-behinderte-menschen",
-    "wohn--und-betreuungsvertragsgesetz"
-  ],
   "leistungsträger": [
     "eingliederungshilfe"
   ],
@@ -16816,12 +16834,6 @@
     "ergänzungsbetreuer",
     "mehrfachbetreuung",
     "tandembetreuung"
-  ],
-  "persönliches": [
-    "ergänzungsbetreuer",
-    "insichgeschäft",
-    "persönliches-budget",
-    "selbstverwaltungserklärung"
   ],
   "anmerkung": [
     "ergänzungsbetreuer",
@@ -18028,6 +18040,11 @@
   ],
   "planning": [
     "gesundheitliche-versorgungsplanung"
+  ],
+  "patientenvertreter": [
+    "gesundheitliche-versorgungsplanung",
+    "organspende",
+    "patientenvertreter"
   ],
   "gemeinwohlorientierten": [
     "gesundheitsdatennutzungsgesetz"
@@ -19999,10 +20016,6 @@
   ],
   "gesetzesänderung": [
     "organspende"
-  ],
-  "patientenvertreter": [
-    "organspende",
-    "patientenvertreter"
   ],
   "schäfer": [
     "organspende"
