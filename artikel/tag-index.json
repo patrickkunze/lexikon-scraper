@@ -8615,6 +8615,8 @@
   ],
   "assistenzleistungen": [
     "assistenzleistungen",
+    "e-rezept",
+    "it-sicherheit",
     "persönliches-budget"
   ],
   "teilhabe": [
@@ -8680,6 +8682,7 @@
     "föderalismus",
     "gesundheitsdatennutzungsgesetz",
     "gewaltschutzanordnung",
+    "it-sicherheit",
     "medikationsplan",
     "mitteilungspflicht",
     "neu",
@@ -14744,7 +14747,6 @@
     "egvp",
     "formulare",
     "genehmigungen-von-a-bis-z",
-    "it-sicherheit",
     "personalausweis",
     "querschnittsaufgaben",
     "rechnungslegung",
@@ -15779,14 +15781,6 @@
     "e-rezept",
     "elektronischer-identitätsnachweis",
     "neu"
-  ],
-  "interoperabilität": [
-    "e-rezept",
-    "it-sicherheit",
-    "interoperabilität",
-    "interoperabilität",
-    "interoperabilität",
-    "krankenversicherung"
   ],
   "verwaltungspostfach": [
     "ebo",
@@ -18846,6 +18840,12 @@
   ],
   "schwachsinn": [
     "intellektuelle-beeinträchtigung"
+  ],
+  "interoperabilität": [
+    "interoperabilität",
+    "interoperabilität",
+    "interoperabilität",
+    "krankenversicherung"
   ],
   "verliehen": [
     "interoperabilität"

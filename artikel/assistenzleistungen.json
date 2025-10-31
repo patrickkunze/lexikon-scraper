@@ -1,11 +1,11 @@
 {
   "id": "assistenzleistungen",
   "titel": "Assistenzleistungen",
-  "inhalt": "Allgemeines\nIn Deutschland können Menschen mit Behinderungen und von Behinderung bedrohte Menschen staatliche Leistungen zur Sozialen Teilhabe beantragen. Dazu gehören gemäß § 76 Abs. 2 SGB IX auch die sogenannten Assistenzleistungen. Diese Assistenzleistungen dienen der [Selbstbestimmung](selbstbestimmung) und eigenständigen Bewältigung des Alltags einschließlich der Tagesstrukturierung von Menschen mit Behinderung: Haushaltsführung, Gestaltung eigener sozialer Beziehungen, persönliche Lebensplanung, Teilhabe am gemeinschaftlichen und kulturellen Leben am Wohnort, Freizeitgestaltung einschließlich möglicher sportlicher Aktivitäten sowie zur Sicherstellung der Wirksamkeit der ärztlichen und ärztlich verordneten Leistungen. \n\nDie relativ neuen Assistenzleistungen zur Sozialen Teilhabe sind in § 78 SGB IX näher gesetzlich geregelt. Auch im [Eingliederungshilfe](eingliederungshilfe)recht sind gemäß § 113 SGB IX Assistenzleistungen für Menschen mit Behinderungen vorgesehen. Zukünftig werden diese Assistenzleistungen sicher zum Teil auch durch zugelassene Assistenztechnik (= künstliche Intelligenz bzw. KI oder AI im „smart home“) erbracht werden können. Diese technische Weiterentwicklung wird – auch zur Entlastung der Pflegekräfte – in Deutschland staatlich gefördert.\n\nSiehe auch\n [Eingliederungshilfe](eingliederungshilfe)\n [Persönliches Budget](persönliches-budget)\n [IT-Sicherheit](it-sicherheit)\n [Datenschutz](datenschutz)",
+  "inhalt": "Allgemeines\nIn Deutschland können Menschen mit Behinderungen und von Behinderung bedrohte Menschen staatliche Leistungen zur Sozialen Teilhabe beantragen. Dazu gehören gemäß § 76 Abs. 2 SGB IX auch die sogenannten Assistenzleistungen. Diese Assistenzleistungen dienen der [Selbstbestimmung](selbstbestimmung) und eigenständigen Bewältigung des Alltags einschließlich der Tagesstrukturierung von Menschen mit Behinderung: Haushaltsführung, Gestaltung eigener sozialer Beziehungen, persönliche Lebensplanung, Teilhabe am gemeinschaftlichen und kulturellen Leben am Wohnort, Freizeitgestaltung einschließlich möglicher sportlicher Aktivitäten sowie zur Sicherstellung der Wirksamkeit der ärztlichen und [e-Rezept](e-rezept) Leistungen. \n\nDie relativ neuen Assistenzleistungen zur Sozialen Teilhabe sind in § 78 SGB IX näher gesetzlich geregelt. Auch im [Eingliederungshilfe](eingliederungshilfe)recht sind gemäß § 113 SGB IX Assistenzleistungen für Menschen mit Behinderungen vorgesehen. Zukünftig werden diese Assistenzleistungen sicher zum Teil auch durch zugelassene Assistenztechnik (= künstliche Intelligenz bzw. KI oder AI im „smart home“) erbracht werden können. Diese technische Weiterentwicklung wird – auch zur Entlastung der Pflegekräfte und -personen – in Deutschland staatlich gefördert.\n\nSiehe auch\n [Eingliederungshilfe](eingliederungshilfe)\n [Persönliches Budget](persönliches-budget)\n [IT-Sicherheit](it-sicherheit)\n [Datenschutz](datenschutz)\n [e-Rezept](e-rezept)\n\n[Kategorie:Sozialrecht](kategorie:sozialrecht)",
   "struktur": [
     {
       "titel": "Allgemeines",
-      "inhalt": "In Deutschland können Menschen mit Behinderungen und von Behinderung bedrohte Menschen staatliche Leistungen zur Sozialen Teilhabe beantragen. Dazu gehören gemäß § 76 Abs. 2 SGB IX auch die sogenannten Assistenzleistungen. Diese Assistenzleistungen dienen der selbstbestimmten und eigenständigen Bewältigung des Alltags einschließlich der Tagesstrukturierung von Menschen mit Behinderung: Haushaltsführung, Gestaltung eigener sozialer Beziehungen, persönliche Lebensplanung, Teilhabe am gemeinschaftlichen und kulturellen Leben am Wohnort, Freizeitgestaltung einschließlich möglicher sportlicher Aktivitäten sowie zur Sicherstellung der Wirksamkeit der ärztlichen und ärztlich verordneten Leistungen. \n\nDie relativ neuen Assistenzleistungen zur Sozialen Teilhabe sind in § 78 SGB IX näher gesetzlich geregelt. Auch im Eingliederungshilferecht sind gemäß § 113 SGB IX Assistenzleistungen für Menschen mit Behinderungen vorgesehen. Zukünftig werden diese Assistenzleistungen sicher zum Teil auch durch zugelassene Assistenztechnik (= künstliche Intelligenz bzw. KI oder AI im „smart home“) erbracht werden können. Diese technische Weiterentwicklung wird – auch zur Entlastung der Pflegekräfte – in Deutschland staatlich gefördert.",
+      "inhalt": "In Deutschland können Menschen mit Behinderungen und von Behinderung bedrohte Menschen staatliche Leistungen zur Sozialen Teilhabe beantragen. Dazu gehören gemäß § 76 Abs. 2 SGB IX auch die sogenannten Assistenzleistungen. Diese Assistenzleistungen dienen der selbstbestimmten und eigenständigen Bewältigung des Alltags einschließlich der Tagesstrukturierung von Menschen mit Behinderung: Haushaltsführung, Gestaltung eigener sozialer Beziehungen, persönliche Lebensplanung, Teilhabe am gemeinschaftlichen und kulturellen Leben am Wohnort, Freizeitgestaltung einschließlich möglicher sportlicher Aktivitäten sowie zur Sicherstellung der Wirksamkeit der ärztlichen und ärztlich verordneten Leistungen. \n\nDie relativ neuen Assistenzleistungen zur Sozialen Teilhabe sind in § 78 SGB IX näher gesetzlich geregelt. Auch im Eingliederungshilferecht sind gemäß § 113 SGB IX Assistenzleistungen für Menschen mit Behinderungen vorgesehen. Zukünftig werden diese Assistenzleistungen sicher zum Teil auch durch zugelassene Assistenztechnik (= künstliche Intelligenz bzw. KI oder AI im „smart home“) erbracht werden können. Diese technische Weiterentwicklung wird – auch zur Entlastung der Pflegekräfte und -personen – in Deutschland staatlich gefördert.",
       "tags": [
         "assistenzleistungen",
         "menschen",
@@ -16,7 +16,7 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Eingliederungshilfe\n Persönliches Budget\n IT-Sicherheit\n Datenschutz",
+      "inhalt": "Eingliederungshilfe\n Persönliches Budget\n IT-Sicherheit\n Datenschutz\n e-Rezept\n\nKategorie:Sozialrecht",
       "tags": [
         "eingliederungshilfe",
         "persönliches",
@@ -28,10 +28,12 @@
   ],
   "zusammenfassung": "Allgemeines\nIn Deutschland können Menschen mit Behinderungen und von Behinderung bedrohte Menschen staatliche Leistungen zur Sozialen Teilhabe beantragen. Dazu gehören gemäß § 76 Abs. 2 SGB IX auch die sogenannten Assistenzleistungen. Diese Assistenzleistungen dienen der [Selbstbestimmung](selbstbes...",
   "verwandteArtikel": [
-    "persönliches-budget",
-    "it-sicherheit",
-    "eingliederungshilfe",
     "datenschutz",
-    "selbstbestimmung"
+    "kategorie:sozialrecht",
+    "eingliederungshilfe",
+    "it-sicherheit",
+    "selbstbestimmung",
+    "e-rezept",
+    "persönliches-budget"
   ]
 }
