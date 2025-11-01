@@ -159,6 +159,7 @@
     "verband-freiberuflicher-betreuer",
     "verbraucherinsolvenz",
     "verfahrensbeteiligte",
+    "vergütung-2026",
     "vergütungsrechtsprechung",
     "vergütungsreform-2019",
     "vergütungsstufe",
@@ -1744,6 +1745,7 @@
     "amtsermittlungspflicht",
     "arbeitsvertrag",
     "assistenzleistungen",
+    "assistenzleistungen",
     "bankvollmacht",
     "behindertenkonvention",
     "behindertenkonvention",
@@ -2100,10 +2102,12 @@
   ],
   "grundsatz": [
     "abschlussbericht",
+    "verhältnismäßigkeitsprinzip",
     "verhältnismäßigkeitsprinzip"
   ],
   "monat": [
-    "abschlussbericht"
+    "abschlussbericht",
+    "betreuervergütung-2026"
   ],
   "stunden": [
     "abschlussbericht"
@@ -2207,6 +2211,7 @@
     "personalausweis",
     "postkontrolle",
     "spielwiese",
+    "subsidiaritätsprinzip",
     "unterbringungsverfahren",
     "unterbringungsverfahren",
     "unterstützte-kommunikation",
@@ -2472,6 +2477,7 @@
     "sterbehilfedokumente",
     "strafprozess",
     "stundensatz",
+    "subsidiaritätsprinzip",
     "testierfähigkeit",
     "tod-des-betreuten",
     "umgangsbestimmung",
@@ -2778,6 +2784,7 @@
     "vereinsbetreuer",
     "verfahrenspfleger",
     "verhältnismäßigkeitsprinzip",
+    "verhältnismäßigkeitsprinzip",
     "verlängerung-der-betreuung",
     "verlängerung-der-betreuung",
     "vermögenssorge",
@@ -2839,6 +2846,7 @@
     "betreuerbestellung",
     "betreuerpflichten",
     "betreuerregistrierungsverordnung",
+    "betreuervergütung-2026",
     "betreuervorschlag",
     "betreuungsgericht",
     "betreuungsorganisationsgesetz",
@@ -2900,6 +2908,7 @@
     "vaterschaftsanerkennung",
     "verfahrensfähigkeit",
     "verhinderungsbetreuer",
+    "verhältnismäßigkeitsprinzip",
     "verlängerung-der-betreuung",
     "vormundschaftsgericht",
     "vormundschaftsgericht",
@@ -3522,7 +3531,6 @@
   "reform": [
     "allgemeines",
     "anlagegeld",
-    "betreuervergütung-2026",
     "betreuungsgesetz",
     "betreuungsgesetz",
     "betreuungsorganisationsgesetz",
@@ -3679,10 +3687,12 @@
     "personalausweis",
     "rechtspfleger",
     "selbstverwaltung-der-deutschen-gemeinden",
+    "subsidiaritätsprinzip",
     "unterstützungspflicht",
     "unterstützungspflicht",
     "unterstützungspflicht",
     "verbraucherstreitbeilegung",
+    "verhältnismäßigkeitsprinzip",
     "vermögensverzeichnis",
     "vollmachtswiderruf",
     "wahlrecht",
@@ -4262,6 +4272,7 @@
     "betreuervergütung",
     "betreuervergütung-2019",
     "betreuervergütung-2019",
+    "betreuervergütung-2026",
     "betreuervorschlag",
     "betreuervorschlag",
     "betreuervorschlag",
@@ -6065,7 +6076,6 @@
     "arztzeugnis",
     "aufgabenkreis",
     "betreuerausweis",
-    "betreuervergütung-2026",
     "betreuungsgericht",
     "einwilligungsvorbehalt",
     "ende-der-betreuung",
@@ -6315,6 +6325,7 @@
     "girokonto",
     "krankenversicherung",
     "meldepflicht",
+    "neu",
     "neu",
     "neu",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
@@ -6777,6 +6788,7 @@
     "patientenverfügung",
     "patientenverfügung",
     "selbstbestimmung",
+    "subsidiaritätsprinzip",
     "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsverfahren",
@@ -6834,6 +6846,7 @@
     "betreuervergütung",
     "betreuervergütung-2019",
     "checkliste-für-arztgespräche",
+    "elektronisches-gerichts--und-verwaltungspostfach",
     "testierfähigkeit"
   ],
   "maßnahme": [
@@ -7137,7 +7150,6 @@
     "anhörung",
     "ebo",
     "egvp",
-    "elektronisches-gerichts--und-verwaltungspostfach",
     "personalausweis",
     "prozessführung",
     "querschnittsaufgaben",
@@ -7433,6 +7445,7 @@
     "einwilligungsfähigkeit",
     "freibetrag",
     "meldepflicht",
+    "neu",
     "neu",
     "prozessführung",
     "stundensatz",
@@ -8329,6 +8342,7 @@
   ],
   "selbst": [
     "arbeitsvertrag",
+    "assistenzleistungen",
     "aufgabenkreis",
     "beglaubigung-durch-betreuungsbehörde",
     "eherecht-und-betreuung",
@@ -8617,7 +8631,9 @@
     "assistenzleistungen",
     "e-rezept",
     "it-sicherheit",
-    "persönliches-budget"
+    "persönliches-budget",
+    "schwerbehindertenausweis",
+    "wohn--und-betreuungsvertragsgesetz"
   ],
   "teilhabe": [
     "assistenzleistungen",
@@ -8627,6 +8643,15 @@
     "unterstützungspflicht",
     "werkstatt-für-behinderte-menschen",
     "wohn--und-betreuungsvertragsgesetz"
+  ],
+  "assistenztechnik": [
+    "assistenzleistungen"
+  ],
+  "technik": [
+    "assistenzleistungen"
+  ],
+  "lösungen": [
+    "assistenzleistungen"
   ],
   "eingliederungshilfe": [
     "assistenzleistungen",
@@ -9613,6 +9638,7 @@
     "bundesverband-freier-berufsbetreuer",
     "bundesverband-freier-berufsbetreuer",
     "elektronisches-gerichts--und-verwaltungspostfach",
+    "elektronisches-gerichts--und-verwaltungspostfach",
     "finanzamt",
     "haftpflichtversicherung",
     "haftpflichtversicherung",
@@ -9684,6 +9710,7 @@
     "mittellosigkeit",
     "vbvg-rechtsprechung",
     "vereinsbetreuer",
+    "vergütung-2026",
     "vergütungsreform-2019",
     "vormünder--und-betreuervergütungsgesetz",
     "wohn--und-betreuungsvertragsgesetz"
@@ -11141,6 +11168,7 @@
   ],
   "ohne": [
     "beglaubigung-durch-betreuungsbehörde",
+    "betreuervergütung-2026",
     "geschäftsfähigkeit",
     "gesetzestexte",
     "patientenvertreter",
@@ -11419,6 +11447,7 @@
   "basisdaten": [
     "behindertenkonvention",
     "betreuervergütung-2019",
+    "betreuervergütung-2026",
     "betreuungsorganisationsgesetz",
     "betreuungsrechtsreform",
     "familienverfahrensgesetz",
@@ -11428,6 +11457,7 @@
   "volltitel": [
     "behindertenkonvention",
     "betreuervergütung-2019",
+    "betreuervergütung-2026",
     "betreuungsorganisationsgesetz",
     "betreuungsrechtsreform",
     "familienverfahrensgesetz",
@@ -11481,7 +11511,6 @@
     "behördenangelegenheiten",
     "eingruppierung",
     "rente",
-    "schwerbehindertenausweis",
     "strafprozess",
     "vertretung-gegenüber-behörden",
     "vertretung-gegenüber-behörden"
@@ -11918,7 +11947,6 @@
   ],
   "informationen": [
     "berufsbetreuer",
-    "betreuervergütung-2026",
     "betreuungsorganisationsgesetz",
     "elektronische-patientenakte",
     "gesundheitliche-versorgungsplanung",
@@ -12068,6 +12096,7 @@
     "bestattung",
     "betreuervergütung-2019",
     "betreuervergütung-2026",
+    "betreuervergütung-2026",
     "neu",
     "schlusstätigkeiten",
     "sterilisationsbetreuer"
@@ -12160,6 +12189,7 @@
   ],
   "vertrag": [
     "bestattungsvertrag",
+    "neu",
     "persönliches-budget"
   ],
   "kosten": [
@@ -12518,7 +12548,6 @@
   "dieser": [
     "betreuerausweis",
     "betreuerpflichten",
-    "betreuervergütung-2026",
     "betreuungsbehördengesetz",
     "betreuungsrechtsreform",
     "freibetrag",
@@ -13127,6 +13156,7 @@
     "betreuervergütung",
     "betreuervergütung-2019",
     "betreuervergütung-2019",
+    "betreuervergütung-2026",
     "betreuerwechsel",
     "betreutes-wohnen",
     "gesetzestexte",
@@ -13251,8 +13281,7 @@
     "vbvg-rechtsprechung",
     "vergütungsstufe",
     "vergütungstabelle",
-    "vormünder--und-betreuervergütungsgesetz",
-    "wohn--und-betreuungsvertragsgesetz"
+    "vormünder--und-betreuervergütungsgesetz"
   ],
   "thema": [
     "betreuervergütung",
@@ -13502,6 +13531,65 @@
     "tod-des-betreuten",
     "vormünder--und-betreuervergütungsgesetz"
   ],
+  "bgbl": [
+    "betreuervergütung-2026",
+    "betreuungsbehördengesetz",
+    "betreuungsorganisationsgesetz",
+    "betreuungsrechtsreform",
+    "familienverfahrensgesetz",
+    "haager-übereinkommen"
+  ],
+  "bund": [
+    "betreuervergütung-2026",
+    "föderalismus",
+    "mdk-gutachten",
+    "neu",
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "vorsorgeregister",
+    "vorsorgeregisterverordnung"
+  ],
+  "aktueller": [
+    "betreuervergütung-2026",
+    "betreuungsgesetz"
+  ],
+  "stand": [
+    "betreuervergütung-2026",
+    "betreuervergütung-2026",
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "strafprozess"
+  ],
+  "ende": [
+    "betreuervergütung-2026",
+    "betreuungsrechtsreform",
+    "betreuungszahlen",
+    "gesetzestexte",
+    "globales-nachhaltigkeitsziel-10",
+    "schlusstätigkeiten",
+    "schlusstätigkeiten",
+    "tod-des-betreuers"
+  ],
+  "stationär": [
+    "betreuervergütung-2026"
+  ],
+  "systematik": [
+    "betreuervergütung-2026"
+  ],
+  "sonstige": [
+    "betreuervergütung-2026",
+    "mittellosigkeit"
+  ],
+  "ersten": [
+    "betreuervergütung-2026",
+    "checkliste-betreuerpflichten",
+    "grundrechte"
+  ],
+  "zwölf": [
+    "betreuervergütung-2026"
+  ],
+  "monaten": [
+    "betreuervergütung-2026",
+    "meldepflicht"
+  ],
   "synopse": [
     "betreuervergütung-2026",
     "betreuungsbehörde",
@@ -13525,11 +13613,6 @@
     "betreuervergütung-2026",
     "drittes-betreuungsrechtsänderungsgesetz",
     "verfahrensfähigkeit"
-  ],
-  "stand": [
-    "betreuervergütung-2026",
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "strafprozess"
   ],
   "dito": [
     "betreuervergütung-2026",
@@ -13899,13 +13982,6 @@
     "verfahrensfähigkeit",
     "vertretung-gegenüber-behörden"
   ],
-  "bgbl": [
-    "betreuungsbehördengesetz",
-    "betreuungsorganisationsgesetz",
-    "betreuungsrechtsreform",
-    "familienverfahrensgesetz",
-    "haager-übereinkommen"
-  ],
   "bestandteil": [
     "betreuungsbehördengesetz",
     "tierschutz"
@@ -14048,9 +14124,6 @@
   "regierungsentwurf": [
     "betreuungsgesetz",
     "betreuungsrechtsreform"
-  ],
-  "aktueller": [
-    "betreuungsgesetz"
   ],
   "außergewöhnliche": [
     "betreuungskosten-im-steuerrecht"
@@ -14254,15 +14327,6 @@
   ],
   "verlagsseite": [
     "betreuungsrechtliche-praxis"
-  ],
-  "ende": [
-    "betreuungsrechtsreform",
-    "betreuungszahlen",
-    "gesetzestexte",
-    "globales-nachhaltigkeitsziel-10",
-    "schlusstätigkeiten",
-    "schlusstätigkeiten",
-    "tod-des-betreuers"
   ],
   "änderungen": [
     "betreuungsrechtsreform",
@@ -15082,10 +15146,6 @@
     "checkliste-betreuerpflichten",
     "grundrechte",
     "selbstbestimmung"
-  ],
-  "ersten": [
-    "checkliste-betreuerpflichten",
-    "grundrechte"
   ],
   "schritte": [
     "checkliste-betreuerpflichten"
@@ -16475,14 +16535,6 @@
   "egvp": [
     "elektronisches-gerichts--und-verwaltungspostfach"
   ],
-  "pflicht": [
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "freibetrag",
-    "schenkung",
-    "schlusstätigkeiten",
-    "verpflichtungsgespräch",
-    "wohnungsauflösung"
-  ],
   "anwaltliche": [
     "elektronisches-gerichts--und-verwaltungspostfach",
     "rechtsanwalt"
@@ -16993,6 +17045,13 @@
     "verfahrenspfleger",
     "verfahrenspfleger"
   ],
+  "pflicht": [
+    "freibetrag",
+    "schenkung",
+    "schlusstätigkeiten",
+    "verpflichtungsgespräch",
+    "wohnungsauflösung"
+  ],
   "einkünften": [
     "freibetrag"
   ],
@@ -17135,14 +17194,6 @@
   "regierungen": [
     "föderalismus",
     "neu"
-  ],
-  "bund": [
-    "föderalismus",
-    "mdk-gutachten",
-    "neu",
-    "selbstverwaltung-der-deutschen-gemeinden",
-    "vorsorgeregister",
-    "vorsorgeregisterverordnung"
   ],
   "ländern": [
     "föderalismus",
@@ -19411,9 +19462,6 @@
   "abmeldung": [
     "meldepflicht"
   ],
-  "monaten": [
-    "meldepflicht"
-  ],
   "meldepflichtig": [
     "meldepflicht"
   ],
@@ -19492,9 +19540,6 @@
   "gegenstände": [
     "mittellosigkeit",
     "wohnungsauflösung"
-  ],
-  "sonstige": [
-    "mittellosigkeit"
   ],
   "geschützte": [
     "mittellosigkeit"
@@ -19720,6 +19765,13 @@
   "rehabilitationsrecht": [
     "neu"
   ],
+  "dezember": [
+    "neu",
+    "neu"
+  ],
+  "völker": [
+    "neu"
+  ],
   "verbraucherstreitbeilegungsgesetz": [
     "neu",
     "verbraucherstreitbeilegung"
@@ -19734,9 +19786,6 @@
   "volljährigen": [
     "neu",
     "zweites-betreuungsrechtsänderungsgesetz"
-  ],
-  "dezember": [
-    "neu"
   ],
   "starug": [
     "neu"
@@ -21535,6 +21584,9 @@
   "subsidiäre": [
     "subsidiaritätsprinzip"
   ],
+  "verwirklicht": [
+    "subsidiaritätsprinzip"
+  ],
   "patientenverfügungsgesetze": [
     "synopse"
   ],
@@ -22182,6 +22234,7 @@
     "verhinderungsbetreuer"
   ],
   "verhältnismäßigkeit": [
+    "verhältnismäßigkeitsprinzip",
     "verhältnismäßigkeitsprinzip",
     "verhältnismäßigkeitsprinzip",
     "verhältnismäßigkeitsprinzip"
