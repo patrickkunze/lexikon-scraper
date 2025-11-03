@@ -77,16 +77,16 @@
   ],
   "zusammenfassung": " Zu diesem Projekt \n\nDas Online-Lexikon Betreuungsrecht wurde 1996 von Horst Deinert entwickelt und ist seit 2006 in ein Wiki umgewandelt. Homepage des Lexikonbetreibers: . Seit 2008 war das Lexikon ein Teil der Homepage der Fachzeitschrift \"Betreuungsrechtliche Praxis\" [BtPrax](btprax), die im Regu...",
   "verwandteArtikel": [
-    "wikipedia:de:wikipedia:lizenzbestimmungen",
-    "wikia:wikia-copyrights",
+    "spielwiese",
     "kategorie:betreuungsrecht-lexikon",
     "selbstbestimmung",
-    "betreuungsrecht-lexikon:haftungsausschluss",
-    "btprax",
     "software",
+    "wikipedia:de:wikipedia:lizenzbestimmungen",
+    "btprax",
+    "wikia:wikia-copyrights",
     "wikipedia:de:gnu-lizenz-für-freie-dokumentation",
-    "spielwiese",
-    "freier-wille",
-    "wikia:text-of-the-gnu-free-documentation-license"
+    "betreuungsrecht-lexikon:haftungsausschluss",
+    "wikia:text-of-the-gnu-free-documentation-license",
+    "freier-wille"
   ]
 }

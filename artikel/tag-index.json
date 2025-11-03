@@ -2411,6 +2411,7 @@
     "altenheim",
     "angehörigenvertretungsrecht",
     "anlagegeld",
+    "assistenzleistungen",
     "aufenthaltsbestimmung",
     "aufwandspauschale",
     "bankvollmacht",
@@ -8236,6 +8237,7 @@
   ],
   "unterstützungspflicht": [
     "anzeigepflicht",
+    "assistenzleistungen",
     "checkliste-betreuerpflichten",
     "datenschutz",
     "freier-wille",
@@ -8433,7 +8435,6 @@
   "werkstatt": [
     "arbeitsvertrag",
     "geheimhaltungspflicht",
-    "unterstützungspflicht",
     "werkstatt-für-behinderte-menschen",
     "werkstatt-für-behinderte-menschen",
     "werkstatt-für-behinderte-menschen"
@@ -8633,6 +8634,7 @@
     "it-sicherheit",
     "persönliches-budget",
     "schwerbehindertenausweis",
+    "unterstützungspflicht",
     "wohn--und-betreuungsvertragsgesetz"
   ],
   "teilhabe": [
@@ -8652,6 +8654,23 @@
   ],
   "lösungen": [
     "assistenzleistungen"
+  ],
+  "delegationstechnik": [
+    "assistenzleistungen"
+  ],
+  "system": [
+    "assistenzleistungen",
+    "corona"
+  ],
+  "damit": [
+    "assistenzleistungen",
+    "testierfähigkeit",
+    "verbraucherstreitbeilegung",
+    "vermögensverzeichnis"
+  ],
+  "sogenannten": [
+    "assistenzleistungen",
+    "mdk-gutachten"
   ],
   "eingliederungshilfe": [
     "assistenzleistungen",
@@ -8696,24 +8715,6 @@
     "it-sicherheit",
     "medikationsplan",
     "ordre-public"
-  ],
-  "datenschutz": [
-    "assistenzleistungen",
-    "betreuerausweis",
-    "datenschutz",
-    "datenschutz",
-    "e-rezept",
-    "elektronische-patientenakte",
-    "föderalismus",
-    "gesundheitsdatennutzungsgesetz",
-    "gewaltschutzanordnung",
-    "it-sicherheit",
-    "medikationsplan",
-    "mitteilungspflicht",
-    "neu",
-    "personalausweis",
-    "schweigepflicht",
-    "vertreterdokumentation"
   ],
   "einsicht": [
     "aufenthaltsbestimmung"
@@ -12596,6 +12597,23 @@
   "scheckkartenformat": [
     "betreuerausweis"
   ],
+  "datenschutz": [
+    "betreuerausweis",
+    "datenschutz",
+    "datenschutz",
+    "e-rezept",
+    "elektronische-patientenakte",
+    "föderalismus",
+    "gesundheitsdatennutzungsgesetz",
+    "gewaltschutzanordnung",
+    "it-sicherheit",
+    "medikationsplan",
+    "mitteilungspflicht",
+    "neu",
+    "personalausweis",
+    "schweigepflicht",
+    "vertreterdokumentation"
+  ],
   "elektronischer": [
     "betreuerausweis",
     "digitale-barrierefreiheit",
@@ -15260,9 +15278,6 @@
     "corona"
   ],
   "ampel": [
-    "corona"
-  ],
-  "system": [
     "corona"
   ],
   "testinfos": [
@@ -19349,9 +19364,6 @@
   "wirken": [
     "mdk-gutachten"
   ],
-  "sogenannten": [
-    "mdk-gutachten"
-  ],
   "heimnotwendigkeitsbescheinigung": [
     "mdk-gutachten"
   ],
@@ -21637,11 +21649,6 @@
   "erblasser": [
     "testierfähigkeit",
     "testierfähigkeit"
-  ],
-  "damit": [
-    "testierfähigkeit",
-    "verbraucherstreitbeilegung",
-    "vermögensverzeichnis"
   ],
   "testierfähig": [
     "testierfähigkeit"
