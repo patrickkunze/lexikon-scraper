@@ -8631,6 +8631,7 @@
   "assistenzleistungen": [
     "assistenzleistungen",
     "e-rezept",
+    "globales-nachhaltigkeitsziel-10",
     "it-sicherheit",
     "persönliches-budget",
     "schwerbehindertenausweis",
@@ -9099,6 +9100,7 @@
   ],
   "erweiterung": [
     "aufgabenkreis",
+    "betreuungssache",
     "haager-übereinkommen"
   ],
   "ordre": [
@@ -11400,7 +11402,6 @@
   "gesundheitsdatennutzungsgesetz": [
     "begleitforschung",
     "checkliste-gesundheitssorge",
-    "globales-nachhaltigkeitsziel-10",
     "heilbehandlung",
     "neu"
   ],
@@ -14420,9 +14421,6 @@
     "betreuungssache",
     "betreuungszahlen"
   ],
-  "gegenbetreuern": [
-    "betreuungssache"
-  ],
   "rechtsbeschwerde": [
     "betreuungssache",
     "familienverfahrensgesetz",
@@ -15691,6 +15689,7 @@
   ],
   "union": [
     "diskriminierungsverbot",
+    "grundrechte",
     "subsidiaritätsprinzip"
   ],
   "antidiskriminierungsstelle": [
@@ -18381,6 +18380,19 @@
   "dienen": [
     "grundrechte"
   ],
+  "werte": [
+    "grundrechte"
+  ],
+  "gleichheit": [
+    "grundrechte"
+  ],
+  "europäische": [
+    "grundrechte",
+    "schwerbehindertenausweis"
+  ],
+  "staatenbund": [
+    "grundrechte"
+  ],
   "postkontrolle": [
     "grundrechte",
     "postverkehr"
@@ -20991,9 +21003,6 @@
     "schwerbehindertenausweis",
     "tierschutz",
     "werkstatt-für-behinderte-menschen"
-  ],
-  "europäische": [
-    "schwerbehindertenausweis"
   ],
   "european": [
     "schwerbehindertenausweis"
