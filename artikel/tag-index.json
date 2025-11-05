@@ -632,6 +632,7 @@
     "schenkung",
     "schlussbericht",
     "schlussrechnungslegung",
+    "schlussrechnungslegung",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
@@ -958,7 +959,6 @@
     "betreuungsgerichtshilfe",
     "betreuungsorganisationsgesetz",
     "betreuungsrechtsreform",
-    "betreuungssache",
     "betreuungsverein",
     "betreuungsverfahren",
     "betreuungsverfügung",
@@ -3461,6 +3461,7 @@
     "sachverständigengutachten",
     "sachverständigengutachten",
     "schlussbericht",
+    "schlussrechnungslegung",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
     "schweigepflicht",
@@ -4372,6 +4373,7 @@
     "schenkung",
     "schenkung",
     "schenkung",
+    "schlussrechnungslegung",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
@@ -5058,7 +5060,6 @@
   ],
   "grundrechte": [
     "altenheim",
-    "anhörung",
     "aufenthaltsbestimmung",
     "ausländer",
     "ausschließlichkeitserklärung",
@@ -7200,6 +7201,10 @@
     "vormünder--und-betreuervergütungsgesetz",
     "waffenbesitz"
   ],
+  "betreuungssache": [
+    "anhörung",
+    "einwilligungsvorbehalt"
+  ],
   "verhältnismäßigkeitsprinzip": [
     "anhörung",
     "gesetzgebung",
@@ -7309,7 +7314,6 @@
     "rechnungslegung",
     "rechtspfleger",
     "schenkung",
-    "schlussrechnungslegung",
     "schlusstätigkeiten",
     "verfahrenspfleger",
     "verhinderungsbetreuer",
@@ -8414,7 +8418,6 @@
   ],
   "prozessfähigkeit": [
     "arbeitsvertrag",
-    "einwilligungsvorbehalt",
     "handlungsfähigkeit",
     "mahnverfahren",
     "prozessfähigkeit",
@@ -9191,6 +9194,7 @@
     "aufhebung-der-betreuung",
     "aufhebung-der-betreuung",
     "betreuervergütung",
+    "betreuungssache",
     "genehmigungen-von-a-bis-z",
     "gesetzestexte",
     "gesetzestexte",
@@ -10588,7 +10592,6 @@
     "rechnungslegung",
     "rechnungslegung",
     "rechnungslegung",
-    "schlussrechnungslegung",
     "schlusstätigkeiten",
     "vermögenssorge",
     "vermögensverzeichnis"
@@ -16126,6 +16129,7 @@
     "ende-der-betreuung",
     "schlussbericht",
     "schlussrechnung",
+    "schlussrechnungslegung",
     "schlusstätigkeiten",
     "tod-des-betreuers"
   ],
@@ -20929,13 +20933,21 @@
     "schenkung"
   ],
   "thielke": [
-    "schlussbericht"
+    "schlussbericht",
+    "schlussrechnungslegung"
   ],
   "word": [
     "schlussbericht"
   ],
   "berechtigte": [
     "schlussrechnungslegung"
+  ],
+  "einzureichen": [
+    "schlussrechnungslegung"
+  ],
+  "hierbei": [
+    "schlussrechnungslegung",
+    "umgangsbestimmung"
   ],
   "schlusspflichten": [
     "schlussrechnungslegung"
@@ -21767,9 +21779,6 @@
     "umgangsbestimmung"
   ],
   "betreuenden": [
-    "umgangsbestimmung"
-  ],
-  "hierbei": [
     "umgangsbestimmung"
   ],
   "umgangsbestimmungsrecht": [
