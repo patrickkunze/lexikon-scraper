@@ -1,7 +1,7 @@
 {
   "id": "interoperabilität",
   "titel": "Interoperabilität",
-  "inhalt": "Interoperabilität ist ein Fachbegriff, mit dem die Fähigkeit eines elektronischen Systems bezeichnet wird, das online oder auch offline mit anderen Systemen zusammenarbeiten kann, ohne dass die Daten vorher extra konvertiert werden müssen. Interoperabilität im deutschen Gesundheitswesen wird für eine gut funktionierende deutsche Telematikinfrastruktur zunehmend gesetzlich vorgeschrieben.\n\nRecht auf Interoperabilität\nIm § 386 SGB V wird ein neues Recht auf Interoperabilität im deutschen Gesundheitswesen gesetzlich an die Krankenkassen verliehen. Demnach tauschen die von der gesetzlichen [Krankenversicherung](krankenversicherung) rechtlich anerkannten Leistungserbringer des deutschen Gesundheitswesens ihre [elektronische Patientenakte](elektronische-patientenakte) zukünftig im interoperablen Format aus. Auch die Versicherten können verlangen, dass ihre personenbezogenen Gesundheitsdaten im interoperablen Format herausgegeben werden – unverzüglich und kostenfrei!\n\nIm § 109a SGB XI wird im Prinzip das gleiche Recht auf Interoperabilität an die [Pflegeversicherung](pflegeversicherung) verliehen.\n\nsemantische Interoperabilität\nSemantik ist der sprachwissenschaftliche (linguistische) Fachbegriff, der aus dem Griechischen stammt und die Bedeutungslehre für den jeweiligen Sprachlaut oder für die Wörter bezeichnet. Sowohl gesprochene Sprachen als auch Programmiersprachen sind Zeichensysteme, mit deren Hilfe Menschen sprachlich miteinander kommunizieren können. Eine semantische Interoperabilität ist immer dann zwischen zwei verschiedenen Systemen gegeben, wenn die jeweiligen Bedeutungen der übertragenen Zeichen im Empfängersystem und im Sendersystem inhaltlich übereinstimmen. \n\nsyntaktische Interoperabilität\nSyntax ist der sprachwissenschaftliche (linguistische) Fachbegriff für die Satzlehre. Das griechische Wort ‚syntaxis‘ bedeutet Zusammenfügung. Die Satzlehre ist ein Teil der sprachlichen Grammatik. Sie zerlegt den Satz in Satzglieder (zum Beispiel Subjekt, Prädikat, Objekt) und untersucht die verschiedenen Satzarten nach Wortstellung und Satzbetonung. Eine syntaktische Interoperabilität ist in der Datenverarbeitung dann gegeben, wenn die Gliederung der Datensätze vom Sendersystem gleichbleibend in das Empfängersystem übernommen wird.\n\nTelematikinfrastruktur in Deutschland\nIm 4. Untertitel für die [elektronische Patientenakte](elektronische-patientenakte) werden die Festlegungen für technische Voraussetzungen und semantische und syntaktische Interoperabilität von Daten gesetzlich geregelt (§ 354 SGB V und § 355 SGB V) - ein riesiges (europäisches) IT-Infrastrukturprojekt!\n\nSiehe auch\n [elektronische Patientenakte](elektronische-patientenakte), [e-Rechnung](e-rechnung), [Nutzungspflicht](nutzungspflicht)\n [digitale Barrierefreiheit](digitale-barrierefreiheit), [Assistenzleistungen](assistenzleistungen)\n [IT-Sicherheit](it-sicherheit), [Datenschutz](datenschutz), [Software](software)\n [Gesundheitsdatennutzungsgesetz](gesundheitsdatennutzungsgesetz)\n [Informationspflicht](informationspflicht)\n [Subsidiaritätsprinzip](subsidiaritätsprinzip)\n [Zugriffsrecht](zugriffsrecht)\n [Personalausweis](personalausweis)\n [Medikationsplan](medikationsplan), [e-Rezept](e-rezept)\n [Dokumentationspflicht](dokumentationspflicht), [Begleitforschung](begleitforschung)\n [elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach), [Nutzungspflicht](nutzungspflicht)\n [Querschnittsaufgaben](querschnittsaufgaben)\n [elektronischer Identitätsnachweis](elektronischer-identitätsnachweis)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n [Formulare](formulare)\n [globales Nachhaltigkeitsziel 10](globales-nachhaltigkeitsziel-10)\n\nWeblinks\nBegriffslexikon der Universität Stuttgart zur Interoperabilität\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)\n[Kategorie:Auswirkungen](kategorie:auswirkungen)",
+  "inhalt": "Interoperabilität ist ein Fachbegriff, mit dem die Fähigkeit eines elektronischen Systems bezeichnet wird, das online oder auch offline mit anderen Systemen zusammenarbeiten kann, ohne dass die Daten vorher extra konvertiert werden müssen. Interoperabilität im deutschen Gesundheitswesen wird für eine gut funktionierende deutsche Telematikinfrastruktur zunehmend gesetzlich vorgeschrieben.\n\nRecht auf Interoperabilität\nIm § 386 SGB V wird ein neues Recht auf Interoperabilität im deutschen Gesundheitswesen gesetzlich an die Krankenkassen verliehen. Demnach tauschen die von der gesetzlichen [Krankenversicherung](krankenversicherung) rechtlich anerkannten Leistungserbringer des deutschen Gesundheitswesens ihre [elektronische Patientenakte](elektronische-patientenakte) zukünftig im interoperablen Format aus. Auch die Versicherten können verlangen, dass ihre personenbezogenen Gesundheitsdaten im interoperablen Format herausgegeben werden – unverzüglich und kostenfrei!\n\nIm § 109a SGB XI wird im Prinzip das gleiche Recht auf Interoperabilität an die [Pflegeversicherung](pflegeversicherung) verliehen.\n\neinheitliche Kodiersysteme\nDie Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme ([Abkürzungen](abkürzungen)) ist das einheitliche Kodiersystem bzw. die Klassifikation für Diagnosen in der ambulanten und stationären Gesundheitsversorgung in Deutschland. Es gibt noch weitere Klassifikationen, die zur korrekten Abrechnung der Kosten im Gesundheitswesen sehr wichtig sind.\n\nsemantische Interoperabilität\nSemantik ist der sprachwissenschaftliche (linguistische) Fachbegriff, der aus dem Griechischen stammt und die Bedeutungslehre für den jeweiligen Sprachlaut oder für die Wörter bezeichnet. Sowohl gesprochene Sprachen als auch Programmiersprachen sind Zeichensysteme, mit deren Hilfe Menschen sprachlich miteinander kommunizieren können. Eine semantische Interoperabilität ist immer dann zwischen zwei verschiedenen Systemen gegeben, wenn die jeweiligen Bedeutungen der übertragenen Zeichen im Empfängersystem und im Sendersystem inhaltlich übereinstimmen. \n\nsyntaktische Interoperabilität\nSyntax ist der sprachwissenschaftliche (linguistische) Fachbegriff für die Satzlehre. Das griechische Wort ‚syntaxis‘ bedeutet Zusammenfügung. Die Satzlehre ist ein Teil der sprachlichen Grammatik. Sie zerlegt den Satz in Satzglieder (zum Beispiel Subjekt, Prädikat, Objekt) und untersucht die verschiedenen Satzarten nach Wortstellung und Satzbetonung. Eine syntaktische Interoperabilität ist in der Datenverarbeitung dann gegeben, wenn die Gliederung der Datensätze vom Sendersystem gleichbleibend in das Empfängersystem übernommen wird.\n\nTelematikinfrastruktur in Deutschland\nIm 4. Untertitel für die [elektronische Patientenakte](elektronische-patientenakte) werden die Festlegungen für technische Voraussetzungen und semantische und syntaktische Interoperabilität von Daten gesetzlich geregelt (§ 354 SGB V und § 355 SGB V) - ein riesiges (europäisches) IT-Infrastrukturprojekt!\n\nSiehe auch\n [elektronische Patientenakte](elektronische-patientenakte), [e-Rechnung](e-rechnung), [Nutzungspflicht](nutzungspflicht)\n [digitale Barrierefreiheit](digitale-barrierefreiheit), [Assistenzleistungen](assistenzleistungen)\n [IT-Sicherheit](it-sicherheit), [Datenschutz](datenschutz), [Software](software)\n [Gesundheitsdatennutzungsgesetz](gesundheitsdatennutzungsgesetz)\n [Informationspflicht](informationspflicht)\n [Subsidiaritätsprinzip](subsidiaritätsprinzip)\n [Zugriffsrecht](zugriffsrecht)\n [Personalausweis](personalausweis)\n [Medikationsplan](medikationsplan), [e-Rezept](e-rezept)\n [Dokumentationspflicht](dokumentationspflicht), [Begleitforschung](begleitforschung)\n [elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach), [Nutzungspflicht](nutzungspflicht)\n [Querschnittsaufgaben](querschnittsaufgaben)\n [elektronischer Identitätsnachweis](elektronischer-identitätsnachweis)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n [Formulare](formulare)\n [globales Nachhaltigkeitsziel 10](globales-nachhaltigkeitsziel-10)\n\nWeblinks\n Begriffslexikon der Universität Stuttgart zur Interoperabilität\n Internetseite des Bundesinstituts für Arzneimittel und Medizinprodukte (BfArM)\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)\n[Kategorie:Auswirkungen](kategorie:auswirkungen)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -23,6 +23,17 @@
         "interoperabilität",
         "deutschen",
         "verliehen"
+      ]
+    },
+    {
+      "titel": "einheitliche Kodiersysteme",
+      "inhalt": "Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme (ICD) ist das einheitliche Kodiersystem bzw. die Klassifikation für Diagnosen in der ambulanten und stationären Gesundheitsversorgung in Deutschland. Es gibt noch weitere Klassifikationen, die zur korrekten Abrechnung der Kosten im Gesundheitswesen sehr wichtig sind.",
+      "tags": [
+        "klassifikation",
+        "internationale",
+        "statistische",
+        "krankheiten",
+        "verwandter"
       ]
     },
     {
@@ -71,7 +82,7 @@
     },
     {
       "titel": "Weblinks",
-      "inhalt": "Begriffslexikon der Universität Stuttgart zur Interoperabilität\n\nKategorie:Rechtsnormen\nKategorie:Auswirkungen",
+      "inhalt": "Begriffslexikon der Universität Stuttgart zur Interoperabilität\n Internetseite des Bundesinstituts für Arzneimittel und Medizinprodukte (BfArM)\n\nKategorie:Rechtsnormen\nKategorie:Auswirkungen",
       "tags": [
         "kategorie",
         "begriffslexikon",
@@ -83,32 +94,33 @@
   ],
   "zusammenfassung": "Interoperabilität ist ein Fachbegriff, mit dem die Fähigkeit eines elektronischen Systems bezeichnet wird, das online oder auch offline mit anderen Systemen zusammenarbeiten kann, ohne dass die Daten vorher extra konvertiert werden müssen. Interoperabilität im deutschen Gesundheitswesen wird für ein...",
   "verwandteArtikel": [
-    "pflegeversicherung",
-    "datenschutz",
-    "assistenzleistungen",
-    "formulare",
-    "e-rezept",
-    "dokumentationspflicht",
-    "nutzungspflicht",
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "personalausweis",
-    "elektronische-patientenakte",
-    "krankenversicherung",
-    "it-sicherheit",
-    "e-rechnung",
-    "elektronischer-identitätsnachweis",
-    "kategorie:auswirkungen",
-    "zugriffsrecht",
-    "digitale-barrierefreiheit",
-    "informationspflicht",
-    "kategorie:rechtsnormen",
     "gesundheitsdatennutzungsgesetz",
-    "begleitforschung",
-    "rechtsverkehr-in-deutschland",
-    "subsidiaritätsprinzip",
-    "querschnittsaufgaben",
-    "globales-nachhaltigkeitsziel-10",
     "medikationsplan",
-    "software"
+    "digitale-barrierefreiheit",
+    "globales-nachhaltigkeitsziel-10",
+    "querschnittsaufgaben",
+    "nutzungspflicht",
+    "krankenversicherung",
+    "formulare",
+    "kategorie:rechtsnormen",
+    "datenschutz",
+    "pflegeversicherung",
+    "abkürzungen",
+    "kategorie:auswirkungen",
+    "begleitforschung",
+    "zugriffsrecht",
+    "elektronische-patientenakte",
+    "rechtsverkehr-in-deutschland",
+    "personalausweis",
+    "assistenzleistungen",
+    "subsidiaritätsprinzip",
+    "elektronischer-identitätsnachweis",
+    "software",
+    "e-rezept",
+    "it-sicherheit",
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "informationspflicht",
+    "e-rechnung",
+    "dokumentationspflicht"
   ]
 }

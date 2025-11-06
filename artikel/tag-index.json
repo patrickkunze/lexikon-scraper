@@ -10033,7 +10033,8 @@
   "internationale": [
     "ausländer",
     "ausländer",
-    "haager-übereinkommen"
+    "haager-übereinkommen",
+    "interoperabilität"
   ],
   "fremden": [
     "ausländer"
@@ -18930,6 +18931,18 @@
     "krankenversicherung"
   ],
   "verliehen": [
+    "interoperabilität"
+  ],
+  "klassifikation": [
+    "interoperabilität"
+  ],
+  "statistische": [
+    "interoperabilität"
+  ],
+  "krankheiten": [
+    "interoperabilität"
+  ],
+  "verwandter": [
     "interoperabilität"
   ],
   "jeweiligen": [
