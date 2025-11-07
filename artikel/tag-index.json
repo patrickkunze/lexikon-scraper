@@ -3297,7 +3297,6 @@
     "checkliste-vermögenssorge",
     "checkliste-wohnungsangelegenheiten",
     "dokumentationspflicht",
-    "e-rezept",
     "einwilligungsfähigkeit",
     "elektronische-patientenakte",
     "gesundheitssorge",
@@ -8690,6 +8689,12 @@
     "schwerbehindertenausweis",
     "unterstützungspflicht"
   ],
+  "geheimhaltungspflicht": [
+    "assistenzleistungen",
+    "inklusionsbetrieb",
+    "vertreterdokumentation",
+    "werkstatt-für-behinderte-menschen"
+  ],
   "persönliches": [
     "assistenzleistungen",
     "ergänzungsbetreuer",
@@ -8705,20 +8710,6 @@
     "persönliches-budget",
     "persönliches-budget",
     "persönliches-budget"
-  ],
-  "sicherheit": [
-    "assistenzleistungen",
-    "betreuerausweis",
-    "e-rezept",
-    "föderalismus",
-    "gesundheitsdatennutzungsgesetz",
-    "it-sicherheit",
-    "it-sicherheit",
-    "it-sicherheit",
-    "it-sicherheit",
-    "it-sicherheit",
-    "medikationsplan",
-    "ordre-public"
   ],
   "einsicht": [
     "aufenthaltsbestimmung"
@@ -10256,7 +10247,6 @@
     "bgb",
     "btbg",
     "drittes-betreuungsrechtsänderungsgesetz",
-    "e-rezept",
     "fgg",
     "famfg",
     "gesundheitsdatennutzungsgesetz",
@@ -12601,6 +12591,19 @@
   ],
   "scheckkartenformat": [
     "betreuerausweis"
+  ],
+  "sicherheit": [
+    "betreuerausweis",
+    "e-rezept",
+    "föderalismus",
+    "gesundheitsdatennutzungsgesetz",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
+    "medikationsplan",
+    "ordre-public"
   ],
   "datenschutz": [
     "betreuerausweis",
@@ -15860,6 +15863,13 @@
     "elektronischer-identitätsnachweis",
     "neu"
   ],
+  "bundesinstituts": [
+    "e-rezept"
+  ],
+  "arzneimittel": [
+    "e-rezept",
+    "heilbehandlung"
+  ],
   "verwaltungspostfach": [
     "ebo",
     "egvp",
@@ -18731,9 +18741,6 @@
   "homöopathischen": [
     "heilbehandlung"
   ],
-  "arzneimittel": [
-    "heilbehandlung"
-  ],
   "heidelberg": [
     "heilbehandlung"
   ],
@@ -18861,11 +18868,6 @@
   ],
   "inklusionsbetriebe": [
     "inklusionsbetrieb"
-  ],
-  "geheimhaltungspflicht": [
-    "inklusionsbetrieb",
-    "vertreterdokumentation",
-    "werkstatt-für-behinderte-menschen"
   ],
   "rechtsbegriff": [
     "insichgeschäft",
