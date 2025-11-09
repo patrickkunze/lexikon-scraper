@@ -153,6 +153,10 @@
       "titel": "Ausbildung"
     },
     {
+      "id": "auskunftspflicht",
+      "titel": "Auskunftspflicht"
+    },
+    {
       "id": "ausländer",
       "titel": "Ausländer"
     },

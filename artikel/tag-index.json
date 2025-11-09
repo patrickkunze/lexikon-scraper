@@ -296,6 +296,7 @@
     "ausbildung",
     "ausbildung",
     "ausbildung",
+    "auskunftspflicht",
     "ausschließlichkeitserklärung",
     "beamte-als-betreuer",
     "beaufsichtigung",
@@ -2829,6 +2830,7 @@
     "anzeigepflicht",
     "aufgabenkreis",
     "aufgabenkreis",
+    "auskunftspflicht",
     "ausländer",
     "ausländer",
     "beamte-als-betreuer",
@@ -5580,6 +5582,7 @@
   "betreuerpflichten": [
     "altenheim",
     "aufgabenkreis",
+    "auskunftspflicht",
     "beaufsichtigung",
     "betreuerpflichten",
     "betreuerpflichten",
@@ -6807,6 +6810,8 @@
     "angehörigenvertretungsrecht",
     "anregung-der-betreuerbestellung",
     "anzeigepflicht",
+    "auskunftspflicht",
+    "auskunftspflicht",
     "beaufsichtigung",
     "beratung",
     "betrg",
@@ -8059,6 +8064,7 @@
   "anzeigepflicht": [
     "anzeigepflicht",
     "arbeitsvertrag",
+    "auskunftspflicht",
     "beaufsichtigung",
     "betreuerbestellung",
     "betreuerhaftung",
@@ -8226,6 +8232,7 @@
   "mitteilungspflicht": [
     "anzeigepflicht",
     "aufhebung-der-betreuung",
+    "auskunftspflicht",
     "bestellung-mehrerer-betreuer",
     "girokonto",
     "nutzungspflicht",
@@ -8321,6 +8328,7 @@
   ],
   "verlangen": [
     "arbeitsvertrag",
+    "auskunftspflicht",
     "eidesstattliche-versicherung",
     "eidesstattliche-versicherung"
   ],
@@ -9980,6 +9988,26 @@
     "ausbildung",
     "bundesverband-der-berufsbetreuer"
   ],
+  "dessen": [
+    "auskunftspflicht",
+    "beglaubigung-durch-betreuungsbehörde",
+    "bestattung",
+    "datenschutz",
+    "rente",
+    "sterbehilfe",
+    "tod-des-betreuers",
+    "vermögenssorge"
+  ],
+  "informationspflicht": [
+    "auskunftspflicht",
+    "beratung",
+    "gesetzlicher-vertreter",
+    "informationspflicht",
+    "mitteilungspflicht",
+    "schweigepflicht",
+    "vermögensverzeichnis",
+    "widerspruchsrecht"
+  ],
   "lebende": [
     "ausländer"
   ],
@@ -11140,15 +11168,6 @@
   "beteiligte": [
     "beglaubigung-durch-betreuungsbehörde"
   ],
-  "dessen": [
-    "beglaubigung-durch-betreuungsbehörde",
-    "bestattung",
-    "datenschutz",
-    "rente",
-    "sterbehilfe",
-    "tod-des-betreuers",
-    "vermögenssorge"
-  ],
   "handzeichen": [
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
@@ -11756,15 +11775,6 @@
   ],
   "gerichtsbescheid": [
     "beratung"
-  ],
-  "informationspflicht": [
-    "beratung",
-    "gesetzlicher-vertreter",
-    "informationspflicht",
-    "mitteilungspflicht",
-    "schweigepflicht",
-    "vermögensverzeichnis",
-    "widerspruchsrecht"
   ],
   "klie": [
     "beratung",
