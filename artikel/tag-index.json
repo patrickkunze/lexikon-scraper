@@ -887,7 +887,6 @@
     "wahlrecht",
     "widerspruchsrecht",
     "wohn--und-betreuungsvertragsgesetz",
-    "zug-um-zug-leistung",
     "zugangsrecht",
     "zugangsrecht",
     "zugangsrecht"
@@ -2930,6 +2929,7 @@
     "abschlussbericht",
     "abschlussbericht",
     "altenheim",
+    "auskunftspflicht",
     "beglaubigung-durch-betreuungsbehörde",
     "betreuervergütung-2019",
     "betreuervorschlag",
@@ -3647,6 +3647,8 @@
     "altenheim",
     "anzeigepflicht",
     "anzeigepflicht",
+    "auskunftspflicht",
+    "auskunftspflicht",
     "begleitforschung",
     "begleitforschung",
     "beratung",
@@ -5030,6 +5032,7 @@
   ],
   "angehörigen": [
     "altenheim",
+    "auskunftspflicht",
     "ausländer",
     "beamte-als-betreuer",
     "heilbehandlung",
@@ -5949,7 +5952,6 @@
   ],
   "beamte": [
     "amtspflichtverletzung",
-    "anzeigepflicht",
     "anzeigepflicht",
     "anzeigepflicht",
     "beamte-als-betreuer",
@@ -8238,6 +8240,13 @@
     "nutzungspflicht",
     "wohnungsangelegenheiten"
   ],
+  "auskunftspflicht": [
+    "anzeigepflicht",
+    "betreuer-(ehrenamt)",
+    "betreuerhaftung",
+    "freibetrag",
+    "zug-um-zug-leistung"
+  ],
   "amtsermittlungspflicht": [
     "anzeigepflicht",
     "betreuungsarbeitsgemeinschaft",
@@ -9988,15 +9997,34 @@
     "ausbildung",
     "bundesverband-der-berufsbetreuer"
   ],
-  "dessen": [
+  "auftraggeber": [
+    "auskunftspflicht"
+  ],
+  "auskunft": [
     "auskunftspflicht",
-    "beglaubigung-durch-betreuungsbehörde",
-    "bestattung",
-    "datenschutz",
-    "rente",
-    "sterbehilfe",
-    "tod-des-betreuers",
-    "vermögenssorge"
+    "beaufsichtigung",
+    "betreuerpflichten",
+    "gesetzestexte",
+    "vormundschaftsgericht",
+    "vorsorgeregister"
+  ],
+  "nahestehenden": [
+    "auskunftspflicht"
+  ],
+  "sonstigen": [
+    "auskunftspflicht",
+    "bestattung"
+  ],
+  "verwandte": [
+    "auskunftspflicht"
+  ],
+  "gerader": [
+    "auskunftspflicht",
+    "unterstützungspflicht"
+  ],
+  "linie": [
+    "auskunftspflicht",
+    "unterstützungspflicht"
   ],
   "informationspflicht": [
     "auskunftspflicht",
@@ -10576,13 +10604,6 @@
     "heilbehandlung",
     "rechtsanwalt",
     "vorsorgevollmacht"
-  ],
-  "auskunft": [
-    "beaufsichtigung",
-    "betreuerpflichten",
-    "gesetzestexte",
-    "vormundschaftsgericht",
-    "vorsorgeregister"
   ],
   "auskunftserteilung": [
     "beaufsichtigung"
@@ -11167,6 +11188,15 @@
   ],
   "beteiligte": [
     "beglaubigung-durch-betreuungsbehörde"
+  ],
+  "dessen": [
+    "beglaubigung-durch-betreuungsbehörde",
+    "bestattung",
+    "datenschutz",
+    "rente",
+    "sterbehilfe",
+    "tod-des-betreuers",
+    "vermögenssorge"
   ],
   "handzeichen": [
     "beglaubigung-durch-betreuungsbehörde",
@@ -12083,9 +12113,6 @@
   "ansbach": [
     "bestattung"
   ],
-  "sonstigen": [
-    "bestattung"
-  ],
   "hannover": [
     "bestattung"
   ],
@@ -12146,7 +12173,6 @@
     "erbausschlagung",
     "erbausschlagung",
     "erbschaft",
-    "freibetrag",
     "kindschaftsrecht",
     "vaterschaftsanerkennung"
   ],
@@ -12860,11 +12886,6 @@
   "versichert": [
     "betreuerhaftung",
     "unfallversicherung"
-  ],
-  "rente": [
-    "betreuerhaftung",
-    "rente",
-    "rente"
   ],
   "kleine": [
     "betreuerhaftung",
@@ -20736,6 +20757,10 @@
   "altersrente": [
     "rente"
   ],
+  "rente": [
+    "rente",
+    "rente"
+  ],
   "rentner": [
     "rente"
   ],
@@ -22103,12 +22128,6 @@
     "unterstützungspflicht"
   ],
   "familie": [
-    "unterstützungspflicht"
-  ],
-  "gerader": [
-    "unterstützungspflicht"
-  ],
-  "linie": [
     "unterstützungspflicht"
   ],
   "verletzten": [

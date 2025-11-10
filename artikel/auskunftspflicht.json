@@ -1,38 +1,67 @@
 {
   "id": "auskunftspflicht",
   "titel": "Auskunftspflicht",
-  "inhalt": "Der [Betreuer](betreuer) hat dem [Betreuungsgericht](betreuungsgericht) auf dessen Verlangen jederzeit über die Führung der Betreuung und über die persönlichen und wirtschaftlichen Verhältnisse des Betreuten Auskunft zu erteilen. Das ist in § 1864 Abs. 1 BGB gesetzlich geregelt.\n\n=Siehe auch\n [Mitteilungspflicht](mitteilungspflicht)\n [Informationspflicht](informationspflicht)\n [Anzeigepflicht](anzeigepflicht)\n [Betreuungsgericht](betreuungsgericht)\n [Betreuerpflichten](betreuerpflichten)",
+  "inhalt": "Allgemeines\nGemäß § 666 BGB ist ein Beauftragter verpflichtet, dem Auftraggeber auf Verlangen über den Stand des Geschäfts Auskunft zu erteilen. Bei [Betreuer (Ehrenamt)](betreuer-(ehrenamt)), die keine Angehörigen des Betreuten sind, ist es fraglich, wer im Einzelfall als Auftraggeber gilt: der unterstützende [Betreuungsverein](betreuungsverein) oder das zuständige [Betreuungsgericht](betreuungsgericht). Der Betreute selbst kann rechtslogischerweise nicht als Auftraggeber gelten, da er dann ja nicht betreut werden müsste, sondern Dienstleistende mit seinen Angelegenheiten selbst beauftragen könnte. Die Auskunftspflicht gegenüber dem [Betreuungsgericht](betreuungsgericht) ist spezialgesetzlich in § 1864 Abs. 1 BGB geregelt:\n\nDer [Betreuer](betreuer) hat dem [Betreuungsgericht](betreuungsgericht) auf dessen Verlangen jederzeit über die Führung der Betreuung und über die persönlichen und wirtschaftlichen Verhältnisse des Betreuten Auskunft zu erteilen.\n\nAuskunftspflicht gegenüber nahestehenden Angehörigen\nDer [Betreuer](betreuer) hat gemäß § 1822 BGB nahestehenden Angehörigen und sonstigen [Vertrauensperson](vertrauensperson)en des Betreuten auf Verlangen Auskunft über dessen persönliche Lebensumstände zu erteilen.\n\nAuskunftspflicht des Unterhaltspflichtigen\nVerwandte in gerader Linie sind gemäß § 1605 Abs. 1 Satz 1 BGB einander verpflichtet, auf Verlangen über ihre Einkünfte und ihr Vermögen Auskunft zu erteilen, soweit dies zur Feststellung eines Unterhaltsanspruchs oder einer Unterhaltsverpflichtung erforderlich ist (siehe auch: [Freibetrag](freibetrag)).\n\nSiehe auch\n [Mitteilungspflicht](mitteilungspflicht)\n [Informationspflicht](informationspflicht)\n [Anzeigepflicht](anzeigepflicht)\n [Betreuungsgericht](betreuungsgericht), [Zug-um-Zug-Leistung](zug-um-zug-leistung), [Beaufsichtigung](beaufsichtigung)\n [Betreuerpflichten](betreuerpflichten), [Checkliste Betreuerpflichten](checkliste-betreuerpflichten)",
   "struktur": [
     {
-      "titel": "Einleitung",
-      "inhalt": "Der Betreuer hat dem Betreuungsgericht auf dessen Verlangen jederzeit über die Führung der Betreuung und über die persönlichen und wirtschaftlichen Verhältnisse des Betreuten Auskunft zu erteilen. Das ist in § 1864 Abs. 1 BGB gesetzlich geregelt.",
+      "titel": "Allgemeines",
+      "inhalt": "Gemäß § 666 BGB ist ein Beauftragter verpflichtet, dem Auftraggeber auf Verlangen über den Stand des Geschäfts Auskunft zu erteilen. Bei ehrenamtlichen Betreuern, die keine Angehörigen des Betreuten sind, ist es fraglich, wer im Einzelfall als Auftraggeber gilt: der unterstützende Betreuungsverein oder das zuständige Betreuungsgericht. Der Betreute selbst kann rechtslogischerweise nicht als Auftraggeber gelten, da er dann ja nicht betreut werden müsste, sondern Dienstleistende mit seinen Angelegenheiten selbst beauftragen könnte. Die Auskunftspflicht gegenüber dem Betreuungsgericht ist spezialgesetzlich in § 1864 Abs. 1 BGB geregelt:\n\nDer Betreuer hat dem Betreuungsgericht auf dessen Verlangen jederzeit über die Führung der Betreuung und über die persönlichen und wirtschaftlichen Verhältnisse des Betreuten Auskunft zu erteilen.",
       "tags": [
+        "auftraggeber",
         "über",
-        "betreuer",
         "betreuungsgericht",
-        "dessen",
-        "verlangen"
+        "verlangen",
+        "auskunft"
       ]
     },
     {
-      "titel": "=Siehe auch",
-      "inhalt": "Mitteilungspflicht\n Informationspflicht\n Anzeigepflicht\n Betreuungsgericht\n Betreuerpflichten",
+      "titel": "Auskunftspflicht gegenüber nahestehenden Angehörigen",
+      "inhalt": "Der Betreuer hat gemäß § 1822 BGB nahestehenden Angehörigen und sonstigen Vertrauenspersonen des Betreuten auf Verlangen Auskunft über dessen persönliche Lebensumstände zu erteilen.",
       "tags": [
+        "betreuer",
+        "gemäß",
+        "nahestehenden",
+        "angehörigen",
+        "sonstigen"
+      ]
+    },
+    {
+      "titel": "Auskunftspflicht des Unterhaltspflichtigen",
+      "inhalt": "Verwandte in gerader Linie sind gemäß § 1605 Abs. 1 Satz 1 BGB einander verpflichtet, auf Verlangen über ihre Einkünfte und ihr Vermögen Auskunft zu erteilen, soweit dies zur Feststellung eines Unterhaltsanspruchs oder einer Unterhaltsverpflichtung erforderlich ist (siehe auch: Freibetrag).",
+      "tags": [
+        "verwandte",
+        "gerader",
+        "linie",
+        "gemäß",
+        "satz"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Mitteilungspflicht\n Informationspflicht\n Anzeigepflicht\n Betreuungsgericht, Zug-um-Zug-Leistung, Beaufsichtigung\n Betreuerpflichten, Checkliste Betreuerpflichten",
+      "tags": [
+        "betreuerpflichten",
         "mitteilungspflicht",
         "informationspflicht",
         "anzeigepflicht",
-        "betreuungsgericht",
-        "betreuerpflichten"
+        "betreuungsgericht"
       ]
     }
   ],
-  "zusammenfassung": "Der [Betreuer](betreuer) hat dem [Betreuungsgericht](betreuungsgericht) auf dessen Verlangen jederzeit über die Führung der Betreuung und über die persönlichen und wirtschaftlichen Verhältnisse des Betreuten Auskunft zu erteilen. Das ist in § 1864 Abs. 1 BGB gesetzlich geregelt.\n\n=Siehe auch\n [Mitte...",
+  "zusammenfassung": "Allgemeines\nGemäß § 666 BGB ist ein Beauftragter verpflichtet, dem Auftraggeber auf Verlangen über den Stand des Geschäfts Auskunft zu erteilen. Bei [Betreuer (Ehrenamt)](betreuer-(ehrenamt)), die keine Angehörigen des Betreuten sind, ist es fraglich, wer im Einzelfall als Auftraggeber gilt: der unt...",
   "verwandteArtikel": [
-    "informationspflicht",
-    "betreuerpflichten",
+    "betreuungsgericht",
     "mitteilungspflicht",
-    "betreuer",
+    "betreuerpflichten",
+    "checkliste-betreuerpflichten",
+    "informationspflicht",
+    "zug-um-zug-leistung",
+    "beaufsichtigung",
+    "betreuer-(ehrenamt)",
     "anzeigepflicht",
-    "betreuungsgericht"
+    "betreuer",
+    "freibetrag",
+    "betreuungsverein",
+    "vertrauensperson"
   ]
 }
