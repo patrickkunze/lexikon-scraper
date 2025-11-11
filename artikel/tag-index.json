@@ -794,6 +794,7 @@
     "anzeigepflicht",
     "anzeigepflicht",
     "assistenzleistungen",
+    "auskunftspflicht",
     "ausländer",
     "ausländer",
     "ausländer",
@@ -930,6 +931,7 @@
     "aufgabenkreis",
     "aufhebung-der-betreuung",
     "aufwandspauschale",
+    "auskunftspflicht",
     "beaufsichtigung",
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
@@ -1731,6 +1733,7 @@
     "angehörigenvertretungsrecht",
     "angehörigenvertretungsrecht",
     "angehörigenvertretungsrecht",
+    "auskunftspflicht",
     "betreuer-(ehrenamt)",
     "eherecht-und-betreuung",
     "gesetzestexte",
@@ -3647,6 +3650,8 @@
     "altenheim",
     "anzeigepflicht",
     "anzeigepflicht",
+    "auskunftspflicht",
+    "auskunftspflicht",
     "auskunftspflicht",
     "auskunftspflicht",
     "begleitforschung",
@@ -8244,6 +8249,7 @@
     "anzeigepflicht",
     "betreuer-(ehrenamt)",
     "betreuerhaftung",
+    "eidesstattliche-versicherung",
     "freibetrag",
     "zug-um-zug-leistung"
   ],
@@ -10025,6 +10031,24 @@
   "linie": [
     "auskunftspflicht",
     "unterstützungspflicht"
+  ],
+  "forderung": [
+    "auskunftspflicht"
+  ],
+  "gläubiger": [
+    "auskunftspflicht",
+    "erbschaft",
+    "verfahrensfähigkeit",
+    "vermögensverzeichnis"
+  ],
+  "übertragung": [
+    "auskunftspflicht"
+  ],
+  "geschiedene": [
+    "auskunftspflicht"
+  ],
+  "einander": [
+    "auskunftspflicht"
   ],
   "informationspflicht": [
     "auskunftspflicht",
@@ -16166,15 +16190,6 @@
   "auskünfte": [
     "eidesstattliche-versicherung"
   ],
-  "schlussrechnungslegung": [
-    "eidesstattliche-versicherung",
-    "ende-der-betreuung",
-    "schlussbericht",
-    "schlussrechnung",
-    "schlussrechnungslegung",
-    "schlusstätigkeiten",
-    "tod-des-betreuers"
-  ],
   "bundesteilhabegesetz": [
     "eingliederungshilfe"
   ],
@@ -16708,6 +16723,14 @@
     "schlussrechung",
     "tod-des-betreuten"
   ],
+  "schlussrechnungslegung": [
+    "ende-der-betreuung",
+    "schlussbericht",
+    "schlussrechnung",
+    "schlussrechnungslegung",
+    "schlusstätigkeiten",
+    "tod-des-betreuers"
+  ],
   "notgeschäftsführung": [
     "ende-der-betreuung",
     "schlussbericht"
@@ -16823,11 +16846,6 @@
   "gemeinschaftlichen": [
     "erbschaft",
     "testierfähigkeit"
-  ],
-  "gläubiger": [
-    "erbschaft",
-    "verfahrensfähigkeit",
-    "vermögensverzeichnis"
   ],
   "nachlasses": [
     "erbschaft",
