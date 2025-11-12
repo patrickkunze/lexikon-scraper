@@ -1,7 +1,7 @@
 {
   "id": "bezirksrevisor",
   "titel": "Bezirksrevisor",
-  "inhalt": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerde im Interesse der [Regress der Staatskasse](regress-der-staatskasse) einlegen, § 304 FamFG. Diese müssen zwingend in elektronischer Form erfolgen, § 14b FamFG.\n\nSiehe auch\n [Regress der Staatskasse](regress-der-staatskasse)\n [elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach), [Nutzungspflicht](nutzungspflicht)\n [Betreuungsverfahren](betreuungsverfahren), [Beaufsichtigung](beaufsichtigung)\n [Familienverfahrensgesetz](familienverfahrensgesetz)\n [Gerichtskosten](gerichtskosten), [Eidesstattliche Versicherung](eidesstattliche-versicherung)\n [Rechtsmittel](rechtsmittel)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n\n[Kategorie:Rechtsprechung](kategorie:rechtsprechung)\n[Kategorie:Betreuungsverfahren](kategorie:betreuungsverfahren)",
+  "inhalt": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerde im Interesse der [Regress der Staatskasse](regress-der-staatskasse) einlegen, § 304 FamFG. Diese müssen zwingend in elektronischer Form erfolgen, § 14b FamFG.\n\nSiehe auch\n [Regress der Staatskasse](regress-der-staatskasse), [Auskunftspflicht](auskunftspflicht)\n [elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach), [Nutzungspflicht](nutzungspflicht)\n [Betreuungsverfahren](betreuungsverfahren), [Beaufsichtigung](beaufsichtigung)\n [Familienverfahrensgesetz](familienverfahrensgesetz)\n [Gerichtskosten](gerichtskosten), [Eidesstattliche Versicherung](eidesstattliche-versicherung)\n [Rechtsmittel](rechtsmittel)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n\n[Kategorie:Rechtsprechung](kategorie:rechtsprechung)\n[Kategorie:Betreuungsverfahren](kategorie:betreuungsverfahren)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -16,31 +16,32 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Regress der Staatskasse\n elektronisches Gerichts- und Verwaltungspostfach, Nutzungspflicht\n Betreuungsverfahren, Beaufsichtigung\n Familienverfahrensgesetz\n Gerichtskosten, Eidesstattliche Versicherung\n Rechtsmittel\n Rechtsverkehr in Deutschland\n\nKategorie:Rechtsprechung\nKategorie:Betreuungsverfahren",
+      "inhalt": "Regress der Staatskasse, Auskunftspflicht\n elektronisches Gerichts- und Verwaltungspostfach, Nutzungspflicht\n Betreuungsverfahren, Beaufsichtigung\n Familienverfahrensgesetz\n Gerichtskosten, Eidesstattliche Versicherung\n Rechtsmittel\n Rechtsverkehr in Deutschland\n\nKategorie:Rechtsprechung\nKategorie:Betreuungsverfahren",
       "tags": [
         "betreuungsverfahren",
         "kategorie",
         "regress",
         "staatskasse",
-        "elektronisches"
+        "auskunftspflicht"
       ]
     }
   ],
   "zusammenfassung": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerde im Interesse der [Regress der Staatskasse](regress-der-staatskasse) einlegen, § 304 FamFG. Diese müssen ...",
   "verwandteArtikel": [
-    "familienverfahrensgesetz",
-    "kategorie:betreuungsverfahren",
-    "betreuungsverfahren",
-    "rechtsverkehr-in-deutschland",
-    "gerichtsbeschluss",
-    "nutzungspflicht",
-    "beaufsichtigung",
-    "rechtspfleger",
-    "gerichtskosten",
     "eidesstattliche-versicherung",
+    "nutzungspflicht",
     "rechtsmittel",
     "kategorie:rechtsprechung",
     "regress-der-staatskasse",
+    "gerichtsbeschluss",
+    "rechtspfleger",
+    "betreuungsverfahren",
+    "familienverfahrensgesetz",
+    "kategorie:betreuungsverfahren",
+    "rechtsverkehr-in-deutschland",
+    "beaufsichtigung",
+    "gerichtskosten",
+    "auskunftspflicht",
     "elektronisches-gerichts--und-verwaltungspostfach"
   ]
 }

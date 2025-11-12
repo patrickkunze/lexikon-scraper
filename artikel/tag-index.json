@@ -5140,7 +5140,6 @@
     "altenheim",
     "ausschließlichkeitserklärung",
     "digitale-barrierefreiheit",
-    "inklusionsbetrieb",
     "selbstbestimmung",
     "selbstbestimmung",
     "selbstbestimmungsrecht",
@@ -8070,7 +8069,6 @@
   ],
   "anzeigepflicht": [
     "anzeigepflicht",
-    "arbeitsvertrag",
     "auskunftspflicht",
     "beaufsichtigung",
     "betreuerbestellung",
@@ -8130,6 +8128,7 @@
     "anzeigepflicht",
     "anzeigepflicht",
     "arbeitsvertrag",
+    "auskunftspflicht",
     "gerichtskosten",
     "krankenversicherung",
     "nutzungspflicht",
@@ -8247,10 +8246,14 @@
   ],
   "auskunftspflicht": [
     "anzeigepflicht",
+    "arbeitsvertrag",
     "betreuer-(ehrenamt)",
     "betreuerhaftung",
+    "bezirksrevisor",
     "eidesstattliche-versicherung",
     "freibetrag",
+    "inklusionsbetrieb",
+    "regress-der-staatskasse",
     "zug-um-zug-leistung"
   ],
   "amtsermittlungspflicht": [
@@ -10048,6 +10051,26 @@
     "auskunftspflicht"
   ],
   "einander": [
+    "auskunftspflicht"
+  ],
+  "arbeit": [
+    "auskunftspflicht",
+    "berufsbetreuer",
+    "betreuer-(ehrenamt)",
+    "betreuerhaftung",
+    "geheimhaltungspflicht",
+    "schwerbehindertenausweis",
+    "unterstützungspflicht",
+    "werkstatt-für-behinderte-menschen"
+  ],
+  "leistung": [
+    "auskunftspflicht",
+    "mahnverfahren"
+  ],
+  "eingliederung": [
+    "auskunftspflicht"
+  ],
+  "erbracht": [
     "auskunftspflicht"
   ],
   "informationspflicht": [
@@ -12050,15 +12073,6 @@
     "berufsbetreuer",
     "diskriminierungsverbot",
     "krankenhaussozialdienst"
-  ],
-  "arbeit": [
-    "berufsbetreuer",
-    "betreuer-(ehrenamt)",
-    "betreuerhaftung",
-    "geheimhaltungspflicht",
-    "schwerbehindertenausweis",
-    "unterstützungspflicht",
-    "werkstatt-für-behinderte-menschen"
   ],
   "qualitätsregister": [
     "berufsbetreuer"
@@ -14877,24 +14891,10 @@
   ],
   "bezirksrevisor": [
     "bezirksrevisor",
-    "rechtspfleger",
-    "regress-der-staatskasse"
+    "rechtspfleger"
   ],
   "berufsausbildung": [
     "bezirksrevisor"
-  ],
-  "elektronisches": [
-    "bezirksrevisor",
-    "ebo",
-    "egvp",
-    "formulare",
-    "genehmigungen-von-a-bis-z",
-    "personalausweis",
-    "querschnittsaufgaben",
-    "rechnungslegung",
-    "sachkundenachweis",
-    "software",
-    "zugriffsrecht"
   ],
   "ansehen": [
     "brandenburg",
@@ -15924,6 +15924,18 @@
   "arzneimittel": [
     "e-rezept",
     "heilbehandlung"
+  ],
+  "elektronisches": [
+    "ebo",
+    "egvp",
+    "formulare",
+    "genehmigungen-von-a-bis-z",
+    "personalausweis",
+    "querschnittsaufgaben",
+    "rechnungslegung",
+    "sachkundenachweis",
+    "software",
+    "zugriffsrecht"
   ],
   "verwaltungspostfach": [
     "ebo",
@@ -19495,9 +19507,6 @@
     "mahnverfahren"
   ],
   "mangelhafter": [
-    "mahnverfahren"
-  ],
-  "leistung": [
     "mahnverfahren"
   ],
   "ruhr": [
