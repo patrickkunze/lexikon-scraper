@@ -942,6 +942,7 @@
     "berufsbetreuer",
     "berufsbetreuer",
     "berufsbetreuer",
+    "besonderer-vertreter-im-verwaltungsverfahren",
     "bestattung",
     "bestattungsvertrag",
     "betreuer-als-erbe",
@@ -1955,6 +1956,7 @@
     "beamte-als-betreuer",
     "beglaubigung-durch-betreuungsbehörde",
     "berufsbetreuer",
+    "besonderer-vertreter-im-verwaltungsverfahren",
     "bestellung-mehrerer-betreuer",
     "bestellung-mehrerer-betreuer",
     "bestellung-mehrerer-betreuer",
@@ -2279,6 +2281,7 @@
     "digitale-barrierefreiheit",
     "eherecht-und-betreuung",
     "eidesstattliche-versicherung",
+    "eingliederungshilfe",
     "einwilligungsfähigkeit",
     "einwilligungsfähigkeit",
     "einwilligungsfähigkeit",
@@ -2380,6 +2383,7 @@
     "vaterschaftsanerkennung",
     "vaterschaftsanerkennung",
     "verfahrenspfleger",
+    "verhinderungsbetreuer",
     "verhältnismäßigkeitsprinzip",
     "verlängerung-der-betreuung",
     "vermögenssorge",
@@ -2425,6 +2429,7 @@
     "beglaubigung-durch-betreuungsbehörde",
     "berufsbetreuer",
     "berufsbetreuer",
+    "besonderer-vertreter-im-verwaltungsverfahren",
     "bestattung",
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
@@ -2552,6 +2557,7 @@
     "berufsbetreuer",
     "berufsbetreuer",
     "berufsbetreuer",
+    "besonderer-vertreter-im-verwaltungsverfahren",
     "bestattung",
     "bestattung",
     "bestattung",
@@ -3065,7 +3071,6 @@
     "vereinsbetreuer",
     "verfahrenspfleger",
     "verhinderungsbetreuer",
-    "verhinderungsbetreuer",
     "vermögenssorge",
     "vorläufiger-betreuer",
     "vormünder--und-betreuervergütungsgesetz",
@@ -3415,6 +3420,7 @@
     "ehefähigkeit",
     "eherecht",
     "eherecht-und-betreuung",
+    "eingliederungshilfe",
     "eingliederungshilfe",
     "eingliederungshilfe",
     "eingliederungshilfe",
@@ -4748,6 +4754,7 @@
     "beamte-als-betreuer",
     "beaufsichtigung",
     "beglaubigung-durch-betreuungsbehörde",
+    "besonderer-vertreter-im-verwaltungsverfahren",
     "bestellung-mehrerer-betreuer",
     "betreuerbestellung",
     "betreuerbestellung",
@@ -4898,6 +4905,7 @@
     "beglaubigung-durch-betreuungsbehörde",
     "behördenbetreuer",
     "berufsbetreuer",
+    "besonderer-vertreter-im-verwaltungsverfahren",
     "bestattungsvertrag",
     "betreuer-(ehrenamt)",
     "betreuerhaftung",
@@ -5145,8 +5153,7 @@
     "selbstbestimmungsrecht",
     "selbstverwaltungserklärung",
     "verfügungsgeld",
-    "verlängerung-der-betreuung",
-    "werkstatt-für-behinderte-menschen"
+    "verlängerung-der-betreuung"
   ],
   "vulnerabilität": [
     "altenheim",
@@ -5819,6 +5826,7 @@
   "deutschen": [
     "amtsermittlungspflicht",
     "anzeigepflicht",
+    "assistenzleistungen",
     "ausbildung",
     "ausländer",
     "ausländer",
@@ -6640,7 +6648,6 @@
     "begleitforschung",
     "betreuungsgesetz",
     "eingliederungshilfe",
-    "eingliederungshilfe",
     "geschäftsfähigkeit",
     "grundrechte",
     "hauptseite",
@@ -6854,6 +6861,7 @@
     "beamte-als-betreuer",
     "beaufsichtigung",
     "berufsbetreuer",
+    "besonderer-vertreter-im-verwaltungsverfahren",
     "betreuervergütung",
     "betreuervergütung",
     "betreuervergütung-2019",
@@ -8658,6 +8666,7 @@
   ],
   "assistenzleistungen": [
     "assistenzleistungen",
+    "assistenzleistungen",
     "e-rezept",
     "globales-nachhaltigkeitsziel-10",
     "it-sicherheit",
@@ -8700,6 +8709,26 @@
   "sogenannten": [
     "assistenzleistungen",
     "mdk-gutachten"
+  ],
+  "empfehlungen": [
+    "assistenzleistungen",
+    "betreuerbestellung",
+    "betreuervorschlag",
+    "betreuungsbehörde",
+    "betreuungsbehörde",
+    "betreuungsbehörde",
+    "betreuungsgerichtshilfe",
+    "corona",
+    "patientenvertreter"
+  ],
+  "vereins": [
+    "assistenzleistungen",
+    "betreuerbestellung",
+    "betreuerpflichten",
+    "betreuerwechsel",
+    "delegation",
+    "tod-des-betreuers",
+    "vereinsbetreuer"
   ],
   "eingliederungshilfe": [
     "assistenzleistungen",
@@ -12093,6 +12122,37 @@
     "betreuungsrichter",
     "zug-um-zug-leistung"
   ],
+  "weiter": [
+    "besonderer-vertreter-im-verwaltungsverfahren",
+    "betreuervorschlag",
+    "betreuungszahlen",
+    "betreuungszahlen"
+  ],
+  "bearbeitet": [
+    "besonderer-vertreter-im-verwaltungsverfahren"
+  ],
+  "verwaltungsverfahren": [
+    "besonderer-vertreter-im-verwaltungsverfahren",
+    "prozesspfleger"
+  ],
+  "beteiligter": [
+    "besonderer-vertreter-im-verwaltungsverfahren"
+  ],
+  "verfahrensfähig": [
+    "besonderer-vertreter-im-verwaltungsverfahren",
+    "verfahrensfähigkeit"
+  ],
+  "kein": [
+    "besonderer-vertreter-im-verwaltungsverfahren",
+    "betreuervorschlag",
+    "betreuerwechsel",
+    "corona",
+    "heilbehandlung",
+    "prozessführung"
+  ],
+  "sozialrechtlichen": [
+    "besonderer-vertreter-im-verwaltungsverfahren"
+  ],
   "totenfürsorge": [
     "bestattung"
   ],
@@ -12772,14 +12832,6 @@
     "bundesverband-freier-berufsbetreuer",
     "natürlicher-wille"
   ],
-  "vereins": [
-    "betreuerbestellung",
-    "betreuerpflichten",
-    "betreuerwechsel",
-    "delegation",
-    "tod-des-betreuers",
-    "vereinsbetreuer"
-  ],
   "sterilisation": [
     "betreuerbestellung",
     "betreuerpflichten",
@@ -12845,16 +12897,6 @@
     "betreuervorschlag",
     "betreuungsbehörde",
     "betreuungsverfügung"
-  ],
-  "empfehlungen": [
-    "betreuerbestellung",
-    "betreuervorschlag",
-    "betreuungsbehörde",
-    "betreuungsbehörde",
-    "betreuungsbehörde",
-    "betreuungsgerichtshilfe",
-    "corona",
-    "patientenvertreter"
   ],
   "bagüs": [
     "betreuerbestellung",
@@ -13731,13 +13773,6 @@
   "stufen": [
     "betreuervergütung-2026"
   ],
-  "kein": [
-    "betreuervorschlag",
-    "betreuerwechsel",
-    "corona",
-    "heilbehandlung",
-    "prozessführung"
-  ],
   "pflegebedürftigen": [
     "betreuervorschlag",
     "digitale-barrierefreiheit",
@@ -13755,11 +13790,6 @@
   "aufgrund": [
     "betreuervorschlag"
   ],
-  "weiter": [
-    "betreuervorschlag",
-    "betreuungszahlen",
-    "betreuungszahlen"
-  ],
   "benennung": [
     "betreuervorschlag"
   ],
@@ -13767,7 +13797,6 @@
     "betreuervorschlag",
     "betreuungsrechtsreform",
     "bundesverband-der-berufsbetreuer",
-    "eingliederungshilfe",
     "eingliederungshilfe",
     "krankenversicherung",
     "umgangsbestimmung",
@@ -19111,6 +19140,7 @@
     "verfahrenspfleger",
     "verhältnismäßigkeitsprinzip",
     "wahlrecht",
+    "werkstatt-für-behinderte-menschen",
     "wohnungsangelegenheiten",
     "wohnungsauflösung"
   ],
@@ -20504,9 +20534,6 @@
   "prozesspfleger": [
     "prozesspfleger",
     "rechtsanwalt"
-  ],
-  "verwaltungsverfahren": [
-    "prozesspfleger"
   ],
   "effektiver": [
     "prozesspfleger"
@@ -22268,9 +22295,6 @@
     "verfahrensfähigkeit"
   ],
   "rechtsstreit": [
-    "verfahrensfähigkeit"
-  ],
-  "verfahrensfähig": [
     "verfahrensfähigkeit"
   ],
   "thematik": [
