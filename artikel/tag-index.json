@@ -7205,7 +7205,6 @@
     "girokonto",
     "prozesspfleger",
     "rechtsanwalt",
-    "rechtsanwalt",
     "rechtsprechung",
     "rechtsprechung",
     "rechtsprechung-zum-sachverständigengutachten",
@@ -12419,6 +12418,7 @@
   "ergänzungsbetreuer": [
     "bestellung-mehrerer-betreuer",
     "insichgeschäft",
+    "rechtsanwalt",
     "verhinderungsbetreuer"
   ],
   "alpenstedt": [
