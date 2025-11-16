@@ -7667,6 +7667,7 @@
   ],
   "finanzamt": [
     "anlagegeld",
+    "selbstverwaltung-der-deutschen-gemeinden",
     "steuererklärung",
     "steuerpflicht",
     "steuerrecht"
@@ -8945,7 +8946,6 @@
     "natürlicher-wille",
     "pflicht-zur-betreuungsübernahme",
     "selbstbestimmung",
-    "subsidiaritätsprinzip",
     "testierfähigkeit",
     "unterstützte-kommunikation",
     "vulnerabilität"
@@ -9144,7 +9144,8 @@
   ],
   "aufgabenbereiche": [
     "aufgabenkreis",
-    "aufhebung-der-betreuung"
+    "aufhebung-der-betreuung",
+    "finanzamt"
   ],
   "erweiterung": [
     "aufgabenkreis",
@@ -9164,7 +9165,6 @@
   ],
   "public": [
     "aufgabenkreis",
-    "selbstverwaltung-der-deutschen-gemeinden",
     "sterbehilfe",
     "tierschutz",
     "unterstützte-entscheidungsfindung",
@@ -10256,6 +10256,7 @@
   ],
   "selbstverwaltung": [
     "ausländer",
+    "finanzamt",
     "föderalismus",
     "selbstverwaltung-der-deutschen-gemeinden",
     "selbstverwaltungserklärung"
@@ -13116,6 +13117,7 @@
   ],
   "steuerrecht": [
     "betreuerpflichten",
+    "finanzamt",
     "finanzamt",
     "gerichtskosten",
     "steuern"
@@ -19137,6 +19139,7 @@
     "kirchenaustritt",
     "ordre-public",
     "rundfunkbeitrag",
+    "subsidiaritätsprinzip",
     "verfahrenspfleger",
     "verhältnismäßigkeitsprinzip",
     "wahlrecht",
