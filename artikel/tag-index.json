@@ -3466,6 +3466,7 @@
     "organspende",
     "pflicht-zur-betreuungsübernahme",
     "psychisch-kranken-gesetz",
+    "sachkundenachweis",
     "sachsen",
     "sachverständigengutachten",
     "sachverständigengutachten",
@@ -7174,7 +7175,6 @@
     "personalausweis",
     "prozessführung",
     "querschnittsaufgaben",
-    "sachkundenachweis",
     "software",
     "zugriffsrecht"
   ],
@@ -9246,6 +9246,7 @@
     "gesetzestexte",
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
+    "sachkundenachweis",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
     "unbetreubarkeit"
@@ -15969,7 +15970,6 @@
   "verwaltungspostfach": [
     "ebo",
     "egvp",
-    "sachkundenachweis",
     "zugriffsrecht"
   ],
   "ehefähigkeit": [
