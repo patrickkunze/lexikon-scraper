@@ -262,7 +262,6 @@
     "anlagegeld",
     "anlagegeld",
     "anlagegeld",
-    "anregung-der-betreuerbestellung",
     "anzeigepflicht",
     "arbeitsvertrag",
     "arbeitsvertrag",
@@ -5094,7 +5093,6 @@
     "eherecht-und-betreuung",
     "erbausschlagung",
     "freier-wille",
-    "gerichtsbeschluss",
     "gesetzliche-vertretung",
     "gewaltschutzanordnung",
     "grundrechte",
@@ -5149,7 +5147,6 @@
   ],
   "selbstbestimmung": [
     "altenheim",
-    "aufhebung-der-betreuung",
     "ausschließlichkeitserklärung",
     "digitale-barrierefreiheit",
     "selbstbestimmung",
@@ -7977,8 +7974,8 @@
     "betreuungsanregung",
     "betreuungsverfahren",
     "einwilligungsvorbehalt",
+    "gerichtsbeschluss",
     "krankenhaussozialdienst",
-    "rechtsmittel",
     "rechtsverkehr-in-deutschland"
   ],
   "betreuerbestellung": [
@@ -8017,6 +8014,12 @@
     "betreuungsrichter",
     "psychisch-kranken-gesetz",
     "strafprozess"
+  ],
+  "betreuervorschlag": [
+    "anregung-der-betreuerbestellung",
+    "berufsbetreuer",
+    "betreuersuche",
+    "betreuungsarbeitsgemeinschaft"
   ],
   "intellektuelle": [
     "anregung-der-betreuerbestellung",
@@ -9397,6 +9400,21 @@
     "aufhebung-der-betreuung",
     "betreuerhaftung",
     "betreuerwechsel"
+  ],
+  "rechtsmittel": [
+    "aufhebung-der-betreuung",
+    "betreuungsverfahren",
+    "corona",
+    "erinnerung",
+    "gewaltschutzanordnung",
+    "nutzungspflicht",
+    "rechtsbeschwerde",
+    "rechtsmittel",
+    "rechtsmittel",
+    "rechtsweg-in-deutschland",
+    "verlängerung-der-betreuung",
+    "vertretung-gegenüber-behörden",
+    "widerspruchsrecht"
   ],
   "beaufsichtigung": [
     "aufsicht",
@@ -12074,11 +12092,6 @@
     "berufsbetreuer",
     "informationspflicht"
   ],
-  "betreuervorschlag": [
-    "berufsbetreuer",
-    "betreuersuche",
-    "betreuungsarbeitsgemeinschaft"
-  ],
   "leicht": [
     "berufsbetreuer",
     "finanzamt"
@@ -12121,6 +12134,7 @@
     "beschluss",
     "betreuungsgericht",
     "betreuungsrichter",
+    "rechtsmittel",
     "zug-um-zug-leistung"
   ],
   "weiter": [
@@ -14640,20 +14654,6 @@
     "unterbringung",
     "unterbringungsverfahren",
     "vermögensverzeichnis"
-  ],
-  "rechtsmittel": [
-    "betreuungsverfahren",
-    "corona",
-    "erinnerung",
-    "gewaltschutzanordnung",
-    "nutzungspflicht",
-    "rechtsbeschwerde",
-    "rechtsmittel",
-    "rechtsmittel",
-    "rechtsweg-in-deutschland",
-    "verlängerung-der-betreuung",
-    "vertretung-gegenüber-behörden",
-    "widerspruchsrecht"
   ],
   "betreuungsanordnung": [
     "betreuungsverfahren",

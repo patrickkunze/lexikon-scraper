@@ -60,20 +60,20 @@
   ],
   "zusammenfassung": "Allgemeines\nIn Deutschland können Menschen mit Behinderungen und von Behinderung bedrohte Menschen staatliche Leistungen zur Sozialen Teilhabe beantragen. Dazu gehören gemäß § 76 Abs. 2 SGB IX auch die sogenannten Assistenzleistungen. Diese Assistenzleistungen dienen der [Selbstbestimmung](selbstbes...",
   "verwandteArtikel": [
-    "unterstützungspflicht",
-    "vorsorgevollmacht",
-    "it-sicherheit",
-    "geheimhaltungspflicht",
-    "interoperabilität",
-    "delegation",
-    "persönliches-budget",
     "eingliederungshilfe",
-    "e-rezept",
-    "datenschutz",
     "digitale-barrierefreiheit",
-    "kategorie:sozialrecht",
+    "datenschutz",
+    "interoperabilität",
+    "e-rezept",
+    "it-sicherheit",
     "software",
+    "kategorie:sozialrecht",
     "selbstbestimmung",
-    "betreuer"
+    "unterstützungspflicht",
+    "betreuer",
+    "persönliches-budget",
+    "vorsorgevollmacht",
+    "delegation",
+    "geheimhaltungspflicht"
   ]
 }
