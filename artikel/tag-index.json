@@ -4594,6 +4594,7 @@
     "patientenverfügung",
     "personalausweis",
     "sachverständigengutachten",
+    "sachverständigengutachten",
     "schweigepflicht",
     "schweigepflicht",
     "selbstbestimmung",
@@ -5140,6 +5141,7 @@
     "gesetzestexte",
     "krankenversicherung",
     "pflegeversicherung",
+    "sachverständigengutachten",
     "sachverständigengutachten",
     "sachverständigengutachten",
     "unterbringungsähnliche-maßnahme",
@@ -17813,7 +17815,6 @@
   ],
   "sachverständige": [
     "gerichtskosten",
-    "sachverständigengutachten",
     "sachverständigengutachten"
   ],
   "beruflich": [
@@ -20957,9 +20958,6 @@
     "sachverständigengutachten"
   ],
   "einschließlich": [
-    "sachverständigengutachten"
-  ],
-  "qualifikation": [
     "sachverständigengutachten"
   ],
   "anstelle": [
