@@ -983,6 +983,8 @@
     "eidesstattliche-versicherung",
     "einverständniserklärung",
     "einwilligungsfähigkeit",
+    "einwilligungsfähigkeit",
+    "einwilligungsfähigkeit",
     "erbausschlagung",
     "erbausschlagung",
     "erbausschlagung",
@@ -6731,6 +6733,7 @@
     "angehörigenvertretungsrecht",
     "checkliste-für-arztgespräche",
     "einwilligungsfähigkeit",
+    "einwilligungsfähigkeit",
     "elektronische-patientenakte",
     "genehmigung-der-heilbehandlung",
     "genehmigung-der-heilbehandlung",
@@ -9502,6 +9505,8 @@
     "betreuungsverfügung",
     "datenschutz",
     "datenschutz",
+    "einwilligungsfähigkeit",
+    "einwilligungsfähigkeit",
     "grundrechte",
     "kindschaftsrecht",
     "meldepflicht",
@@ -16475,6 +16480,17 @@
     "genehmigungen-von-a-bis-z",
     "unterbringungsähnliche-maßnahme",
     "vorsorgevollmacht---vertiefte-infos"
+  ],
+  "sexuelle": [
+    "einwilligungsfähigkeit",
+    "einwilligungsfähigkeit"
+  ],
+  "handlungen": [
+    "einwilligungsfähigkeit",
+    "einwilligungsfähigkeit"
+  ],
+  "verwahrten": [
+    "einwilligungsfähigkeit"
   ],
   "medr": [
     "einwilligungsfähigkeit",
