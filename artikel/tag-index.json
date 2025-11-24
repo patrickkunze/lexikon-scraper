@@ -985,6 +985,7 @@
     "einwilligungsfähigkeit",
     "einwilligungsfähigkeit",
     "einwilligungsfähigkeit",
+    "einwilligungsfähigkeit",
     "erbausschlagung",
     "erbausschlagung",
     "erbausschlagung",
@@ -4924,6 +4925,7 @@
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
     "datenschutz",
+    "einwilligungsfähigkeit",
     "erbschaft",
     "gesundheitsdatennutzungsgesetz",
     "grundrechte",
@@ -7351,6 +7353,7 @@
     "betreuungssache",
     "betreuungssache",
     "betreuungsvoraussetzung",
+    "einwilligungsfähigkeit",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "gerichtskosten",
     "grundstück",
@@ -10645,6 +10648,35 @@
   "dienstverhältnissen": [
     "beamte-als-betreuer"
   ],
+  "behördenbetreuer": [
+    "beamte-als-betreuer",
+    "behördenbetreuer",
+    "behördenbetreuer",
+    "behördenbetreuer",
+    "betreuerwechsel",
+    "betreuungsbehörde",
+    "haftpflichtversicherung"
+  ],
+  "amtspflichtverletzung": [
+    "beamte-als-betreuer",
+    "diskriminierungsverbot",
+    "finanzamt"
+  ],
+  "einwilligungsfähigkeit": [
+    "beamte-als-betreuer",
+    "corona",
+    "einwilligungsfähigkeit",
+    "einwilligungsfähigkeit",
+    "einwilligungsunfähigkeit",
+    "einwilligungsvorbehalt",
+    "erörterungsgespräch",
+    "freier-wille",
+    "intellektuelle-beeinträchtigung",
+    "peg-sonde",
+    "prozessfähigkeit",
+    "testierfähigkeit",
+    "unterstützte-kommunikation"
+  ],
   "bverfg": [
     "beamte-als-betreuer",
     "rechtsprechung",
@@ -11668,14 +11700,6 @@
     "berufsbetreuer",
     "betreuervorschlag",
     "vereinsbetreuer"
-  ],
-  "behördenbetreuer": [
-    "behördenbetreuer",
-    "behördenbetreuer",
-    "behördenbetreuer",
-    "betreuerwechsel",
-    "betreuungsbehörde",
-    "haftpflichtversicherung"
   ],
   "status": [
     "behördenbetreuer"
@@ -15409,20 +15433,6 @@
   "berufskrankheit": [
     "corona"
   ],
-  "einwilligungsfähigkeit": [
-    "corona",
-    "einwilligungsfähigkeit",
-    "einwilligungsfähigkeit",
-    "einwilligungsunfähigkeit",
-    "einwilligungsvorbehalt",
-    "erörterungsgespräch",
-    "freier-wille",
-    "intellektuelle-beeinträchtigung",
-    "peg-sonde",
-    "prozessfähigkeit",
-    "testierfähigkeit",
-    "unterstützte-kommunikation"
-  ],
   "datenschutzregelung": [
     "datenschutz"
   ],
@@ -15813,10 +15823,6 @@
     "wahlrecht",
     "wahlrecht",
     "wahlrecht"
-  ],
-  "amtspflichtverletzung": [
-    "diskriminierungsverbot",
-    "finanzamt"
   ],
   "internetseite": [
     "diskriminierungsverbot",
@@ -16490,6 +16496,12 @@
     "einwilligungsfähigkeit"
   ],
   "verwahrten": [
+    "einwilligungsfähigkeit"
+  ],
+  "amtsträger": [
+    "einwilligungsfähigkeit"
+  ],
+  "amtsträgerin": [
     "einwilligungsfähigkeit"
   ],
   "medr": [
