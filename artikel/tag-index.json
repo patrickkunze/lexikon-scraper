@@ -8285,18 +8285,11 @@
     "diskriminierungsverbot",
     "einstweilige-anordnung"
   ],
-  "unterstützungspflicht": [
+  "amtspflichtverletzung": [
     "anzeigepflicht",
-    "assistenzleistungen",
-    "checkliste-betreuerpflichten",
-    "datenschutz",
-    "freier-wille",
-    "kirchenaustritt",
-    "sozialhilfe",
-    "unterstützungspflicht",
-    "verbraucherstreitbeilegung",
-    "wohn--und-betreuungsvertragsgesetz",
-    "zugangsrecht"
+    "beamte-als-betreuer",
+    "diskriminierungsverbot",
+    "finanzamt"
   ],
   "redirectsozialhilfe": [
     "arbeitslosengeld",
@@ -8757,6 +8750,18 @@
     "psychisch-kranken-gesetz",
     "schwerbehindertenausweis",
     "unterstützungspflicht"
+  ],
+  "unterstützungspflicht": [
+    "assistenzleistungen",
+    "checkliste-betreuerpflichten",
+    "datenschutz",
+    "freier-wille",
+    "kirchenaustritt",
+    "sozialhilfe",
+    "unterstützungspflicht",
+    "verbraucherstreitbeilegung",
+    "wohn--und-betreuungsvertragsgesetz",
+    "zugangsrecht"
   ],
   "geheimhaltungspflicht": [
     "assistenzleistungen",
@@ -10656,11 +10661,6 @@
     "betreuerwechsel",
     "betreuungsbehörde",
     "haftpflichtversicherung"
-  ],
-  "amtspflichtverletzung": [
-    "beamte-als-betreuer",
-    "diskriminierungsverbot",
-    "finanzamt"
   ],
   "einwilligungsfähigkeit": [
     "beamte-als-betreuer",
