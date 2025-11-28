@@ -10423,6 +10423,7 @@
     "famfg",
     "gesundheitsdatennutzungsgesetz",
     "it-sicherheit",
+    "informationspflicht",
     "insichgeschäft",
     "patientenverfügungsgesetz",
     "vbvg"
@@ -11065,6 +11066,7 @@
   ],
   "zugriffsrecht": [
     "befreiter-betreuer",
+    "informationspflicht",
     "medikationsplan",
     "schweigepflicht",
     "vorsorgeregister"
@@ -15834,6 +15836,7 @@
     "e-rezept",
     "gesundheitsdatennutzungsgesetz",
     "globales-nachhaltigkeitsziel-10",
+    "informationspflicht",
     "mdk-gutachten",
     "psychisch-kranken-gesetz",
     "tierschutz"
@@ -16534,6 +16537,7 @@
     "einwilligungsfähigkeit",
     "erbausschlagung",
     "erbschaft",
+    "informationspflicht",
     "mahnverfahren",
     "organspende",
     "selbstbestimmung",
@@ -18981,6 +18985,7 @@
     "informationspflicht"
   ],
   "gematik": [
+    "informationspflicht",
     "informationspflicht"
   ],
   "beschäftigung": [
