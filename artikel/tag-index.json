@@ -9740,6 +9740,7 @@
     "link-liste",
     "maßregeln-der-besserung-und-sicherung",
     "mitteilungspflicht",
+    "neu",
     "prozessführung",
     "rechtsanwalt",
     "rechtsanwalt",
@@ -9941,11 +9942,13 @@
   ],
   "nordrhein": [
     "ausbildung",
-    "nrw"
+    "nrw",
+    "neu"
   ],
   "westfalen": [
     "ausbildung",
     "nrw",
+    "neu",
     "nordrhein-westfalen"
   ],
   "erkner": [
@@ -13069,6 +13072,7 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "gesetzlicher-vertreter",
     "informationspflicht",
+    "neu",
     "vermögenssorge",
     "vermögensverzeichnis",
     "vorsorgevollmacht"
@@ -20012,6 +20016,9 @@
     "neu"
   ],
   "sozialgerichte": [
+    "neu"
+  ],
+  "pauschalvergütungsanträge": [
     "neu"
   ],
   "bestandsbetreuers": [
