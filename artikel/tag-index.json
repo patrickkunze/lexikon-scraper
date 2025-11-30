@@ -4174,6 +4174,7 @@
     "tod-des-betreuten",
     "umgangsbestimmung",
     "unterbringungsähnliche-maßnahme",
+    "unterstützungspflicht",
     "verhinderungsbetreuer",
     "vermögensverzeichnis",
     "vermögensverzeichnis",
@@ -10078,7 +10079,8 @@
     "bundesverband-der-berufsbetreuer"
   ],
   "auftraggeber": [
-    "auskunftspflicht"
+    "auskunftspflicht",
+    "unterstützungspflicht"
   ],
   "auskunft": [
     "auskunftspflicht",
@@ -11341,6 +11343,7 @@
     "rente",
     "sterbehilfe",
     "tod-des-betreuers",
+    "unterstützungspflicht",
     "vermögenssorge"
   ],
   "handzeichen": [
@@ -22197,6 +22200,12 @@
     "unterstützte-kommunikation"
   ],
   "gewaltenteilung": [
+    "unterstützungspflicht"
+  ],
+  "sozialauftrag": [
+    "unterstützungspflicht"
+  ],
+  "zweckmäßig": [
     "unterstützungspflicht"
   ],
   "exekutive": [
