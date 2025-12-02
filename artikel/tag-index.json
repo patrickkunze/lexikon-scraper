@@ -792,7 +792,6 @@
     "anzeigepflicht",
     "anzeigepflicht",
     "anzeigepflicht",
-    "assistenzleistungen",
     "auskunftspflicht",
     "ausländer",
     "ausländer",
@@ -5159,6 +5158,7 @@
     "altenheim",
     "ausschließlichkeitserklärung",
     "digitale-barrierefreiheit",
+    "diskriminierungsverbot",
     "selbstbestimmung",
     "selbstbestimmung",
     "selbstbestimmungsrecht",
@@ -7228,7 +7228,8 @@
     "vergütungsrechtsprechung",
     "vorläufiger-betreuer",
     "vormünder--und-betreuervergütungsgesetz",
-    "waffenbesitz"
+    "waffenbesitz",
+    "wahlrecht"
   ],
   "betreuungssache": [
     "anhörung",
@@ -8697,6 +8698,10 @@
     "werkstatt-für-behinderte-menschen",
     "wohn--und-betreuungsvertragsgesetz"
   ],
+  "einschließlich": [
+    "assistenzleistungen",
+    "sachverständigengutachten"
+  ],
   "assistenztechnik": [
     "assistenzleistungen"
   ],
@@ -9193,8 +9198,7 @@
     "sterbehilfe",
     "tierschutz",
     "unterstützte-entscheidungsfindung",
-    "waffenbesitz",
-    "wahlrecht"
+    "waffenbesitz"
   ],
   "prozessführung": [
     "aufgabenkreis",
@@ -12234,7 +12238,6 @@
     "bestattungsvertrag",
     "bestattungsvertrag",
     "bestattungsvertrag",
-    "diskriminierungsverbot",
     "erbschaft",
     "mittellosigkeit",
     "mittellosigkeit",
@@ -14302,7 +14305,8 @@
     "gewaltschutzanordnung",
     "globales-nachhaltigkeitsziel-10",
     "selbstverwaltung-der-deutschen-gemeinden",
-    "waffenbesitz"
+    "waffenbesitz",
+    "wahlrecht"
   ],
   "bundestagsdrucksache": [
     "betreuungsgesetz"
@@ -19187,7 +19191,6 @@
     "subsidiaritätsprinzip",
     "verfahrenspfleger",
     "verhältnismäßigkeitsprinzip",
-    "wahlrecht",
     "werkstatt-für-behinderte-menschen",
     "wohnungsangelegenheiten",
     "wohnungsauflösung"
@@ -21003,9 +21006,6 @@
     "sachverständigengutachten"
   ],
   "anamnese": [
-    "sachverständigengutachten"
-  ],
-  "einschließlich": [
     "sachverständigengutachten"
   ],
   "anstelle": [
