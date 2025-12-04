@@ -4968,7 +4968,8 @@
   "haus": [
     "altenheim",
     "grundstück",
-    "mittellosigkeit"
+    "mittellosigkeit",
+    "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer"
   ],
   "begleitung": [
     "altenheim",
@@ -7009,6 +7010,7 @@
     "aufgabenkreis",
     "aufgabenkreis",
     "behördenangelegenheiten",
+    "besonderer-vertreter-im-verwaltungsverfahren",
     "bundesverband-der-berufsbetreuer",
     "ehefähigkeit",
     "gesetzestexte",
@@ -8978,7 +8980,8 @@
     "selbstbestimmung",
     "testierfähigkeit",
     "unterstützte-kommunikation",
-    "vulnerabilität"
+    "vulnerabilität",
+    "wahlrecht"
   ],
   "umfassende": [
     "aufenthaltsbestimmung",
@@ -9072,6 +9075,7 @@
     "aufgabenkreis",
     "beamte-als-betreuer",
     "behördenangelegenheiten",
+    "besonderer-vertreter-im-verwaltungsverfahren",
     "bestattung",
     "betreuerbestellung",
     "betreuungsbehördengesetz",
@@ -9190,8 +9194,7 @@
     "sterbehilfe",
     "tierschutz",
     "unterstützte-entscheidungsfindung",
-    "waffenbesitz",
-    "wahlrecht"
+    "waffenbesitz"
   ],
   "public": [
     "aufgabenkreis",
@@ -11706,6 +11709,7 @@
   ],
   "behörden": [
     "behördenangelegenheiten",
+    "besonderer-vertreter-im-verwaltungsverfahren",
     "eingruppierung",
     "rente",
     "strafprozess",
@@ -14669,7 +14673,6 @@
   ],
   "württembergischen": [
     "betreuungsverfahren",
-    "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "vormundschaftsgericht"
   ],
   "mitteilungen": [
@@ -15566,6 +15569,7 @@
   ],
   "verfahrenspfleger": [
     "datenschutz",
+    "freibetrag",
     "genehmigung-der-heilbehandlung",
     "gerichtskosten",
     "kindschaftsrecht",
@@ -17194,8 +17198,7 @@
     "formulare"
   ],
   "justiz": [
-    "formulare",
-    "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer"
+    "formulare"
   ],
   "mecklenburg": [
     "formulare",
@@ -17267,11 +17270,6 @@
     "unterstützungspflicht",
     "vertretung-gegenüber-behörden",
     "vertretung-gegenüber-behörden"
-  ],
-  "bestattungsvertrag": [
-    "freibetrag",
-    "mittellosigkeit",
-    "tod-des-betreuten"
   ],
   "willen": [
     "freier-wille",
@@ -19126,7 +19124,8 @@
     "patientenverfügung"
   ],
   "stuttgart": [
-    "interoperabilität"
+    "interoperabilität",
+    "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer"
   ],
   "vorlagen": [
     "jahresbericht"
@@ -19749,6 +19748,10 @@
   ],
   "gegenseitig": [
     "mittellosigkeit"
+  ],
+  "bestattungsvertrag": [
+    "mittellosigkeit",
+    "tod-des-betreuten"
   ],
   "teilen": [
     "mitwirkungspflicht"
@@ -21790,7 +21793,7 @@
   "entwürfe": [
     "synopse-patientenverfügungsgesetze"
   ],
-  "ministerien": [
+  "wirtschaft": [
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer"
   ],
   "telefonverkehr": [
