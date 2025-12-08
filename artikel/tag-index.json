@@ -2453,6 +2453,7 @@
     "erbschaft",
     "erbschaft",
     "erbschaft",
+    "erörterungsgespräch",
     "familienverfahrensgesetz",
     "gerichtskosten",
     "gerichtskosten",
@@ -5955,6 +5956,7 @@
     "amtspflichtverletzung",
     "begleitforschung",
     "betreuungsverein",
+    "erörterungsgespräch",
     "föderalismus",
     "gesundheitsdatennutzungsgesetz",
     "globales-nachhaltigkeitsziel-10",
@@ -15652,6 +15654,7 @@
   ],
   "begriff": [
     "digitale-barrierefreiheit",
+    "erörterungsgespräch",
     "it-sicherheit",
     "mitwirkungspflicht",
     "querschnittsaufgaben"
@@ -17089,6 +17092,12 @@
     "erziehungsmaßregeln",
     "maßregeln-der-besserung-und-sicherung",
     "rechtsprechung-zur-unterbringung"
+  ],
+  "erörterung": [
+    "erörterungsgespräch"
+  ],
+  "discussion": [
+    "erörterungsgespräch"
   ],
   "entscheidungsfindung": [
     "erörterungsgespräch",
