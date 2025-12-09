@@ -1573,7 +1573,6 @@
   ],
   "ausländer": [
     "abschiebung",
-    "anfangsgespräch",
     "ausländer",
     "betreuungsverfahren",
     "geschäftsfähigkeit",
@@ -6234,7 +6233,9 @@
   ],
   "anfangsgespräch": [
     "anfangsbericht",
-    "betreuungsrichter"
+    "betreuer-(ehrenamt)",
+    "betreuungsrichter",
+    "verpflichtungsgespräch"
   ],
   "befreite": [
     "anfangsbericht",
@@ -6463,6 +6464,42 @@
     "rechtspfleger",
     "richter"
   ],
+  "anhörung": [
+    "anfangsgespräch",
+    "anhörung",
+    "anhörung",
+    "anhörung",
+    "anhörung",
+    "anhörung",
+    "anhörung",
+    "betreuungsverfahren",
+    "betreuungsverfahren",
+    "betreuungsverfahren",
+    "corona",
+    "einstweilige-anordnung",
+    "einstweilige-anordnung",
+    "gerichtsbeschluss",
+    "grundrechte",
+    "rechtsprechung-zum-sachverständigengutachten",
+    "rechtsprechung-zur-anhörung",
+    "rechtsprechung-zur-anhörung",
+    "rechtsprechung-zur-anhörung",
+    "rechtsprechung-zur-anhörung",
+    "rechtsweg-in-deutschland",
+    "sozialpsychiatrischer-dienst",
+    "unterbringungsverfahren",
+    "unterbringungsverfahren",
+    "unterbringungsverfahren",
+    "unterbringungsverfahren",
+    "vorführung",
+    "vorführung"
+  ],
+  "verpflichtungsgespräch": [
+    "anfangsgespräch",
+    "betreuer-(ehrenamt)",
+    "einführungsgespräch",
+    "verpflichtungsgespräch"
+  ],
   "betreuungsvoraussetzung": [
     "anfangsgespräch",
     "anregung-der-betreuerbestellung",
@@ -6472,20 +6509,6 @@
   "erörterungsgespräch": [
     "anfangsgespräch",
     "betreuungsrichter"
-  ],
-  "behindertenkonvention": [
-    "anfangsgespräch",
-    "betreuungsverein",
-    "globales-nachhaltigkeitsziel-10",
-    "haager-übereinkommen",
-    "inklusionsbetrieb",
-    "konvention-über-die-rechte-behinderter-menschen",
-    "selbstbestimmung",
-    "un-brk",
-    "un-behindertenrechtskonvention",
-    "un-übereinkommen-über-die-rechte-von-menschen-mit-behinderungen",
-    "unterstützte-entscheidungsfindung",
-    "werkstatt-für-behinderte-menschen"
   ],
   "artikel": [
     "angehörigenvertretungsrecht",
@@ -7127,35 +7150,6 @@
     "verfügungsgeld",
     "vorsorgevollmacht",
     "vorsorgevollmacht"
-  ],
-  "anhörung": [
-    "anhörung",
-    "anhörung",
-    "anhörung",
-    "anhörung",
-    "anhörung",
-    "anhörung",
-    "betreuungsverfahren",
-    "betreuungsverfahren",
-    "betreuungsverfahren",
-    "corona",
-    "einstweilige-anordnung",
-    "einstweilige-anordnung",
-    "gerichtsbeschluss",
-    "grundrechte",
-    "rechtsprechung-zum-sachverständigengutachten",
-    "rechtsprechung-zur-anhörung",
-    "rechtsprechung-zur-anhörung",
-    "rechtsprechung-zur-anhörung",
-    "rechtsprechung-zur-anhörung",
-    "rechtsweg-in-deutschland",
-    "sozialpsychiatrischer-dienst",
-    "unterbringungsverfahren",
-    "unterbringungsverfahren",
-    "unterbringungsverfahren",
-    "unterbringungsverfahren",
-    "vorführung",
-    "vorführung"
   ],
   "vorführung": [
     "anhörung",
@@ -12638,18 +12632,6 @@
     "gesetzestexte",
     "vereinsbetreuer"
   ],
-  "verpflichtungsgespräch": [
-    "betreuer-(ehrenamt)",
-    "einführungsgespräch",
-    "verpflichtungsgespräch"
-  ],
-  "ermessensvergütung": [
-    "betreuer-(ehrenamt)",
-    "betreuervergütung-2019",
-    "betreuervergütung-2026",
-    "ermessensvergütung",
-    "gesetzestexte"
-  ],
   "ratgeber": [
     "betreuer-(ehrenamt)",
     "betreuungsverfügung",
@@ -13706,6 +13688,12 @@
     "vbvg-rechtsprechung",
     "vormünder--und-betreuervergütungsgesetz"
   ],
+  "ermessensvergütung": [
+    "betreuervergütung-2019",
+    "betreuervergütung-2026",
+    "ermessensvergütung",
+    "gesetzestexte"
+  ],
   "kreutzer": [
     "betreuervergütung-2019",
     "betreuungsverfahren",
@@ -14656,6 +14644,19 @@
   ],
   "betreuerausbildung": [
     "betreuungsverein"
+  ],
+  "behindertenkonvention": [
+    "betreuungsverein",
+    "globales-nachhaltigkeitsziel-10",
+    "haager-übereinkommen",
+    "inklusionsbetrieb",
+    "konvention-über-die-rechte-behinderter-menschen",
+    "selbstbestimmung",
+    "un-brk",
+    "un-behindertenrechtskonvention",
+    "un-übereinkommen-über-die-rechte-von-menschen-mit-behinderungen",
+    "unterstützte-entscheidungsfindung",
+    "werkstatt-für-behinderte-menschen"
   ],
   "arbeitshilfe": [
     "betreuungsverein",
@@ -17231,7 +17232,6 @@
     "freibetrag",
     "schenkung",
     "schlusstätigkeiten",
-    "verpflichtungsgespräch",
     "wohnungsauflösung"
   ],
   "einkünften": [
