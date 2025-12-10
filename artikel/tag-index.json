@@ -5437,7 +5437,6 @@
     "altenheim",
     "anhörung",
     "anhörung",
-    "anhörung",
     "anregung-der-betreuerbestellung",
     "aufenthaltsbestimmung",
     "aufenthaltsbestimmung",
@@ -7240,47 +7239,6 @@
     "neu",
     "subsidiaritätsprinzip",
     "unterstützungspflicht"
-  ],
-  "betreuungs": [
-    "anhörung",
-    "begleitforschung",
-    "betreuerpflichten",
-    "betreuungssache",
-    "betreuungsverfahren",
-    "betreuungsverfahren",
-    "betreuungszahlen",
-    "buchverzeichnis",
-    "gerichtsbeschluss",
-    "prozessführung",
-    "rechtsanwalt",
-    "unterbringung",
-    "unterbringungsverfahren",
-    "unterbringungsverfahren",
-    "unterbringungsähnliche-maßnahme",
-    "vorläufiger-betreuer",
-    "vormundschaftsgericht",
-    "vormundschaftsgericht"
-  ],
-  "fröschle": [
-    "anhörung",
-    "betreuungsverfahren"
-  ],
-  "praxiskommentar": [
-    "anhörung",
-    "betreuerbestellung",
-    "betreuungsverfahren"
-  ],
-  "unterbringungsverfahren": [
-    "anhörung",
-    "betreuungsverfahren",
-    "prozessführung",
-    "unterbringung",
-    "unterbringungssache",
-    "unterbringungsverfahren",
-    "unterbringungsähnliche-maßnahme",
-    "verfahrenspfleger",
-    "vorläufiger-betreuer",
-    "vormundschaftsgericht"
   ],
   "ders": [
     "anhörung",
@@ -11585,6 +11543,25 @@
     "werkstatt-für-behinderte-menschen",
     "zweites-betreuungsrechtsänderungsgesetz"
   ],
+  "betreuungs": [
+    "begleitforschung",
+    "betreuerpflichten",
+    "betreuungssache",
+    "betreuungsverfahren",
+    "betreuungsverfahren",
+    "betreuungszahlen",
+    "buchverzeichnis",
+    "gerichtsbeschluss",
+    "prozessführung",
+    "rechtsanwalt",
+    "unterbringung",
+    "unterbringungsverfahren",
+    "unterbringungsverfahren",
+    "unterbringungsähnliche-maßnahme",
+    "vorläufiger-betreuer",
+    "vormundschaftsgericht",
+    "vormundschaftsgericht"
+  ],
   "vormundschaftsrecht": [
     "begleitforschung"
   ],
@@ -12935,6 +12912,10 @@
   "systematischer": [
     "betreuerbestellung",
     "genehmigungen-von-a-bis-z"
+  ],
+  "praxiskommentar": [
+    "betreuerbestellung",
+    "betreuungsverfahren"
   ],
   "eignung": [
     "betreuerbestellung",
@@ -14682,6 +14663,20 @@
     "betreuungsverfahren",
     "familienverfahrensgesetz",
     "gesetzestexte"
+  ],
+  "fröschle": [
+    "betreuungsverfahren"
+  ],
+  "unterbringungsverfahren": [
+    "betreuungsverfahren",
+    "prozessführung",
+    "unterbringung",
+    "unterbringungssache",
+    "unterbringungsverfahren",
+    "unterbringungsähnliche-maßnahme",
+    "verfahrenspfleger",
+    "vorläufiger-betreuer",
+    "vormundschaftsgericht"
   ],
   "coeppicus": [
     "betreuungsverfahren",
@@ -17098,6 +17093,21 @@
     "erörterungsgespräch"
   ],
   "discussion": [
+    "erörterungsgespräch"
+  ],
+  "schlange": [
+    "erörterungsgespräch"
+  ],
+  "fragte": [
+    "erörterungsgespräch"
+  ],
+  "könig": [
+    "erörterungsgespräch"
+  ],
+  "antwortete": [
+    "erörterungsgespräch"
+  ],
+  "goethe": [
     "erörterungsgespräch"
   ],
   "entscheidungsfindung": [
