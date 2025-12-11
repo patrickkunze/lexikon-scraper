@@ -968,7 +968,6 @@
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
-    "betreuungsvoraussetzung",
     "corona",
     "corona",
     "datenschutz",
@@ -1241,7 +1240,6 @@
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
-    "betreuungsvoraussetzung",
     "datenschutz",
     "datenschutz",
     "ehefähigkeit",
@@ -1468,6 +1466,7 @@
     "it-sicherheit",
     "informationspflicht",
     "insichgeschäft",
+    "intellektuelle-beeinträchtigung",
     "interoperabilität",
     "kirchenaustritt",
     "kontrollbetreuer",
@@ -1629,7 +1628,6 @@
     "betreuungsverfügung",
     "betreuungsverfügung",
     "betreuungsverfügung",
-    "betreuungsvoraussetzung",
     "buchverzeichnis",
     "geldanlage",
     "gerichtskosten",
@@ -1866,9 +1864,6 @@
     "betreuungsverfügung",
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
-    "betreuungsvoraussetzung",
-    "betreuungsvoraussetzung",
-    "betreuungsvoraussetzung",
     "corona",
     "einstweilige-anordnung",
     "einstweilige-anordnung",
@@ -1986,7 +1981,6 @@
     "betreuungsverein",
     "betreuungsverein",
     "betreuungsverfügung",
-    "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
     "datenschutz",
     "ehefähigkeit",
@@ -2193,7 +2187,6 @@
     "betreuervorschlag",
     "betreuungsbehörde",
     "betreuungsverfügung",
-    "betreuungsvoraussetzung",
     "bundesverband-freier-berufsbetreuer",
     "digitale-barrierefreiheit",
     "eherecht-und-betreuung",
@@ -2275,8 +2268,6 @@
     "betreuungskosten-im-steuerrecht",
     "betreuungsverfahren",
     "betreuungsverfügung",
-    "betreuungsvoraussetzung",
-    "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
     "digitale-barrierefreiheit",
@@ -3409,8 +3400,6 @@
     "betreuungsverein",
     "betreuungsverfahren",
     "betreuungsverfahren",
-    "betreuungsvoraussetzung",
-    "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
@@ -4783,7 +4772,6 @@
     "betreuungsverfahren",
     "betreuungsverfügung",
     "betreuungsvoraussetzung",
-    "betreuungsvoraussetzung",
     "corona",
     "corona",
     "datenschutz",
@@ -5854,6 +5842,7 @@
     "grundrechte",
     "grundrechte",
     "grundrechte",
+    "intellektuelle-beeinträchtigung",
     "intellektuelle-beeinträchtigung",
     "interoperabilität",
     "mdk-gutachten",
@@ -11655,6 +11644,27 @@
   "behindertenrechtskonvention": [
     "behindertenkonvention"
   ],
+  "beiden": [
+    "behindertenkonvention",
+    "neu"
+  ],
+  "zeiträume": [
+    "behindertenkonvention"
+  ],
+  "bereits": [
+    "behindertenkonvention",
+    "betreuungsorganisationsgesetz",
+    "geschäftsfähigkeit",
+    "psychisch-kranken-gesetz",
+    "sterilisation",
+    "vermögenssorge"
+  ],
+  "staatenprüfungsergebnisse": [
+    "behindertenkonvention"
+  ],
+  "veröffentlicht": [
+    "behindertenkonvention"
+  ],
   "globales": [
     "behindertenkonvention"
   ],
@@ -14399,13 +14409,6 @@
   "gefährdung": [
     "betreuungsorganisationsgesetz"
   ],
-  "bereits": [
-    "betreuungsorganisationsgesetz",
-    "geschäftsfähigkeit",
-    "psychisch-kranken-gesetz",
-    "sterilisation",
-    "vermögenssorge"
-  ],
   "tätigen": [
     "betreuungsorganisationsgesetz",
     "gesetzliche-vertretung"
@@ -14819,18 +14822,6 @@
     "betreuungsvoraussetzung"
   ],
   "psychische": [
-    "betreuungsvoraussetzung"
-  ],
-  "hilfen": [
-    "betreuungsvoraussetzung",
-    "eingliederungshilfe",
-    "hauptseite",
-    "krankenhaussozialdienst",
-    "psychisch-kranken-gesetz",
-    "psychisch-kranken-gesetz",
-    "sozialpsychiatrischer-dienst"
-  ],
-  "ambulant": [
     "betreuungsvoraussetzung"
   ],
   "bäuml": [
@@ -15851,6 +15842,7 @@
     "gesundheitsdatennutzungsgesetz",
     "globales-nachhaltigkeitsziel-10",
     "informationspflicht",
+    "intellektuelle-beeinträchtigung",
     "mdk-gutachten",
     "psychisch-kranken-gesetz",
     "tierschutz"
@@ -16278,6 +16270,14 @@
   ],
   "leistungsträger": [
     "eingliederungshilfe"
+  ],
+  "hilfen": [
+    "eingliederungshilfe",
+    "hauptseite",
+    "krankenhaussozialdienst",
+    "psychisch-kranken-gesetz",
+    "psychisch-kranken-gesetz",
+    "sozialpsychiatrischer-dienst"
   ],
   "ziel": [
     "eingliederungshilfe"
@@ -19084,6 +19084,12 @@
   "schwachsinn": [
     "intellektuelle-beeinträchtigung"
   ],
+  "instituts": [
+    "intellektuelle-beeinträchtigung"
+  ],
+  "menschenrechte": [
+    "intellektuelle-beeinträchtigung"
+  ],
   "interoperabilität": [
     "interoperabilität",
     "interoperabilität",
@@ -19853,9 +19859,6 @@
     "neu"
   ],
   "ministerpräsident": [
-    "neu"
-  ],
-  "beiden": [
     "neu"
   ],
   "schlossen": [
