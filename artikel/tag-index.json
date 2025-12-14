@@ -10378,7 +10378,6 @@
     "famfg",
     "gesundheitsdatennutzungsgesetz",
     "it-sicherheit",
-    "informationspflicht",
     "insichgeschäft",
     "patientenverfügungsgesetz",
     "vbvg"
@@ -11491,6 +11490,7 @@
   "krankenkassen": [
     "begleitforschung",
     "it-sicherheit",
+    "informationspflicht",
     "informationspflicht",
     "krankenhaussozialdienst",
     "krankenversicherung",
@@ -16551,7 +16551,6 @@
     "einwilligungsfähigkeit",
     "erbausschlagung",
     "erbschaft",
-    "informationspflicht",
     "mahnverfahren",
     "organspende",
     "selbstbestimmung",
@@ -19015,6 +19014,10 @@
   "gematik": [
     "informationspflicht",
     "informationspflicht"
+  ],
+  "gemeinsamen": [
+    "informationspflicht",
+    "unterstützte-entscheidungsfindung"
   ],
   "beschäftigung": [
     "inklusionsbetrieb",
@@ -22177,9 +22180,6 @@
     "vorführung",
     "zuführung-zur-unterbringung",
     "zwangsbehandlung"
-  ],
-  "gemeinsamen": [
-    "unterstützte-entscheidungsfindung"
   ],
   "unterstützten": [
     "unterstützte-entscheidungsfindung"
