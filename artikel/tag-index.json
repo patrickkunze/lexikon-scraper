@@ -7173,8 +7173,7 @@
     "personalausweis",
     "prozessführung",
     "querschnittsaufgaben",
-    "software",
-    "zugriffsrecht"
+    "software"
   ],
   "rechtliches": [
     "anhörung",
@@ -12483,7 +12482,8 @@
     "elektronischer-identitätsnachweis",
     "gesetzliche-vertretung",
     "personalausweis",
-    "rechtsverkehr-in-deutschland"
+    "rechtsverkehr-in-deutschland",
+    "zugriffsrecht"
   ],
   "ehrenamtlicher": [
     "betreuer-(ehrenamt)",
@@ -15997,8 +15997,7 @@
   ],
   "verwaltungspostfach": [
     "ebo",
-    "egvp",
-    "zugriffsrecht"
+    "egvp"
   ],
   "ehefähigkeit": [
     "ehefähigkeit",
@@ -23121,6 +23120,9 @@
     "zugriffsrecht"
   ],
   "befähigen": [
+    "zugriffsrecht"
+  ],
+  "berufsausweis": [
     "zugriffsrecht"
   ],
   "zwangsmaßnahmen": [
