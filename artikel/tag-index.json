@@ -1449,7 +1449,6 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "erbausschlagung",
     "erbschaft",
-    "ermessensvergütung",
     "erziehungsmaßregeln",
     "fgg",
     "famfg",
@@ -7429,7 +7428,6 @@
     "neu",
     "neu",
     "prozessführung",
-    "stundensatz",
     "verhältnismäßigkeitsprinzip"
   ],
   "aufgabenbereich": [
@@ -8379,6 +8377,7 @@
     "grundstück",
     "rechnungslegung",
     "schwerbehindertenausweis",
+    "stundensatz",
     "verhältnismäßigkeitsprinzip"
   ],
   "soweit": [
@@ -9751,6 +9750,7 @@
     "freibetrag",
     "inflationsausgleich",
     "mittellosigkeit",
+    "stundensatz",
     "vbvg-rechtsprechung",
     "vereinsbetreuer",
     "vergütung-2026",
@@ -13458,6 +13458,7 @@
   ],
   "stundensatz": [
     "betreuervergütung",
+    "ermessensvergütung",
     "tabelleneinstufung",
     "vbvg-rechtsprechung",
     "vergütungsstufe",
