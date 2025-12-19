@@ -482,7 +482,6 @@
     "ergänzungsbetreuer",
     "ergänzungsbetreuer",
     "ermessensvergütung",
-    "ermessensvergütung",
     "erörterungsgespräch",
     "finanzamt",
     "gegenbetreuer",
@@ -2514,7 +2513,6 @@
     "angehörigenvertretungsrecht",
     "angehörigenvertretungsrecht",
     "angehörigenvertretungsrecht",
-    "anlagegeld",
     "arbeitsvertrag",
     "arbeitsvertrag",
     "arztzeugnis",
@@ -2680,7 +2678,6 @@
     "mittellosigkeit",
     "mittellosigkeit",
     "mittellosigkeit",
-    "mündelgeld",
     "natürlicher-wille",
     "neu",
     "neu",
@@ -3297,7 +3294,6 @@
     "angehörigenvertretungsrecht",
     "ausländer",
     "checkliste-gesundheitssorge",
-    "checkliste-vermögenssorge",
     "checkliste-wohnungsangelegenheiten",
     "dokumentationspflicht",
     "einwilligungsfähigkeit",
@@ -5493,7 +5489,6 @@
     "freier-wille",
     "gegenbetreuer",
     "geldanlage",
-    "geldanlage",
     "genehmigung-der-heilbehandlung",
     "genehmigungen-von-a-bis-z",
     "genehmigungen-von-a-bis-z",
@@ -5608,6 +5603,7 @@
     "insichgeschäft",
     "kirchenaustritt",
     "mitteilungspflicht",
+    "mündelgeld",
     "peg-sonde",
     "persönliche-betreuung",
     "pflichten",
@@ -7372,6 +7368,8 @@
     "anlagegeld",
     "anlagegeld",
     "bankvollmacht",
+    "checkliste-vermögenssorge",
+    "ermessensvergütung",
     "mündelsicher",
     "sperrvereinbarung"
   ],
@@ -7457,6 +7455,7 @@
     "hamburger-mustergliederung",
     "insichgeschäft",
     "insichgeschäft",
+    "mündelgeld",
     "mündelgeld",
     "rechnungslegung",
     "sozialhilfe",
@@ -7855,22 +7854,6 @@
     "zweites-betreuungsrechtsänderungsgesetz"
   ],
   "bankpraktiker": [
-    "anlagegeld",
-    "mündelgeld"
-  ],
-  "liste": [
-    "anlagegeld",
-    "ausbildung",
-    "genehmigung-der-heilbehandlung",
-    "mündelgeld",
-    "sachkundenachweis",
-    "spielwiese"
-  ],
-  "genehmigter": [
-    "anlagegeld",
-    "mündelgeld"
-  ],
-  "fondsanlagen": [
     "anlagegeld",
     "mündelgeld"
   ],
@@ -9173,7 +9156,6 @@
     "berufsbetreuer",
     "betreuerhaftung",
     "betreuerpflichten",
-    "mündelgeld",
     "rechnungslegung",
     "sterbehilfedokumente",
     "vermögenssorge",
@@ -10018,6 +10000,12 @@
     "ausbildung",
     "broschüren",
     "broschüren",
+    "spielwiese"
+  ],
+  "liste": [
+    "ausbildung",
+    "genehmigung-der-heilbehandlung",
+    "sachkundenachweis",
     "spielwiese"
   ],
   "diskussionsbeitrag": [
@@ -10947,7 +10935,6 @@
     "checkliste-betreuerpflichten",
     "checkliste-gesundheitssorge",
     "checkliste-personenbogen",
-    "checkliste-vermögenssorge",
     "checkliste-wohnungsangelegenheiten",
     "dokumentationspflicht",
     "elektronische-patientenakte",
@@ -11808,7 +11795,6 @@
   ],
   "handbuch": [
     "behördenbetreuer",
-    "mündelgeld",
     "rechnungslegung",
     "vermögenssorge",
     "vorsorgevollmacht",
@@ -12797,6 +12783,7 @@
   "elektronischer": [
     "betreuerausweis",
     "digitale-barrierefreiheit",
+    "formulare",
     "medikationsplan",
     "vorsorgeregister"
   ],
@@ -15009,8 +14996,6 @@
   ],
   "nachlasspflegschaft": [
     "buchverzeichnis",
-    "geldanlage",
-    "mündelgeld",
     "tod-des-betreuten",
     "vermögenssorge"
   ],
@@ -15345,6 +15330,11 @@
   "vorhanden": [
     "checkliste-vermögenssorge",
     "vermögensverzeichnis"
+  ],
+  "verfügungsgeld": [
+    "checkliste-vermögenssorge",
+    "selbstverwaltungserklärung",
+    "verfügungsgeld"
   ],
   "sozialamt": [
     "checkliste-wohnungsangelegenheiten"
@@ -15721,7 +15711,6 @@
   "barrierefreiheit": [
     "digitale-barrierefreiheit",
     "e-rezept",
-    "formulare",
     "it-sicherheit",
     "informationspflicht",
     "mailingliste",
@@ -15987,7 +15976,6 @@
   "elektronisches": [
     "ebo",
     "egvp",
-    "formulare",
     "genehmigungen-von-a-bis-z",
     "personalausweis",
     "querschnittsaufgaben",
@@ -17224,6 +17212,9 @@
     "mecklenburg-vorpommern",
     "psychisch-kranken-gesetz"
   ],
+  "identitätsnachweis": [
+    "formulare"
+  ],
   "heranziehung": [
     "freibetrag",
     "freibetrag"
@@ -17491,11 +17482,6 @@
     "geldanlage",
     "genehmigungen-von-a-bis-z",
     "mündelgeld"
-  ],
-  "jochum": [
-    "geldanlage",
-    "mündelgeld",
-    "vermögenssorge"
   ],
   "anlegung": [
     "geldanlage"
@@ -19804,9 +19790,6 @@
   "bezeichnete": [
     "mündelgeld"
   ],
-  "neumann": [
-    "mündelgeld"
-  ],
   "willensbestimmung": [
     "natürlicher-wille"
   ],
@@ -21262,10 +21245,6 @@
   "verwaltet": [
     "selbstverwaltungserklärung"
   ],
-  "verfügungsgeld": [
-    "selbstverwaltungserklärung",
-    "verfügungsgeld"
-  ],
   "butler": [
     "software"
   ],
@@ -22494,6 +22473,9 @@
     "vermögenssorge"
   ],
   "verwendet": [
+    "vermögenssorge"
+  ],
+  "jochum": [
     "vermögenssorge"
   ],
   "juraforum": [
