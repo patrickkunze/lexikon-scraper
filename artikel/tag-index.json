@@ -1288,6 +1288,7 @@
     "mittellosigkeit",
     "mittellosigkeit",
     "mitwirkungspflicht",
+    "mitwirkungspflicht",
     "mündelgeld",
     "online-lexikon-betreuungsrecht:datenschutz",
     "ordre-public",
@@ -1580,7 +1581,8 @@
     "girokonto",
     "mitteilungspflicht",
     "mitwirkungspflicht",
-    "nutzungspflicht"
+    "nutzungspflicht",
+    "verhältnismäßigkeitsprinzip"
   ],
   "eidesstattliche": [
     "abschiebung",
@@ -5327,6 +5329,7 @@
     "betreuungsverfügung",
     "buchverzeichnis",
     "delegation",
+    "ehefähigkeit",
     "einverständniserklärung",
     "einwilligungsvorbehalt",
     "einwilligungsvorbehalt",
@@ -7497,7 +7500,6 @@
     "betreuerbestellung",
     "betreuervergütung-2019",
     "betreuerwechsel",
-    "ehefähigkeit",
     "genehmigung-der-heilbehandlung",
     "globales-nachhaltigkeitsziel-10",
     "hauptseite",
@@ -8084,7 +8086,6 @@
     "auskunftspflicht",
     "gerichtskosten",
     "krankenversicherung",
-    "mitwirkungspflicht",
     "nutzungspflicht",
     "nutzungspflicht",
     "unterbringungsähnliche-maßnahme",
@@ -8327,6 +8328,7 @@
     "eherecht-und-betreuung",
     "erbschaft",
     "kindschaftsrecht",
+    "mitwirkungspflicht",
     "prozessfähigkeit",
     "prozessfähigkeit",
     "selbstverwaltungserklärung",
@@ -10344,7 +10346,6 @@
     "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zur-anhörung",
     "rechtsweg-in-deutschland",
-    "verhältnismäßigkeitsprinzip",
     "vertretung-gegenüber-behörden",
     "vorsorgeregister"
   ],
@@ -19774,12 +19775,25 @@
     "mitwirkungspflicht",
     "sozialhilfe"
   ],
-  "unterlagen": [
+  "teilnahme": [
     "mitwirkungspflicht",
-    "schweigepflicht"
+    "strafprozess"
+  ],
+  "vorlage": [
+    "mitwirkungspflicht"
+  ],
+  "beweisunterlagen": [
+    "mitwirkungspflicht"
+  ],
+  "entscheidungsrelevant": [
+    "mitwirkungspflicht"
   ],
   "mitwirkungsforderungen": [
     "mitwirkungspflicht"
+  ],
+  "unterlagen": [
+    "mitwirkungspflicht",
+    "schweigepflicht"
   ],
   "ausländerinnen": [
     "mitwirkungspflicht"
@@ -21689,9 +21703,6 @@
   "strafverfahren": [
     "strafprozess",
     "strafprozess",
-    "strafprozess"
-  ],
-  "teilnahme": [
     "strafprozess"
   ],
   "mittelbaren": [
