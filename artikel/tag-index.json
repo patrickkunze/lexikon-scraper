@@ -1776,6 +1776,7 @@
     "natürlicher-wille",
     "natürlicher-wille",
     "neu",
+    "ordre-public",
     "peg-sonde",
     "persönliches-budget",
     "persönliches-budget",
@@ -5818,7 +5819,8 @@
     "amtsermittlungspflicht"
   ],
   "rechtsstaat": [
-    "amtsermittlungspflicht"
+    "amtsermittlungspflicht",
+    "ordre-public"
   ],
   "deutschen": [
     "amtsermittlungspflicht",
@@ -5895,6 +5897,7 @@
     "hauptseite",
     "jahresbericht",
     "online-lexikon-betreuungsrecht:datenschutz",
+    "ordre-public",
     "postkontrolle",
     "prozessfähigkeit",
     "prozessführung",
@@ -6659,7 +6662,8 @@
     "betreuervergütung",
     "einverständniserklärung",
     "grundstück",
-    "meldepflicht"
+    "meldepflicht",
+    "ordre-public"
   ],
   "deren": [
     "angehörigenvertretungsrecht",
@@ -10119,6 +10123,7 @@
     "nutzungspflicht",
     "online-lexikon-betreuungsrecht:datenschutz",
     "online-lexikon-betreuungsrecht:datenschutz",
+    "ordre-public",
     "patientenverfügung",
     "vermögenssorge",
     "vermögenssorge"
@@ -10895,6 +10900,7 @@
     "krankenversicherung",
     "mittellosigkeit",
     "natürlicher-wille",
+    "ordre-public",
     "pflegeversicherung",
     "prozessführung",
     "tod-des-betreuten",
@@ -14951,8 +14957,7 @@
   ],
   "sogenannte": [
     "bezirksrevisor",
-    "gesetzgebung",
-    "ordre-public"
+    "gesetzgebung"
   ],
   "bezirksrevisor": [
     "bezirksrevisor",
@@ -16407,6 +16412,7 @@
     "geheimhaltungspflicht",
     "heilbehandlung",
     "maßregeln-der-besserung-und-sicherung",
+    "ordre-public",
     "psychisch-kranken-gesetz",
     "schweigepflicht",
     "sterbehilfe",
@@ -20217,7 +20223,7 @@
     "ordre-public",
     "wohnungsangelegenheiten"
   ],
-  "cyberspace": [
+  "vergleiche": [
     "ordre-public"
   ],
   "beschlagnahme": [
@@ -20227,6 +20233,33 @@
     "ordre-public"
   ],
   "polizeibehörde": [
+    "ordre-public"
+  ],
+  "erziehung": [
+    "ordre-public"
+  ],
+  "anweisungen": [
+    "ordre-public"
+  ],
+  "vorstellung": [
+    "ordre-public"
+  ],
+  "normen": [
+    "ordre-public"
+  ],
+  "reich": [
+    "ordre-public"
+  ],
+  "reichsrecht": [
+    "ordre-public"
+  ],
+  "führten": [
+    "ordre-public"
+  ],
+  "fürsten": [
+    "ordre-public"
+  ],
+  "staatsgewalt": [
     "ordre-public"
   ],
   "organentnahme": [
