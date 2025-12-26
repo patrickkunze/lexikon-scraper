@@ -1587,7 +1587,6 @@
   "eidesstattliche": [
     "abschiebung",
     "amtsermittlungspflicht",
-    "kindschaftsrecht",
     "rechnungslegung",
     "schlussrechnungslegung",
     "schlusstätigkeiten"
@@ -2140,6 +2139,7 @@
   "richter": [
     "abschlussbericht",
     "betreuungsrichter",
+    "freier-wille",
     "genehmigung-der-heilbehandlung",
     "genehmigung-der-heilbehandlung",
     "genehmigung-der-heilbehandlung",
@@ -3768,6 +3768,7 @@
     "betreuungskosten-im-steuerrecht",
     "corona",
     "ergänzungsbetreuer",
+    "freier-wille",
     "grundstück",
     "kirchenaustritt",
     "kirchenaustritt",
@@ -5835,6 +5836,7 @@
     "datenschutz",
     "delegation",
     "digitale-barrierefreiheit",
+    "freier-wille",
     "föderalismus",
     "geschäftsfähigkeit",
     "gesetzgebung",
@@ -6447,7 +6449,6 @@
     "betreuungsgericht",
     "gerichtsbeschluss",
     "gewaltschutzanordnung",
-    "grundrechte",
     "rechtsmittel",
     "rechtspfleger",
     "richter"
@@ -7143,7 +7144,6 @@
   "vorführung": [
     "anhörung",
     "betreuungsverfahren",
-    "grundrechte",
     "vorführung",
     "vorführung",
     "vorführung",
@@ -8906,6 +8906,8 @@
     "freier-wille",
     "geschäftsfähigkeit",
     "gesundheitssorge",
+    "grundrechte",
+    "grundstück",
     "intellektuelle-beeinträchtigung",
     "maßregeln-der-besserung-und-sicherung",
     "natürlicher-wille",
@@ -10388,6 +10390,9 @@
     "einstweilige-anordnung",
     "einwilligungsvorbehalt",
     "geschäftsfähigkeit",
+    "grundrechte",
+    "grundstück",
+    "kindschaftsrecht",
     "subsidiaritätsprinzip",
     "testierfähigkeit",
     "verband-freiberuflicher-betreuer",
@@ -10469,6 +10474,7 @@
     "behindertenkonvention",
     "berufsbetreuer",
     "berufsbetreuer",
+    "freier-wille",
     "selbstbestimmung"
   ],
   "vertretenen": [
@@ -13960,7 +13966,6 @@
   "wohnen": [
     "betreutes-wohnen",
     "betreutes-wohnen",
-    "grundstück",
     "heimmitarbeiter-als-betreuer",
     "meldepflicht",
     "verbraucherstreitbeilegung"
@@ -13981,7 +13986,6 @@
   ],
   "betreutes": [
     "betreutes-wohnen",
-    "grundstück",
     "heimmitarbeiter-als-betreuer",
     "meldepflicht",
     "verbraucherstreitbeilegung",
@@ -16217,7 +16221,8 @@
     "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
     "familienverfahrensgesetz",
-    "familienverfahrensgesetz"
+    "familienverfahrensgesetz",
+    "freier-wille"
   ],
   "aufklärung": [
     "eidesstattliche-versicherung",
