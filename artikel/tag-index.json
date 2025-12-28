@@ -658,6 +658,7 @@
     "strafprozess",
     "strafprozess",
     "strafprozess",
+    "stundensatz",
     "synopse-patientenverfügungsgesetze",
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "tandembetreuung",
@@ -5957,6 +5958,7 @@
     "neu",
     "neu",
     "neu",
+    "ordre-public",
     "patientenverfügung",
     "personalausweis",
     "registrierung",
@@ -8616,7 +8618,6 @@
     "assistenzleistungen",
     "e-rezept",
     "globales-nachhaltigkeitsziel-10",
-    "it-sicherheit",
     "persönliches-budget",
     "schwerbehindertenausweis",
     "unterstützungspflicht",
@@ -9125,6 +9126,7 @@
     "aufgabenkreis",
     "freier-wille",
     "gesetzgebung",
+    "it-sicherheit",
     "selbstverwaltung-der-deutschen-gemeinden",
     "sterbehilfe",
     "tierschutz",
@@ -9133,6 +9135,7 @@
   ],
   "public": [
     "aufgabenkreis",
+    "it-sicherheit",
     "sterbehilfe",
     "tierschutz",
     "unterstützte-entscheidungsfindung",
@@ -9274,7 +9277,6 @@
     "berufsbetreuer",
     "betreuer-(ehrenamt)",
     "betreuerpflichten",
-    "betreuervergütung",
     "betreuervorschlag",
     "betreutes-wohnen",
     "datenschutz",
@@ -11925,6 +11927,7 @@
     "grundrechte",
     "ordre-public",
     "ordre-public",
+    "ordre-public",
     "rechtsmittel",
     "schenkung",
     "vertretung-gegenüber-behörden",
@@ -13305,6 +13308,9 @@
     "betreuervergütung",
     "betreuungsrechtsreform",
     "betreuungsrechtsreform"
+  ],
+  "hatten": [
+    "betreuervergütung"
   ],
   "jahre": [
     "betreuervergütung",
@@ -15725,7 +15731,6 @@
   "barrierefreiheit": [
     "digitale-barrierefreiheit",
     "e-rezept",
-    "it-sicherheit",
     "informationspflicht",
     "mailingliste",
     "organspende",
@@ -16417,6 +16422,7 @@
     "geheimhaltungspflicht",
     "heilbehandlung",
     "maßregeln-der-besserung-und-sicherung",
+    "ordre-public",
     "ordre-public",
     "psychisch-kranken-gesetz",
     "schweigepflicht",
@@ -19059,8 +19065,7 @@
     "insichgeschäft"
   ],
   "insichgeschäft": [
-    "insichgeschäft",
-    "stundensatz"
+    "insichgeschäft"
   ],
   "zwangsvollstreckung": [
     "insolvenz",
@@ -20239,6 +20244,13 @@
   ],
   "polizeibehörde": [
     "ordre-public"
+  ],
+  "inhalte": [
+    "ordre-public"
+  ],
+  "straftaten": [
+    "ordre-public",
+    "tierschutz"
   ],
   "erziehung": [
     "ordre-public"
@@ -21829,6 +21841,9 @@
   "angegeben": [
     "stundensatz"
   ],
+  "vorläufiger": [
+    "stundensatz"
+  ],
   "subsidiäre": [
     "subsidiaritätsprinzip"
   ],
@@ -21918,9 +21933,6 @@
   ],
   "garantenpflicht": [
     "tierschutz",
-    "tierschutz"
-  ],
-  "straftaten": [
     "tierschutz"
   ],
   "habe": [
