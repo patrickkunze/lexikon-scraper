@@ -1032,6 +1032,7 @@
     "mündelgeld",
     "mündelgeld",
     "neu",
+    "neu",
     "ordre-public",
     "organspende",
     "peg-sonde",
@@ -8745,6 +8746,7 @@
     "betreuungsorganisationsgesetz",
     "betreuungssache",
     "hauptseite",
+    "neu",
     "querschnittsaufgaben"
   ],
   "angeordnete": [
@@ -9446,6 +9448,7 @@
     "betreuungskosten-im-steuerrecht",
     "einverständniserklärung",
     "entschädigung",
+    "finanzamt",
     "gesetzestexte"
   ],
   "person": [
@@ -10251,7 +10254,6 @@
   ],
   "selbstverwaltung": [
     "ausländer",
-    "finanzamt",
     "föderalismus",
     "selbstverwaltung-der-deutschen-gemeinden",
     "selbstverwaltungserklärung"
@@ -11135,6 +11137,7 @@
     "eingruppierung",
     "eingruppierung",
     "finanzamt",
+    "neu",
     "rechtsanwalt",
     "rechtsanwalt",
     "rechtsanwalt",
@@ -13847,7 +13850,8 @@
     "tod-des-betreuten"
   ],
   "aufgrund": [
-    "betreuervorschlag"
+    "betreuervorschlag",
+    "neu"
   ],
   "benennung": [
     "betreuervorschlag"
@@ -19996,6 +20000,10 @@
   "völker": [
     "neu"
   ],
+  "gesetzesänderung": [
+    "neu",
+    "organspende"
+  ],
   "verbraucherstreitbeilegungsgesetz": [
     "neu",
     "verbraucherstreitbeilegung"
@@ -20325,9 +20333,6 @@
     "zuführung-zur-unterbringung"
   ],
   "lebendspende": [
-    "organspende"
-  ],
-  "gesetzesänderung": [
     "organspende"
   ],
   "schäfer": [
