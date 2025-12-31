@@ -836,6 +836,7 @@
     "grundrechte",
     "grundrechte",
     "grundrechte",
+    "grundstück",
     "haager-übereinkommen",
     "it-sicherheit",
     "it-sicherheit",
@@ -1631,7 +1632,6 @@
     "geldanlage",
     "gerichtskosten",
     "grundrechte",
-    "grundstück",
     "kontrollbetreuer",
     "kontrollbetreuer",
     "kontrollbetreuer",
@@ -2022,6 +2022,7 @@
     "girokonto",
     "grundrechte",
     "grundrechte",
+    "grundstück",
     "grundstück",
     "heilbehandlung",
     "informationspflicht",
@@ -3678,6 +3679,7 @@
     "gesundheitsdatennutzungsgesetz",
     "grundrechte",
     "grundrechte",
+    "grundstück",
     "heilbehandlung",
     "it-sicherheit",
     "it-sicherheit",
@@ -3905,6 +3907,7 @@
   ],
   "geschäft": [
     "alltagsgeschäfte",
+    "grundstück",
     "insichgeschäft"
   ],
   "einwilligungsvorbehalt": [
@@ -9129,7 +9132,6 @@
     "freier-wille",
     "gesetzgebung",
     "it-sicherheit",
-    "selbstverwaltung-der-deutschen-gemeinden",
     "sterbehilfe",
     "tierschutz",
     "unterstützte-entscheidungsfindung",
@@ -12331,6 +12333,7 @@
   "freibetrag": [
     "bestattung",
     "freibetrag",
+    "grundstück",
     "mittellosigkeit",
     "regress-der-staatskasse",
     "schonvermögen"
@@ -18613,6 +18616,28 @@
   "haushalt": [
     "grundstück"
   ],
+  "grundstücke": [
+    "grundstück"
+  ],
+  "öffentlichen": [
+    "grundstück",
+    "rundfunkbeitrag",
+    "zugangsrecht"
+  ],
+  "eigentum": [
+    "grundstück",
+    "mittellosigkeit"
+  ],
+  "grundbuch": [
+    "grundstück",
+    "vermögensverzeichnis"
+  ],
+  "grundbücher": [
+    "grundstück"
+  ],
+  "rechtsänderung": [
+    "grundstück"
+  ],
   "grundsteuer": [
     "grundstück"
   ],
@@ -19777,9 +19802,6 @@
     "sterbehilfe"
   ],
   "härte": [
-    "mittellosigkeit"
-  ],
-  "eigentum": [
     "mittellosigkeit"
   ],
   "gegenseitig": [
@@ -20987,10 +21009,6 @@
   "rundfunk": [
     "rundfunkbeitrag"
   ],
-  "öffentlichen": [
-    "rundfunkbeitrag",
-    "zugangsrecht"
-  ],
   "rundfunkfreiheit": [
     "rundfunkbeitrag"
   ],
@@ -21314,6 +21332,12 @@
   "subsidiaritätsprinzip": [
     "selbstverwaltung-der-deutschen-gemeinden",
     "vorsorgeregister"
+  ],
+  "grundstück": [
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "verhältnismäßigkeitsprinzip",
+    "vermögenssorge",
+    "zwangsvollstreckung"
   ],
   "verwaltet": [
     "selbstverwaltungserklärung"
@@ -22516,11 +22540,6 @@
   "gesetzeszweck": [
     "verhältnismäßigkeitsprinzip"
   ],
-  "grundstück": [
-    "verhältnismäßigkeitsprinzip",
-    "vermögenssorge",
-    "zwangsvollstreckung"
-  ],
   "endet": [
     "verlängerung-der-betreuung"
   ],
@@ -22646,9 +22665,6 @@
     "vermögensverzeichnis"
   ],
   "passiva": [
-    "vermögensverzeichnis"
-  ],
-  "grundbuch": [
     "vermögensverzeichnis"
   ],
   "eingetragenen": [
