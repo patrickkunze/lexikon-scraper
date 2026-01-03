@@ -182,20 +182,20 @@
   ],
   "zusammenfassung": "Übersicht Krankenversicherung\n\nIn Deutschland unterscheidet man grundsätzlich 3 Arten der Absicherung gegen Krankheit (außer bei Berufskrankheiten/Arbeitsunfällen):\n\nGesetzliche Krankenkasse\ngesetzliche Krankenversicherung (GKV, geregelt im SGB V, betrifft ca. 90 % der Bundesbürger)\ninnerhalb der GK...",
   "verwandteArtikel": [
-    "vertretung-gegenüber-behörden",
-    "medikationsplan",
-    "vermögenssorge",
-    "begleitforschung",
-    "geschäftsfähigkeit",
+    "betreuerpflichten",
+    "pflegeversicherung",
     "kategorie:betreuerpflichten",
-    "sozialhilfe",
-    "informationspflicht",
+    "vertretung-gegenüber-behörden",
+    "vermögenssorge",
     "gesundheitssorge",
     "mdk-gutachten",
-    "rechtsverkehr-in-deutschland",
-    "interoperabilität",
     "e-rezept",
-    "betreuerpflichten",
-    "pflegeversicherung"
+    "geschäftsfähigkeit",
+    "sozialhilfe",
+    "interoperabilität",
+    "medikationsplan",
+    "informationspflicht",
+    "begleitforschung",
+    "rechtsverkehr-in-deutschland"
   ]
 }

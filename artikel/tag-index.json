@@ -899,6 +899,7 @@
   "geregelt": [
     "abschiebung",
     "aufwendungsersatz",
+    "gesamtplanverfahren",
     "mittellosigkeit",
     "sachverständigengutachten",
     "sachverständigengutachten",
@@ -3697,6 +3698,7 @@
     "neu",
     "nutzungspflicht",
     "personalausweis",
+    "persönliches-budget",
     "rechtspfleger",
     "selbstverwaltung-der-deutschen-gemeinden",
     "subsidiaritätsprinzip",
@@ -4528,6 +4530,7 @@
     "eingliederungshilfe",
     "krankenversicherung",
     "krankenversicherung",
+    "persönliches-budget",
     "pflegeversicherung",
     "selbstbestimmung",
     "sozialhilfe",
@@ -8416,8 +8419,7 @@
   ],
   "inklusionsbetrieb": [
     "arbeitsvertrag",
-    "geheimhaltungspflicht",
-    "unterstützungspflicht"
+    "geheimhaltungspflicht"
   ],
   "werkstatt": [
     "arbeitsvertrag",
@@ -8620,6 +8622,7 @@
     "assistenzleistungen",
     "assistenzleistungen",
     "e-rezept",
+    "gesamtplanverfahren",
     "globales-nachhaltigkeitsziel-10",
     "persönliches-budget",
     "schwerbehindertenausweis",
@@ -8694,6 +8697,7 @@
     "egh",
     "eingliederungshilfe",
     "geheimhaltungspflicht",
+    "gesamtplanverfahren",
     "globales-nachhaltigkeitsziel-10",
     "persönliches-budget",
     "psychisch-kranken-gesetz",
@@ -8704,6 +8708,7 @@
     "assistenzleistungen",
     "checkliste-betreuerpflichten",
     "datenschutz",
+    "freibetrag",
     "freier-wille",
     "kirchenaustritt",
     "sozialhilfe",
@@ -8718,21 +8723,21 @@
     "vertreterdokumentation",
     "werkstatt-für-behinderte-menschen"
   ],
+  "gesamtplanverfahren": [
+    "assistenzleistungen",
+    "besonderer-vertreter-im-verwaltungsverfahren",
+    "betreuungsplan",
+    "gesamtplanverfahren",
+    "persönliches-budget",
+    "unterstützungspflicht"
+  ],
   "persönliches": [
     "assistenzleistungen",
     "ergänzungsbetreuer",
+    "gesamtplanverfahren",
     "insichgeschäft",
     "persönliches-budget",
     "selbstverwaltungserklärung"
-  ],
-  "budget": [
-    "assistenzleistungen",
-    "betreuungsmanagement",
-    "neu",
-    "persönliches-budget",
-    "persönliches-budget",
-    "persönliches-budget",
-    "persönliches-budget"
   ],
   "einsicht": [
     "aufenthaltsbestimmung"
@@ -9761,7 +9766,7 @@
     "bestattungsvertrag",
     "freibetrag",
     "freibetrag",
-    "freibetrag",
+    "grundstück",
     "grundstück",
     "mahnverfahren",
     "mittellosigkeit",
@@ -12333,7 +12338,6 @@
   "freibetrag": [
     "bestattung",
     "freibetrag",
-    "grundstück",
     "mittellosigkeit",
     "regress-der-staatskasse",
     "schonvermögen"
@@ -14340,6 +14344,15 @@
   "betreuungswesen": [
     "betreuungsmanagement"
   ],
+  "budget": [
+    "betreuungsmanagement",
+    "gesamtplanverfahren",
+    "neu",
+    "persönliches-budget",
+    "persönliches-budget",
+    "persönliches-budget",
+    "persönliches-budget"
+  ],
   "betreuungsarbeit": [
     "betreuungsmanagement"
   ],
@@ -14975,6 +14988,7 @@
   ],
   "sogenannte": [
     "bezirksrevisor",
+    "gesamtplanverfahren",
     "gesetzgebung"
   ],
   "bezirksrevisor": [
@@ -17967,6 +17981,14 @@
   "streitigen": [
     "gerichtskosten"
   ],
+  "sozialgesetzlich": [
+    "gesamtplanverfahren"
+  ],
+  "vertrauensperson": [
+    "gesamtplanverfahren",
+    "person-des-vertrauens",
+    "vertrauensperson"
+  ],
   "freiem": [
     "geschäftsfähigkeit"
   ],
@@ -20511,10 +20533,6 @@
   "beinhaltet": [
     "patientenvertreter"
   ],
-  "vertrauensperson": [
-    "person-des-vertrauens",
-    "vertrauensperson"
-  ],
   "staatsangehörige": [
     "personalausweis"
   ],
@@ -20565,6 +20583,15 @@
   ],
   "budgets": [
     "persönliches-budget",
+    "persönliches-budget"
+  ],
+  "pflegebedürftigkeit": [
+    "persönliches-budget"
+  ],
+  "beziehen": [
+    "persönliches-budget"
+  ],
+  "träger": [
     "persönliches-budget"
   ],
   "schließen": [
