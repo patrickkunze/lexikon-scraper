@@ -787,11 +787,6 @@
     "alltagsgeschäfte",
     "amtspflichtverletzung",
     "angehörigenvertretungsrecht",
-    "anzeigepflicht",
-    "anzeigepflicht",
-    "anzeigepflicht",
-    "anzeigepflicht",
-    "anzeigepflicht",
     "auskunftspflicht",
     "ausländer",
     "ausländer",
@@ -923,7 +918,6 @@
     "angehörigenvertretungsrecht",
     "anlagegeld",
     "anregung-der-betreuerbestellung",
-    "anzeigepflicht",
     "arbeitsvertrag",
     "arbeitsvertrag",
     "arztzeugnis",
@@ -1408,6 +1402,7 @@
     "berichterstattung",
     "berichtspflicht",
     "berufsbetreuer",
+    "besonderer-vertreter-im-verwaltungsverfahren",
     "bestattungsvertrag",
     "betreuer-als-erbe",
     "betreuerhaftung",
@@ -2228,7 +2223,6 @@
     "alltagsgeschäfte",
     "angehörigenvertretungsrecht",
     "anhörung",
-    "anzeigepflicht",
     "anzeigepflicht",
     "arbeitsvertrag",
     "arbeitsvertrag",
@@ -3248,6 +3242,7 @@
   "betreuungsbehörde": [
     "abschlussbericht",
     "amtspflichtverletzung",
+    "anzeigepflicht",
     "befreiter-betreuer",
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
@@ -3641,8 +3636,6 @@
   "ihrer": [
     "alltagsgeschäfte",
     "anzeigepflicht",
-    "anzeigepflicht",
-    "anzeigepflicht",
     "eingliederungshilfe",
     "freier-wille",
     "werkstatt-für-behinderte-menschen"
@@ -3650,8 +3643,6 @@
   "gemäß": [
     "alltagsgeschäfte",
     "altenheim",
-    "anzeigepflicht",
-    "anzeigepflicht",
     "auskunftspflicht",
     "auskunftspflicht",
     "auskunftspflicht",
@@ -3755,7 +3746,6 @@
   "geschäfte": [
     "alltagsgeschäfte",
     "alltagsgeschäfte",
-    "anzeigepflicht",
     "geschäftsfähigkeit"
   ],
   "keine": [
@@ -5018,6 +5008,7 @@
   ],
   "alle": [
     "altenheim",
+    "anzeigepflicht",
     "aufgabenkreis",
     "betreuerhaftung",
     "betreuervergütung-2019",
@@ -5162,7 +5153,6 @@
   ],
   "vulnerabilität": [
     "altenheim",
-    "anzeigepflicht",
     "arztzeugnis",
     "begleitforschung",
     "beratung",
@@ -5761,6 +5751,8 @@
     "angehörigenvertretungsrecht",
     "anhörung",
     "anhörung",
+    "anzeigepflicht",
+    "anzeigepflicht",
     "aufhebung-der-betreuung",
     "aufhebung-der-betreuung",
     "beaufsichtigung",
@@ -5831,7 +5823,6 @@
   ],
   "deutschen": [
     "amtsermittlungspflicht",
-    "anzeigepflicht",
     "assistenzleistungen",
     "ausbildung",
     "ausländer",
@@ -5975,7 +5966,6 @@
   ],
   "beamte": [
     "amtspflichtverletzung",
-    "anzeigepflicht",
     "anzeigepflicht",
     "beamte-als-betreuer",
     "behördenbetreuer",
@@ -6675,7 +6665,6 @@
   ],
   "deren": [
     "angehörigenvertretungsrecht",
-    "anzeigepflicht",
     "freibetrag",
     "geheimhaltungspflicht"
   ],
@@ -6814,6 +6803,7 @@
   "genehmigungspflicht": [
     "angehörigenvertretungsrecht",
     "anlagegeld",
+    "anzeigepflicht",
     "beamte-als-betreuer",
     "geldanlage",
     "genehmigung-der-heilbehandlung",
@@ -6859,7 +6849,6 @@
   "betreuungsgericht": [
     "angehörigenvertretungsrecht",
     "anregung-der-betreuerbestellung",
-    "anzeigepflicht",
     "auskunftspflicht",
     "auskunftspflicht",
     "beaufsichtigung",
@@ -8063,135 +8052,158 @@
   "anzuzeigen": [
     "anzeigepflicht"
   ],
-  "bestellt": [
+  "berufsbetreuer": [
     "anzeigepflicht",
-    "aufwandspauschale",
-    "bestattung",
-    "betreuerbestellung",
-    "betreuerbestellung",
-    "betreuerbestellung",
-    "betreuerbestellung",
+    "aufwendungsersatz",
+    "aufwendungsersatz",
+    "bvfb",
+    "beamte-als-betreuer",
+    "berufsbetreuer",
+    "berufsbetreuer",
+    "berufsbetreuer",
+    "berufsbetreuer",
+    "berufsbetreuer",
+    "berufsbetreuer",
+    "berufsbetreuer",
+    "berufsbetreuer",
+    "berufsbetreuer",
+    "berufsbetreuer",
+    "berufsbetreuer",
+    "berufsbetreuer",
+    "berufsbetreuer",
+    "bestellung-mehrerer-betreuer",
+    "betreuertest",
+    "betreuervergütung",
+    "betreuervergütung",
+    "betreuervergütung",
     "betreuerwechsel",
-    "betreuungsbehörde",
-    "betreuungsverein",
+    "betreuungsplan",
     "betreuungszahlen",
-    "sterilisation",
-    "sterilisationsbetreuer",
-    "sterilisationsbetreuer",
-    "sterilisationsbetreuer",
-    "vereinsbetreuer",
-    "verfahrenspfleger",
-    "verhinderungsbetreuer",
-    "wohnungsangelegenheiten"
-  ],
-  "besorgung": [
-    "anzeigepflicht"
-  ],
-  "unternehmer": [
-    "anzeigepflicht"
-  ],
-  "müssen": [
-    "anzeigepflicht",
-    "anzeigepflicht",
-    "arbeitsvertrag",
-    "auskunftspflicht",
-    "gerichtskosten",
-    "krankenversicherung",
-    "nutzungspflicht",
-    "nutzungspflicht",
-    "unterbringungsähnliche-maßnahme",
-    "vorsorgevollmacht---vertiefte-infos"
-  ],
-  "unfälle": [
-    "anzeigepflicht"
-  ],
-  "versicherten": [
-    "anzeigepflicht",
-    "arztzeugnis",
-    "digitale-barrierefreiheit",
-    "elektronische-patientenakte",
-    "gesundheitsdatennutzungsgesetz",
-    "neu",
-    "rechtsverkehr-in-deutschland",
-    "rente",
-    "unfallversicherung",
-    "zugriffsrecht",
-    "zugriffsrecht"
-  ],
-  "arbeitgeber": [
-    "anzeigepflicht",
-    "arbeitsvertrag",
-    "arbeitsvertrag",
-    "diskriminierungsverbot",
-    "haftpflichtversicherung"
-  ],
-  "jahresdurchschnittlich": [
-    "anzeigepflicht"
-  ],
-  "monatlich": [
-    "anzeigepflicht"
-  ],
-  "mindestens": [
-    "anzeigepflicht",
-    "medikationsplan",
-    "registrierung"
-  ],
-  "anzeige": [
-    "anzeigepflicht",
-    "personalausweis"
-  ],
-  "straftat": [
-    "anzeigepflicht"
-  ],
-  "empfangsberechtigten": [
-    "anzeigepflicht"
-  ],
-  "unverzüglich": [
-    "anzeigepflicht"
-  ],
-  "verlorene": [
-    "anzeigepflicht",
-    "finanzamt"
-  ],
-  "sache": [
-    "anzeigepflicht",
-    "ehefähigkeit",
-    "ordre-public",
-    "ordre-public"
-  ],
-  "mietsache": [
-    "anzeigepflicht"
-  ],
-  "mieter": [
-    "anzeigepflicht",
-    "wohnungsangelegenheiten"
-  ],
-  "vermieter": [
-    "anzeigepflicht",
-    "betreutes-wohnen",
-    "wohnungsangelegenheiten",
-    "wohnungsangelegenheiten"
-  ],
-  "mieterin": [
-    "anzeigepflicht",
-    "wohnungsangelegenheiten"
-  ],
-  "erwerb": [
-    "anzeigepflicht"
-  ],
-  "schusswaffe": [
-    "anzeigepflicht"
-  ],
-  "munition": [
-    "anzeigepflicht"
-  ],
-  "sollen": [
-    "anzeigepflicht",
+    "bundesverband-der-berufsbetreuer",
+    "bundesverband-der-berufsbetreuer",
+    "bundesverband-freier-berufsbetreuer",
+    "bundesverband-freier-berufsbetreuer",
     "elektronisches-gerichts--und-verwaltungspostfach",
-    "kindschaftsrecht",
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "finanzamt",
+    "haftpflichtversicherung",
+    "haftpflichtversicherung",
+    "haftpflichtversicherung",
+    "hauptseite",
+    "kontrollbetreuer",
+    "link-liste",
+    "maßregeln-der-besserung-und-sicherung",
+    "mitteilungspflicht",
     "neu",
-    "selbstbestimmung",
-    "wahlrecht"
+    "prozessführung",
+    "rechtsanwalt",
+    "rechtsanwalt",
+    "rechtsanwalt",
+    "registrierung",
+    "sachkundenachweis",
+    "sachkundenachweis",
+    "software",
+    "sterilisationsbetreuer",
+    "unfallversicherung",
+    "unfallversicherung",
+    "verband-freiberuflicher-betreuer",
+    "verhinderungsbetreuer",
+    "zeitschrift-für-professionelle-betreuungsarbeit",
+    "zweites-betreuungsrechtsänderungsgesetz"
+  ],
+  "inkl": [
+    "anzeigepflicht",
+    "betreuervergütung",
+    "betreuervergütung-2019"
+  ],
+  "vereinsbetreuer": [
+    "anzeigepflicht",
+    "berufsbetreuer",
+    "betreuerbestellung",
+    "betreuervergütung",
+    "betreuungsverein",
+    "haftpflichtversicherung",
+    "vereinsbetreuer",
+    "vereinsbetreuer",
+    "vereinsbetreuer",
+    "vereinsbetreuer"
+  ],
+  "haben": [
+    "anzeigepflicht",
+    "aufhebung-der-betreuung",
+    "berufsbetreuer",
+    "betreuer-(ehrenamt)",
+    "betreuerpflichten",
+    "betreuervorschlag",
+    "betreutes-wohnen",
+    "datenschutz",
+    "globales-nachhaltigkeitsziel-10",
+    "hauptseite",
+    "heilbehandlung",
+    "informationspflicht",
+    "medizinische-begriffe",
+    "online-lexikon-betreuungsrecht:datenschutz",
+    "online-lexikon-betreuungsrecht:datenschutz",
+    "psychisch-kranken-gesetz",
+    "rechtsmittel",
+    "registrierung",
+    "schlussrechnungslegung",
+    "sterbehilfe",
+    "unterstützungspflicht"
+  ],
+  "btog": [
+    "anzeigepflicht",
+    "beglaubigung-durch-betreuungsbehörde",
+    "behördenbetreuer",
+    "betreuer-(ehrenamt)",
+    "betreuervorschlag",
+    "betreuungsbehörde",
+    "betreuungsbehörde",
+    "betreuungsbehördengesetz",
+    "betreuungsgerichtshilfe",
+    "betreuungsgerichtshilfe",
+    "betreuungsorganisationsgesetz",
+    "betreuungsorganisationsgesetz",
+    "datenschutz",
+    "datenschutz",
+    "gesetzestexte",
+    "informationspflicht",
+    "mitteilungspflicht",
+    "querschnittsaufgaben",
+    "registrierung",
+    "registrierung",
+    "registrierung",
+    "registrierung",
+    "sachkundenachweis"
+  ],
+  "mitzuteilen": [
+    "anzeigepflicht",
+    "mitteilungspflicht"
+  ],
+  "registrierung": [
+    "anzeigepflicht",
+    "berufsbetreuer",
+    "berufsbetreuer",
+    "berufszulassung",
+    "betreuerregistrierungsverordnung",
+    "betreuerregistrierungsverordnung",
+    "betreuerwechsel",
+    "betreuungsorganisationsgesetz",
+    "betreuungsorganisationsgesetz",
+    "betreuungsorganisationsgesetz",
+    "betreuungsrechtsreform",
+    "organspende",
+    "rechtspfleger",
+    "registrierung",
+    "registrierung",
+    "registrierung",
+    "registrierung",
+    "registrierung",
+    "registrierung",
+    "sachkundelehrgang",
+    "sachkundenachweis",
+    "vorsorgeregister",
+    "vorsorgeregister"
   ],
   "regel": [
     "anzeigepflicht",
@@ -8200,6 +8212,18 @@
     "neu",
     "testierfähigkeit",
     "zwangsvollstreckung"
+  ],
+  "genehmigungspflichten": [
+    "anzeigepflicht",
+    "bestattungsvertrag",
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "genehmigungen",
+    "genehmigungen-von-a-bis-z",
+    "persönliche-betreuung",
+    "vollmachtswiderruf",
+    "vormundschaftsgericht",
+    "wohnungsauflösung",
+    "zugangsrecht"
   ],
   "mitteilungspflicht": [
     "anzeigepflicht",
@@ -8295,9 +8319,25 @@
     "sterbehilfe",
     "unterstützte-kommunikation"
   ],
+  "arbeitgeber": [
+    "arbeitsvertrag",
+    "arbeitsvertrag",
+    "diskriminierungsverbot",
+    "haftpflichtversicherung"
+  ],
   "arbeitnehmer": [
     "arbeitsvertrag",
     "arbeitsvertrag"
+  ],
+  "müssen": [
+    "arbeitsvertrag",
+    "auskunftspflicht",
+    "gerichtskosten",
+    "krankenversicherung",
+    "nutzungspflicht",
+    "nutzungspflicht",
+    "unterbringungsähnliche-maßnahme",
+    "vorsorgevollmacht---vertiefte-infos"
   ],
   "schriftform": [
     "arbeitsvertrag",
@@ -8505,7 +8545,6 @@
     "arztzeugnis",
     "begutachtung",
     "betreuervorschlag",
-    "freibetrag",
     "genehmigung-der-heilbehandlung",
     "gutachten",
     "mdk-gutachten",
@@ -8515,6 +8554,18 @@
   ],
   "schriftliche": [
     "arztzeugnis"
+  ],
+  "versicherten": [
+    "arztzeugnis",
+    "digitale-barrierefreiheit",
+    "elektronische-patientenakte",
+    "gesundheitsdatennutzungsgesetz",
+    "neu",
+    "rechtsverkehr-in-deutschland",
+    "rente",
+    "unfallversicherung",
+    "zugriffsrecht",
+    "zugriffsrecht"
   ],
   "daten": [
     "arztzeugnis",
@@ -9280,28 +9331,6 @@
     "heilbehandlung",
     "vermögensverzeichnis"
   ],
-  "haben": [
-    "aufhebung-der-betreuung",
-    "berufsbetreuer",
-    "betreuer-(ehrenamt)",
-    "betreuerpflichten",
-    "betreuervorschlag",
-    "betreutes-wohnen",
-    "datenschutz",
-    "globales-nachhaltigkeitsziel-10",
-    "hauptseite",
-    "heilbehandlung",
-    "informationspflicht",
-    "medizinische-begriffe",
-    "online-lexikon-betreuungsrecht:datenschutz",
-    "online-lexikon-betreuungsrecht:datenschutz",
-    "psychisch-kranken-gesetz",
-    "rechtsmittel",
-    "registrierung",
-    "schlussrechnungslegung",
-    "sterbehilfe",
-    "unterstützungspflicht"
-  ],
   "gleiche": [
     "aufhebung-der-betreuung"
   ],
@@ -9585,6 +9614,26 @@
   "voller": [
     "aufwandspauschale"
   ],
+  "bestellt": [
+    "aufwandspauschale",
+    "bestattung",
+    "betreuerbestellung",
+    "betreuerbestellung",
+    "betreuerbestellung",
+    "betreuerbestellung",
+    "betreuerwechsel",
+    "betreuungsbehörde",
+    "betreuungsverein",
+    "betreuungszahlen",
+    "sterilisation",
+    "sterilisationsbetreuer",
+    "sterilisationsbetreuer",
+    "sterilisationsbetreuer",
+    "vereinsbetreuer",
+    "verfahrenspfleger",
+    "verhinderungsbetreuer",
+    "wohnungsangelegenheiten"
+  ],
   "koblenz": [
     "aufwandspauschale"
   ],
@@ -9650,64 +9699,6 @@
     "wahlrecht",
     "zweites-betreuungsrechtsänderungsgesetz"
   ],
-  "berufsbetreuer": [
-    "aufwendungsersatz",
-    "aufwendungsersatz",
-    "bvfb",
-    "beamte-als-betreuer",
-    "berufsbetreuer",
-    "berufsbetreuer",
-    "berufsbetreuer",
-    "berufsbetreuer",
-    "berufsbetreuer",
-    "berufsbetreuer",
-    "berufsbetreuer",
-    "berufsbetreuer",
-    "berufsbetreuer",
-    "berufsbetreuer",
-    "berufsbetreuer",
-    "berufsbetreuer",
-    "berufsbetreuer",
-    "bestellung-mehrerer-betreuer",
-    "betreuertest",
-    "betreuervergütung",
-    "betreuervergütung",
-    "betreuervergütung",
-    "betreuerwechsel",
-    "betreuungsplan",
-    "betreuungszahlen",
-    "bundesverband-der-berufsbetreuer",
-    "bundesverband-der-berufsbetreuer",
-    "bundesverband-freier-berufsbetreuer",
-    "bundesverband-freier-berufsbetreuer",
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "finanzamt",
-    "haftpflichtversicherung",
-    "haftpflichtversicherung",
-    "haftpflichtversicherung",
-    "hauptseite",
-    "kontrollbetreuer",
-    "link-liste",
-    "maßregeln-der-besserung-und-sicherung",
-    "mitteilungspflicht",
-    "neu",
-    "prozessführung",
-    "rechtsanwalt",
-    "rechtsanwalt",
-    "rechtsanwalt",
-    "registrierung",
-    "sachkundenachweis",
-    "sachkundenachweis",
-    "software",
-    "sterilisationsbetreuer",
-    "unfallversicherung",
-    "unfallversicherung",
-    "verband-freiberuflicher-betreuer",
-    "verhinderungsbetreuer",
-    "zeitschrift-für-professionelle-betreuungsarbeit",
-    "zweites-betreuungsrechtsänderungsgesetz"
-  ],
   "ersatz": [
     "aufwendungsersatz",
     "gesetzestexte"
@@ -9766,7 +9757,6 @@
     "bestattungsvertrag",
     "freibetrag",
     "freibetrag",
-    "grundstück",
     "grundstück",
     "mahnverfahren",
     "mittellosigkeit",
@@ -11095,30 +11085,6 @@
     "beglaubigung-durch-betreuungsbehörde",
     "vaterschaftsanerkennung"
   ],
-  "btog": [
-    "beglaubigung-durch-betreuungsbehörde",
-    "behördenbetreuer",
-    "betreuer-(ehrenamt)",
-    "betreuervorschlag",
-    "betreuungsbehörde",
-    "betreuungsbehörde",
-    "betreuungsbehördengesetz",
-    "betreuungsgerichtshilfe",
-    "betreuungsgerichtshilfe",
-    "betreuungsorganisationsgesetz",
-    "betreuungsorganisationsgesetz",
-    "datenschutz",
-    "datenschutz",
-    "gesetzestexte",
-    "informationspflicht",
-    "mitteilungspflicht",
-    "querschnittsaufgaben",
-    "registrierung",
-    "registrierung",
-    "registrierung",
-    "registrierung",
-    "sachkundenachweis"
-  ],
   "urkundspersonen": [
     "beglaubigung-durch-betreuungsbehörde"
   ],
@@ -11985,41 +11951,6 @@
     "datenschutz",
     "registrierung"
   ],
-  "vereinsbetreuer": [
-    "berufsbetreuer",
-    "betreuerbestellung",
-    "betreuervergütung",
-    "betreuungsverein",
-    "haftpflichtversicherung",
-    "vereinsbetreuer",
-    "vereinsbetreuer",
-    "vereinsbetreuer",
-    "vereinsbetreuer"
-  ],
-  "registrierung": [
-    "berufsbetreuer",
-    "berufsbetreuer",
-    "berufszulassung",
-    "betreuerregistrierungsverordnung",
-    "betreuerregistrierungsverordnung",
-    "betreuerwechsel",
-    "betreuungsorganisationsgesetz",
-    "betreuungsorganisationsgesetz",
-    "betreuungsorganisationsgesetz",
-    "betreuungsrechtsreform",
-    "organspende",
-    "rechtspfleger",
-    "registrierung",
-    "registrierung",
-    "registrierung",
-    "registrierung",
-    "registrierung",
-    "registrierung",
-    "sachkundelehrgang",
-    "sachkundenachweis",
-    "vorsorgeregister",
-    "vorsorgeregister"
-  ],
   "selbstständige": [
     "berufsbetreuer"
   ],
@@ -12338,6 +12269,7 @@
   "freibetrag": [
     "bestattung",
     "freibetrag",
+    "freibetrag",
     "mittellosigkeit",
     "regress-der-staatskasse",
     "schonvermögen"
@@ -12400,17 +12332,6 @@
   ],
   "betrag": [
     "bestattungsvertrag"
-  ],
-  "genehmigungspflichten": [
-    "bestattungsvertrag",
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "genehmigungen",
-    "genehmigungen-von-a-bis-z",
-    "persönliche-betreuung",
-    "vollmachtswiderruf",
-    "vormundschaftsgericht",
-    "wohnungsauflösung",
-    "zugangsrecht"
   ],
   "eulberg": [
     "bestattungsvertrag",
@@ -13359,6 +13280,7 @@
     "betreuerwechsel",
     "betreutes-wohnen",
     "gesetzestexte",
+    "grundstück",
     "kontrollbetreuer",
     "sterilisationsbetreuer",
     "stundensatz",
@@ -13542,10 +13464,6 @@
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "krankenversicherung"
-  ],
-  "inkl": [
-    "betreuervergütung",
-    "betreuervergütung-2019"
   ],
   "inflationszuschlag": [
     "betreuervergütung",
@@ -13989,6 +13907,11 @@
   ],
   "dienstverträge": [
     "betreutes-wohnen"
+  ],
+  "vermieter": [
+    "betreutes-wohnen",
+    "wohnungsangelegenheiten",
+    "wohnungsangelegenheiten"
   ],
   "richtige": [
     "betreutes-wohnen"
@@ -16101,6 +16024,11 @@
     "ehefähigkeit",
     "freier-wille"
   ],
+  "sache": [
+    "ehefähigkeit",
+    "ordre-public",
+    "ordre-public"
+  ],
   "eherecht": [
     "ehefähigkeit",
     "eherecht",
@@ -16754,6 +16682,13 @@
   "beschwerden": [
     "elektronisches-gerichts--und-verwaltungspostfach"
   ],
+  "sollen": [
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "kindschaftsrecht",
+    "neu",
+    "selbstbestimmung",
+    "wahlrecht"
+  ],
   "gerichtsakten": [
     "elektronisches-gerichts--und-verwaltungspostfach"
   ],
@@ -17242,6 +17177,9 @@
     "finanzamt"
   ],
   "steuer": [
+    "finanzamt"
+  ],
+  "verlorene": [
     "finanzamt"
   ],
   "identifikationsnummer": [
@@ -19718,6 +19656,10 @@
   "gleichzeitig": [
     "medikationsplan"
   ],
+  "mindestens": [
+    "medikationsplan",
+    "registrierung"
+  ],
   "zurverfügungstellung": [
     "medikationsplan"
   ],
@@ -19803,9 +19745,6 @@
   "stammbehörde": [
     "mitteilungspflicht",
     "sachkundenachweis"
-  ],
-  "mitzuteilen": [
-    "mitteilungspflicht"
   ],
   "anschluss": [
     "mittellosigkeit"
@@ -20550,6 +20489,9 @@
     "personalausweis"
   ],
   "foto": [
+    "personalausweis"
+  ],
+  "anzeige": [
     "personalausweis"
   ],
   "alternative": [
@@ -23092,6 +23034,12 @@
     "wohnungsangelegenheiten"
   ],
   "abmahnung": [
+    "wohnungsangelegenheiten"
+  ],
+  "mieter": [
+    "wohnungsangelegenheiten"
+  ],
+  "mieterin": [
     "wohnungsangelegenheiten"
   ],
   "tragen": [
