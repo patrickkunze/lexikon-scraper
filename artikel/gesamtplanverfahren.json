@@ -1,7 +1,7 @@
 {
   "id": "gesamtplanverfahren",
   "titel": "Gesamtplanverfahren",
-  "inhalt": "Das sogenannte Gesamtplanverfahren ist in § 117 SGB IX sozialgesetzlich geregelt.\n\nSiehe auch\n [Eingliederungshilfe](eingliederungshilfe), [Assistenzleistungen](assistenzleistungen), [Vertrauensperson](vertrauensperson), [Persönliches Budget](persönliches-budget)\n [Betreuungsplan](betreuungsplan) (nicht mehr vorgeschrieben)\n [MDK-Gutachten](mdk-gutachten)\n [digitale Barrierefreiheit](digitale-barrierefreiheit), [Interoperabilität](interoperabilität)\n\n[Kategorie:Sozialrecht](kategorie:sozialrecht)",
+  "inhalt": "Das sogenannte Gesamtplanverfahren ist in § 117 SGB IX sozialgesetzlich geregelt.\n\nSiehe auch\n [Eingliederungshilfe](eingliederungshilfe), [Assistenzleistungen](assistenzleistungen), [Vertrauensperson](vertrauensperson), [Persönliches Budget](persönliches-budget)\n [Betreuungsplan](betreuungsplan) (nicht mehr vorgeschrieben)\n [MDK-Gutachten](mdk-gutachten)\n [digitale Barrierefreiheit](digitale-barrierefreiheit), [Interoperabilität](interoperabilität)\n [Betreuungsarbeitsgemeinschaft](betreuungsarbeitsgemeinschaft)\n\n[Kategorie:Sozialrecht](kategorie:sozialrecht)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -15,7 +15,7 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Eingliederungshilfe, Assistenzleistungen, Vertrauensperson, Persönliches Budget\n Betreuungsplan (nicht mehr vorgeschrieben)\n MDK-Gutachten\n digitale Barrierefreiheit, Interoperabilität\n\nKategorie:Sozialrecht",
+      "inhalt": "Eingliederungshilfe, Assistenzleistungen, Vertrauensperson, Persönliches Budget\n Betreuungsplan (nicht mehr vorgeschrieben)\n MDK-Gutachten\n digitale Barrierefreiheit, Interoperabilität\n Betreuungsarbeitsgemeinschaft\n\nKategorie:Sozialrecht",
       "tags": [
         "eingliederungshilfe",
         "assistenzleistungen",
@@ -27,14 +27,15 @@
   ],
   "zusammenfassung": "Das sogenannte Gesamtplanverfahren ist in § 117 SGB IX sozialgesetzlich geregelt.\n\nSiehe auch\n [Eingliederungshilfe](eingliederungshilfe), [Assistenzleistungen](assistenzleistungen), [Vertrauensperson](vertrauensperson), [Persönliches Budget](persönliches-budget)\n [Betreuungsplan](betreuungsplan) (n...",
   "verwandteArtikel": [
-    "mdk-gutachten",
     "eingliederungshilfe",
     "vertrauensperson",
+    "betreuungsarbeitsgemeinschaft",
     "digitale-barrierefreiheit",
-    "persönliches-budget",
     "kategorie:sozialrecht",
-    "betreuungsplan",
+    "assistenzleistungen",
+    "mdk-gutachten",
     "interoperabilität",
-    "assistenzleistungen"
+    "persönliches-budget",
+    "betreuungsplan"
   ]
 }

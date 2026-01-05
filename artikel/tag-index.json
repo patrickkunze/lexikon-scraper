@@ -794,6 +794,7 @@
     "ausländer",
     "ausschließlichkeitserklärung",
     "behindertenkonvention",
+    "betreuer-(ehrenamt)",
     "betreuungsorganisationsgesetz",
     "betreuungsverein",
     "betreuungsverein",
@@ -2242,6 +2243,7 @@
     "beglaubigung-durch-betreuungsbehörde",
     "berufsbetreuer",
     "bestattungsvertrag",
+    "betreuer-(ehrenamt)",
     "betreuerbestellung",
     "betreuerbestellung",
     "betreuerhaftung",
@@ -3746,6 +3748,7 @@
   "geschäfte": [
     "alltagsgeschäfte",
     "alltagsgeschäfte",
+    "betreuer-(ehrenamt)",
     "geschäftsfähigkeit"
   ],
   "keine": [
@@ -10028,6 +10031,7 @@
   ],
   "auftraggeber": [
     "auskunftspflicht",
+    "betreuer-(ehrenamt)",
     "unterstützungspflicht"
   ],
   "auskunft": [
@@ -10992,8 +10996,7 @@
     "geheimhaltungspflicht"
   ],
   "folgende": [
-    "befreiter-betreuer",
-    "registrierung"
+    "befreiter-betreuer"
   ],
   "abkömmling": [
     "befreiter-betreuer"
@@ -12506,6 +12509,10 @@
   ],
   "stadtverwaltung": [
     "betreuer-(ehrenamt)"
+  ],
+  "beauftragt": [
+    "betreuer-(ehrenamt)",
+    "delegation"
   ],
   "braucht": [
     "betreuer-(ehrenamt)"
@@ -15562,9 +15569,6 @@
   "minuten": [
     "datenschutz",
     "einwilligungsfähigkeit"
-  ],
-  "beauftragt": [
-    "delegation"
   ],
   "delegation": [
     "delegation",
@@ -19744,6 +19748,7 @@
   ],
   "stammbehörde": [
     "mitteilungspflicht",
+    "registrierung",
     "sachkundenachweis"
   ],
   "anschluss": [
