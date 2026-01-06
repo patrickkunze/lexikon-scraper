@@ -1,16 +1,17 @@
 {
   "id": "gesamtplanverfahren",
   "titel": "Gesamtplanverfahren",
-  "inhalt": "Das sogenannte Gesamtplanverfahren ist in § 117 SGB IX sozialgesetzlich geregelt.\n\nSiehe auch\n [Eingliederungshilfe](eingliederungshilfe), [Assistenzleistungen](assistenzleistungen), [Vertrauensperson](vertrauensperson), [Persönliches Budget](persönliches-budget)\n [Betreuungsplan](betreuungsplan) (nicht mehr vorgeschrieben)\n [MDK-Gutachten](mdk-gutachten)\n [digitale Barrierefreiheit](digitale-barrierefreiheit), [Interoperabilität](interoperabilität)\n [Betreuungsarbeitsgemeinschaft](betreuungsarbeitsgemeinschaft)\n\n[Kategorie:Sozialrecht](kategorie:sozialrecht)",
+  "inhalt": "Das sogenannte Gesamtplanverfahren ist in § 117 SGB IX sozialgesetzlich geregelt. Bei der sogenannten Gesamtplanung zur bestmöglichen Inklusion von Menschen mit Behinderung in die sie umgebende Gesellschaft in ihrer Wohnortgemeinde sollen die Leistungsberechtigten in allen Verfahrensschritten, beginnend mit der Beratung, beteiligt werden. Die Wünsche des Leistungsberechtigten zu Ziel und Art der [Eingliederungshilfe](eingliederungshilfe) werden [Dokumentationspflicht](dokumentationspflicht). Stets wird dabei transparent, trägerübergreifend, interdisziplinär, konsensorientiert, individuell, lebensweltbezogen, sozialraum- und zielorientiert zusammengearbeitet. \n\nBeteiligt werden am Verfahren auf Verlangen die [Vertrauensperson](vertrauensperson) des Leistungsberechtigten, die zuständige [Pflegeversicherung](pflegeversicherung), ggf. das zuständige [Sozialhilfe](sozialhilfe) sowie bei rechtlichem Betreuungsbedarf die zuständige [Betreuungsbehörde](betreuungsbehörde), diese aber nur mit Zustimmung des Leistungsberechtigten. Wurde schon ein [Betreuerbestellung](betreuerbestellung), dann sollte dieser auch an der Gesamtplankonferenz teilnehmen, wenn sein Betreuter zustimmt (vergleiche § 22 Abs. 4 SGB IX).\n\nSiehe auch\n [Eingliederungshilfe](eingliederungshilfe), [Assistenzleistungen](assistenzleistungen), [Vertrauensperson](vertrauensperson), [Persönliches Budget](persönliches-budget)\n [Betreuungsplan](betreuungsplan) (nicht mehr vorgeschrieben)\n [MDK-Gutachten](mdk-gutachten)\n [digitale Barrierefreiheit](digitale-barrierefreiheit), [Interoperabilität](interoperabilität)\n [Betreuungsarbeitsgemeinschaft](betreuungsarbeitsgemeinschaft)\n\n[Kategorie:Sozialrecht](kategorie:sozialrecht)",
   "struktur": [
     {
       "titel": "Einleitung",
-      "inhalt": "Das sogenannte Gesamtplanverfahren ist in § 117 SGB IX sozialgesetzlich geregelt.",
+      "inhalt": "Das sogenannte Gesamtplanverfahren ist in § 117 SGB IX sozialgesetzlich geregelt. Bei der sogenannten Gesamtplanung zur bestmöglichen Inklusion von Menschen mit Behinderung in die sie umgebende Gesellschaft in ihrer Wohnortgemeinde sollen die Leistungsberechtigten in allen Verfahrensschritten, beginnend mit der Beratung, beteiligt werden. Die Wünsche des Leistungsberechtigten zu Ziel und Art der Eingliederungsleistungen werden dokumentiert. Stets wird dabei transparent, trägerübergreifend, interdisziplinär, konsensorientiert, individuell, lebensweltbezogen, sozialraum- und zielorientiert zusammengearbeitet. \n\nBeteiligt werden am Verfahren auf Verlangen die Vertrauensperson des Leistungsberechtigten, die zuständige Pflegekasse, ggf. das zuständige Sozialamt bei Hilfe zur Pflege und bei Hilfe zum Lebensunterhalt sowie bei rechtlichem Betreuungsbedarf die zuständige Betreuungsbehörde, diese aber nur mit Zustimmung des Leistungsberechtigten. Wurde schon ein Betreuer bestellt, dann sollte dieser auch an der Gesamtplankonferenz teilnehmen, wenn sein Betreuter zustimmt (vergleiche § 22 Abs. 4 SGB IX).",
       "tags": [
-        "sogenannte",
-        "gesamtplanverfahren",
-        "sozialgesetzlich",
-        "geregelt"
+        "leistungsberechtigten",
+        "zuständige",
+        "beteiligt",
+        "hilfe",
+        "sogenannte"
       ]
     },
     {
@@ -25,17 +26,22 @@
       ]
     }
   ],
-  "zusammenfassung": "Das sogenannte Gesamtplanverfahren ist in § 117 SGB IX sozialgesetzlich geregelt.\n\nSiehe auch\n [Eingliederungshilfe](eingliederungshilfe), [Assistenzleistungen](assistenzleistungen), [Vertrauensperson](vertrauensperson), [Persönliches Budget](persönliches-budget)\n [Betreuungsplan](betreuungsplan) (n...",
+  "zusammenfassung": "Das sogenannte Gesamtplanverfahren ist in § 117 SGB IX sozialgesetzlich geregelt. Bei der sogenannten Gesamtplanung zur bestmöglichen Inklusion von Menschen mit Behinderung in die sie umgebende Gesellschaft in ihrer Wohnortgemeinde sollen die Leistungsberechtigten in allen Verfahrensschritten, begin...",
   "verwandteArtikel": [
+    "betreuungsarbeitsgemeinschaft",
+    "betreuungsbehörde",
+    "dokumentationspflicht",
+    "pflegeversicherung",
+    "betreuungsplan",
+    "betreuerbestellung",
+    "digitale-barrierefreiheit",
+    "sozialhilfe",
+    "assistenzleistungen",
+    "persönliches-budget",
+    "interoperabilität",
     "eingliederungshilfe",
     "vertrauensperson",
-    "betreuungsarbeitsgemeinschaft",
-    "digitale-barrierefreiheit",
     "kategorie:sozialrecht",
-    "assistenzleistungen",
-    "mdk-gutachten",
-    "interoperabilität",
-    "persönliches-budget",
-    "betreuungsplan"
+    "mdk-gutachten"
   ]
 }

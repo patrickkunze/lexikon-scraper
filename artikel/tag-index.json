@@ -895,7 +895,6 @@
   "geregelt": [
     "abschiebung",
     "aufwendungsersatz",
-    "gesamtplanverfahren",
     "mittellosigkeit",
     "sachverständigengutachten",
     "sachverständigengutachten",
@@ -8781,7 +8780,6 @@
     "assistenzleistungen",
     "besonderer-vertreter-im-verwaltungsverfahren",
     "betreuungsplan",
-    "gesamtplanverfahren",
     "persönliches-budget",
     "unterstützungspflicht"
   ],
@@ -11885,6 +11883,7 @@
   "hilfe": [
     "beratung",
     "betreuungsbehörde",
+    "gesamtplanverfahren",
     "rundfunkbeitrag",
     "sterbehilfe",
     "vorsorgevollmacht"
@@ -14611,6 +14610,7 @@
   ],
   "zuständige": [
     "betreuungsverfahren",
+    "gesamtplanverfahren",
     "haager-übereinkommen",
     "haager-übereinkommen",
     "rechtsprechung-zur-unterbringung",
@@ -16263,6 +16263,7 @@
   ],
   "leistungsberechtigten": [
     "eingliederungshilfe",
+    "gesamtplanverfahren",
     "wohn--und-betreuungsvertragsgesetz"
   ],
   "eutb": [
@@ -17923,7 +17924,7 @@
   "streitigen": [
     "gerichtskosten"
   ],
-  "sozialgesetzlich": [
+  "beteiligt": [
     "gesamtplanverfahren"
   ],
   "vertrauensperson": [
@@ -21364,10 +21365,11 @@
   "sozi": [
     "sozialhilfe"
   ],
-  "rungs": [
+  "trag": [
     "sozialhilfe"
   ],
-  "trag": [
+  "rung": [
+    "sozialhilfe",
     "sozialhilfe"
   ],
   "kontoauszügen": [
@@ -21395,9 +21397,6 @@
     "sozialhilfe"
   ],
   "hilfeempfänger": [
-    "sozialhilfe"
-  ],
-  "rung": [
     "sozialhilfe"
   ],
   "neuigkeiten": [
