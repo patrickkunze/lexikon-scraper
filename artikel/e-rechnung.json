@@ -1,10 +1,10 @@
 {
   "id": "e-rechnung",
   "titel": "E-Rechnung",
-  "inhalt": "e-Rechnung\nDie e-Rechnung als ein Anwendungsbereich der Telematikinfrastruktur in Deutschland und in der Europäischen Union soll der Verbesserung der Wirtschaftlichkeit, der Qualität und der Transparenz der gesundheitlichen Versorgung der Bevölkerung dienen. Die elektronische Rechnung ist in § 359a SGB V anfänglich [Gesetzgebung](gesetzgebung), bis die erforderlichen Dienste und Komponenten in der Telematikinfrastruktur ausreichend und [IT-Sicherheit](it-sicherheit) zur Verfügung stehen.\n\nDefinition e-Rechnung\nEine Rechnung, die in einem strukturierten elektronischen Format erstellt worden ist, gilt in Deutschland als e-Rechnung. Im marktwirtschaftlichen System müssen mehrere Formate zur Auswahl für Kunden und zur automatisierten Verarbeitung bereitstehen, damit kein Monopol (= beherrschende Marktstellung) entsteht. Einfache pdf-Dateien gelten zukünftig nicht mehr als elektronische Rechnungen in diesem Sinne.\n\nBekannte e-Rechnungsformate sind in Deutschland das sogenannte ZUGFeRD (hybrides Datenformat aus einer pdf-Datei und einer eingebetteten XML-Datei) und die X-Rechnung (nur XML-Datei ohne bildliche Darstellung). Die Rechnungsdaten aus diesen e-Rechnungen können direkt in die [Software](software) importiert werden, da sie maschinenlesbar sind. Eine einheitliche Norm für die elektronische Rechnungsstellung innerhalb der Europäischen Union lieferte die EU-Richtlinie 2014/55/EU.\n\nSiehe auch\n [Rechnungslegung](rechnungslegung)\n [Schlussrechnung](schlussrechnung)\n [Vermögensverzeichnis](vermögensverzeichnis)\n [Software](software)\n [Nutzungspflicht](nutzungspflicht)\n [Medikationsplan](medikationsplan), [Arztzeugnis](arztzeugnis), [Heilbehandlung](heilbehandlung), [Sachverständigengutachten](sachverständigengutachten), [e-Rezept](e-rezept)\n [digitale Barrierefreiheit](digitale-barrierefreiheit), [Datenschutz](datenschutz), [IT-Sicherheit](it-sicherheit)\n [Girokonto](girokonto), [Bankvollmacht](bankvollmacht)\n [Zug-um-Zug-Leistung](zug-um-zug-leistung)\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)\n[Kategorie:Auswirkungen](kategorie:auswirkungen)",
+  "inhalt": "Allgemeines\nDie e-Rechnung als ein Anwendungsbereich der Telematikinfrastruktur in Deutschland und in der Europäischen Union soll der Verbesserung der Wirtschaftlichkeit, der Qualität und der Transparenz der gesundheitlichen Versorgung der Bevölkerung dienen. Die elektronische Rechnung ist in § 359a SGB V anfänglich [Gesetzgebung](gesetzgebung), bis die erforderlichen Dienste und Komponenten in der Telematikinfrastruktur ausreichend und [IT-Sicherheit](it-sicherheit) zur Verfügung stehen.\n\nDefinition e-Rechnung\nEine Rechnung, die in einem strukturierten elektronischen Format erstellt worden ist, gilt in Deutschland als e-Rechnung. Im marktwirtschaftlichen System müssen mehrere Formate zur Auswahl für Kunden und zur automatisierten Verarbeitung bereitstehen, damit kein Monopol (= beherrschende Marktstellung) entsteht. Einfache pdf-Dateien gelten zukünftig nicht mehr als elektronische Rechnungen in diesem Sinne.\n\nBekannte e-Rechnungsformate sind in Deutschland das sogenannte ZUGFeRD (hybrides Datenformat aus einer pdf-Datei und einer eingebetteten XML-Datei) und die X-Rechnung (nur XML-Datei ohne bildliche Darstellung). Die Rechnungsdaten aus diesen e-Rechnungen können direkt in die [Software](software) importiert werden, da sie maschinenlesbar sind. Eine einheitliche Norm für die elektronische Rechnungsstellung innerhalb der Europäischen Union lieferte die EU-Richtlinie 2014/55/EU.\n\nSiehe auch\n [Rechnungslegung](rechnungslegung), [Interoperabilität](interoperabilität)\n [Schlussrechnung](schlussrechnung)\n [Vermögensverzeichnis](vermögensverzeichnis)\n [Software](software)\n [Nutzungspflicht](nutzungspflicht)\n [Medikationsplan](medikationsplan), [Arztzeugnis](arztzeugnis), [Heilbehandlung](heilbehandlung), [Sachverständigengutachten](sachverständigengutachten), [e-Rezept](e-rezept)\n [digitale Barrierefreiheit](digitale-barrierefreiheit), [Datenschutz](datenschutz), [IT-Sicherheit](it-sicherheit)\n [Girokonto](girokonto), [Bankvollmacht](bankvollmacht)\n [Zug-um-Zug-Leistung](zug-um-zug-leistung)\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)\n[Kategorie:Auswirkungen](kategorie:auswirkungen)",
   "struktur": [
     {
-      "titel": "e-Rechnung",
+      "titel": "Allgemeines",
       "inhalt": "Die e-Rechnung als ein Anwendungsbereich der Telematikinfrastruktur in Deutschland und in der Europäischen Union soll der Verbesserung der Wirtschaftlichkeit, der Qualität und der Transparenz der gesundheitlichen Versorgung der Bevölkerung dienen. Die elektronische Rechnung ist in § 359a SGB V anfänglich gesetzlich geregelt, bis die erforderlichen Dienste und Komponenten in der Telematikinfrastruktur ausreichend und rechtssicher zur Verfügung stehen.",
       "tags": [
         "rechnung",
@@ -27,36 +27,37 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Rechnungslegung\n Schlussrechnung\n Vermögensverzeichnis\n Software\n Nutzungspflicht\n Medikationsplan, Arztzeugnis, Heilbehandlung, Sachverständigengutachten, e-Rezept\n digitale Barrierefreiheit, Datenschutz, IT-Sicherheit\n Girokonto, Bankvollmacht\n Zug-um-Zug-Leistung\n\nKategorie:Rechtsnormen\nKategorie:Auswirkungen",
+      "inhalt": "Rechnungslegung, Interoperabilität\n Schlussrechnung\n Vermögensverzeichnis\n Software\n Nutzungspflicht\n Medikationsplan, Arztzeugnis, Heilbehandlung, Sachverständigengutachten, e-Rezept\n digitale Barrierefreiheit, Datenschutz, IT-Sicherheit\n Girokonto, Bankvollmacht\n Zug-um-Zug-Leistung\n\nKategorie:Rechtsnormen\nKategorie:Auswirkungen",
       "tags": [
         "kategorie",
         "rechnungslegung",
+        "interoperabilität",
         "schlussrechnung",
-        "vermögensverzeichnis",
-        "software"
+        "vermögensverzeichnis"
       ]
     }
   ],
-  "zusammenfassung": "e-Rechnung\nDie e-Rechnung als ein Anwendungsbereich der Telematikinfrastruktur in Deutschland und in der Europäischen Union soll der Verbesserung der Wirtschaftlichkeit, der Qualität und der Transparenz der gesundheitlichen Versorgung der Bevölkerung dienen. Die elektronische Rechnung ist in § 359a ...",
+  "zusammenfassung": "Allgemeines\nDie e-Rechnung als ein Anwendungsbereich der Telematikinfrastruktur in Deutschland und in der Europäischen Union soll der Verbesserung der Wirtschaftlichkeit, der Qualität und der Transparenz der gesundheitlichen Versorgung der Bevölkerung dienen. Die elektronische Rechnung ist in § 359a...",
   "verwandteArtikel": [
-    "girokonto",
-    "it-sicherheit",
+    "e-rezept",
+    "interoperabilität",
+    "datenschutz",
+    "zug-um-zug-leistung",
+    "arztzeugnis",
     "rechnungslegung",
     "heilbehandlung",
     "vermögensverzeichnis",
-    "bankvollmacht",
-    "kategorie:auswirkungen",
-    "sachverständigengutachten",
-    "zug-um-zug-leistung",
-    "e-rezept",
-    "gesetzgebung",
-    "arztzeugnis",
-    "software",
-    "nutzungspflicht",
-    "datenschutz",
     "kategorie:rechtsnormen",
-    "digitale-barrierefreiheit",
     "schlussrechnung",
-    "medikationsplan"
+    "sachverständigengutachten",
+    "bankvollmacht",
+    "gesetzgebung",
+    "it-sicherheit",
+    "software",
+    "digitale-barrierefreiheit",
+    "medikationsplan",
+    "kategorie:auswirkungen",
+    "nutzungspflicht",
+    "girokonto"
   ]
 }

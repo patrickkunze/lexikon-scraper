@@ -1780,6 +1780,8 @@
     "prozessfähigkeit",
     "prozesspfleger",
     "rechtsverkehr-in-deutschland",
+    "rechtsverkehr-in-deutschland",
+    "rechtsverkehr-in-deutschland",
     "schweigepflicht",
     "schweigepflicht",
     "schwerbehindertenausweis",
@@ -2333,6 +2335,7 @@
     "rechtsmittel",
     "rechtsprechung-zur-anhörung",
     "rechtsprechung-zur-unterbringung",
+    "rechtsverkehr-in-deutschland",
     "registrierung",
     "regress-der-staatskasse",
     "rente",
@@ -3317,7 +3320,6 @@
     "betreuungssache",
     "betreuungsverfahren",
     "betreuungszahlen",
-    "bezirksrevisor",
     "datenschutz",
     "rechtspfleger",
     "rechtsprechung-zum-verfahrenspfleger",
@@ -5980,6 +5982,7 @@
     "it-sicherheit",
     "it-sicherheit",
     "informationspflicht",
+    "rechtsverkehr-in-deutschland",
     "sachkundelehrgang",
     "sozialpsychiatrischer-dienst",
     "zugriffsrecht"
@@ -6098,6 +6101,7 @@
     "aufgabenkreis",
     "betreuerausweis",
     "betreuungsgericht",
+    "bezirksrevisor",
     "einwilligungsvorbehalt",
     "ende-der-betreuung",
     "genehmigungen-von-a-bis-z",
@@ -7167,6 +7171,7 @@
   ],
   "gerichts": [
     "anhörung",
+    "bezirksrevisor",
     "ebo",
     "egvp",
     "personalausweis",
@@ -8478,6 +8483,7 @@
   ],
   "wikipedia": [
     "arbeitsvertrag",
+    "bezirksrevisor",
     "erbausschlagung",
     "erbschaft",
     "gesundheitliche-versorgungsplanung",
@@ -8714,6 +8720,7 @@
   "damit": [
     "assistenzleistungen",
     "ordre-public",
+    "rechtsverkehr-in-deutschland",
     "testierfähigkeit",
     "verbraucherstreitbeilegung",
     "vermögensverzeichnis"
@@ -9784,6 +9791,7 @@
     "betreuer-(ehrenamt)",
     "betreuungszahlen",
     "bezirksrevisor",
+    "bezirksrevisor",
     "freibetrag",
     "freibetrag",
     "mittellosigkeit",
@@ -9880,7 +9888,6 @@
     "ausbildung",
     "ausbildung",
     "beratung",
-    "bezirksrevisor",
     "heilbehandlung",
     "psychisch-kranken-gesetz"
   ],
@@ -10010,6 +10017,7 @@
   ],
   "link": [
     "ausbildung",
+    "bezirksrevisor",
     "broschüren",
     "broschüren",
     "spielwiese"
@@ -10720,7 +10728,6 @@
     "befreiter-betreuer",
     "betreuungsplan",
     "e-rechnung",
-    "eidesstattliche-versicherung",
     "gesetzestexte",
     "girokonto",
     "hamburger-mustergliederung",
@@ -12102,7 +12109,6 @@
   ],
   "software": [
     "berufsbetreuer",
-    "e-rechnung",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "formulare",
     "it-sicherheit",
@@ -12588,6 +12594,7 @@
   ],
   "nehmen": [
     "betreuer-als-erbe",
+    "rechtsverkehr-in-deutschland",
     "rente"
   ],
   "zuwendungen": [
@@ -13018,6 +13025,7 @@
   ],
   "einzelne": [
     "betreuerpflichten",
+    "rechtsverkehr-in-deutschland",
     "vermögenssorge"
   ],
   "rechtsgrundlagen": [
@@ -14928,6 +14936,21 @@
   "berufsausbildung": [
     "bezirksrevisor"
   ],
+  "elektronisches": [
+    "bezirksrevisor",
+    "ebo",
+    "egvp",
+    "genehmigungen-von-a-bis-z",
+    "personalausweis",
+    "querschnittsaufgaben",
+    "rechnungslegung",
+    "sachkundenachweis",
+    "software",
+    "zugriffsrecht"
+  ],
+  "revisor": [
+    "bezirksrevisor"
+  ],
   "ansehen": [
     "brandenburg",
     "bremen"
@@ -15908,6 +15931,7 @@
   "rechnung": [
     "e-rechnung",
     "e-rechnung",
+    "eidesstattliche-versicherung",
     "gerichtskosten",
     "girokonto",
     "interoperabilität"
@@ -15921,6 +15945,13 @@
   ],
   "rechnungen": [
     "e-rechnung"
+  ],
+  "interoperabilität": [
+    "e-rechnung",
+    "interoperabilität",
+    "interoperabilität",
+    "interoperabilität",
+    "krankenversicherung"
   ],
   "schlussrechnung": [
     "e-rechnung",
@@ -15942,17 +15973,6 @@
   "arzneimittel": [
     "e-rezept",
     "heilbehandlung"
-  ],
-  "elektronisches": [
-    "ebo",
-    "egvp",
-    "genehmigungen-von-a-bis-z",
-    "personalausweis",
-    "querschnittsaufgaben",
-    "rechnungslegung",
-    "sachkundenachweis",
-    "software",
-    "zugriffsrecht"
   ],
   "verwaltungspostfach": [
     "ebo",
@@ -16593,7 +16613,8 @@
     "einwilligungsvorbehalt"
   ],
   "rechtsfähigkeit": [
-    "einwilligungsvorbehalt"
+    "einwilligungsvorbehalt",
+    "rechtsverkehr-in-deutschland"
   ],
   "minderjährige": [
     "einwilligungsvorbehalt",
@@ -17944,7 +17965,8 @@
   ],
   "willenserklärungen": [
     "geschäftsfähigkeit",
-    "geschäftsfähigkeit"
+    "geschäftsfähigkeit",
+    "rechtsverkehr-in-deutschland"
   ],
   "unwirksam": [
     "geschäftsfähigkeit",
@@ -17962,6 +17984,7 @@
   ],
   "beispiel": [
     "geschäftsfähigkeit",
+    "rechtsverkehr-in-deutschland",
     "strafprozess"
   ],
   "einseitige": [
@@ -19115,12 +19138,6 @@
   ],
   "menschenrechte": [
     "intellektuelle-beeinträchtigung"
-  ],
-  "interoperabilität": [
-    "interoperabilität",
-    "interoperabilität",
-    "interoperabilität",
-    "krankenversicherung"
   ],
   "verliehen": [
     "interoperabilität"
@@ -20907,7 +20924,22 @@
     "strafverfahren",
     "waffenbesitz"
   ],
-  "rechtsfähige": [
+  "einzelner": [
+    "rechtsverkehr-in-deutschland"
+  ],
+  "rechtswirksam": [
+    "rechtsverkehr-in-deutschland"
+  ],
+  "rechtsfähig": [
+    "rechtsverkehr-in-deutschland"
+  ],
+  "solidarische": [
+    "rechtsverkehr-in-deutschland"
+  ],
+  "geregelte": [
+    "rechtsverkehr-in-deutschland"
+  ],
+  "besitzen": [
     "rechtsverkehr-in-deutschland"
   ],
   "identitäten": [
