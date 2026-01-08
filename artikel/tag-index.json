@@ -2429,6 +2429,7 @@
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuervergütung-2019",
+    "betreuervergütung-2026",
     "betreuervorschlag",
     "betreuerwechsel",
     "betreuerwechsel",
@@ -2579,6 +2580,7 @@
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuervergütung-2019",
+    "betreuervergütung-2026",
     "betreuervorschlag",
     "betreuerwechsel",
     "betreuerwechsel",
@@ -2682,6 +2684,7 @@
     "mittellosigkeit",
     "mittellosigkeit",
     "natürlicher-wille",
+    "neu",
     "neu",
     "neu",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
@@ -3547,6 +3550,7 @@
     "hauptseite",
     "mittellosigkeit",
     "neu",
+    "neu",
     "vormundschaftsgericht"
   ],
   "rechtsinstitut": [
@@ -4175,7 +4179,6 @@
   "alten": [
     "altenheim",
     "gesetzgebung",
-    "neu",
     "unterbringungsverfahren",
     "vulnerabilität",
     "wahlrecht"
@@ -5179,6 +5182,7 @@
     "altenheim",
     "ausländer",
     "behindertenkonvention",
+    "elektronischer-identitätsnachweis",
     "inklusionsbetrieb",
     "mdk-gutachten",
     "rundfunkbeitrag",
@@ -5848,7 +5852,6 @@
     "intellektuelle-beeinträchtigung",
     "interoperabilität",
     "mdk-gutachten",
-    "neu",
     "neu",
     "neu",
     "neu",
@@ -7456,7 +7459,6 @@
     "checkliste-vermögenssorge",
     "checkliste-wohnungsangelegenheiten",
     "eherecht-und-betreuung",
-    "eidesstattliche-versicherung",
     "erbausschlagung",
     "geldanlage",
     "grundstück",
@@ -8176,6 +8178,7 @@
     "gesetzestexte",
     "informationspflicht",
     "mitteilungspflicht",
+    "neu",
     "querschnittsaufgaben",
     "registrierung",
     "registrierung",
@@ -9491,8 +9494,8 @@
     "betreuungskosten-im-steuerrecht",
     "einverständniserklärung",
     "entschädigung",
-    "finanzamt",
-    "gesetzestexte"
+    "gesetzestexte",
+    "neu"
   ],
   "person": [
     "aufwandspauschale",
@@ -9751,6 +9754,7 @@
     "freibetrag",
     "inflationsausgleich",
     "mittellosigkeit",
+    "neu",
     "stundensatz",
     "vbvg-rechtsprechung",
     "vereinsbetreuer",
@@ -10252,6 +10256,7 @@
     "ausländer",
     "ausweisrecht",
     "betreuerausweis",
+    "eidesstattliche-versicherung",
     "elektronischer-identitätsnachweis",
     "elektronischer-identitätsnachweis",
     "grundrechte",
@@ -10315,7 +10320,6 @@
   ],
   "seither": [
     "ausschließlichkeitserklärung",
-    "neu",
     "vormundschaftsgericht"
   ],
   "musste": [
@@ -11398,7 +11402,8 @@
   ],
   "inkrafttreten": [
     "beglaubigung-durch-betreuungsbehörde",
-    "betreuungsrechtsreform"
+    "betreuungsrechtsreform",
+    "neu"
   ],
   "neuen": [
     "beglaubigung-durch-betreuungsbehörde",
@@ -12227,7 +12232,6 @@
     "bestattung",
     "betreuervergütung-2019",
     "betreuervergütung-2026",
-    "betreuervergütung-2026",
     "neu",
     "schlusstätigkeiten",
     "sterilisationsbetreuer"
@@ -12602,7 +12606,8 @@
   ],
   "betreuungsrechtes": [
     "betreuer-als-erbe",
-    "betreuungsgesetz"
+    "betreuungsgesetz",
+    "neu"
   ],
   "verfügungen": [
     "betreuer-als-erbe",
@@ -13226,7 +13231,8 @@
     "betreuervergütung",
     "betreuervergütung",
     "betreuervergütung-2019",
-    "betreuervergütung-2019"
+    "betreuervergütung-2019",
+    "neu"
   ],
   "hier": [
     "betreuervergütung",
@@ -13519,6 +13525,7 @@
   ],
   "erhöhung": [
     "betreuervergütung-2019",
+    "neu",
     "sozialhilfe"
   ],
   "statt": [
@@ -13711,10 +13718,6 @@
   ],
   "systematik": [
     "betreuervergütung-2026"
-  ],
-  "sonstige": [
-    "betreuervergütung-2026",
-    "mittellosigkeit"
   ],
   "ersten": [
     "betreuervergütung-2026",
@@ -14022,7 +14025,6 @@
     "betreuungsrechtsreform",
     "btog",
     "gesetzestexte",
-    "neu",
     "registrierung"
   ],
   "querschnittsaufgaben": [
@@ -14464,6 +14466,7 @@
   "änderungen": [
     "betreuungsrechtsreform",
     "kindschaftsrecht",
+    "neu",
     "rente",
     "zweites-betreuungsrechtsänderungsgesetz"
   ],
@@ -14931,6 +14934,7 @@
   ],
   "bezirksrevisor": [
     "bezirksrevisor",
+    "finanzamt",
     "rechtspfleger"
   ],
   "berufsausbildung": [
@@ -15342,7 +15346,6 @@
   ],
   "medikationsplan": [
     "checkliste-für-arztgespräche",
-    "elektronischer-identitätsnachweis",
     "patientenverfügung"
   ],
   "infektion": [
@@ -17418,6 +17421,8 @@
   ],
   "einführung": [
     "gegenbetreuer",
+    "neu",
+    "neu",
     "neu"
   ],
   "wichtige": [
@@ -19789,6 +19794,9 @@
     "mittellosigkeit",
     "wohnungsauflösung"
   ],
+  "sonstige": [
+    "mittellosigkeit"
+  ],
   "geschützte": [
     "mittellosigkeit"
   ],
@@ -19940,7 +19948,6 @@
     "neu",
     "neu",
     "neu",
-    "neu",
     "organspende"
   ],
   "bundesdatenschutzgesetz": [
@@ -20007,9 +20014,6 @@
     "neu",
     "neu"
   ],
-  "vormundschaftsgerichte": [
-    "neu"
-  ],
   "allgemeine": [
     "neu",
     "vorsorgevollmacht",
@@ -20043,6 +20047,12 @@
     "neu",
     "wahlrecht"
   ],
+  "treten": [
+    "neu"
+  ],
+  "vergütungserhöhung": [
+    "neu"
+  ],
   "volljährigen": [
     "neu",
     "zweites-betreuungsrechtsänderungsgesetz"
@@ -20072,7 +20082,7 @@
   "digitaler": [
     "neu"
   ],
-  "registrierungspflicht": [
+  "großen": [
     "neu"
   ],
   "zettelwirtschaft": [
@@ -20096,10 +20106,17 @@
   "irland": [
     "neu"
   ],
-  "prozessakten": [
+  "übergangszeitraum": [
     "neu"
   ],
-  "sozialgerichte": [
+  "bestandsbetreuer": [
+    "neu",
+    "sachkundenachweis"
+  ],
+  "nachreichung": [
+    "neu"
+  ],
+  "vereinfachung": [
     "neu"
   ],
   "pauschalvergütungsanträge": [
@@ -21102,9 +21119,6 @@
     "unterstützte-kommunikation",
     "unterstützte-kommunikation",
     "unterstützte-kommunikation"
-  ],
-  "bestandsbetreuer": [
-    "sachkundenachweis"
   ],
   "zeit": [
     "sachkundenachweis"

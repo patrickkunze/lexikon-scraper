@@ -1,7 +1,7 @@
 {
   "id": "bezirksrevisor",
   "titel": "Bezirksrevisor",
-  "inhalt": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), vertritt die Interessen der Justizkasse. Er kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerden im Interesse der [Regress der Staatskasse](regress-der-staatskasse) einlegen, § 304 FamFG. Diese müssen zwingend in elektronischer Form erfolgen, § 14b FamFG.\n\nBei einer Rechtsbeschwerde zum BGH muss auch die Staatskasse durch eine Person mit Befähigung zum Richteramt, also einen Volljuristen, vertreten werden, § 10 Abs. 4 FamFG.\n\nSiehe auch\n [Regress der Staatskasse](regress-der-staatskasse), [Auskunftspflicht](auskunftspflicht)\n [elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach), [e-Rechnung](e-rechnung), [Nutzungspflicht](nutzungspflicht)\n [Betreuungsverfahren](betreuungsverfahren), [Beaufsichtigung](beaufsichtigung)\n [Familienverfahrensgesetz](familienverfahrensgesetz)\n [Gerichtskosten](gerichtskosten), [Eidesstattliche Versicherung](eidesstattliche-versicherung)\n [Rechtsmittel](rechtsmittel)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n\nWeblinks\n Link zur Wikipedia-Seite „Der Revisor“, Uraufführung 1836 in Sankt Petersburg, Autor Nicolai Gogol (1809 – 1852)\n\n[Kategorie:Rechtsprechung](kategorie:rechtsprechung)\n[Kategorie:Betreuungsverfahren](kategorie:betreuungsverfahren)",
+  "inhalt": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), vertritt die Interessen der Justizkasse. Er kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerden im Interesse der [Regress der Staatskasse](regress-der-staatskasse) einlegen, § 304 FamFG. Diese müssen zwingend in elektronischer Form erfolgen, § 14b FamFG.\n\nBei einer Rechtsbeschwerde zum BGH muss auch die Staatskasse durch eine Person mit Befähigung zum Richteramt, also einen Volljuristen, vertreten werden, § 10 Abs. 4 FamFG.\n\nSiehe auch\n [Regress der Staatskasse](regress-der-staatskasse), [Auskunftspflicht](auskunftspflicht)\n [elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach), [e-Rechnung](e-rechnung), [Nutzungspflicht](nutzungspflicht)\n [Betreuungsverfahren](betreuungsverfahren), [Beaufsichtigung](beaufsichtigung)\n [Familienverfahrensgesetz](familienverfahrensgesetz)\n [Gerichtskosten](gerichtskosten), [Eidesstattliche Versicherung](eidesstattliche-versicherung)\n [Rechtsmittel](rechtsmittel), [Zwangsvollstreckung](zwangsvollstreckung)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n [Selbstverwaltung der deutschen Gemeinden](selbstverwaltung-der-deutschen-gemeinden)\n\nWeblinks\n Link zur Wikipedia-Seite „Der Revisor“, Uraufführung 1836 in Sankt Petersburg, Autor Nicolai Gogol (1809 – 1852)\n\n[Kategorie:Rechtsprechung](kategorie:rechtsprechung)\n[Kategorie:Betreuungsverfahren](kategorie:betreuungsverfahren)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -16,7 +16,7 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Regress der Staatskasse, Auskunftspflicht\n elektronisches Gerichts- und Verwaltungspostfach, e-Rechnung, Nutzungspflicht\n Betreuungsverfahren, Beaufsichtigung\n Familienverfahrensgesetz\n Gerichtskosten, Eidesstattliche Versicherung\n Rechtsmittel\n Rechtsverkehr in Deutschland",
+      "inhalt": "Regress der Staatskasse, Auskunftspflicht\n elektronisches Gerichts- und Verwaltungspostfach, e-Rechnung, Nutzungspflicht\n Betreuungsverfahren, Beaufsichtigung\n Familienverfahrensgesetz\n Gerichtskosten, Eidesstattliche Versicherung\n Rechtsmittel, Zwangsvollstreckung\n Rechtsverkehr in Deutschland\n Selbstverwaltung der deutschen Gemeinden",
       "tags": [
         "regress",
         "staatskasse",
@@ -40,20 +40,22 @@
   "zusammenfassung": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), vertritt die Interessen der Justizkasse. Er kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerden im Interesse der [Regress der Staatskasse](regress-der-staa...",
   "verwandteArtikel": [
     "kategorie:rechtsprechung",
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "e-rechnung",
     "rechtspfleger",
-    "rechtsverkehr-in-deutschland",
-    "gerichtsbeschluss",
-    "betreuungsverfahren",
-    "beaufsichtigung",
-    "nutzungspflicht",
-    "familienverfahrensgesetz",
-    "gerichtskosten",
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "elektronisches-gerichts--und-verwaltungspostfach",
     "auskunftspflicht",
-    "eidesstattliche-versicherung",
+    "beaufsichtigung",
+    "gerichtsbeschluss",
+    "zwangsvollstreckung",
     "rechtsmittel",
+    "regress-der-staatskasse",
     "kategorie:betreuungsverfahren",
-    "regress-der-staatskasse"
+    "eidesstattliche-versicherung",
+    "nutzungspflicht",
+    "rechtsverkehr-in-deutschland",
+    "gerichtskosten",
+    "e-rechnung",
+    "betreuungsverfahren",
+    "familienverfahrensgesetz"
   ]
 }
