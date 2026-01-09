@@ -7208,6 +7208,7 @@
     "geschäftsfähigkeit",
     "gesetzestexte",
     "girokonto",
+    "globales-nachhaltigkeitsziel-10",
     "prozesspfleger",
     "rechtsanwalt",
     "rechtsprechung",
@@ -8685,7 +8686,6 @@
     "assistenzleistungen",
     "e-rezept",
     "gesamtplanverfahren",
-    "globales-nachhaltigkeitsziel-10",
     "persönliches-budget",
     "schwerbehindertenausweis",
     "unterstützungspflicht",
@@ -9402,6 +9402,7 @@
     "schlussbericht",
     "schlussbericht",
     "schlussrechnungslegung",
+    "schlusstätigkeiten",
     "schlusstätigkeiten",
     "tod-des-betreuten"
   ],
@@ -11403,6 +11404,7 @@
   "inkrafttreten": [
     "beglaubigung-durch-betreuungsbehörde",
     "betreuungsrechtsreform",
+    "neu",
     "neu"
   ],
   "neuen": [
@@ -16821,6 +16823,7 @@
   "schlusstätigkeiten": [
     "ende-der-betreuung",
     "entlastungserklärung",
+    "schlussbericht",
     "schlussrechung",
     "tod-des-betreuten"
   ],
@@ -20030,6 +20033,15 @@
     "neu"
   ],
   "völker": [
+    "neu"
+  ],
+  "patientenrechtegesetzes": [
+    "neu"
+  ],
+  "einfügen": [
+    "neu"
+  ],
+  "behandlungsvertrags": [
     "neu"
   ],
   "gesetzesänderung": [
