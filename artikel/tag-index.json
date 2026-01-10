@@ -6467,6 +6467,7 @@
     "anhörung",
     "anhörung",
     "anhörung",
+    "betreuungsrichter",
     "betreuungsverfahren",
     "betreuungsverfahren",
     "betreuungsverfahren",
@@ -6502,8 +6503,7 @@
     "erforderlichkeit"
   ],
   "erörterungsgespräch": [
-    "anfangsgespräch",
-    "betreuungsrichter"
+    "anfangsgespräch"
   ],
   "artikel": [
     "angehörigenvertretungsrecht",
@@ -7047,7 +7047,6 @@
     "rechtsanwalt",
     "rente",
     "rente",
-    "schwerbehindertenausweis",
     "strafprozess",
     "strafprozess",
     "verfahrensfähigkeit",
@@ -8618,12 +8617,15 @@
     "genehmigung-der-heilbehandlung",
     "gesundheitliche-versorgungsplanung",
     "heilbehandlung",
+    "inklusionsbetrieb",
     "interoperabilität",
     "interoperabilität",
     "medikationsplan",
     "patientenverfügung",
     "postkontrolle",
-    "sachverständigengutachten"
+    "sachverständigengutachten",
+    "schwerbehindertenausweis",
+    "werkstatt-für-behinderte-menschen"
   ],
   "medizinische": [
     "arztzeugnis",
@@ -9096,7 +9098,6 @@
     "grundrechte",
     "rente",
     "schlusstätigkeiten",
-    "schwerbehindertenausweis",
     "tod-des-betreuers",
     "tod-des-betreuten",
     "unterstützungspflicht",
@@ -11030,7 +11031,8 @@
     "medikationsplan",
     "neu",
     "patientenverfügung",
-    "sachverständigengutachten"
+    "sachverständigengutachten",
+    "schwerbehindertenausweis"
   ],
   "zugriffsrecht": [
     "befreiter-betreuer",
@@ -14604,14 +14606,12 @@
     "betreuungsverein",
     "globales-nachhaltigkeitsziel-10",
     "haager-übereinkommen",
-    "inklusionsbetrieb",
     "konvention-über-die-rechte-behinderter-menschen",
     "selbstbestimmung",
     "un-brk",
     "un-behindertenrechtskonvention",
     "un-übereinkommen-über-die-rechte-von-menschen-mit-behinderungen",
-    "unterstützte-entscheidungsfindung",
-    "werkstatt-für-behinderte-menschen"
+    "unterstützte-entscheidungsfindung"
   ],
   "arbeitshilfe": [
     "betreuungsverein",
@@ -20790,7 +20790,7 @@
   "betreuungsrechtsänderungsgesetzes": [
     "psychisch-kranken-gesetz"
   ],
-  "erfolgte": [
+  "erfolgten": [
     "psychisch-kranken-gesetz"
   ],
   "betrogt": [

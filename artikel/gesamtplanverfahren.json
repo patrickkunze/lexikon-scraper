@@ -1,7 +1,7 @@
 {
   "id": "gesamtplanverfahren",
   "titel": "Gesamtplanverfahren",
-  "inhalt": "Das sogenannte Gesamtplanverfahren ist in § 117 SGB IX sozialgesetzlich geregelt. Bei der sogenannten Gesamtplanung zur bestmöglichen Inklusion von Menschen mit Behinderung in die sie umgebende Gesellschaft in ihrer Wohnortgemeinde sollen die Leistungsberechtigten in allen Verfahrensschritten, beginnend mit der Beratung, beteiligt werden. Die Wünsche des Leistungsberechtigten zu Ziel und Art der [Eingliederungshilfe](eingliederungshilfe) werden [Dokumentationspflicht](dokumentationspflicht). Stets wird dabei transparent, trägerübergreifend, interdisziplinär, konsensorientiert, individuell, lebensweltbezogen, sozialraum- und zielorientiert zusammengearbeitet. \n\nBeteiligt werden am Verfahren auf Verlangen die [Vertrauensperson](vertrauensperson) des Leistungsberechtigten, die zuständige [Pflegeversicherung](pflegeversicherung), ggf. das zuständige [Sozialhilfe](sozialhilfe) sowie bei rechtlichem Betreuungsbedarf die zuständige [Betreuungsbehörde](betreuungsbehörde), diese aber nur mit Zustimmung des Leistungsberechtigten. Wurde schon ein [Betreuerbestellung](betreuerbestellung), dann sollte dieser auch an der Gesamtplankonferenz teilnehmen, wenn sein Betreuter zustimmt (vergleiche § 22 Abs. 4 SGB IX).\n\nSiehe auch\n [Eingliederungshilfe](eingliederungshilfe), [Assistenzleistungen](assistenzleistungen), [Vertrauensperson](vertrauensperson), [Persönliches Budget](persönliches-budget)\n [Betreuungsplan](betreuungsplan) (nicht mehr vorgeschrieben)\n [MDK-Gutachten](mdk-gutachten)\n [digitale Barrierefreiheit](digitale-barrierefreiheit), [Interoperabilität](interoperabilität)\n [Betreuungsarbeitsgemeinschaft](betreuungsarbeitsgemeinschaft)\n\n[Kategorie:Sozialrecht](kategorie:sozialrecht)",
+  "inhalt": "Das sogenannte Gesamtplanverfahren ist in § 117 SGB IX sozialgesetzlich geregelt. Bei der sogenannten Gesamtplanung zur bestmöglichen Inklusion von Menschen mit Behinderung in die sie umgebende Gesellschaft in ihrer Wohnortgemeinde sollen die Leistungsberechtigten in allen Verfahrensschritten, beginnend mit der Beratung, beteiligt werden. Die Wünsche des Leistungsberechtigten zu Ziel und Art der [Eingliederungshilfe](eingliederungshilfe) werden [Dokumentationspflicht](dokumentationspflicht). Stets wird dabei transparent, trägerübergreifend, interdisziplinär, konsensorientiert, individuell, lebensweltbezogen, sozialraum- und zielorientiert zusammengearbeitet. \n\nBeteiligt werden am Verfahren auf Verlangen die [Vertrauensperson](vertrauensperson) des Leistungsberechtigten, die zuständige [Pflegeversicherung](pflegeversicherung), ggf. das zuständige [Sozialhilfe](sozialhilfe) sowie bei rechtlichem Betreuungsbedarf die zuständige [Betreuungsbehörde](betreuungsbehörde), diese aber nur mit Zustimmung des Leistungsberechtigten. Wurde schon ein [Betreuerbestellung](betreuerbestellung), dann sollte dieser auch an der Gesamtplankonferenz teilnehmen, wenn sein Betreuter zustimmt (vergleiche § 22 Abs. 4 SGB IX).\n\nSiehe auch\n [Eingliederungshilfe](eingliederungshilfe), [Assistenzleistungen](assistenzleistungen), [Vertrauensperson](vertrauensperson), [Persönliches Budget](persönliches-budget)\n [Betreuungsplan](betreuungsplan) (nicht mehr vorgeschrieben)\n [MDK-Gutachten](mdk-gutachten)\n [digitale Barrierefreiheit](digitale-barrierefreiheit), [Interoperabilität](interoperabilität)\n [Betreuungsarbeitsgemeinschaft](betreuungsarbeitsgemeinschaft)\n [Werkstatt für behinderte Menschen](werkstatt-für-behinderte-menschen), [Inklusionsbetrieb](inklusionsbetrieb), [Arbeitsvertrag](arbeitsvertrag)\n\n[Kategorie:Sozialrecht](kategorie:sozialrecht)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -16,7 +16,7 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Eingliederungshilfe, Assistenzleistungen, Vertrauensperson, Persönliches Budget\n Betreuungsplan (nicht mehr vorgeschrieben)\n MDK-Gutachten\n digitale Barrierefreiheit, Interoperabilität\n Betreuungsarbeitsgemeinschaft\n\nKategorie:Sozialrecht",
+      "inhalt": "Eingliederungshilfe, Assistenzleistungen, Vertrauensperson, Persönliches Budget\n Betreuungsplan (nicht mehr vorgeschrieben)\n MDK-Gutachten\n digitale Barrierefreiheit, Interoperabilität\n Betreuungsarbeitsgemeinschaft\n Werkstatt für behinderte Menschen, Inklusionsbetrieb, Arbeitsvertrag\n\nKategorie:Sozialrecht",
       "tags": [
         "eingliederungshilfe",
         "assistenzleistungen",
@@ -28,20 +28,23 @@
   ],
   "zusammenfassung": "Das sogenannte Gesamtplanverfahren ist in § 117 SGB IX sozialgesetzlich geregelt. Bei der sogenannten Gesamtplanung zur bestmöglichen Inklusion von Menschen mit Behinderung in die sie umgebende Gesellschaft in ihrer Wohnortgemeinde sollen die Leistungsberechtigten in allen Verfahrensschritten, begin...",
   "verwandteArtikel": [
-    "digitale-barrierefreiheit",
-    "kategorie:sozialrecht",
-    "sozialhilfe",
-    "betreuerbestellung",
-    "persönliches-budget",
-    "interoperabilität",
-    "betreuungsplan",
-    "betreuungsarbeitsgemeinschaft",
-    "pflegeversicherung",
-    "assistenzleistungen",
-    "betreuungsbehörde",
-    "dokumentationspflicht",
-    "vertrauensperson",
+    "arbeitsvertrag",
     "mdk-gutachten",
-    "eingliederungshilfe"
+    "digitale-barrierefreiheit",
+    "persönliches-budget",
+    "sozialhilfe",
+    "vertrauensperson",
+    "betreuungsplan",
+    "betreuungsbehörde",
+    "kategorie:sozialrecht",
+    "betreuungsarbeitsgemeinschaft",
+    "dokumentationspflicht",
+    "eingliederungshilfe",
+    "inklusionsbetrieb",
+    "interoperabilität",
+    "pflegeversicherung",
+    "werkstatt-für-behinderte-menschen",
+    "betreuerbestellung",
+    "assistenzleistungen"
   ]
 }
