@@ -41,11 +41,11 @@
   "verwandteArtikel": [
     "kategorie:arbeitshilfen",
     "kategorie:literatur",
-    "btman",
-    "btprax",
-    "kategorie:berufsbetreuer",
     "bundesverband-der-berufsbetreuer",
     "bild:btplus.jpg",
-    "berufsbetreuer"
+    "berufsbetreuer",
+    "kategorie:berufsbetreuer",
+    "btman",
+    "btprax"
   ]
 }

@@ -6001,6 +6001,17 @@
     "amtspflichtverletzung",
     "online-lexikon-betreuungsrecht:datenschutz"
   ],
+  "behördenbetreuer": [
+    "amtspflichtverletzung",
+    "beamte-als-betreuer",
+    "behördenbetreuer",
+    "behördenbetreuer",
+    "behördenbetreuer",
+    "betreuerwechsel",
+    "betreuungsbehörde",
+    "haftpflichtversicherung",
+    "rechnungslegung"
+  ],
   "gesetzlicher": [
     "amtspflichtverletzung",
     "angehörigenvertretungsrecht",
@@ -6030,21 +6041,6 @@
     "vorsorgevollmacht",
     "wohn--und-betreuungsvertragsgesetz",
     "zwangsvollstreckung"
-  ],
-  "vermögensverzeichnis": [
-    "amtspflichtverletzung",
-    "anlagegeld",
-    "betreuungsplan",
-    "e-rechnung",
-    "gesetzestexte",
-    "girokonto",
-    "grundstück",
-    "mündelgeld",
-    "schlussrechnungslegung",
-    "vermögensverzeichnis",
-    "vermögensverzeichnis",
-    "vermögensverzeichnis",
-    "wohn--und-betreuungsvertragsgesetz"
   ],
   "achtung": [
     "anfangsbericht",
@@ -7638,6 +7634,20 @@
     "steuererklärung",
     "steuerpflicht",
     "steuerrecht"
+  ],
+  "vermögensverzeichnis": [
+    "anlagegeld",
+    "betreuungsplan",
+    "e-rechnung",
+    "gesetzestexte",
+    "girokonto",
+    "grundstück",
+    "mündelgeld",
+    "schlussrechnungslegung",
+    "vermögensverzeichnis",
+    "vermögensverzeichnis",
+    "vermögensverzeichnis",
+    "wohn--und-betreuungsvertragsgesetz"
   ],
   "podcast": [
     "anlagegeld",
@@ -10631,15 +10641,6 @@
   ],
   "dienstverhältnissen": [
     "beamte-als-betreuer"
-  ],
-  "behördenbetreuer": [
-    "beamte-als-betreuer",
-    "behördenbetreuer",
-    "behördenbetreuer",
-    "behördenbetreuer",
-    "betreuerwechsel",
-    "betreuungsbehörde",
-    "haftpflichtversicherung"
   ],
   "einwilligungsfähigkeit": [
     "beamte-als-betreuer",
@@ -14949,7 +14950,6 @@
     "genehmigungen-von-a-bis-z",
     "personalausweis",
     "querschnittsaufgaben",
-    "rechnungslegung",
     "sachkundenachweis",
     "software",
     "zugriffsrecht"
