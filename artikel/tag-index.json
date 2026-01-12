@@ -6450,6 +6450,7 @@
     "anfangsgespräch",
     "betreuungsgericht",
     "gerichtsbeschluss",
+    "gerichtskosten",
     "gewaltschutzanordnung",
     "rechtsmittel",
     "rechtspfleger",
@@ -10206,7 +10207,6 @@
   "haager": [
     "ausländer",
     "ausländer",
-    "betreuungsverfahren",
     "buchverzeichnis",
     "erwachsenenschutz",
     "erwachsenenschutzabkommen",
@@ -10694,6 +10694,7 @@
     "beaufsichtigung",
     "beaufsichtigung",
     "betreuerpflichten",
+    "gerichtskosten",
     "gesetzestexte",
     "grundrechte"
   ],
@@ -13121,7 +13122,6 @@
     "betreuerpflichten",
     "finanzamt",
     "finanzamt",
-    "gerichtskosten",
     "steuern"
   ],
   "waffenfund": [
@@ -14680,6 +14680,12 @@
     "unterbringung",
     "unterbringungsverfahren",
     "vermögensverzeichnis"
+  ],
+  "gerichtskosten": [
+    "betreuungsverfahren",
+    "gerichtskosten",
+    "kontrollbetreuer",
+    "kosten"
   ],
   "betreuungsanordnung": [
     "betreuungsverfahren",
@@ -17925,24 +17931,6 @@
     "gerichtskosten",
     "rechtsanwalt"
   ],
-  "gerichtskosten": [
-    "gerichtskosten",
-    "kontrollbetreuer",
-    "kosten"
-  ],
-  "kontrollbetreuer": [
-    "gerichtskosten",
-    "grundrechte",
-    "grundrechte",
-    "kontrollbetreuer",
-    "kontrollbetreuer",
-    "kontrollbetreuer",
-    "selbstbestimmung",
-    "vollmachtswiderruf",
-    "vollmachtswiderruf",
-    "vorsorgevollmacht",
-    "vorsorgevollmacht---vertiefte-infos"
-  ],
   "antragsformular": [
     "gerichtskosten"
   ],
@@ -18444,6 +18432,18 @@
   ],
   "zwangsmedikation": [
     "grundrechte"
+  ],
+  "kontrollbetreuer": [
+    "grundrechte",
+    "grundrechte",
+    "kontrollbetreuer",
+    "kontrollbetreuer",
+    "kontrollbetreuer",
+    "selbstbestimmung",
+    "vollmachtswiderruf",
+    "vollmachtswiderruf",
+    "vorsorgevollmacht",
+    "vorsorgevollmacht---vertiefte-infos"
   ],
   "kontrollbetreuers": [
     "grundrechte",
