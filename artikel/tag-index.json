@@ -872,6 +872,7 @@
     "rechtsweg-in-deutschland",
     "rente",
     "rundfunkbeitrag",
+    "schwerbehindertenausweis",
     "selbstbestimmung",
     "synopse-patientenverfügungsgesetze",
     "unterstützungspflicht",
@@ -5186,7 +5187,6 @@
     "inklusionsbetrieb",
     "mdk-gutachten",
     "rundfunkbeitrag",
-    "schwerbehindertenausweis",
     "werkstatt-für-behinderte-menschen"
   ],
   "rechtstipp": [
@@ -7132,6 +7132,7 @@
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "patientenverfügung",
     "rechtsverkehr-in-deutschland",
+    "schwerbehindertenausweis",
     "selbstbestimmung",
     "selbstbestimmung",
     "unterstützte-entscheidungsfindung",
@@ -8344,7 +8345,8 @@
     "arbeitsvertrag",
     "arbeitsvertrag",
     "diskriminierungsverbot",
-    "haftpflichtversicherung"
+    "haftpflichtversicherung",
+    "schwerbehindertenausweis"
   ],
   "arbeitnehmer": [
     "arbeitsvertrag",
@@ -8628,7 +8630,6 @@
     "genehmigung-der-heilbehandlung",
     "gesundheitliche-versorgungsplanung",
     "heilbehandlung",
-    "inklusionsbetrieb",
     "interoperabilität",
     "interoperabilität",
     "medikationsplan",
@@ -15806,6 +15807,7 @@
     "diskriminierungsverbot",
     "grundrechte",
     "grundrechte",
+    "schwerbehindertenausweis",
     "subsidiaritätsprinzip"
   ],
   "antidiskriminierungsstelle": [
@@ -19085,6 +19087,19 @@
   "inklusionsbetriebe": [
     "inklusionsbetrieb"
   ],
+  "diskriminierungsverbot": [
+    "inklusionsbetrieb",
+    "kindschaftsrecht",
+    "kirchenaustritt",
+    "ordre-public",
+    "rundfunkbeitrag",
+    "subsidiaritätsprinzip",
+    "verfahrenspfleger",
+    "verhältnismäßigkeitsprinzip",
+    "werkstatt-für-behinderte-menschen",
+    "wohnungsangelegenheiten",
+    "wohnungsauflösung"
+  ],
   "rechtsbegriff": [
     "insichgeschäft",
     "intellektuelle-beeinträchtigung"
@@ -19257,18 +19272,6 @@
   ],
   "haften": [
     "kindschaftsrecht"
-  ],
-  "diskriminierungsverbot": [
-    "kindschaftsrecht",
-    "kirchenaustritt",
-    "ordre-public",
-    "rundfunkbeitrag",
-    "subsidiaritätsprinzip",
-    "verfahrenspfleger",
-    "verhältnismäßigkeitsprinzip",
-    "werkstatt-für-behinderte-menschen",
-    "wohnungsangelegenheiten",
-    "wohnungsauflösung"
   ],
   "elternassistenz": [
     "kindschaftsrecht"
@@ -19688,7 +19691,8 @@
   ],
   "mindestens": [
     "medikationsplan",
-    "registrierung"
+    "registrierung",
+    "schwerbehindertenausweis"
   ],
   "zurverfügungstellung": [
     "medikationsplan"
@@ -21325,7 +21329,10 @@
     "tierschutz",
     "werkstatt-für-behinderte-menschen"
   ],
-  "european": [
+  "jahresdurchschnittlich": [
+    "schwerbehindertenausweis"
+  ],
+  "monatlich": [
     "schwerbehindertenausweis"
   ],
   "bundesministeriums": [
