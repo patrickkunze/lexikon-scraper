@@ -805,6 +805,7 @@
     "diskriminierungsverbot",
     "diskriminierungsverbot",
     "dokumentationspflicht",
+    "dokumentationspflicht",
     "drittes-betreuungsrechtsänderungsgesetz",
     "e-rechnung",
     "e-rechnung",
@@ -5980,6 +5981,7 @@
   ],
   "gesetzlich": [
     "amtspflichtverletzung",
+    "dokumentationspflicht",
     "elektronische-patientenakte",
     "it-sicherheit",
     "it-sicherheit",
@@ -6388,6 +6390,7 @@
     "corona",
     "datenschutz",
     "datenschutz",
+    "dokumentationspflicht",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "geschäftsfähigkeit",
     "grundstück",
@@ -15917,6 +15920,12 @@
     "patientenverfügung",
     "patientenverfügung",
     "sterbehilfe"
+  ],
+  "hinschg": [
+    "dokumentationspflicht"
+  ],
+  "meldestellen": [
+    "dokumentationspflicht"
   ],
   "änderung": [
     "drittes-betreuungsrechtsänderungsgesetz",
