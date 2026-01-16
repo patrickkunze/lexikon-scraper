@@ -1,7 +1,7 @@
 {
   "id": "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
   "titel": "Tag der ehrenamtlichen Betreuerinnen und Betreuer",
-  "inhalt": "Die [Baden-Württemberg](baden-württemberg) Ministerien der Justiz und für Migration sowie für Soziales, Gesundheit und Integration veranstalten alle zwei Jahre in Kooperation den Tag der ehrenamtlichen Betreuerinnen und Betreuer. Dies geschieht als Dank für den Einsatz aller ehrenamtlichen Rechtsbetreuenden im \"Länd\".\n\nDer 8. Tag fand am 7. Juni 2024 im Haus der Wirtschaft in Stuttgart statt.\n\nDer 9. Tag soll am Freitag, dem 9. Oktober 2026, wieder im Haus der Wirtschaft in Stuttgart stattfinden.\n\nSiehe auch\n [Betreuer (Ehrenamt)](betreuer-(ehrenamt))\n [Vereinbarung über Begleitung und Unterstützung](vereinbarung-über-begleitung-und-unterstützung)\n [Ermessensvergütung](ermessensvergütung)\n [Unterstützungspflicht](unterstützungspflicht)en\n [Fortbildung](fortbildung)\n [Formulare](formulare)\n [digitale Barrierefreiheit](digitale-barrierefreiheit)\n [Vulnerabilität](vulnerabilität)\n\n[Kategorie:Betreuungspersonen](kategorie:betreuungspersonen)",
+  "inhalt": "Die [Baden-Württemberg](baden-württemberg) Ministerien der Justiz und für Migration sowie für Soziales, Gesundheit und Integration veranstalten alle zwei Jahre in Kooperation den Tag der ehrenamtlichen Betreuerinnen und Betreuer. Dies geschieht als Dank für den Einsatz aller ehrenamtlichen Rechtsbetreuenden im \"Länd\".\n\nDer 8. Tag fand am 7. Juni 2024 im Haus der Wirtschaft in Stuttgart statt.\n\nDer 9. Tag soll am Freitag, dem 9. Oktober 2026, wieder im Haus der Wirtschaft in Stuttgart stattfinden.\n\nSiehe auch\n [Betreuer (Ehrenamt)](betreuer-(ehrenamt)), [Betreuungsverein](betreuungsverein)\n [Vereinbarung über Begleitung und Unterstützung](vereinbarung-über-begleitung-und-unterstützung)\n [Ermessensvergütung](ermessensvergütung), [Aufwendungsersatz](aufwendungsersatz)\n [Unterstützungspflicht](unterstützungspflicht)en\n [Fortbildung](fortbildung)\n [Formulare](formulare)\n [digitale Barrierefreiheit](digitale-barrierefreiheit)\n [Vulnerabilität](vulnerabilität)\n\n[Kategorie:Betreuungspersonen](kategorie:betreuungspersonen)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -16,27 +16,29 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Betreuer (Ehrenamt)\n Vereinbarung über Begleitung und Unterstützung\n Ermessensvergütung\n Unterstützungspflichten\n Fortbildung\n Formulare\n digitale Barrierefreiheit\n Vulnerabilität\n\nKategorie:Betreuungspersonen",
+      "inhalt": "Betreuer (Ehrenamt), Betreuungsverein\n Vereinbarung über Begleitung und Unterstützung\n Ermessensvergütung, Aufwendungsersatz\n Unterstützungspflichten\n Fortbildung\n Formulare\n digitale Barrierefreiheit\n Vulnerabilität\n\nKategorie:Betreuungspersonen",
       "tags": [
         "betreuer",
         "ehrenamt",
+        "betreuungsverein",
         "vereinbarung",
-        "über",
-        "begleitung"
+        "über"
       ]
     }
   ],
   "zusammenfassung": "Die [Baden-Württemberg](baden-württemberg) Ministerien der Justiz und für Migration sowie für Soziales, Gesundheit und Integration veranstalten alle zwei Jahre in Kooperation den Tag der ehrenamtlichen Betreuerinnen und Betreuer. Dies geschieht als Dank für den Einsatz aller ehrenamtlichen Rechtsbet...",
   "verwandteArtikel": [
-    "digitale-barrierefreiheit",
-    "vulnerabilität",
-    "betreuer-(ehrenamt)",
-    "ermessensvergütung",
+    "aufwendungsersatz",
     "fortbildung",
-    "unterstützungspflicht",
     "vereinbarung-über-begleitung-und-unterstützung",
-    "kategorie:betreuungspersonen",
     "baden-württemberg",
-    "formulare"
+    "vulnerabilität",
+    "unterstützungspflicht",
+    "betreuungsverein",
+    "digitale-barrierefreiheit",
+    "kategorie:betreuungspersonen",
+    "ermessensvergütung",
+    "formulare",
+    "betreuer-(ehrenamt)"
   ]
 }

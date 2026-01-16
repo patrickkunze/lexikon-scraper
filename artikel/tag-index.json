@@ -1457,6 +1457,7 @@
     "genehmigungspflichten",
     "gesetzgebung",
     "gesetzlicher-vertreter",
+    "gesundheitliche-versorgungsplanung",
     "gesundheitsdatennutzungsgesetz",
     "gesundheitssorge",
     "haftpflichtversicherung",
@@ -4966,7 +4967,6 @@
   "begleitung": [
     "altenheim",
     "kooperationsvereinbarung",
-    "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "verhinderungsbetreuer"
   ],
   "heimbewohnern": [
@@ -9005,6 +9005,7 @@
     "selbstbestimmung",
     "testierfähigkeit",
     "unterstützte-kommunikation",
+    "vereinbarung-über-begleitung-und-unterstützung",
     "vulnerabilität",
     "wahlrecht"
   ],
@@ -11205,7 +11206,6 @@
     "genehmigung-der-heilbehandlung",
     "gesetzesbegründung-patientenverfügung",
     "gesetzestexte",
-    "gesundheitliche-versorgungsplanung",
     "link-liste",
     "peg-sonde",
     "patientenverfügung",
@@ -11580,7 +11580,6 @@
     "einwilligungsfähigkeit",
     "erörterungsgespräch",
     "genehmigung-der-heilbehandlung",
-    "gesundheitliche-versorgungsplanung",
     "it-sicherheit",
     "patientenverfügung",
     "vertreterdokumentation"
@@ -11864,6 +11863,7 @@
     "betreuungsverein",
     "betreuungsverein",
     "querschnittsaufgaben",
+    "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "vereinbarung-über-begleitung-und-unterstützung",
     "vereinbarung-über-begleitung-und-unterstützung",
     "vereinbarung-über-begleitung-und-unterstützung",
@@ -15079,6 +15079,7 @@
   "sterbehilfe": [
     "buchverzeichnis",
     "drittes-betreuungsrechtsänderungsgesetz",
+    "gesundheitliche-versorgungsplanung",
     "peg-sonde",
     "peg-sonde",
     "patientenverfügung",
@@ -16187,7 +16188,6 @@
     "ehrenamtlicher-betreuer",
     "pflicht-zur-betreuungsübernahme",
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
-    "vereinbarung-über-begleitung-und-unterstützung",
     "verpflichtungsgespräch"
   ],
   "vermögensübersicht": [
