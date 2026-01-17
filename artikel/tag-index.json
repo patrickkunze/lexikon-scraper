@@ -1030,6 +1030,7 @@
     "mündelgeld",
     "neu",
     "neu",
+    "notfalldaten",
     "ordre-public",
     "organspende",
     "peg-sonde",
@@ -1480,6 +1481,7 @@
     "mündelgeld",
     "natürlicher-wille",
     "neu",
+    "notfalldaten",
     "nutzungspflicht",
     "organspende",
     "peg-sonde",
@@ -3697,6 +3699,7 @@
     "neu",
     "neu",
     "neu",
+    "notfalldaten",
     "nutzungspflicht",
     "personalausweis",
     "persönliches-budget",
@@ -5183,7 +5186,6 @@
   "schwerbehindertenausweis": [
     "altenheim",
     "ausländer",
-    "behindertenkonvention",
     "elektronischer-identitätsnachweis",
     "inklusionsbetrieb",
     "mdk-gutachten",
@@ -5903,6 +5905,7 @@
     "hamburger-mustergliederung",
     "hauptseite",
     "jahresbericht",
+    "notfalldaten",
     "online-lexikon-betreuungsrecht:datenschutz",
     "ordre-public",
     "postkontrolle",
@@ -7149,6 +7152,7 @@
   "vorführung": [
     "anhörung",
     "betreuungsverfahren",
+    "grundrechte",
     "vorführung",
     "vorführung",
     "vorführung",
@@ -8589,6 +8593,7 @@
     "elektronische-patientenakte",
     "gesundheitsdatennutzungsgesetz",
     "neu",
+    "notfalldaten",
     "rechtsverkehr-in-deutschland",
     "rente",
     "unfallversicherung",
@@ -8612,6 +8617,7 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "geheimhaltungspflicht",
+    "notfalldaten",
     "online-lexikon-betreuungsrecht:datenschutz",
     "online-lexikon-betreuungsrecht:datenschutz",
     "online-lexikon-betreuungsrecht:datenschutz",
@@ -8637,6 +8643,7 @@
     "interoperabilität",
     "interoperabilität",
     "medikationsplan",
+    "notfalldaten",
     "patientenverfügung",
     "postkontrolle",
     "sachverständigengutachten",
@@ -8705,7 +8712,6 @@
     "e-rezept",
     "gesamtplanverfahren",
     "persönliches-budget",
-    "schwerbehindertenausweis",
     "unterstützungspflicht",
     "wohn--und-betreuungsvertragsgesetz"
   ],
@@ -10421,7 +10427,6 @@
     "einstweilige-anordnung",
     "einwilligungsvorbehalt",
     "geschäftsfähigkeit",
-    "grundrechte",
     "grundstück",
     "kindschaftsrecht",
     "prozessfähigkeit",
@@ -11038,6 +11043,7 @@
     "interoperabilität",
     "medikationsplan",
     "neu",
+    "notfalldaten",
     "patientenverfügung",
     "sachverständigengutachten",
     "schwerbehindertenausweis"
@@ -11228,7 +11234,6 @@
     "patientenverfügung",
     "patientenverfügung",
     "patientenvertreter",
-    "sterbehilfe",
     "sterbehilfe",
     "sterbehilfe",
     "sterbehilfedokumente",
@@ -11564,7 +11569,6 @@
   "gesundheitsdatennutzungsgesetz": [
     "begleitforschung",
     "checkliste-gesundheitssorge",
-    "heilbehandlung",
     "neu"
   ],
   "nutzungspflicht": [
@@ -11674,6 +11678,14 @@
   "nachhaltigkeitsziel": [
     "behindertenkonvention",
     "globales-nachhaltigkeitsziel-10"
+  ],
+  "notfalldaten": [
+    "behindertenkonvention",
+    "gesundheitliche-versorgungsplanung",
+    "heilbehandlung",
+    "notfalldaten",
+    "schwerbehindertenausweis",
+    "sterbehilfe"
   ],
   "ausschlussgründe": [
     "behindertenkonvention"
@@ -15633,6 +15645,7 @@
     "informationspflicht",
     "interoperabilität",
     "mailingliste",
+    "notfalldaten",
     "organspende",
     "postkontrolle",
     "rechtsverkehr-in-deutschland",
@@ -15721,6 +15734,7 @@
     "e-rezept",
     "informationspflicht",
     "mailingliste",
+    "notfalldaten",
     "organspende",
     "postkontrolle",
     "rundfunkbeitrag"
@@ -18261,7 +18275,8 @@
     "gesundheitliche-versorgungsplanung"
   ],
   "gesundheitlichen": [
-    "gesundheitliche-versorgungsplanung"
+    "gesundheitliche-versorgungsplanung",
+    "notfalldaten"
   ],
   "gesprächsprozess": [
     "gesundheitliche-versorgungsplanung"
@@ -18291,11 +18306,6 @@
   ],
   "planning": [
     "gesundheitliche-versorgungsplanung"
-  ],
-  "patientenvertreter": [
-    "gesundheitliche-versorgungsplanung",
-    "organspende",
-    "patientenvertreter"
   ],
   "gemeinwohlorientierten": [
     "gesundheitsdatennutzungsgesetz"
@@ -19083,6 +19093,7 @@
   ],
   "gemeinsamen": [
     "informationspflicht",
+    "notfalldaten",
     "unterstützte-entscheidungsfindung"
   ],
   "beschäftigung": [
@@ -20156,6 +20167,12 @@
   "test": [
     "neu"
   ],
+  "notfallbogen": [
+    "notfalldaten"
+  ],
+  "ergebnis": [
+    "notfalldaten"
+  ],
   "sozialistischen": [
     "nutzungspflicht"
   ],
@@ -20404,6 +20421,10 @@
   ],
   "lebendspende": [
     "organspende"
+  ],
+  "patientenvertreter": [
+    "organspende",
+    "patientenvertreter"
   ],
   "schäfer": [
     "organspende"
