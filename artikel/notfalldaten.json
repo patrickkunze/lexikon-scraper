@@ -39,16 +39,16 @@
   ],
   "zusammenfassung": "elektronische Notfalldaten\nEine der geplanten Anwendungen der Telematikinfrastruktur in Deutschland ist gemäß § 334 Abs. 1 Satz 2 Nr. 5 SGB V die Speicherung der elektronischen Notfalldaten, d.h. von persönlichen medizinischen Daten, soweit sie für eine gute Notfallversorgung des Patienten erforderl...",
   "verwandteArtikel": [
-    "zugriffsrecht",
     "digitale-barrierefreiheit",
-    "elektronische-patientenakte",
-    "interoperabilität",
-    "kategorie:gesundheitssorge",
-    "gesundheitliche-versorgungsplanung",
-    "medikationsplan",
     "heilbehandlung",
+    "kategorie:gesundheitssorge",
     "kategorie:rechtsnormen",
+    "zugriffsrecht",
+    "elektronische-patientenakte",
     "altenheim",
-    "freier-wille"
+    "interoperabilität",
+    "freier-wille",
+    "gesundheitliche-versorgungsplanung",
+    "medikationsplan"
   ]
 }

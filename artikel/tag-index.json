@@ -1745,7 +1745,6 @@
     "altenheim",
     "amtsermittlungspflicht",
     "amtsermittlungspflicht",
-    "arbeitsvertrag",
     "assistenzleistungen",
     "assistenzleistungen",
     "bankvollmacht",
@@ -3883,7 +3882,6 @@
     "eherecht-und-betreuung",
     "einwilligungsvorbehalt",
     "haftpflichtversicherung",
-    "impressum",
     "mailingliste",
     "meldepflicht",
     "mündelgeld",
@@ -4082,6 +4080,7 @@
     "aufgabenkreis",
     "aufgabenkreise",
     "beaufsichtigung",
+    "bestellung-mehrerer-betreuer",
     "betreuerhaftung",
     "betreuerpflichten",
     "betreuerpflichten",
@@ -5187,6 +5186,7 @@
     "altenheim",
     "ausländer",
     "elektronischer-identitätsnachweis",
+    "heimmitarbeiter-als-betreuer",
     "inklusionsbetrieb",
     "mdk-gutachten",
     "rundfunkbeitrag",
@@ -5210,10 +5210,8 @@
   "wohn": [
     "altenheim",
     "betreutes-wohnen",
-    "heimmitarbeiter-als-betreuer",
     "informationspflicht",
     "neu",
-    "stundensatz",
     "unterstützungspflicht",
     "wohn--und-betreuungsvertragsgesetz"
   ],
@@ -8397,7 +8395,8 @@
     "arbeitsvertrag",
     "arbeitsvertrag",
     "arbeitsvertrag",
-    "bankvollmacht"
+    "bankvollmacht",
+    "unfallversicherung"
   ],
   "anwesend": [
     "arbeitsvertrag"
@@ -8444,7 +8443,6 @@
     "grundstück",
     "rechnungslegung",
     "schwerbehindertenausweis",
-    "stundensatz",
     "verhältnismäßigkeitsprinzip"
   ],
   "soweit": [
@@ -8491,6 +8489,10 @@
   "inklusionsbetrieb": [
     "arbeitsvertrag",
     "geheimhaltungspflicht"
+  ],
+  "arbeitsunfall": [
+    "arbeitsvertrag",
+    "werkstatt-für-behinderte-menschen"
   ],
   "werkstatt": [
     "arbeitsvertrag",
@@ -9623,8 +9625,7 @@
   "pauschale": [
     "aufwandspauschale",
     "berufsbetreuer",
-    "betreuervergütung-2019",
-    "stundensatz"
+    "betreuervergütung-2019"
   ],
   "falls": [
     "aufwandspauschale"
@@ -10893,6 +10894,7 @@
     "rechtsprechung-zum-verfahrenspfleger",
     "selbstbestimmung",
     "strafprozess",
+    "stundensatz",
     "tandembetreuung",
     "unterbringungsverfahren",
     "verfahrenspfleger",
@@ -11683,6 +11685,8 @@
     "behindertenkonvention",
     "gesundheitliche-versorgungsplanung",
     "heilbehandlung",
+    "heimmitarbeiter-als-betreuer",
+    "krankenhaussozialdienst",
     "notfalldaten",
     "schwerbehindertenausweis",
     "sterbehilfe"
@@ -12439,6 +12443,19 @@
     "insichgeschäft",
     "rechtsanwalt",
     "verhinderungsbetreuer"
+  ],
+  "kontrollbetreuer": [
+    "bestellung-mehrerer-betreuer",
+    "grundrechte",
+    "grundrechte",
+    "kontrollbetreuer",
+    "kontrollbetreuer",
+    "kontrollbetreuer",
+    "selbstbestimmung",
+    "vollmachtswiderruf",
+    "vollmachtswiderruf",
+    "vorsorgevollmacht",
+    "vorsorgevollmacht---vertiefte-infos"
   ],
   "alpenstedt": [
     "bestellung-mehrerer-betreuer"
@@ -13532,7 +13549,6 @@
     "betreuervergütung",
     "betreuervergütung-2019",
     "buchverzeichnis",
-    "impressum",
     "mittellosigkeit",
     "stundensatz",
     "vormünder--und-betreuervergütungsgesetz"
@@ -14221,7 +14237,8 @@
     "betreuungszahlen",
     "intellektuelle-beeinträchtigung",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
-    "sterilisationsbetreuer"
+    "sterilisationsbetreuer",
+    "stundensatz"
   ],
   "enthalten": [
     "betreuungsgesetz",
@@ -14450,7 +14467,6 @@
   ],
   "impressum": [
     "betreuungsrecht-lexikon:haftungsausschluss",
-    "impressum",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht"
   ],
   "haftungsausschluss": [
@@ -14844,7 +14860,6 @@
   ],
   "https": [
     "betreuungszahlen",
-    "impressum",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "persönliches-budget",
     "spielwiese",
@@ -16343,7 +16358,6 @@
     "eingliederungshilfe",
     "erörterungsgespräch",
     "intellektuelle-beeinträchtigung",
-    "krankenhaussozialdienst",
     "natürlicher-wille",
     "psychisch-kranken-gesetz",
     "rechtsprechung-zur-anhörung",
@@ -17092,6 +17106,7 @@
   "mehrerer": [
     "ergänzungsbetreuer",
     "mehrfachbetreuung",
+    "stundensatz",
     "tandembetreuung"
   ],
   "anmerkung": [
@@ -18454,18 +18469,6 @@
   "zwangsmedikation": [
     "grundrechte"
   ],
-  "kontrollbetreuer": [
-    "grundrechte",
-    "grundrechte",
-    "kontrollbetreuer",
-    "kontrollbetreuer",
-    "kontrollbetreuer",
-    "selbstbestimmung",
-    "vollmachtswiderruf",
-    "vollmachtswiderruf",
-    "vorsorgevollmacht",
-    "vorsorgevollmacht---vertiefte-infos"
-  ],
   "kontrollbetreuers": [
     "grundrechte",
     "kontrollbetreuer",
@@ -18994,11 +18997,6 @@
   "interessenkollision": [
     "heimmitarbeiter-als-betreuer"
   ],
-  "betreuungsvertragsgesetz": [
-    "heimmitarbeiter-als-betreuer",
-    "neu",
-    "stundensatz"
-  ],
   "meyer": [
     "heimmitarbeiter-als-betreuer"
   ],
@@ -19052,6 +19050,9 @@
   ],
   "redirectgrundstück": [
     "immobilie"
+  ],
+  "unten": [
+    "impressum"
   ],
   "informationspflichten": [
     "informationspflicht",
@@ -20050,6 +20051,9 @@
     "neu"
   ],
   "rehabilitationsrecht": [
+    "neu"
+  ],
+  "betreuungsvertragsgesetz": [
     "neu"
   ],
   "dezember": [
@@ -21065,7 +21069,8 @@
   ],
   "rente": [
     "rente",
-    "rente"
+    "rente",
+    "unfallversicherung"
   ],
   "rentner": [
     "rente"
@@ -21953,6 +21958,9 @@
   ],
   "hinweisen": [
     "strafprozess"
+  ],
+  "galten": [
+    "stundensatz"
   ],
   "spalten": [
     "stundensatz"
@@ -23100,9 +23108,6 @@
     "werkstatt-für-behinderte-menschen"
   ],
   "landschaftsverband": [
-    "werkstatt-für-behinderte-menschen"
-  ],
-  "arbeitsunfall": [
     "werkstatt-für-behinderte-menschen"
   ],
   "wfbm": [

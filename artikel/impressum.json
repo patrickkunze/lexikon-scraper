@@ -1,20 +1,17 @@
 {
   "id": "impressum",
   "titel": "Impressum",
-  "inhalt": "Siehe unter https://www.reguvis.de/de/impressum/",
+  "inhalt": "Siehe unten",
   "struktur": [
     {
       "titel": "Einleitung",
-      "inhalt": "Siehe unter https://www.reguvis.de/de/impressum/",
+      "inhalt": "Siehe unten",
       "tags": [
         "siehe",
-        "unter",
-        "https",
-        "reguvis",
-        "impressum"
+        "unten"
       ]
     }
   ],
-  "zusammenfassung": "Siehe unter https://www.reguvis.de/de/impressum/...",
+  "zusammenfassung": "Siehe unten...",
   "verwandteArtikel": []
 }
