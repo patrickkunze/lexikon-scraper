@@ -168,6 +168,7 @@
     "vermögensverwaltung",
     "vertreterverfügung",
     "vertreterzeugnis",
+    "vertretungsausschluss",
     "vertretungsmacht",
     "verwaltungsverfahren",
     "vollmacht",
@@ -1833,6 +1834,7 @@
     "rente",
     "schweigepflicht",
     "verbraucherstreitbeilegung",
+    "vertretungsausschluss",
     "vertretungsmacht",
     "zwangsvollstreckung"
   ],
@@ -2647,6 +2649,7 @@
     "geschäftsfähigkeit",
     "geschäftsfähigkeit",
     "gesetzesbegründung-patientenverfügung",
+    "gesetzliche-vertretung",
     "gesetzliche-vertretung",
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
@@ -7008,7 +7011,6 @@
     "mittellosigkeit",
     "personalausweis",
     "rechnungslegung",
-    "registrierung",
     "sachkundenachweis",
     "tod-des-betreuten",
     "unterbringung",
@@ -7052,6 +7054,7 @@
     "strafprozess",
     "verfahrensfähigkeit",
     "vertretung-gegenüber-behörden",
+    "vertretungsausschluss",
     "vertretungsmacht",
     "widerspruchsrecht"
   ],
@@ -7672,6 +7675,7 @@
     "finanzamt",
     "genehmigung-der-heilbehandlung",
     "gerichtskosten",
+    "gesetzliche-vertretung",
     "gesundheitssorge",
     "girokonto",
     "grundstück",
@@ -7681,6 +7685,7 @@
     "kontrollbetreuer",
     "krankenversicherung",
     "meldepflicht",
+    "mitteilungspflicht",
     "psychisch-kranken-gesetz",
     "rechnungslegung",
     "rechtspfleger",
@@ -7714,6 +7719,7 @@
     "einwilligungsvorbehalt",
     "genehmigung-der-heilbehandlung",
     "gerichtskosten",
+    "gesetzliche-vertretung",
     "gesundheitssorge",
     "girokonto",
     "grundstück",
@@ -7723,6 +7729,7 @@
     "kontrollbetreuer",
     "krankenversicherung",
     "meldepflicht",
+    "mitteilungspflicht",
     "rechnungslegung",
     "rechtspfleger",
     "registrierung",
@@ -8645,7 +8652,6 @@
     "interoperabilität",
     "interoperabilität",
     "medikationsplan",
-    "notfalldaten",
     "patientenverfügung",
     "postkontrolle",
     "sachverständigengutachten",
@@ -11045,7 +11051,6 @@
     "interoperabilität",
     "medikationsplan",
     "neu",
-    "notfalldaten",
     "patientenverfügung",
     "sachverständigengutachten",
     "schwerbehindertenausweis"
@@ -12659,7 +12664,8 @@
   "berufsbetreuern": [
     "betreuer-als-erbe",
     "betreuungskosten-im-steuerrecht",
-    "grundstück"
+    "grundstück",
+    "mitteilungspflicht"
   ],
   "auswirkungenkategorie": [
     "betreuer-als-erbe"
@@ -12768,6 +12774,7 @@
     "it-sicherheit",
     "it-sicherheit",
     "medikationsplan",
+    "notfalldaten",
     "ordre-public"
   ],
   "datenschutz": [
@@ -12783,6 +12790,7 @@
     "medikationsplan",
     "mitteilungspflicht",
     "neu",
+    "notfalldaten",
     "personalausweis",
     "schweigepflicht",
     "vertreterdokumentation"
@@ -18262,6 +18270,12 @@
     "online-lexikon-betreuungsrecht:datenschutz",
     "testierfähigkeit"
   ],
+  "vertretungsverbot": [
+    "gesetzliche-vertretung"
+  ],
+  "zusätzlichen": [
+    "gesetzliche-vertretung"
+  ],
   "erforderlichkeitsgrundsatz": [
     "gesetzliche-vertretung"
   ],
@@ -19801,6 +19815,13 @@
     "mitteilungspflicht",
     "registrierung",
     "sachkundenachweis"
+  ],
+  "nachträglichen": [
+    "mitteilungspflicht"
+  ],
+  "mitteilungspflichten": [
+    "mitteilungspflicht",
+    "registrierung"
   ],
   "anschluss": [
     "mittellosigkeit"

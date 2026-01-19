@@ -1,0 +1,20 @@
+{
+  "id": "vertretungsausschluss",
+  "titel": "Vertretungsausschluss",
+  "inhalt": "redirect [Gesetzliche Vertretung](gesetzliche-vertretung)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirect Gesetzliche Vertretung",
+      "tags": [
+        "redirect",
+        "gesetzliche",
+        "vertretung"
+      ]
+    }
+  ],
+  "zusammenfassung": "redirect [Gesetzliche Vertretung](gesetzliche-vertretung)...",
+  "verwandteArtikel": [
+    "gesetzliche-vertretung"
+  ]
+}

@@ -1841,6 +1841,10 @@
       "titel": "Vertretung gegenüber Behörden"
     },
     {
+      "id": "vertretungsausschluss",
+      "titel": "Vertretungsausschluss"
+    },
+    {
       "id": "vertretungsmacht",
       "titel": "Vertretungsmacht"
     },
