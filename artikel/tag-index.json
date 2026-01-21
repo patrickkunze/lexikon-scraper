@@ -4064,6 +4064,7 @@
     "aufenthaltsbestimmung",
     "aufenthaltsbestimmung",
     "betreuerpflichten",
+    "betreutes-wohnen",
     "einwilligungsvorbehalt",
     "heimplatzsuche",
     "meldepflicht",
@@ -5211,7 +5212,6 @@
   ],
   "wohn": [
     "altenheim",
-    "betreutes-wohnen",
     "informationspflicht",
     "neu",
     "unterstützungspflicht",
