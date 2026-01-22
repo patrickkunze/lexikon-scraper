@@ -3315,6 +3315,7 @@
     "gesundheitssorge",
     "heilbehandlung",
     "medikationsplan",
+    "notfalldaten",
     "peg-sonde",
     "peg-sonde",
     "patientenvertreter",
@@ -12770,7 +12771,6 @@
     "it-sicherheit",
     "it-sicherheit",
     "medikationsplan",
-    "notfalldaten",
     "ordre-public"
   ],
   "datenschutz": [
