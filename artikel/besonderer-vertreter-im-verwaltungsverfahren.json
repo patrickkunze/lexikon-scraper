@@ -1,7 +1,7 @@
 {
   "id": "besonderer-vertreter-im-verwaltungsverfahren",
   "titel": "Besonderer Vertreter im Verwaltungsverfahren",
-  "inhalt": "Wird noch weiter bearbeitet.\n\nAllgemeines\nIst ein einem Verwaltungsverfahren ein Beteiligter nicht verfahrensfähig - und ist auch kein rechtlicher Betreuer bestellt - und liegt auch keine wirksame [Vorsorgevollmacht](vorsorgevollmacht) vor, so hat die Behörde beim [Betreuungsgericht](betreuungsgericht) (betreuungsrechtl. Zuweisungssache, § 340 FamFG) die Bestellung eines besonderen Vertreters im Verwaltungsverfahren zu beantragen.\n\nRechtsgrundlagen:\n- Sozialrecht: § 15 SGB X\n- Steuerrecht: § 81 AO\n- sonst. Verwaltungsverfahren: § 16 VwVfG (bzw landesrechtl. Parallelvorschriften).\n\nRechtsprechung\n\nBGH, Beschluss vom 13. August 2025 - XII ZB 285/25\n \nGegen Entscheidungen des Beschwerdegerichts in betreuungsgerichtlichen Zuweisungssachen, welche die Bestellung eines Vertreters nach § 15 Abs. 1 Nr. 4 SGB X in einem sozialrechtlichen Verwaltungsverfahren betreffen, findet eine zulassungsfreie Rechtsbeschwerde gemäß § 15 Abs. 4 SGB X iVm § 70 Abs. 3 Satz 1 Nr. 1 FamFG statt (Abgrenzung zu Senatsbeschluss vom 19. September 2018 XII ZB 427/17 FamRZ 2018, 1935).\n Für den Beteiligten eines sozialrechtlichen Verwaltungsverfahrens, der infolge einer psychischen Krankheit oder einer körperlichen, geistigen oder seelischen Behinderung in diesem Verfahren nicht sachgerecht handeln kann, darf ohne dessen Einwilligung kein Vertreter nach § 15 Abs. 1 Nr. 4 SGB X bestellt werden, wenn der Beteiligte hinsichtlich der Vertreterbestellung über einen [Freier Wille](freier-wille) verfügt.\n\nSiehe auch\n [Vertretung gegenüber Behörden](vertretung-gegenüber-behörden), [Gesamtplanverfahren](gesamtplanverfahren)\n\n[Kategorie:Sozialrecht](kategorie:sozialrecht)",
+  "inhalt": "Wird noch weiter bearbeitet.\n\nAllgemeines\nIst ein einem Verwaltungsverfahren ein Beteiligter nicht verfahrensfähig - und ist auch kein rechtlicher Betreuer bestellt - und liegt auch keine wirksame [Vorsorgevollmacht](vorsorgevollmacht) vor, so hat die Behörde beim [Betreuungsgericht](betreuungsgericht) (betreuungsrechtl. Zuweisungssache, § 340 FamFG) die Bestellung eines besonderen Vertreters im Verwaltungsverfahren zu beantragen.\n\nRechtsgrundlagen:\n- Sozialrecht: § 15 SGB X\n- Steuerrecht: § 81 AO\n- sonst. Verwaltungsverfahren: § 16 VwVfG (bzw landesrechtl. Parallelvorschriften).\n\nRechtsprechung\n\nBGH, Beschluss vom 13. August 2025 - XII ZB 285/25\n \nGegen Entscheidungen des Beschwerdegerichts in betreuungsgerichtlichen Zuweisungssachen, welche die Bestellung eines Vertreters nach § 15 Abs. 1 Nr. 4 SGB X in einem sozialrechtlichen Verwaltungsverfahren betreffen, findet eine zulassungsfreie Rechtsbeschwerde gemäß § 15 Abs. 4 SGB X iVm § 70 Abs. 3 Satz 1 Nr. 1 FamFG statt (Abgrenzung zu Senatsbeschluss vom 19. September 2018 XII ZB 427/17 FamRZ 2018, 1935).\n Für den Beteiligten eines sozialrechtlichen Verwaltungsverfahrens, der infolge einer psychischen Krankheit oder einer körperlichen, geistigen oder seelischen Behinderung in diesem Verfahren nicht sachgerecht handeln kann, darf ohne dessen Einwilligung kein Vertreter nach § 15 Abs. 1 Nr. 4 SGB X bestellt werden, wenn der Beteiligte hinsichtlich der Vertreterbestellung über einen [Freier Wille](freier-wille) verfügt.\n\nSiehe auch\n [Vertretung gegenüber Behörden](vertretung-gegenüber-behörden), [Gesamtplanverfahren](gesamtplanverfahren)\n [Widerspruchsrecht](widerspruchsrecht)\n\n[Kategorie:Sozialrecht](kategorie:sozialrecht)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -37,13 +37,13 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Vertretung gegenüber Behörden, Gesamtplanverfahren\n\nKategorie:Sozialrecht",
+      "inhalt": "Vertretung gegenüber Behörden, Gesamtplanverfahren\n Widerspruchsrecht\n\nKategorie:Sozialrecht",
       "tags": [
         "vertretung",
         "gegenüber",
         "behörden",
         "gesamtplanverfahren",
-        "kategorie"
+        "widerspruchsrecht"
       ]
     }
   ],
@@ -51,9 +51,10 @@
   "verwandteArtikel": [
     "vertretung-gegenüber-behörden",
     "vorsorgevollmacht",
-    "freier-wille",
     "kategorie:sozialrecht",
+    "gesamtplanverfahren",
+    "widerspruchsrecht",
     "betreuungsgericht",
-    "gesamtplanverfahren"
+    "freier-wille"
   ]
 }

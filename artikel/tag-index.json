@@ -1406,7 +1406,6 @@
     "berichterstattung",
     "berichtspflicht",
     "berufsbetreuer",
-    "besonderer-vertreter-im-verwaltungsverfahren",
     "bestattungsvertrag",
     "betreuer-als-erbe",
     "betreuerhaftung",
@@ -12189,6 +12188,10 @@
   "sozialrechtlichen": [
     "besonderer-vertreter-im-verwaltungsverfahren"
   ],
+  "widerspruchsrecht": [
+    "besonderer-vertreter-im-verwaltungsverfahren",
+    "vollmachtswiderruf"
+  ],
   "totenfürsorge": [
     "bestattung"
   ],
@@ -12454,7 +12457,6 @@
     "kontrollbetreuer",
     "kontrollbetreuer",
     "selbstbestimmung",
-    "vollmachtswiderruf",
     "vollmachtswiderruf",
     "vorsorgevollmacht",
     "vorsorgevollmacht---vertiefte-infos"
