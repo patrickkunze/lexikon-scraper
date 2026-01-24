@@ -2138,6 +2138,7 @@
     "saarland",
     "sachsen",
     "schleswig-holstein",
+    "vereinsbetreuer",
     "wohnungsauflösung"
   ],
   "richter": [
@@ -8588,7 +8589,6 @@
     "genehmigung-der-heilbehandlung",
     "gutachten",
     "mdk-gutachten",
-    "medizinische-begriffe",
     "rechtsprechung-zum-sachverständigengutachten",
     "sachverständigengutachten"
   ],
@@ -8651,6 +8651,7 @@
     "interoperabilität",
     "interoperabilität",
     "medikationsplan",
+    "medizinische-begriffe",
     "patientenverfügung",
     "postkontrolle",
     "sachverständigengutachten",
@@ -8828,7 +8829,6 @@
     "assistenzleistungen",
     "ergänzungsbetreuer",
     "gesamtplanverfahren",
-    "insichgeschäft",
     "persönliches-budget",
     "selbstverwaltungserklärung"
   ],
@@ -10693,7 +10693,6 @@
     "beratung",
     "betreuungsbehörde",
     "betreuungsorganisationsgesetz",
-    "betreuungsverein",
     "bundesverband-freier-berufsbetreuer",
     "einverständniserklärung",
     "gesetzestexte",
@@ -11048,6 +11047,7 @@
     "interoperabilität",
     "interoperabilität",
     "medikationsplan",
+    "medizinische-begriffe",
     "neu",
     "patientenverfügung",
     "sachverständigengutachten",
@@ -12612,8 +12612,7 @@
   ],
   "anzeigepflichten": [
     "betreuer-(ehrenamt)",
-    "gesetzestexte",
-    "vereinsbetreuer"
+    "gesetzestexte"
   ],
   "ratgeber": [
     "betreuer-(ehrenamt)",
@@ -14637,6 +14636,21 @@
   ],
   "hirten": [
     "betreuungsverein"
+  ],
+  "diskriminierungsverbot": [
+    "betreuungsverein",
+    "inklusionsbetrieb",
+    "kindschaftsrecht",
+    "kirchenaustritt",
+    "ordre-public",
+    "rundfunkbeitrag",
+    "subsidiaritätsprinzip",
+    "vereinsbetreuer",
+    "verfahrenspfleger",
+    "verhältnismäßigkeitsprinzip",
+    "werkstatt-für-behinderte-menschen",
+    "wohnungsangelegenheiten",
+    "wohnungsauflösung"
   ],
   "betreuerausbildung": [
     "betreuungsverein"
@@ -18096,6 +18110,7 @@
   ],
   "trennungsgebot": [
     "gesetzestexte",
+    "insichgeschäft",
     "schenkung",
     "trennungsgebot",
     "verfügungsgeld",
@@ -19120,19 +19135,6 @@
   "inklusionsbetriebe": [
     "inklusionsbetrieb"
   ],
-  "diskriminierungsverbot": [
-    "inklusionsbetrieb",
-    "kindschaftsrecht",
-    "kirchenaustritt",
-    "ordre-public",
-    "rundfunkbeitrag",
-    "subsidiaritätsprinzip",
-    "verfahrenspfleger",
-    "verhältnismäßigkeitsprinzip",
-    "werkstatt-für-behinderte-menschen",
-    "wohnungsangelegenheiten",
-    "wohnungsauflösung"
-  ],
   "rechtsbegriff": [
     "insichgeschäft",
     "intellektuelle-beeinträchtigung"
@@ -19589,7 +19591,6 @@
   ],
   "pflegeversicherung": [
     "krankenversicherung",
-    "medizinische-begriffe",
     "neu",
     "pflegebedürftigkeit",
     "pflegeversicherung",
@@ -22554,9 +22555,6 @@
     "vereinsbetreuer"
   ],
   "betreuungsvereins": [
-    "vereinsbetreuer"
-  ],
-  "anforderungsprofil": [
     "vereinsbetreuer"
   ],
   "versteht": [

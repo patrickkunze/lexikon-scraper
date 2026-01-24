@@ -1,7 +1,7 @@
 {
   "id": "notfalldaten",
   "titel": "Notfalldaten",
-  "inhalt": "elektronische Notfalldaten\nEine der geplanten Anwendungen der Telematikinfrastruktur in Deutschland ist gemäß § 334 Abs. 1 Satz 2 Nr. 5 SGB V die Speicherung der elektronischen Notfalldaten, d.h. von persönlichen medizinischen Daten, soweit sie für eine gute Notfallversorgung des Patienten erforderlich sind. Diese Notfalldaten sollen in der elektronischen Patientenkurzakte gespeichert werden. Diese Kurzakte dient zur Übersicht aller relevanten Daten des Versicherten im [Heilbehandlung](heilbehandlung). Die festgelegten Inhalte müssen mit internationalen Standards [Interoperabilität](interoperabilität), damit diese elektronische Patientenkurzakte geeignet ist, die grenzüberschreitende Behandlung des Versicherten gemäß § 359 Abs. 4 SGB V in einem anderen Mitgliedstaat der Europäischen Union zu unterstützen. Dies ist in § 355 Abs. 4 SGB V gesetzlich geregelt.\n\nGemäß § 358 Abs. 1 Satz 2 SGB V können Daten zu Befunden, Daten zur [Medikationsplan](medikationsplan) oder Zusatzinformationen über den Versicherten als Notfalldaten gespeichert werden. Dies ist für den Versicherten [Freier Wille](freier-wille).\n\n[Gesundheitliche Versorgungsplanung](gesundheitliche-versorgungsplanung)\nAls Ergebnis einer gemeinsamen gesundheitlichen Versorgungsplanung im [Altenheim](altenheim) soll auch ein Notfallbogen erstellt werden. Zukünftig sollte dieser unterschriebene Notfallbogen mit identischem Inhalt digitalisiert als Teil der Patientenkurzakte abgespeichert werden. Dann wäre er ggf. überall von [Zugriffsrecht](zugriffsrecht) abruf- und einsehbar.\n\nSiehe auch\n [digitale Barrierefreiheit](digitale-barrierefreiheit), [Datenschutz](datenschutz), [IT-Sicherheit](it-sicherheit), [Interoperabilität](interoperabilität)\n [elektronische Patientenakte](elektronische-patientenakte)\n [Checkliste Gesundheitssorge](checkliste-gesundheitssorge)\n [Medikationsplan](medikationsplan), [Gesundheitliche Versorgungsplanung](gesundheitliche-versorgungsplanung)\n [Patientenverfügung](patientenverfügung), [Vertreterzeugnis](vertreterzeugnis)\n [Vorsorgeregister](vorsorgeregister)\n\n[Kategorie:Gesundheitssorge](kategorie:gesundheitssorge)\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)",
+  "inhalt": "elektronische Notfalldaten\nEine der geplanten Anwendungen der Telematikinfrastruktur in Deutschland ist gemäß § 334 Abs. 1 Satz 2 Nr. 5 SGB V die Speicherung der elektronischen Notfalldaten, d.h. von persönlichen medizinischen Daten, soweit sie für eine gute Notfallversorgung des Patienten erforderlich sind. Diese Notfalldaten sollen in der elektronischen Patientenkurzakte gespeichert werden. Diese Kurzakte dient zur Übersicht aller relevanten Daten des Versicherten im [Heilbehandlung](heilbehandlung). Die festgelegten Inhalte müssen mit internationalen Standards [Interoperabilität](interoperabilität), damit diese elektronische Patientenkurzakte geeignet ist, die grenzüberschreitende Behandlung des Versicherten gemäß § 359 Abs. 4 SGB V in einem anderen Mitgliedstaat der Europäischen Union zu unterstützen. Dies ist in § 355 Abs. 4 SGB V gesetzlich geregelt.\n\nGemäß § 358 Abs. 1 Satz 2 SGB V können Daten zu Befunden, Daten zur [Medikationsplan](medikationsplan) oder Zusatzinformationen über den Versicherten als Notfalldaten gespeichert werden. Dies ist für den Versicherten [Freier Wille](freier-wille).\n\n[Gesundheitliche Versorgungsplanung](gesundheitliche-versorgungsplanung)\nAls Ergebnis einer gemeinsamen gesundheitlichen Versorgungsplanung im [Altenheim](altenheim) soll auch ein Notfallbogen erstellt werden. Zukünftig sollte dieser unterschriebene Notfallbogen mit identischem Inhalt digitalisiert als Teil der Patientenkurzakte abgespeichert werden. Dann wäre er ggf. überall von [Zugriffsrecht](zugriffsrecht) abruf- und einsehbar.\n\nSiehe auch\n [digitale Barrierefreiheit](digitale-barrierefreiheit), [Datenschutz](datenschutz), [IT-Sicherheit](it-sicherheit), [Interoperabilität](interoperabilität)\n [elektronische Patientenakte](elektronische-patientenakte)\n [Checkliste Gesundheitssorge](checkliste-gesundheitssorge), [medizinische Begriffe](medizinische-begriffe)\n [Medikationsplan](medikationsplan), [Gesundheitliche Versorgungsplanung](gesundheitliche-versorgungsplanung)\n [Patientenverfügung](patientenverfügung), [Vertreterzeugnis](vertreterzeugnis)\n [Vorsorgeregister](vorsorgeregister)\n\n[Kategorie:Gesundheitssorge](kategorie:gesundheitssorge)\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)",
   "struktur": [
     {
       "titel": "elektronische Notfalldaten",
@@ -27,7 +27,7 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "digitale Barrierefreiheit, Datenschutz, IT-Sicherheit, Interoperabilität\n elektronische Patientenakte\n Checkliste Gesundheitssorge\n Medikationsplan, Gesundheitliche Versorgungsplanung\n Patientenverfügung, Vertreterzeugnis\n Vorsorgeregister\n\nKategorie:Gesundheitssorge\nKategorie:Rechtsnormen",
+      "inhalt": "digitale Barrierefreiheit, Datenschutz, IT-Sicherheit, Interoperabilität\n elektronische Patientenakte\n Checkliste Gesundheitssorge, medizinische Begriffe\n Medikationsplan, Gesundheitliche Versorgungsplanung\n Patientenverfügung, Vertreterzeugnis\n Vorsorgeregister\n\nKategorie:Gesundheitssorge\nKategorie:Rechtsnormen",
       "tags": [
         "gesundheitssorge",
         "kategorie",
@@ -39,22 +39,23 @@
   ],
   "zusammenfassung": "elektronische Notfalldaten\nEine der geplanten Anwendungen der Telematikinfrastruktur in Deutschland ist gemäß § 334 Abs. 1 Satz 2 Nr. 5 SGB V die Speicherung der elektronischen Notfalldaten, d.h. von persönlichen medizinischen Daten, soweit sie für eine gute Notfallversorgung des Patienten erforderl...",
   "verwandteArtikel": [
-    "it-sicherheit",
-    "kategorie:gesundheitssorge",
-    "vertreterzeugnis",
-    "gesundheitliche-versorgungsplanung",
-    "medikationsplan",
-    "zugriffsrecht",
-    "elektronische-patientenakte",
-    "patientenverfügung",
-    "checkliste-gesundheitssorge",
-    "vorsorgeregister",
-    "heilbehandlung",
-    "altenheim",
     "kategorie:rechtsnormen",
-    "interoperabilität",
-    "digitale-barrierefreiheit",
+    "datenschutz",
+    "elektronische-patientenakte",
+    "medizinische-begriffe",
+    "kategorie:gesundheitssorge",
+    "vorsorgeregister",
+    "altenheim",
     "freier-wille",
-    "datenschutz"
+    "digitale-barrierefreiheit",
+    "vertreterzeugnis",
+    "heilbehandlung",
+    "medikationsplan",
+    "it-sicherheit",
+    "checkliste-gesundheitssorge",
+    "patientenverfügung",
+    "interoperabilität",
+    "zugriffsrecht",
+    "gesundheitliche-versorgungsplanung"
   ]
 }
