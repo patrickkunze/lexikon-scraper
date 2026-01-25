@@ -3416,7 +3416,6 @@
     "buchverzeichnis",
     "buchverzeichnis",
     "datenschutz",
-    "delegation",
     "ehefähigkeit",
     "ehefähigkeit",
     "eherecht",
@@ -6439,7 +6438,6 @@
     "betreuerpflichten",
     "betreuungsmanagement",
     "corona",
-    "delegation",
     "neu",
     "persönliches-budget",
     "selbstbestimmung"
@@ -8063,7 +8061,6 @@
     "betreuerbestellung",
     "betreuerhaftung",
     "datenschutz",
-    "delegation",
     "strafprozess"
   ],
   "rechtlich": [
@@ -8640,6 +8637,7 @@
   "elektronische": [
     "arztzeugnis",
     "befreiter-betreuer",
+    "delegation",
     "digitale-barrierefreiheit",
     "e-rechnung",
     "e-rezept",
@@ -8653,7 +8651,7 @@
     "medikationsplan",
     "medizinische-begriffe",
     "patientenverfügung",
-    "postkontrolle",
+    "persönliche-betreuung",
     "sachverständigengutachten",
     "schwerbehindertenausweis",
     "werkstatt-für-behinderte-menschen"
@@ -11039,6 +11037,7 @@
   ],
   "patientenakte": [
     "befreiter-betreuer",
+    "delegation",
     "elektronische-patientenakte",
     "genehmigung-der-heilbehandlung",
     "gesundheitliche-versorgungsplanung",
@@ -11057,6 +11056,7 @@
     "befreiter-betreuer",
     "informationspflicht",
     "medikationsplan",
+    "postkontrolle",
     "schweigepflicht",
     "vorsorgeregister"
   ],
@@ -11684,6 +11684,7 @@
   ],
   "notfalldaten": [
     "behindertenkonvention",
+    "delegation",
     "gesundheitliche-versorgungsplanung",
     "heilbehandlung",
     "heimmitarbeiter-als-betreuer",
@@ -20619,11 +20620,6 @@
   "ausweisrecht": [
     "personalausweis"
   ],
-  "zugangsrecht": [
-    "persönliche-betreuung",
-    "rechtsverkehr-in-deutschland",
-    "umgangsbestimmung"
-  ],
   "annette": [
     "persönliche-betreuung"
   ],
@@ -21031,6 +21027,10 @@
   ],
   "identitäten": [
     "rechtsverkehr-in-deutschland"
+  ],
+  "zugangsrecht": [
+    "rechtsverkehr-in-deutschland",
+    "umgangsbestimmung"
   ],
   "folge": [
     "registrierung"
