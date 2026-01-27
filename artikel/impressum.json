@@ -1,17 +1,22 @@
 {
   "id": "impressum",
   "titel": "Impressum",
-  "inhalt": "Siehe unten",
+  "inhalt": "Zum Impressum siehe unter:\n\nhttps://www.bgt-ev.de/impressum.html\n\n[Kategorie:Adressen](kategorie:adressen)",
   "struktur": [
     {
       "titel": "Einleitung",
-      "inhalt": "Siehe unten",
+      "inhalt": "Zum Impressum siehe unter:\n\nhttps://www.bgt-ev.de/impressum.html\n\nKategorie:Adressen",
       "tags": [
+        "impressum",
         "siehe",
-        "unten"
+        "unter",
+        "https",
+        "html"
       ]
     }
   ],
-  "zusammenfassung": "Siehe unten...",
-  "verwandteArtikel": []
+  "zusammenfassung": "Zum Impressum siehe unter:\n\nhttps://www.bgt-ev.de/impressum.html\n\n[Kategorie:Adressen](kategorie:adressen)...",
+  "verwandteArtikel": [
+    "kategorie:adressen"
+  ]
 }

@@ -1456,6 +1456,7 @@
     "geheimhaltungspflicht",
     "geldanlage",
     "genehmigungspflichten",
+    "gesetzessammlungen-betreuer.pdf",
     "gesetzgebung",
     "gesetzlicher-vertreter",
     "gesundheitliche-versorgungsplanung",
@@ -1821,7 +1822,6 @@
     "geschäftsfähigkeit",
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
-    "it-sicherheit",
     "krankenhaussozialdienst",
     "mitteilungspflicht",
     "mündelgeld",
@@ -3884,6 +3884,7 @@
     "eherecht-und-betreuung",
     "einwilligungsvorbehalt",
     "haftpflichtversicherung",
+    "impressum",
     "mailingliste",
     "meldepflicht",
     "mündelgeld",
@@ -8117,7 +8118,6 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "finanzamt",
-    "haftpflichtversicherung",
     "haftpflichtversicherung",
     "haftpflichtversicherung",
     "hauptseite",
@@ -14168,6 +14168,7 @@
     "betreuungsbehördengesetz",
     "betreuungsorganisationsgesetz",
     "datenschutz",
+    "it-sicherheit",
     "neu",
     "neu",
     "neu",
@@ -14473,6 +14474,7 @@
   ],
   "impressum": [
     "betreuungsrecht-lexikon:haftungsausschluss",
+    "impressum",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht"
   ],
   "haftungsausschluss": [
@@ -14880,6 +14882,7 @@
   ],
   "https": [
     "betreuungszahlen",
+    "impressum",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "persönliches-budget",
     "spielwiese",
@@ -16365,7 +16368,6 @@
   ],
   "angebot": [
     "eingliederungshilfe",
-    "haftpflichtversicherung",
     "neu"
   ],
   "düwell": [
@@ -18819,9 +18821,6 @@
   "haftungsübernahme": [
     "haftpflichtversicherung"
   ],
-  "versicherungsmakler": [
-    "haftpflichtversicherung"
-  ],
   "mustergliederung": [
     "hamburger-mustergliederung",
     "hamburger-mustergliederung",
@@ -19057,15 +19056,33 @@
     "it-sicherheit",
     "krankenhaussozialdienst"
   ],
-  "richtlinie": [
-    "it-sicherheit",
-    "neu"
-  ],
   "vorgabe": [
     "it-sicherheit"
   ],
-  "entsprechendes": [
-    "it-sicherheit"
+  "trat": [
+    "it-sicherheit",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "neu",
+    "organspende"
+  ],
+  "richtlinie": [
+    "it-sicherheit",
+    "neu"
   ],
   "cybersicherheit": [
     "it-sicherheit"
@@ -19079,7 +19096,7 @@
   "redirectgrundstück": [
     "immobilie"
   ],
-  "unten": [
+  "html": [
     "impressum"
   ],
   "informationspflichten": [
@@ -19978,26 +19995,6 @@
   ],
   "beitritt": [
     "neu"
-  ],
-  "trat": [
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "neu",
-    "organspende"
   ],
   "bundesdatenschutzgesetz": [
     "neu"

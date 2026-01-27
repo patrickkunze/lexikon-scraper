@@ -1,24 +1,26 @@
 {
   "id": "gesetzessammlungen-betreuer.pdf",
   "titel": "Gesetzessammlungen Betreuer.pdf",
-  "inhalt": "Siehe auch\n[Gesetzestexte](gesetzestexte)\n[Buchverzeichnis](buchverzeichnis)\n[Formulare](formulare)\n[Sachkundenachweis](sachkundenachweis)",
+  "inhalt": "Siehe auch\n[Gesetzestexte](gesetzestexte)\n[Buchverzeichnis](buchverzeichnis)\n[Formulare](formulare)\n[Sachkundenachweis](sachkundenachweis)\n\n[Kategorie:Arbeitshilfen](kategorie:arbeitshilfen)",
   "struktur": [
     {
       "titel": "Siehe auch",
-      "inhalt": "Gesetzestexte\nBuchverzeichnis\nFormulare\nSachkundenachweis",
+      "inhalt": "Gesetzestexte\nBuchverzeichnis\nFormulare\nSachkundenachweis\n\nKategorie:Arbeitshilfen",
       "tags": [
         "gesetzestexte",
         "buchverzeichnis",
         "formulare",
-        "sachkundenachweis"
+        "sachkundenachweis",
+        "kategorie"
       ]
     }
   ],
-  "zusammenfassung": "Siehe auch\n[Gesetzestexte](gesetzestexte)\n[Buchverzeichnis](buchverzeichnis)\n[Formulare](formulare)\n[Sachkundenachweis](sachkundenachweis)...",
+  "zusammenfassung": "Siehe auch\n[Gesetzestexte](gesetzestexte)\n[Buchverzeichnis](buchverzeichnis)\n[Formulare](formulare)\n[Sachkundenachweis](sachkundenachweis)\n\n[Kategorie:Arbeitshilfen](kategorie:arbeitshilfen)...",
   "verwandteArtikel": [
-    "sachkundenachweis",
+    "buchverzeichnis",
+    "kategorie:arbeitshilfen",
     "formulare",
-    "gesetzestexte",
-    "buchverzeichnis"
+    "sachkundenachweis",
+    "gesetzestexte"
   ]
 }
