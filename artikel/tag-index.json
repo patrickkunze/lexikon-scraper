@@ -2773,6 +2773,7 @@
     "tod-des-betreuten",
     "tod-des-betreuten",
     "tod-des-betreuten",
+    "umgangsbestimmung",
     "unfallversicherung",
     "unterbringung",
     "unterbringung",
@@ -3749,7 +3750,8 @@
   "bestimmung": [
     "alltagsgeschäfte",
     "kirchenaustritt",
-    "kirchenaustritt"
+    "kirchenaustritt",
+    "umgangsbestimmung"
   ],
   "betrifft": [
     "alltagsgeschäfte",
@@ -4420,6 +4422,7 @@
     "tod-des-betreuten",
     "tod-des-betreuten",
     "trennungsgebot",
+    "umgangsbestimmung",
     "umgangsbestimmung",
     "unterbringung",
     "unterbringungsverfahren",
@@ -5918,7 +5921,6 @@
     "sterbehilfe",
     "tierschutz",
     "umgangsbestimmung",
-    "umgangsbestimmung",
     "unterstützte-kommunikation",
     "unterstützte-kommunikation",
     "vereinsbetreuer",
@@ -6457,7 +6459,6 @@
     "betreuungsgericht",
     "gerichtsbeschluss",
     "gerichtskosten",
-    "gewaltschutzanordnung",
     "rechtsmittel",
     "rechtspfleger",
     "richter"
@@ -7212,6 +7213,7 @@
     "geschäftsfähigkeit",
     "gesetzestexte",
     "gesundheitsdatennutzungsgesetz",
+    "gewaltschutzanordnung",
     "girokonto",
     "globales-nachhaltigkeitsziel-10",
     "prozesspfleger",
@@ -7325,6 +7327,7 @@
     "kindschaftsrecht",
     "prozessführung",
     "prozessführung",
+    "umgangsbestimmung",
     "unterbringungsverfahren",
     "unterbringungsverfahren",
     "verfahrensfähigkeit",
@@ -12730,6 +12733,7 @@
     "rechtsanwalt",
     "spielwiese",
     "strafprozess",
+    "umgangsbestimmung",
     "unterbringungsähnliche-maßnahme"
   ],
   "betreuerin": [
@@ -12783,7 +12787,6 @@
     "elektronische-patientenakte",
     "föderalismus",
     "gesundheitsdatennutzungsgesetz",
-    "gewaltschutzanordnung",
     "it-sicherheit",
     "medikationsplan",
     "mitteilungspflicht",
@@ -14642,6 +14645,7 @@
   ],
   "diskriminierungsverbot": [
     "betreuungsverein",
+    "gewaltschutzanordnung",
     "inklusionsbetrieb",
     "kindschaftsrecht",
     "kirchenaustritt",
@@ -22153,6 +22157,9 @@
     "umgangsbestimmung"
   ],
   "umgangsbestimmungsrecht": [
+    "umgangsbestimmung"
+  ],
+  "umgangs": [
     "umgangsbestimmung"
   ],
   "engelfried": [
