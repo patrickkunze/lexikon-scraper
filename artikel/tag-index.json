@@ -8828,7 +8828,6 @@
   ],
   "persönliches": [
     "assistenzleistungen",
-    "ergänzungsbetreuer",
     "gesamtplanverfahren",
     "persönliches-budget",
     "selbstverwaltungserklärung"
@@ -17135,6 +17134,18 @@
     "stundensatz",
     "tandembetreuung"
   ],
+  "testierfähigkeit": [
+    "ergänzungsbetreuer",
+    "geschäftsfähigkeit",
+    "testierfähigkeit",
+    "testierfähigkeit",
+    "testierfähigkeit",
+    "testierfähigkeit",
+    "testierfähigkeit",
+    "testierfähigkeit",
+    "testierfähigkeit",
+    "testierfähigkeit"
+  ],
   "anmerkung": [
     "ergänzungsbetreuer",
     "neu",
@@ -18092,17 +18103,6 @@
   ],
   "geschäfts": [
     "geschäftsfähigkeit",
-    "testierfähigkeit"
-  ],
-  "testierfähigkeit": [
-    "geschäftsfähigkeit",
-    "testierfähigkeit",
-    "testierfähigkeit",
-    "testierfähigkeit",
-    "testierfähigkeit",
-    "testierfähigkeit",
-    "testierfähigkeit",
-    "testierfähigkeit",
     "testierfähigkeit"
   ],
   "stichwort": [
