@@ -8994,6 +8994,7 @@
   ],
   "wille": [
     "aufenthaltsbestimmung",
+    "betreuerwechsel",
     "betreuungsverfügung",
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
@@ -10800,7 +10801,6 @@
   "anordnung": [
     "beaufsichtigung",
     "betreuerausweis",
-    "betreuerwechsel",
     "betreuungsvoraussetzung",
     "eilfälle",
     "einstweilige-anordnung",
@@ -13939,19 +13939,14 @@
     "betreuerwechsel",
     "gerichtsbeschluss"
   ],
-  "einstweilige": [
+  "natürlicher": [
     "betreuerwechsel",
-    "betreuungsvoraussetzung",
-    "eilfälle",
-    "einstweilige-anordnung",
-    "einstweilige-anordnung",
-    "familienverfahrensgesetz",
-    "gesetzestexte",
-    "unterbringungsverfahren",
-    "vorläufiger-betreuer",
-    "vorläufiger-betreuer",
-    "vorläufiger-betreuer",
-    "zwangsbehandlung"
+    "betreuungsverfügung",
+    "eherecht-und-betreuung",
+    "gesundheitssorge",
+    "intellektuelle-beeinträchtigung",
+    "testierfähigkeit",
+    "unterstützte-kommunikation"
   ],
   "ausfüllen": [
     "betreuerwechsel"
@@ -14796,14 +14791,6 @@
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz"
   ],
-  "natürlicher": [
-    "betreuungsverfügung",
-    "eherecht-und-betreuung",
-    "gesundheitssorge",
-    "intellektuelle-beeinträchtigung",
-    "testierfähigkeit",
-    "unterstützte-kommunikation"
-  ],
   "blaß": [
     "betreuungsverfügung"
   ],
@@ -14860,6 +14847,19 @@
   ],
   "psychische": [
     "betreuungsvoraussetzung"
+  ],
+  "einstweilige": [
+    "betreuungsvoraussetzung",
+    "eilfälle",
+    "einstweilige-anordnung",
+    "einstweilige-anordnung",
+    "familienverfahrensgesetz",
+    "gesetzestexte",
+    "unterbringungsverfahren",
+    "vorläufiger-betreuer",
+    "vorläufiger-betreuer",
+    "vorläufiger-betreuer",
+    "zwangsbehandlung"
   ],
   "bäuml": [
     "betreuungsvoraussetzung",
