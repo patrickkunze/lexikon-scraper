@@ -468,6 +468,7 @@
     "eidesstattliche-versicherung",
     "eingliederungshilfe",
     "einstweilige-anordnung",
+    "einstweilige-anordnung",
     "einverständniserklärung",
     "einverständniserklärung",
     "einverständniserklärung",
@@ -1548,7 +1549,6 @@
     "verfahrensbeteiligte",
     "verfahrensfähigkeit",
     "verfahrenspfleger",
-    "verlängerung-der-betreuung",
     "vermögenssorge",
     "vermögensverzeichnis",
     "verpflichtungsgespräch",
@@ -5135,7 +5135,6 @@
     "verhältnismäßigkeitsprinzip",
     "verhältnismäßigkeitsprinzip",
     "vertretung-gegenüber-behörden",
-    "vorläufiger-betreuer",
     "wahlrecht",
     "werkstatt-für-behinderte-menschen",
     "wohnungsangelegenheiten",
@@ -5749,7 +5748,6 @@
     "verfahrenspfleger",
     "verfahrenspfleger",
     "verfahrenspfleger",
-    "verlängerung-der-betreuung",
     "verlängerung-der-betreuung",
     "verpflichtungsgespräch",
     "vertrauensperson",
@@ -9002,7 +9000,6 @@
     "digitale-barrierefreiheit",
     "ehefähigkeit",
     "eherecht-und-betreuung",
-    "einstweilige-anordnung",
     "einwilligungsvorbehalt",
     "erörterungsgespräch",
     "freier-wille",
@@ -10430,7 +10427,6 @@
     "bundesverband-freier-berufsbetreuer",
     "bundesverband-freier-berufsbetreuer",
     "digitale-barrierefreiheit",
-    "einstweilige-anordnung",
     "einwilligungsvorbehalt",
     "geschäftsfähigkeit",
     "grundstück",
@@ -10814,6 +10810,7 @@
     "unterbringungsverfahren",
     "unterbringungsverfahren",
     "verlängerung-der-betreuung",
+    "verlängerung-der-betreuung",
     "vorführung",
     "vorläufiger-betreuer",
     "vorläufiger-betreuer",
@@ -10976,6 +10973,8 @@
     "betreuungsgesetz",
     "betreuungsgesetz",
     "btg",
+    "verlängerung-der-betreuung",
+    "vorläufiger-betreuer",
     "vormundschaftsgericht",
     "vorsorgevollmacht"
   ],
@@ -16448,6 +16447,11 @@
     "einstweilige-anordnung",
     "zwangsbehandlung"
   ],
+  "vorläufiger": [
+    "einstweilige-anordnung",
+    "gerichtskosten",
+    "stundensatz"
+  ],
   "anordnungen": [
     "einstweilige-anordnung",
     "vorläufiger-betreuer"
@@ -17269,7 +17273,6 @@
   ],
   "betreuungskosten": [
     "finanzamt",
-    "gerichtskosten",
     "steuern"
   ],
   "betreuerschmiede": [
@@ -21987,9 +21990,6 @@
     "stundensatz"
   ],
   "angegeben": [
-    "stundensatz"
-  ],
-  "vorläufiger": [
     "stundensatz"
   ],
   "subsidiäre": [
