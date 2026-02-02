@@ -2901,6 +2901,7 @@
     "neu",
     "neu",
     "neu",
+    "neu",
     "organspende",
     "organspende",
     "peg-sonde",
@@ -3863,6 +3864,7 @@
     "regress-der-staatskasse",
     "selbstbestimmung",
     "selbstbestimmung",
+    "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme",
     "unterbringungsähnliche-maßnahme",
@@ -5907,6 +5909,7 @@
     "hamburger-mustergliederung",
     "hauptseite",
     "jahresbericht",
+    "neu",
     "notfalldaten",
     "online-lexikon-betreuungsrecht:datenschutz",
     "ordre-public",
@@ -6699,7 +6702,6 @@
     "einverständniserklärung",
     "einwilligungsfähigkeit",
     "kontrollbetreuer",
-    "unterbringung",
     "vorsorgevollmacht"
   ],
   "sein": [
@@ -11183,6 +11185,7 @@
   ],
   "seinen": [
     "beglaubigung-durch-betreuungsbehörde",
+    "unterbringung",
     "unterbringungsähnliche-maßnahme",
     "vorsorgevollmacht"
   ],
@@ -11264,6 +11267,7 @@
     "beglaubigung-durch-betreuungsbehörde",
     "betreuerpflichten",
     "genehmigungspflichten",
+    "neu",
     "patientenverfügung",
     "sterbehilfe",
     "sterbehilfe",
@@ -12476,7 +12480,6 @@
     "elektronischer-identitätsnachweis",
     "gesetzliche-vertretung",
     "personalausweis",
-    "rechtsverkehr-in-deutschland",
     "zugriffsrecht"
   ],
   "ehrenamtlicher": [
@@ -12849,7 +12852,6 @@
     "mittellosigkeit",
     "postkontrolle",
     "rechtsanwalt",
-    "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsverfahren",
     "verfahrensfähigkeit",
@@ -14074,6 +14076,7 @@
   "zuführung": [
     "betreuungsbehörde",
     "querschnittsaufgaben",
+    "rechtsverkehr-in-deutschland",
     "unterbringungsverfahren",
     "vorführung",
     "wohnungsangelegenheiten",
@@ -20088,6 +20091,16 @@
   "völker": [
     "neu"
   ],
+  "wohnungsöffnung": [
+    "neu",
+    "vorführung",
+    "zuführung-zur-unterbringung"
+  ],
+  "gewaltanwendung": [
+    "neu",
+    "zuführung-zur-unterbringung",
+    "zuführung-zur-unterbringung"
+  ],
   "patientenrechtegesetzes": [
     "neu"
   ],
@@ -22894,10 +22907,6 @@
   "gewalt": [
     "vorführung"
   ],
-  "wohnungsöffnung": [
-    "vorführung",
-    "zuführung-zur-unterbringung"
-  ],
   "vorführungen": [
     "vorführung"
   ],
@@ -23225,10 +23234,6 @@
     "zeitschrift-für-professionelle-betreuungsarbeit"
   ],
   "unterbringungseinrichtung": [
-    "zuführung-zur-unterbringung"
-  ],
-  "gewaltanwendung": [
-    "zuführung-zur-unterbringung",
     "zuführung-zur-unterbringung"
   ],
   "freising": [
