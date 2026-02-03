@@ -869,7 +869,6 @@
     "prozessführung",
     "psychisch-kranken-gesetz",
     "rechtsmittel",
-    "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zur-anhörung",
     "rechtsverkehr-in-deutschland",
     "rechtsweg-in-deutschland",
@@ -3334,7 +3333,6 @@
     "betreuungszahlen",
     "datenschutz",
     "rechtspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
     "sachverständigengutachten",
     "verfahrensbeteiligte",
     "vormundschaftsgericht"
@@ -7218,9 +7216,12 @@
     "globales-nachhaltigkeitsziel-10",
     "prozesspfleger",
     "rechtsanwalt",
+    "rechtsanwalt",
     "rechtsprechung",
     "rechtsprechung",
     "rechtsprechung-zum-sachverständigengutachten",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zur-unterbringung",
     "rechtsweg-in-deutschland",
     "sachverständigengutachten",
     "unterbringungsähnliche-maßnahme",
@@ -8907,6 +8908,7 @@
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz",
     "querschnittsaufgaben",
+    "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zur-unterbringung",
     "unterbringung",
     "unterbringung",
@@ -9250,7 +9252,6 @@
     "mahnverfahren",
     "prozessfähigkeit",
     "prozesspfleger",
-    "rechtsanwalt",
     "verfahrensfähigkeit"
   ],
   "lütgens": [
@@ -10753,6 +10754,7 @@
     "gesetzestexte",
     "girokonto",
     "hamburger-mustergliederung",
+    "rechnungslegung",
     "rechnungslegung",
     "rechnungslegung",
     "rechnungslegung",
@@ -18370,8 +18372,7 @@
     "neu"
   ],
   "konkrete": [
-    "gesundheitsdatennutzungsgesetz",
-    "rechnungslegung"
+    "gesundheitsdatennutzungsgesetz"
   ],
   "belange": [
     "gesundheitsdatennutzungsgesetz"
@@ -21017,13 +21018,6 @@
   "entscheiden": [
     "rechtsprechung-zur-unterbringung"
   ],
-  "strafprozess": [
-    "rechtsprechung-zur-unterbringung",
-    "schuldfähigkeit",
-    "strafanzeige",
-    "strafverfahren",
-    "waffenbesitz"
-  ],
   "einzelner": [
     "rechtsverkehr-in-deutschland"
   ],
@@ -21362,6 +21356,12 @@
   ],
   "anspruchsberechtigte": [
     "schlusstätigkeiten"
+  ],
+  "strafprozess": [
+    "schuldfähigkeit",
+    "strafanzeige",
+    "strafverfahren",
+    "waffenbesitz"
   ],
   "keinerlei": [
     "schweigepflicht"
