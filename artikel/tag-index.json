@@ -554,6 +554,7 @@
     "kontrollbetreuer",
     "krankenversicherung",
     "krankenversicherung",
+    "mahnverfahren",
     "medizinische-begriffe",
     "mehrfachbetreuung",
     "meldepflicht",
@@ -606,7 +607,6 @@
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz",
     "querschnittsaufgaben",
-    "rechnungslegung",
     "rechnungslegung",
     "rechnungslegung",
     "rechnungslegung",
@@ -1172,7 +1172,6 @@
     "anhörung",
     "anregung-der-betreuerbestellung",
     "arztzeugnis",
-    "aufgabenkreis",
     "aufgabenkreis",
     "aufhebung-der-betreuung",
     "aufhebung-der-betreuung",
@@ -2032,7 +2031,6 @@
     "kindschaftsrecht",
     "kontrollbetreuer",
     "kontrollbetreuer",
-    "mahnverfahren",
     "mitteilungspflicht",
     "mittellosigkeit",
     "mittellosigkeit",
@@ -2235,6 +2233,7 @@
     "arbeitsvertrag",
     "arbeitsvertrag",
     "aufenthaltsbestimmung",
+    "aufgabenkreis",
     "aufgabenkreis",
     "aufgabenkreis",
     "aufhebung-der-betreuung",
@@ -3030,6 +3029,7 @@
     "heilbehandlung",
     "jahresbericht",
     "kirchenaustritt",
+    "mahnverfahren",
     "mittellosigkeit",
     "mittellosigkeit",
     "mittellosigkeit",
@@ -4083,7 +4083,6 @@
     "aufenthaltsbestimmung",
     "aufgabenbereich",
     "aufgabenkreis",
-    "aufgabenkreis",
     "aufgabenkreise",
     "beaufsichtigung",
     "bestellung-mehrerer-betreuer",
@@ -4100,6 +4099,7 @@
     "erbschaft",
     "heilbehandlung",
     "kirchenaustritt",
+    "meldepflicht",
     "pflegeversicherung",
     "prozessführung",
     "prozessführung",
@@ -4835,6 +4835,7 @@
     "prozesspfleger",
     "psychisch-kranken-gesetz",
     "rechnungslegung",
+    "rechnungslegung",
     "rechtsmittel",
     "rechtsmittel",
     "rechtsprechung-zum-sachverständigengutachten",
@@ -5196,6 +5197,7 @@
     "inklusionsbetrieb",
     "mdk-gutachten",
     "rundfunkbeitrag",
+    "verbraucherstreitbeilegung",
     "werkstatt-für-behinderte-menschen"
   ],
   "rechtstipp": [
@@ -6721,6 +6723,7 @@
     "eherecht-und-betreuung",
     "geschäftsfähigkeit",
     "informationspflicht",
+    "mahnverfahren",
     "patientenverfügung",
     "personalausweis",
     "rechtsweg-in-deutschland",
@@ -6879,7 +6882,6 @@
     "gerichtskosten",
     "haager-übereinkommen",
     "hauptseite",
-    "nutzungspflicht",
     "schlussrechnungslegung",
     "verfahrenspfleger",
     "vorsorgevollmacht",
@@ -7453,6 +7455,7 @@
   "aufgabenbereich": [
     "anlagegeld",
     "arbeitsvertrag",
+    "aufgabenkreis",
     "gesundheitssorge",
     "wohnungsangelegenheiten"
   ],
@@ -8044,6 +8047,7 @@
     "heilbehandlung",
     "krankenversicherung",
     "mitwirkungspflicht",
+    "nutzungspflicht",
     "prozessführung",
     "prozessführung",
     "rechtsanwalt",
@@ -8279,7 +8283,6 @@
     "eidesstattliche-versicherung",
     "freibetrag",
     "inklusionsbetrieb",
-    "nutzungspflicht",
     "regress-der-staatskasse",
     "zug-um-zug-leistung"
   ],
@@ -8810,7 +8813,6 @@
     "kirchenaustritt",
     "sozialhilfe",
     "unterstützungspflicht",
-    "verbraucherstreitbeilegung",
     "wohn--und-betreuungsvertragsgesetz",
     "zugangsrecht"
   ],
@@ -9051,6 +9053,14 @@
     "sachverständigengutachten",
     "schenkung"
   ],
+  "aufgabenbereiche": [
+    "aufgabenkreis",
+    "aufgabenkreis",
+    "aufgabenkreis",
+    "aufgabenkreis",
+    "aufhebung-der-betreuung",
+    "finanzamt"
+  ],
   "gesetz": [
     "aufgabenkreis",
     "betreuer-(ehrenamt)",
@@ -9094,15 +9104,6 @@
   "mögliche": [
     "aufgabenkreis",
     "natürlicher-wille"
-  ],
-  "aufgabenkreise": [
-    "aufgabenkreis",
-    "aufgabenkreis",
-    "gesundheitssorge",
-    "heimangelegenheiten",
-    "mietvertragsangelegenheiten",
-    "strafverfahren",
-    "vaterschaftsfeststellung"
   ],
   "speziell": [
     "aufgabenkreis"
@@ -9216,15 +9217,19 @@
     "eidesstattliche-versicherung",
     "prozessführung"
   ],
-  "aufgabenbereiche": [
-    "aufgabenkreis",
-    "aufhebung-der-betreuung",
-    "finanzamt"
-  ],
   "erweiterung": [
     "aufgabenkreis",
     "betreuungssache",
     "haager-übereinkommen"
+  ],
+  "objekte": [
+    "aufgabenkreis"
+  ],
+  "menge": [
+    "aufgabenkreis"
+  ],
+  "heißen": [
+    "aufgabenkreis"
   ],
   "ordre": [
     "aufgabenkreis",
@@ -9301,6 +9306,14 @@
     "rechtsanwalt",
     "rechtsanwalt",
     "verfahrenspfleger"
+  ],
+  "aufgabenkreise": [
+    "aufgabenkreis",
+    "gesundheitssorge",
+    "heimangelegenheiten",
+    "mietvertragsangelegenheiten",
+    "strafverfahren",
+    "vaterschaftsfeststellung"
   ],
   "aufhebung": [
     "aufhebung",
@@ -13383,6 +13396,7 @@
     "erbschaft",
     "familienverfahrensgesetz",
     "gesetzestexte",
+    "mahnverfahren",
     "rechtsmittel"
   ],
   "vergütungsanspruch": [
@@ -15622,6 +15636,7 @@
     "genehmigung-der-heilbehandlung",
     "gerichtskosten",
     "kindschaftsrecht",
+    "nutzungspflicht",
     "prozesspfleger",
     "rechtsanwalt",
     "rechtsanwalt",
@@ -17720,7 +17735,6 @@
   "liegt": [
     "genehmigung-der-heilbehandlung",
     "heilbehandlung",
-    "meldepflicht",
     "schenkung",
     "testierfähigkeit"
   ],
@@ -19703,6 +19717,9 @@
     "verfahrensfähigkeit",
     "vertretung-gegenüber-behörden"
   ],
+  "rechtsmittelfrist": [
+    "mahnverfahren"
+  ],
   "zustellung": [
     "mahnverfahren",
     "mahnverfahren",
@@ -19713,7 +19730,11 @@
     "vertretung-gegenüber-behörden",
     "zwangsvollstreckung"
   ],
-  "rechtsmittelfrist": [
+  "partei": [
+    "mahnverfahren",
+    "prozessführung"
+  ],
+  "erkennbar": [
     "mahnverfahren"
   ],
   "nähere": [
@@ -20759,9 +20780,6 @@
   "verfahrensgebühr": [
     "prozessführung",
     "vertretung-gegenüber-behörden"
-  ],
-  "partei": [
-    "prozessführung"
   ],
   "beratungshilfe": [
     "prozessführung"
