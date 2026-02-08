@@ -1669,6 +1669,7 @@
     "abschlussbericht",
     "beaufsichtigung",
     "beglaubigung-durch-betreuungsbehörde",
+    "beglaubigung-durch-betreuungsbehörde",
     "behördenbetreuer",
     "betreuervorschlag",
     "betreuungsbehörde",
@@ -3347,6 +3348,7 @@
     "anfangsgespräch",
     "anfangsgespräch",
     "angehörigenvertretungsrecht",
+    "anlagegeld",
     "arbeitsvertrag",
     "aufgabenkreis",
     "aufhebung",
@@ -3434,6 +3436,7 @@
     "erbschaft",
     "finanzamt",
     "freier-wille",
+    "geldanlage",
     "gerichtsbeschluss",
     "gerichtskosten",
     "gerichtskosten",
@@ -3442,6 +3445,7 @@
     "gesetzestexte",
     "gesetzestexte",
     "gesetzlicher-vertreter",
+    "girokonto",
     "girokonto",
     "grundrechte",
     "grundrechte",
@@ -3494,6 +3498,7 @@
     "vereinsbetreuer",
     "verfahrensfähigkeit",
     "verlängerung-der-betreuung",
+    "vermögenssorge",
     "vermögenssorge",
     "vertretung-gegenüber-behörden",
     "vertretung-gegenüber-behörden",
@@ -3850,7 +3855,6 @@
     "erbschaft",
     "gesetzliche-vertretung",
     "gesetzliche-vertretung",
-    "girokonto",
     "heilbehandlung",
     "mittellosigkeit",
     "mittellosigkeit",
@@ -7754,6 +7758,19 @@
     "zwangsbehandlung",
     "zwangsvollstreckung"
   ],
+  "leitfaden": [
+    "anlagegeld",
+    "geldanlage",
+    "girokonto",
+    "unterbringung",
+    "vermögenssorge"
+  ],
+  "bankverkehr": [
+    "anlagegeld",
+    "geldanlage",
+    "girokonto",
+    "vermögenssorge"
+  ],
   "isbn": [
     "anlagegeld",
     "aufenthaltsbestimmung",
@@ -7931,12 +7948,10 @@
   "beck": [
     "anlagegeld",
     "beaufsichtigung",
-    "betreuungsrechtsreform",
-    "girokonto"
+    "betreuungsrechtsreform"
   ],
   "fernkurse": [
-    "anlagegeld",
-    "girokonto"
+    "anlagegeld"
   ],
   "formulierungshilfe": [
     "anlagegeld",
@@ -9287,7 +9302,6 @@
   "harm": [
     "aufgabenkreis",
     "gesetzliche-vertretung",
-    "vermögenssorge",
     "verpflichtungsgespräch",
     "vormundschaftsgericht",
     "wohnungsauflösung"
@@ -11379,7 +11393,6 @@
   "unterschriftsbeglaubigung": [
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
-    "beglaubigung-durch-betreuungsbehörde",
     "vorsorgevollmacht---vertiefte-infos"
   ],
   "kreis": [
@@ -11465,7 +11478,6 @@
     "schlussbericht",
     "test",
     "vereinsbetreuer",
-    "vermögenssorge",
     "vermögenssorge"
   ],
   "beglaubigungsbefugnis": [
@@ -11482,10 +11494,7 @@
     "beglaubigung-durch-betreuungsbehörde",
     "gesetzestexte"
   ],
-  "berliner": [
-    "beglaubigung-durch-betreuungsbehörde"
-  ],
-  "ausführungsvorschriften": [
+  "vereine": [
     "beglaubigung-durch-betreuungsbehörde"
   ],
   "beglaubigte": [
@@ -22276,9 +22285,6 @@
     "unterbringung",
     "unterbringungsverfahren"
   ],
-  "leitfaden": [
-    "unterbringung"
-  ],
   "psychiatriekritsiche": [
     "unterbringung"
   ],
@@ -22718,9 +22724,6 @@
     "vermögenssorge"
   ],
   "jochum": [
-    "vermögenssorge"
-  ],
-  "juraforum": [
     "vermögenssorge"
   ],
   "anschreiben": [
