@@ -3984,6 +3984,7 @@
     "ausstattung",
     "betreuerhaftung",
     "gesetzestexte",
+    "insichgeschäft",
     "schenkung",
     "schenkung",
     "schenkung",
@@ -7158,6 +7159,8 @@
     "anhörung",
     "betreuungsverfahren",
     "grundrechte",
+    "unterbringungsverfahren",
+    "vorführung",
     "vorführung",
     "vorführung",
     "vorführung",
@@ -7763,7 +7766,9 @@
     "geldanlage",
     "girokonto",
     "unterbringung",
-    "vermögenssorge"
+    "unterbringungsverfahren",
+    "vermögenssorge",
+    "vorführung"
   ],
   "bankverkehr": [
     "anlagegeld",
@@ -8946,8 +8951,10 @@
     "unterbringungsverfahren",
     "unterbringungsverfahren",
     "unterbringungsverfahren",
+    "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme",
     "vereinsbetreuer",
+    "vorführung",
     "vorführung",
     "vorführung",
     "vormundschaftsgericht",
@@ -9019,6 +9026,7 @@
     "betreuungsvoraussetzung",
     "buchverzeichnis",
     "digitale-barrierefreiheit",
+    "drittes-betreuungsrechtsänderungsgesetz",
     "ehefähigkeit",
     "eherecht-und-betreuung",
     "einwilligungsvorbehalt",
@@ -12475,7 +12483,6 @@
   ],
   "ergänzungsbetreuer": [
     "bestellung-mehrerer-betreuer",
-    "insichgeschäft",
     "rechtsanwalt",
     "verhinderungsbetreuer"
   ],
@@ -13705,8 +13712,7 @@
     "gerichtsbeschluss",
     "gesetzestexte",
     "vbvg",
-    "vbvg-rechtsprechung",
-    "vormünder--und-betreuervergütungsgesetz"
+    "vbvg-rechtsprechung"
   ],
   "ermessensvergütung": [
     "betreuervergütung-2019",
@@ -14204,6 +14210,7 @@
     "neu",
     "neu",
     "vormundschaftsgericht",
+    "vormünder--und-betreuervergütungsgesetz",
     "wohn--und-betreuungsvertragsgesetz",
     "zweites-betreuungsrechtsänderungsgesetz"
   ],
@@ -16023,10 +16030,6 @@
     "drittes-betreuungsrechtsänderungsgesetz",
     "erbausschlagung"
   ],
-  "gesetzesbegründung": [
-    "drittes-betreuungsrechtsänderungsgesetz",
-    "familienverfahrensgesetz"
-  ],
   "drittes": [
     "drittes-betreuungsrechtsänderungsgesetz"
   ],
@@ -17283,6 +17286,9 @@
     "rechtsmittel",
     "rechtsprechung",
     "sterbehilfedokumente"
+  ],
+  "gesetzesbegründung": [
+    "familienverfahrensgesetz"
   ],
   "gesetzessammlung": [
     "familienverfahrensgesetz"
@@ -22399,20 +22405,17 @@
   ],
   "unmittelbarem": [
     "unterbringungsähnliche-maßnahme",
-    "vorführung",
     "zuführung-zur-unterbringung",
     "zwangsbehandlung"
   ],
   "zwang": [
     "unterbringungsähnliche-maßnahme",
-    "vorführung",
     "zuführung-zur-unterbringung",
     "zwangsbehandlung",
     "zwangsbehandlung"
   ],
   "fesselung": [
     "unterbringungsähnliche-maßnahme",
-    "vorführung",
     "zuführung-zur-unterbringung",
     "zwangsbehandlung"
   ],
