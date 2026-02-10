@@ -8106,7 +8106,6 @@
     "anzeigepflicht",
     "datenschutz",
     "schweigepflicht",
-    "vertreterdokumentation",
     "zeugnisverweigerungsrecht"
   ],
   "anzuzeigen": [
@@ -8839,7 +8838,6 @@
   "geheimhaltungspflicht": [
     "assistenzleistungen",
     "inklusionsbetrieb",
-    "vertreterdokumentation",
     "werkstatt-für-behinderte-menschen"
   ],
   "gesamtplanverfahren": [
@@ -9046,6 +9044,7 @@
     "testierfähigkeit",
     "unterstützte-kommunikation",
     "vereinbarung-über-begleitung-und-unterstützung",
+    "vertreterdokumentation",
     "vulnerabilität",
     "wahlrecht"
   ],
@@ -10455,6 +10454,7 @@
     "gesundheitsdatennutzungsgesetz",
     "insichgeschäft",
     "patientenverfügungsgesetz",
+    "synopse-patientenverfügungsgesetze",
     "vbvg"
   ],
   "freier": [
@@ -10473,6 +10473,7 @@
     "subsidiaritätsprinzip",
     "testierfähigkeit",
     "verband-freiberuflicher-betreuer",
+    "vertreterdokumentation",
     "vulnerabilität"
   ],
   "baden": [
@@ -11284,6 +11285,8 @@
     "sterbehilfedokumente",
     "sterbehilfedokumente",
     "synopse-patientenverfügungsgesetze",
+    "synopse-patientenverfügungsgesetze",
+    "vertreterdokumentation",
     "vertreterdokumentation",
     "vorsorgeregisterverordnung",
     "vorsorgevollmacht",
@@ -11625,8 +11628,7 @@
     "erörterungsgespräch",
     "genehmigung-der-heilbehandlung",
     "it-sicherheit",
-    "patientenverfügung",
-    "vertreterdokumentation"
+    "patientenverfügung"
   ],
   "heilbehandlung": [
     "behandlungsvertrag",
@@ -12825,8 +12827,7 @@
     "neu",
     "notfalldaten",
     "personalausweis",
-    "schweigepflicht",
-    "vertreterdokumentation"
+    "schweigepflicht"
   ],
   "elektronischer": [
     "betreuerausweis",
@@ -13128,7 +13129,6 @@
     "betreuerpflichten",
     "betreuungsbehördengesetz",
     "rechtsprechung",
-    "synopse-patientenverfügungsgesetze",
     "vermögenssorge"
   ],
   "zahlungsansprüche": [
@@ -13977,7 +13977,8 @@
     "gesundheitssorge",
     "intellektuelle-beeinträchtigung",
     "testierfähigkeit",
-    "unterstützte-kommunikation"
+    "unterstützte-kommunikation",
+    "vertreterdokumentation"
   ],
   "ausfüllen": [
     "betreuerwechsel"
@@ -16424,7 +16425,8 @@
     "unterstützte-entscheidungsfindung",
     "unterstützte-kommunikation",
     "unterstützte-kommunikation",
-    "vertrauensperson"
+    "vertrauensperson",
+    "vertreterdokumentation"
   ],
   "umsetzungebegleitung": [
     "eingliederungshilfe"
@@ -18384,8 +18386,7 @@
   ],
   "advance": [
     "gesundheitliche-versorgungsplanung",
-    "neu",
-    "vertreterdokumentation"
+    "neu"
   ],
   "care": [
     "gesundheitliche-versorgungsplanung"
@@ -20632,7 +20633,8 @@
     "patientenverfügung"
   ],
   "betreuungsalternativen": [
-    "patientenverfügung"
+    "patientenverfügung",
+    "synopse-patientenverfügungsgesetze"
   ],
   "beinhaltet": [
     "patientenvertreter"
@@ -21886,8 +21888,7 @@
     "sterbehilfedokumente"
   ],
   "begründung": [
-    "sterbehilfedokumente",
-    "synopse-patientenverfügungsgesetze"
+    "sterbehilfedokumente"
   ],
   "verlinkungen": [
     "sterbehilfedokumente"
@@ -22056,10 +22057,7 @@
   "kompletter": [
     "synopse-patientenverfügungsgesetze"
   ],
-  "volltexte": [
-    "synopse-patientenverfügungsgesetze"
-  ],
-  "entwürfe": [
+  "ethikzentrum": [
     "synopse-patientenverfügungsgesetze"
   ],
   "wirtschaft": [
