@@ -455,6 +455,7 @@
     "datenschutz",
     "datenschutz",
     "datenschutz",
+    "datenschutz",
     "delegation",
     "delegation",
     "ehefähigkeit",
@@ -968,6 +969,7 @@
     "betreuungsvoraussetzung",
     "corona",
     "corona",
+    "datenschutz",
     "datenschutz",
     "datenschutz",
     "diskriminierungsverbot",
@@ -1983,7 +1985,6 @@
     "betreuungsverein",
     "betreuungsverfügung",
     "betreuungsvoraussetzung",
-    "datenschutz",
     "ehefähigkeit",
     "eherecht-und-betreuung",
     "eherecht-und-betreuung",
@@ -2610,6 +2611,7 @@
     "datenschutz",
     "datenschutz",
     "datenschutz",
+    "datenschutz",
     "dokumentationspflicht",
     "ehefähigkeit",
     "ehefähigkeit",
@@ -2867,6 +2869,7 @@
     "betreuungsrichter",
     "betreuungsverein",
     "checkliste-vermögenssorge",
+    "datenschutz",
     "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
@@ -5241,7 +5244,6 @@
     "betreuerpflichten",
     "betreuerregistrierungsverordnung",
     "betreuungsbehörde",
-    "betreuungsbehördengesetz",
     "betreuungsgerichtshilfe",
     "betreuungskosten-im-steuerrecht",
     "betreuungsverein",
@@ -6583,6 +6585,7 @@
     "beglaubigung-durch-betreuungsbehörde",
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
+    "datenschutz",
     "gegenbetreuer",
     "gegenbetreuer",
     "gesetzliche-vertretung",
@@ -9270,6 +9273,23 @@
     "tierschutz",
     "unterstützte-entscheidungsfindung",
     "waffenbesitz"
+  ],
+  "datenschutz": [
+    "aufgabenkreis",
+    "betreuerausweis",
+    "datenschutz",
+    "datenschutz",
+    "e-rezept",
+    "elektronische-patientenakte",
+    "föderalismus",
+    "gesundheitsdatennutzungsgesetz",
+    "it-sicherheit",
+    "medikationsplan",
+    "mitteilungspflicht",
+    "neu",
+    "notfalldaten",
+    "personalausweis",
+    "schweigepflicht"
   ],
   "prozessführung": [
     "aufgabenkreis",
@@ -12773,6 +12793,7 @@
   "betreuerin": [
     "betreuerausweis",
     "datenschutz",
+    "datenschutz",
     "gerichtsbeschluss",
     "verfahrensfähigkeit"
   ],
@@ -12812,22 +12833,6 @@
     "it-sicherheit",
     "medikationsplan",
     "ordre-public"
-  ],
-  "datenschutz": [
-    "betreuerausweis",
-    "datenschutz",
-    "datenschutz",
-    "e-rezept",
-    "elektronische-patientenakte",
-    "föderalismus",
-    "gesundheitsdatennutzungsgesetz",
-    "it-sicherheit",
-    "medikationsplan",
-    "mitteilungspflicht",
-    "neu",
-    "notfalldaten",
-    "personalausweis",
-    "schweigepflicht"
   ],
   "elektronischer": [
     "betreuerausweis",
@@ -13743,7 +13748,6 @@
   "köln": [
     "betreuervergütung-2019",
     "betreuungsbehörde",
-    "betreuungsbehördengesetz",
     "betreuungsgerichtshilfe",
     "buchverzeichnis",
     "buchverzeichnis",
@@ -14116,19 +14120,16 @@
   ],
   "ansen": [
     "betreuungsbehörde",
-    "betreuungsbehördengesetz",
     "betreuungsgerichtshilfe",
     "buchverzeichnis"
   ],
   "sozialdiagnostik": [
     "betreuungsbehörde",
-    "betreuungsbehördengesetz",
     "betreuungsgerichtshilfe",
     "buchverzeichnis"
   ],
   "betreuungspraxis": [
     "betreuungsbehörde",
-    "betreuungsbehördengesetz",
     "betreuungsgerichtshilfe",
     "buchverzeichnis",
     "sozialhilfe"
