@@ -1244,6 +1244,8 @@
     "datenschutz",
     "datenschutz",
     "ehefähigkeit",
+    "ehefähigkeit",
+    "eherecht-und-betreuung",
     "eherecht-und-betreuung",
     "eherecht-und-betreuung",
     "eherecht-und-betreuung",
@@ -3489,6 +3491,7 @@
     "selbstbestimmung",
     "sozialhilfe",
     "sozialhilfe",
+    "sterilisationsbetreuer",
     "strafprozess",
     "strafprozess",
     "strafprozess",
@@ -4101,7 +4104,6 @@
     "betreuerpflichten",
     "betreuungsbedarf",
     "ehefähigkeit",
-    "eherecht-und-betreuung",
     "einwilligungsvorbehalt",
     "erbausschlagung",
     "erbschaft",
@@ -16169,6 +16171,7 @@
     "eherecht",
     "lebenspartnerschaft",
     "sterilisation",
+    "sterilisationsbetreuer",
     "trennungsgebot"
   ],
   "angehörigenvertretungsrecht": [
@@ -16178,12 +16181,6 @@
     "psychisch-kranken-gesetz",
     "schlüsselgewalt",
     "vorsorgeregisterverordnung"
-  ],
-  "maßregeln": [
-    "ehefähigkeit",
-    "erziehungsmaßregeln",
-    "maßregeln-der-besserung-und-sicherung",
-    "rechtsprechung-zur-unterbringung"
   ],
   "bundesverfassungsgericht": [
     "ehefähigkeit",
@@ -17208,6 +17205,11 @@
   ],
   "jugendstrafrecht": [
     "erziehungsmaßregeln"
+  ],
+  "maßregeln": [
+    "erziehungsmaßregeln",
+    "maßregeln-der-besserung-und-sicherung",
+    "rechtsprechung-zur-unterbringung"
   ],
   "besserung": [
     "erziehungsmaßregeln",
