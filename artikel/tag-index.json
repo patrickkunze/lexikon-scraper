@@ -2909,6 +2909,7 @@
     "organspende",
     "organspende",
     "peg-sonde",
+    "patientenverfügung",
     "pflicht-zur-betreuungsübernahme",
     "psychisch-kranken-gesetz",
     "rechnungslegung",
@@ -7494,6 +7495,7 @@
     "mündelgeld",
     "mündelgeld",
     "rechnungslegung",
+    "selbstverwaltungserklärung",
     "sozialhilfe",
     "sozialhilfe",
     "trennungsgebot",
@@ -8855,8 +8857,7 @@
   "persönliches": [
     "assistenzleistungen",
     "gesamtplanverfahren",
-    "persönliches-budget",
-    "selbstverwaltungserklärung"
+    "persönliches-budget"
   ],
   "einsicht": [
     "aufenthaltsbestimmung"
@@ -9086,7 +9087,8 @@
     "aufgabenkreis",
     "aufgabenkreis",
     "aufhebung-der-betreuung",
-    "finanzamt"
+    "finanzamt",
+    "selbstverwaltungserklärung"
   ],
   "gesetz": [
     "aufgabenkreis",
@@ -9276,6 +9278,20 @@
     "unterstützte-entscheidungsfindung",
     "waffenbesitz"
   ],
+  "betreuerhaftung": [
+    "aufgabenkreis",
+    "ende-der-betreuung",
+    "genehmigungspflichten",
+    "haftpflichtversicherung",
+    "kirchenaustritt",
+    "schadenersatz",
+    "schadensersatz"
+  ],
+  "selbstverwaltungserklärung": [
+    "aufgabenkreis",
+    "persönliches-budget",
+    "verfügungsgeld"
+  ],
   "datenschutz": [
     "aufgabenkreis",
     "betreuerausweis",
@@ -9292,16 +9308,6 @@
     "notfalldaten",
     "personalausweis",
     "schweigepflicht"
-  ],
-  "prozessführung": [
-    "aufgabenkreis",
-    "betreuungsverfahren",
-    "gerichtsverfahren",
-    "gesetzlicher-vertreter",
-    "mahnverfahren",
-    "prozessfähigkeit",
-    "prozesspfleger",
-    "verfahrensfähigkeit"
   ],
   "lütgens": [
     "aufgabenkreis",
@@ -14771,6 +14777,15 @@
     "unterbringungsverfahren",
     "vermögensverzeichnis"
   ],
+  "prozessführung": [
+    "betreuungsverfahren",
+    "gerichtsverfahren",
+    "gesetzlicher-vertreter",
+    "mahnverfahren",
+    "prozessfähigkeit",
+    "prozesspfleger",
+    "verfahrensfähigkeit"
+  ],
   "gerichtskosten": [
     "betreuungsverfahren",
     "gerichtskosten",
@@ -15437,7 +15452,6 @@
   ],
   "verfügungsgeld": [
     "checkliste-vermögenssorge",
-    "selbstverwaltungserklärung",
     "verfügungsgeld"
   ],
   "sozialamt": [
@@ -15938,6 +15952,7 @@
     "informationspflicht",
     "intellektuelle-beeinträchtigung",
     "mdk-gutachten",
+    "patientenverfügung",
     "psychisch-kranken-gesetz",
     "tierschutz"
   ],
@@ -16944,14 +16959,6 @@
   "notgeschäftsführung": [
     "ende-der-betreuung",
     "schlussbericht"
-  ],
-  "betreuerhaftung": [
-    "ende-der-betreuung",
-    "genehmigungspflichten",
-    "haftpflichtversicherung",
-    "kirchenaustritt",
-    "schadenersatz",
-    "schadensersatz"
   ],
   "schulden": [
     "erbausschlagung",
@@ -20712,10 +20719,6 @@
   ],
   "bmas": [
     "persönliches-budget"
-  ],
-  "selbstverwaltungserklärung": [
-    "persönliches-budget",
-    "verfügungsgeld"
   ],
   "fuchs": [
     "persönliches-budget"
