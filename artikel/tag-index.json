@@ -580,6 +580,7 @@
     "persönliches-budget",
     "pflegeversicherung",
     "pflicht-zur-betreuungsübernahme",
+    "polizeirecht",
     "postkontrolle",
     "postkontrolle",
     "postkontrolle",
@@ -680,6 +681,7 @@
     "tod-des-betreuten",
     "trennungsgebot",
     "trennungsgebot",
+    "trennungsgebot",
     "umgangsbestimmung",
     "umgangsbestimmung",
     "unfallversicherung",
@@ -695,6 +697,7 @@
     "vereinsbetreuer",
     "verfahrensfähigkeit",
     "verfahrensfähigkeit",
+    "verfügungsgeld",
     "verhinderungsbetreuer",
     "verhinderungsbetreuer",
     "verhinderungsbetreuer",
@@ -1045,6 +1048,7 @@
     "patientenverfügung",
     "personalausweis",
     "persönliches-budget",
+    "polizeirecht",
     "prozessfähigkeit",
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz",
@@ -2043,6 +2047,7 @@
     "organspende",
     "patientenverfügung",
     "personalausweis",
+    "polizeirecht",
     "prozessfähigkeit",
     "prozessführung",
     "prozessführung",
@@ -2776,6 +2781,7 @@
     "tod-des-betreuten",
     "tod-des-betreuten",
     "tod-des-betreuten",
+    "trennungsgebot",
     "umgangsbestimmung",
     "unfallversicherung",
     "unterbringung",
@@ -2800,6 +2806,7 @@
     "vereinsbetreuer",
     "vereinsbetreuer",
     "verfahrenspfleger",
+    "verfügungsgeld",
     "verhältnismäßigkeitsprinzip",
     "verhältnismäßigkeitsprinzip",
     "verlängerung-der-betreuung",
@@ -4112,6 +4119,7 @@
     "kirchenaustritt",
     "meldepflicht",
     "pflegeversicherung",
+    "polizeirecht",
     "prozessführung",
     "prozessführung",
     "prozessführung",
@@ -4755,7 +4763,6 @@
   "regelung": [
     "altenheim",
     "aufgabenkreis",
-    "ausschließlichkeitserklärung",
     "befreiter-betreuer",
     "organspende",
     "zwangsvollstreckung"
@@ -4876,6 +4883,7 @@
     "testierfähigkeit",
     "tod-des-betreuten",
     "trennungsgebot",
+    "trennungsgebot",
     "umgangsbestimmung",
     "unterbringung",
     "unterbringung",
@@ -4891,6 +4899,7 @@
     "vbvg-rechtsprechung",
     "vbvg-rechtsprechung",
     "verfahrenspfleger",
+    "verfügungsgeld",
     "verhinderungsbetreuer",
     "verhinderungsbetreuer",
     "verlängerung-der-betreuung",
@@ -5249,6 +5258,7 @@
     "betreuungsbehörde",
     "betreuungsgerichtshilfe",
     "betreuungskosten-im-steuerrecht",
+    "betreuungsrechtsreform",
     "betreuungsverein",
     "buchverzeichnis",
     "buchverzeichnis",
@@ -6686,12 +6696,15 @@
     "einverständniserklärung",
     "grundstück",
     "meldepflicht",
-    "ordre-public"
+    "ordre-public",
+    "polizeirecht",
+    "polizeirecht"
   ],
   "deren": [
     "angehörigenvertretungsrecht",
     "freibetrag",
-    "geheimhaltungspflicht"
+    "geheimhaltungspflicht",
+    "polizeirecht"
   ],
   "rechtlichen": [
     "angehörigenvertretungsrecht",
@@ -6737,6 +6750,7 @@
     "mahnverfahren",
     "patientenverfügung",
     "personalausweis",
+    "polizeirecht",
     "rechtsweg-in-deutschland",
     "sachverständigengutachten",
     "strafprozess",
@@ -7412,7 +7426,6 @@
   ],
   "genannten": [
     "anlagegeld",
-    "buchverzeichnis",
     "geschäftsfähigkeit",
     "haager-übereinkommen"
   ],
@@ -7888,6 +7901,7 @@
     "buchverzeichnis",
     "buchverzeichnis",
     "buchverzeichnis",
+    "buchverzeichnis",
     "datenschutz",
     "familienverfahrensgesetz",
     "geldanlage",
@@ -7959,8 +7973,7 @@
   ],
   "beck": [
     "anlagegeld",
-    "beaufsichtigung",
-    "betreuungsrechtsreform"
+    "beaufsichtigung"
   ],
   "fernkurse": [
     "anlagegeld"
@@ -9618,6 +9631,8 @@
     "patientenverfügung",
     "personalausweis",
     "pflicht-zur-betreuungsübernahme",
+    "polizeirecht",
+    "polizeirecht",
     "tod-des-betreuten",
     "umgangsbestimmung",
     "umgangsbestimmung",
@@ -10372,6 +10387,9 @@
     "ausschließlichkeitserklärung",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "verfahrensfähigkeit"
+  ],
+  "eingeführte": [
+    "ausschließlichkeitserklärung"
   ],
   "hintergrund": [
     "ausschließlichkeitserklärung"
@@ -12015,6 +12033,7 @@
     "ordre-public",
     "ordre-public",
     "ordre-public",
+    "polizeirecht",
     "rechtsmittel",
     "schenkung",
     "vertretung-gegenüber-behörden",
@@ -12359,7 +12378,8 @@
   ],
   "bundesländer": [
     "bestattung",
-    "kirchenaustritt"
+    "kirchenaustritt",
+    "polizeirecht"
   ],
   "bestattungspflichtig": [
     "bestattung"
@@ -12618,6 +12638,7 @@
     "datenschutz",
     "haager-übereinkommen",
     "mitwirkungspflicht",
+    "polizeirecht",
     "tod-des-betreuers",
     "vertretung-gegenüber-behörden",
     "vertretung-gegenüber-behörden",
@@ -14475,6 +14496,7 @@
   ],
   "aufl": [
     "betreuungsorganisationsgesetz",
+    "betreuungsrechtsreform",
     "buchverzeichnis",
     "buchverzeichnis",
     "erbausschlagung",
@@ -14497,7 +14519,6 @@
   ],
   "vormundschafts": [
     "betreuungsorganisationsgesetz",
-    "betreuungsrechtsreform",
     "vermögensverzeichnis"
   ],
   "erstellung": [
@@ -15888,7 +15909,9 @@
   ],
   "inanspruchnahme": [
     "diskriminierungsverbot",
-    "diskriminierungsverbot"
+    "diskriminierungsverbot",
+    "polizeirecht",
+    "polizeirecht"
   ],
   "zugang": [
     "diskriminierungsverbot",
@@ -16865,6 +16888,7 @@
   ],
   "öffentlich": [
     "elektronisches-gerichts--und-verwaltungspostfach",
+    "polizeirecht",
     "psychisch-kranken-gesetz",
     "rundfunkbeitrag",
     "unterbringungsverfahren"
@@ -17762,6 +17786,7 @@
   "liegt": [
     "genehmigung-der-heilbehandlung",
     "heilbehandlung",
+    "polizeirecht",
     "schenkung",
     "testierfähigkeit"
   ],
@@ -18131,7 +18156,9 @@
   ],
   "störung": [
     "geschäftsfähigkeit",
-    "intellektuelle-beeinträchtigung"
+    "intellektuelle-beeinträchtigung",
+    "polizeirecht",
+    "polizeirecht"
   ],
   "zeitpunkt": [
     "geschäftsfähigkeit",
@@ -18575,6 +18602,7 @@
   "verhalten": [
     "grundrechte",
     "online-lexikon-betreuungsrecht:datenschutz",
+    "polizeirecht",
     "sozialhilfe"
   ],
   "schutzbereich": [
@@ -20392,6 +20420,9 @@
   "dokumentation": [
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht"
   ],
+  "redirectpolizeirecht": [
+    "ordnungsbehörde"
+  ],
   "ordnung": [
     "ordre-public",
     "ordre-public"
@@ -20399,6 +20430,7 @@
   "polizei": [
     "ordre-public",
     "ordre-public",
+    "polizeirecht",
     "zuführung-zur-unterbringung"
   ],
   "unvereinbar": [
@@ -20408,7 +20440,8 @@
     "ordre-public"
   ],
   "polizeiliche": [
-    "ordre-public"
+    "ordre-public",
+    "polizeirecht"
   ],
   "durchsuchung": [
     "ordre-public",
@@ -20738,6 +20771,43 @@
   ],
   "buch": [
     "pflegeversicherung"
+  ],
+  "ordnungsbehördenrecht": [
+    "polizeirecht"
+  ],
+  "gesetzgebungszuständigkeit": [
+    "polizeirecht"
+  ],
+  "darum": [
+    "polizeirecht"
+  ],
+  "störers": [
+    "polizeirecht"
+  ],
+  "gesetzen": [
+    "polizeirecht"
+  ],
+  "handlungsstörer": [
+    "polizeirecht",
+    "polizeirecht"
+  ],
+  "eigenes": [
+    "polizeirecht"
+  ],
+  "verursacht": [
+    "polizeirecht"
+  ],
+  "ausgeschlossen": [
+    "polizeirecht"
+  ],
+  "schenke": [
+    "polizeirecht"
+  ],
+  "geschäftsfähiger": [
+    "polizeirecht"
+  ],
+  "störer": [
+    "polizeirecht"
   ],
   "robinsonliste": [
     "postkontrolle",
@@ -22196,6 +22266,14 @@
   ],
   "verwendungsverbot": [
     "trennungsgebot"
+  ],
+  "freiburg": [
+    "trennungsgebot",
+    "verfügungsgeld"
+  ],
+  "eingesetzte": [
+    "trennungsgebot",
+    "verfügungsgeld"
   ],
   "bestimmen": [
     "umgangsbestimmung"

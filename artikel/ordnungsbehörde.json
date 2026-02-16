@@ -1,0 +1,18 @@
+{
+  "id": "ordnungsbehörde",
+  "titel": "Ordnungsbehörde",
+  "inhalt": "redirect[Polizeirecht](polizeirecht)",
+  "struktur": [
+    {
+      "titel": "Einleitung",
+      "inhalt": "redirectPolizeirecht",
+      "tags": [
+        "redirectpolizeirecht"
+      ]
+    }
+  ],
+  "zusammenfassung": "redirect[Polizeirecht](polizeirecht)...",
+  "verwandteArtikel": [
+    "polizeirecht"
+  ]
+}
