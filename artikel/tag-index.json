@@ -4080,6 +4080,7 @@
   ],
   "aufenthaltsbestimmung": [
     "altenheim",
+    "assistenzleistungen",
     "aufenthaltsbestimmung",
     "aufenthaltsbestimmung",
     "aufenthaltsbestimmung",
@@ -4097,8 +4098,6 @@
   ],
   "aufgabenkreis": [
     "altenheim",
-    "aufenthaltsbestimmung",
-    "aufenthaltsbestimmung",
     "aufenthaltsbestimmung",
     "aufgabenbereich",
     "aufgabenkreis",
@@ -7480,6 +7479,8 @@
   "aufgabenbereich": [
     "anlagegeld",
     "arbeitsvertrag",
+    "aufenthaltsbestimmung",
+    "aufenthaltsbestimmung",
     "aufgabenkreis",
     "gesundheitssorge",
     "wohnungsangelegenheiten"
@@ -8866,11 +8867,6 @@
     "betreuungsplan",
     "persönliches-budget",
     "unterstützungspflicht"
-  ],
-  "persönliches": [
-    "assistenzleistungen",
-    "gesamtplanverfahren",
-    "persönliches-budget"
   ],
   "einsicht": [
     "aufenthaltsbestimmung"
@@ -18100,6 +18096,10 @@
     "gesamtplanverfahren",
     "person-des-vertrauens",
     "vertrauensperson"
+  ],
+  "persönliches": [
+    "gesamtplanverfahren",
+    "persönliches-budget"
   ],
   "freiem": [
     "geschäftsfähigkeit"
