@@ -7523,8 +7523,6 @@
     "vermögensverwaltung",
     "vermögensverzeichnis",
     "vollmachtswiderruf",
-    "wohnungsangelegenheiten",
-    "wohnungsauflösung",
     "zwangsvollstreckung"
   ],
   "einsig": [
@@ -8988,8 +8986,6 @@
     "wohn--und-betreuungsvertragsgesetz",
     "wohnungsangelegenheiten",
     "wohnungsangelegenheiten",
-    "wohnungsangelegenheiten",
-    "wohnungsauflösung",
     "wohnungsauflösung",
     "wohnungszutritt"
   ],
@@ -8998,6 +8994,7 @@
     "mietkündigung",
     "schenkung",
     "schenkung",
+    "schlusstätigkeiten",
     "wohnungsangelegenheiten",
     "wohnungskündigung"
   ],
@@ -9336,9 +9333,7 @@
     "betreuerpflichten",
     "rechnungslegung",
     "sterbehilfedokumente",
-    "vermögenssorge",
-    "wohnungsangelegenheiten",
-    "wohnungsauflösung"
+    "vermögenssorge"
   ],
   "personensorge": [
     "aufgabenkreis"
@@ -11913,9 +11908,7 @@
     "behördenbetreuer",
     "rechnungslegung",
     "vermögenssorge",
-    "vorsorgevollmacht",
-    "wohnungsangelegenheiten",
-    "wohnungsauflösung"
+    "vorsorgevollmacht"
   ],
   "neuauflage": [
     "behördenbetreuer",
@@ -21049,9 +21042,7 @@
   "reinfarth": [
     "rechnungslegung",
     "schenkung",
-    "vermögenssorge",
-    "wohnungsangelegenheiten",
-    "wohnungsauflösung"
+    "vermögenssorge"
   ],
   "platz": [
     "rechnungslegung"
