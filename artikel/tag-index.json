@@ -1500,6 +1500,7 @@
     "persönliche-betreuung",
     "persönliches-budget",
     "pflegeversicherung",
+    "polizeirecht",
     "postkontrolle",
     "prozessführung",
     "psychisch-kranken-gesetz",
@@ -2699,6 +2700,7 @@
     "mittellosigkeit",
     "mittellosigkeit",
     "mittellosigkeit",
+    "mitwirkungspflicht",
     "natürlicher-wille",
     "neu",
     "neu",
@@ -2708,6 +2710,7 @@
     "ordre-public",
     "organspende",
     "patientenverfügung",
+    "personalausweis",
     "personalausweis",
     "personalausweis",
     "postkontrolle",
@@ -4125,7 +4128,6 @@
     "strafprozess",
     "strafprozess",
     "vertretung-gegenüber-behörden",
-    "vertretung-gegenüber-behörden",
     "wohnungsangelegenheiten",
     "wohnungsangelegenheiten",
     "wohnungsauflösung"
@@ -4170,9 +4172,11 @@
     "krankenhaussozialdienst",
     "krankenhaussozialdienst",
     "krankenversicherung",
+    "mitwirkungspflicht",
     "online-lexikon-betreuungsrecht:datenschutz",
     "online-lexikon-betreuungsrecht:datenschutz",
     "organspende",
+    "personalausweis",
     "personalausweis",
     "persönliches-budget",
     "prozessfähigkeit",
@@ -4840,12 +4844,14 @@
     "mittellosigkeit",
     "mittellosigkeit",
     "mittellosigkeit",
+    "mitwirkungspflicht",
     "mündelgeld",
     "mündelgeld",
     "natürlicher-wille",
     "peg-sonde",
     "patientenverfügung",
     "patientenverfügung",
+    "personalausweis",
     "postkontrolle",
     "prozessführung",
     "prozesspfleger",
@@ -7268,6 +7274,7 @@
     "anhörung",
     "gesetzgebung",
     "neu",
+    "polizeirecht",
     "subsidiaritätsprinzip",
     "unterstützungspflicht"
   ],
@@ -10054,6 +10061,8 @@
     "betreuer-(ehrenamt)",
     "erbschaft",
     "gerichtskosten",
+    "mitwirkungspflicht",
+    "personalausweis",
     "persönliches-budget",
     "sterbehilfe",
     "strafprozess"
@@ -10491,6 +10500,7 @@
     "gesundheitsdatennutzungsgesetz",
     "insichgeschäft",
     "patientenverfügungsgesetz",
+    "polizeirecht",
     "synopse-patientenverfügungsgesetze",
     "vbvg"
   ],
@@ -14697,6 +14707,7 @@
     "kindschaftsrecht",
     "kirchenaustritt",
     "ordre-public",
+    "polizeirecht",
     "rundfunkbeitrag",
     "subsidiaritätsprinzip",
     "vereinsbetreuer",
@@ -16995,7 +17006,8 @@
     "erbausschlagung"
   ],
   "aufgabenkreises": [
-    "erbausschlagung"
+    "erbausschlagung",
+    "vertretung-gegenüber-behörden"
   ],
   "angesehen": [
     "erbausschlagung"
@@ -20000,6 +20012,10 @@
   "ausländerinnen": [
     "mitwirkungspflicht"
   ],
+  "antragsteller": [
+    "mitwirkungspflicht",
+    "personalausweis"
+  ],
   "nippel": [
     "mitwirkungspflicht"
   ],
@@ -21462,8 +21478,7 @@
   "strafprozess": [
     "schuldfähigkeit",
     "strafanzeige",
-    "strafverfahren",
-    "waffenbesitz"
+    "strafverfahren"
   ],
   "keinerlei": [
     "schweigepflicht"
@@ -23153,6 +23168,9 @@
     "waffenbesitz"
   ],
   "erlass": [
+    "waffenbesitz"
+  ],
+  "polizeirecht": [
     "waffenbesitz"
   ],
   "wahlrechtsausschluss": [
