@@ -803,6 +803,7 @@
     "ausschließlichkeitserklärung",
     "behindertenkonvention",
     "betreuer-(ehrenamt)",
+    "betreuerregistrierungsverordnung",
     "betreuungsorganisationsgesetz",
     "betreuungsverein",
     "betreuungsverein",
@@ -3611,6 +3612,7 @@
     "allgemeines",
     "ausländer",
     "berufsbetreuer",
+    "betreuungsrechtliche-praxis",
     "buchverzeichnis",
     "link-liste",
     "mailingliste"
@@ -5998,7 +6000,6 @@
     "ordre-public",
     "patientenverfügung",
     "personalausweis",
-    "registrierung",
     "schenkung",
     "sterbehilfe",
     "verbraucherstreitbeilegung",
@@ -9929,6 +9930,7 @@
   ],
   "sachkundenachweis": [
     "ausbildung",
+    "betreuungsrechtliche-praxis",
     "buchverzeichnis",
     "curriculum",
     "gesetzessammlungen-betreuer.pdf",
@@ -9944,7 +9946,6 @@
   "ausbildung": [
     "ausbildung",
     "broschüren",
-    "sachkundelehrgang",
     "stundensatz"
   ],
   "verein": [
@@ -10501,7 +10502,6 @@
     "gesundheitsdatennutzungsgesetz",
     "insichgeschäft",
     "patientenverfügungsgesetz",
-    "polizeirecht",
     "synopse-patientenverfügungsgesetze",
     "vbvg"
   ],
@@ -12866,6 +12866,7 @@
     "betreuerausweis",
     "formulare",
     "medikationsplan",
+    "polizeirecht",
     "vorsorgeregister"
   ],
   "abhandengekommende": [
@@ -13316,9 +13317,6 @@
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht"
   ],
   "registrierverfahren": [
-    "betreuerregistrierungsverordnung"
-  ],
-  "betreuerregistrierverordnung": [
     "betreuerregistrierungsverordnung"
   ],
   "bürkel": [
@@ -14564,7 +14562,8 @@
   "betreuungsrechtliche": [
     "betreuungsrechtliche-praxis",
     "buchverzeichnis",
-    "bundesverband-freier-berufsbetreuer"
+    "bundesverband-freier-berufsbetreuer",
+    "sachkundelehrgang"
   ],
   "verlagsseite": [
     "betreuungsrechtliche-praxis"
@@ -14969,6 +14968,7 @@
     "digitale-barrierefreiheit",
     "kontrollbetreuer",
     "neu",
+    "registrierung",
     "vorsorgeregister",
     "vorsorgeregister",
     "vorsorgeregister",
@@ -17397,7 +17397,8 @@
     "psychisch-kranken-gesetz"
   ],
   "identitätsnachweis": [
-    "formulare"
+    "formulare",
+    "polizeirecht"
   ],
   "heranziehung": [
     "freibetrag",
