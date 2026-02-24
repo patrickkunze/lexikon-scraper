@@ -883,6 +883,7 @@
     "rundfunkbeitrag",
     "schwerbehindertenausweis",
     "selbstbestimmung",
+    "selbstverwaltung-der-deutschen-gemeinden",
     "synopse-patientenverfügungsgesetze",
     "unterstützungspflicht",
     "unterstützungspflicht",
@@ -1260,7 +1261,6 @@
     "einstweilige-anordnung",
     "einwilligungsfähigkeit",
     "einwilligungsvorbehalt",
-    "erbausschlagung",
     "erbausschlagung",
     "erbschaft",
     "erbschaft",
@@ -4118,8 +4118,6 @@
     "betreuungsbedarf",
     "ehefähigkeit",
     "einwilligungsvorbehalt",
-    "erbausschlagung",
-    "erbschaft",
     "heilbehandlung",
     "kirchenaustritt",
     "meldepflicht",
@@ -7491,6 +7489,8 @@
     "aufenthaltsbestimmung",
     "aufenthaltsbestimmung",
     "aufgabenkreis",
+    "erbausschlagung",
+    "erbschaft",
     "gesundheitssorge",
     "wohnungsangelegenheiten"
   ],
@@ -10432,6 +10432,7 @@
   ],
   "seither": [
     "ausschließlichkeitserklärung",
+    "selbstverwaltung-der-deutschen-gemeinden",
     "vormundschaftsgericht"
   ],
   "musste": [
@@ -17000,6 +17001,9 @@
     "erbausschlagung",
     "gesetzestexte"
   ],
+  "angefallenen": [
+    "erbausschlagung"
+  ],
   "ausschlagungsfrist": [
     "erbausschlagung",
     "erbausschlagung",
@@ -21567,6 +21571,15 @@
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "freiherrn": [
+    "selbstverwaltung-der-deutschen-gemeinden"
+  ],
+  "männern": [
+    "selbstverwaltung-der-deutschen-gemeinden"
+  ],
+  "frauen": [
+    "selbstverwaltung-der-deutschen-gemeinden"
+  ],
+  "säkulare": [
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "westdeutschen": [
