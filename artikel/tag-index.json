@@ -5944,6 +5944,7 @@
     "psychisch-kranken-gesetz",
     "rechtspfleger",
     "schlussbericht",
+    "spielwiese",
     "sterbehilfe",
     "tierschutz",
     "umgangsbestimmung",
@@ -6115,6 +6116,7 @@
     "schenkung",
     "schlussbericht",
     "selbstbestimmung",
+    "spielwiese",
     "tod-des-betreuten",
     "umgangsbestimmung",
     "verfahrenspfleger",
@@ -8859,8 +8861,7 @@
     "kirchenaustritt",
     "sozialhilfe",
     "unterstützungspflicht",
-    "wohn--und-betreuungsvertragsgesetz",
-    "zugangsrecht"
+    "wohn--und-betreuungsvertragsgesetz"
   ],
   "geheimhaltungspflicht": [
     "assistenzleistungen",
@@ -9585,7 +9586,6 @@
     "grundstück",
     "it-sicherheit",
     "sozialhilfe",
-    "spielwiese",
     "trennungsgebot"
   ],
   "aufwandspauschale": [
@@ -13354,7 +13354,6 @@
     "kindschaftsrecht",
     "prozessführung",
     "schenkung",
-    "spielwiese",
     "test",
     "werkstatt-für-behinderte-menschen"
   ],
@@ -20294,7 +20293,8 @@
     "neu"
   ],
   "spielwiese": [
-    "neu"
+    "neu",
+    "zugangsrecht"
   ],
   "test": [
     "neu"
@@ -21758,28 +21758,18 @@
     "spielwiese"
   ],
   "lorem": [
-    "spielwiese",
-    "spielwiese",
     "spielwiese"
   ],
   "ipsum": [
-    "spielwiese",
-    "spielwiese",
     "spielwiese"
   ],
   "dolor": [
-    "spielwiese",
-    "spielwiese",
     "spielwiese"
   ],
   "amet": [
-    "spielwiese",
-    "spielwiese",
     "spielwiese"
   ],
   "diam": [
-    "spielwiese",
-    "spielwiese",
     "spielwiese"
   ],
   "esse": [
