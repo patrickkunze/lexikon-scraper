@@ -413,6 +413,7 @@
     "betreuervergütung",
     "betreuervergütung-2019",
     "betreuervergütung-2019",
+    "betreuervergütung-2026",
     "betreuervorschlag",
     "betreuervorschlag",
     "betreuervorschlag",
@@ -448,6 +449,7 @@
     "buchverzeichnis",
     "bundesverband-der-berufsbetreuer",
     "bundesverband-freier-berufsbetreuer",
+    "checkliste-betreuerpflichten",
     "checkliste-betreuerpflichten",
     "checkliste-für-arztgespräche",
     "corona",
@@ -1249,6 +1251,7 @@
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
+    "checkliste-betreuerpflichten",
     "datenschutz",
     "datenschutz",
     "ehefähigkeit",
@@ -1419,7 +1422,6 @@
     "bestattungsvertrag",
     "betreuer-als-erbe",
     "betreuerhaftung",
-    "betreuerpflichten",
     "betreuerregistrierungsverordnung",
     "betreuertest",
     "betreuervergütung-2026",
@@ -3554,6 +3556,7 @@
     "gesetzliche-vertretung",
     "grundrechte",
     "haager-übereinkommen",
+    "haager-übereinkommen",
     "mittellosigkeit",
     "neu",
     "neu",
@@ -3871,7 +3874,6 @@
     "betreuer-als-erbe",
     "betreuerbestellung",
     "betreutes-wohnen",
-    "checkliste-betreuerpflichten",
     "einwilligungsvorbehalt",
     "erbschaft",
     "gesetzliche-vertretung",
@@ -4330,6 +4332,7 @@
     "betreuungsplan",
     "betreuungszahlen",
     "buchverzeichnis",
+    "checkliste-betreuerpflichten",
     "checkliste-betreuerpflichten",
     "checkliste-personenbogen",
     "corona",
@@ -5258,8 +5261,8 @@
     "berufsbetreuer",
     "bestattung",
     "betreuerhaftung",
-    "betreuerpflichten",
     "betreuerregistrierungsverordnung",
+    "betreuervergütung-2026",
     "betreuungsbehörde",
     "betreuungsgerichtshilfe",
     "betreuungskosten-im-steuerrecht",
@@ -5351,7 +5354,6 @@
     "betreuerhaftung",
     "betreuerhaftung",
     "betreuerhaftung",
-    "betreuerpflichten",
     "betreuerpflichten",
     "betreuerpflichten",
     "betreuervergütung",
@@ -5509,6 +5511,7 @@
     "betreuungszahlen",
     "betreuungszahlen",
     "buchverzeichnis",
+    "checkliste-betreuerpflichten",
     "checkliste-gesundheitssorge",
     "checkliste-für-arztgespräche",
     "corona",
@@ -5634,7 +5637,6 @@
     "aufgabenkreis",
     "auskunftspflicht",
     "beaufsichtigung",
-    "betreuerpflichten",
     "betreuerpflichten",
     "betreuungsarbeitsgemeinschaft",
     "checkliste-betreuerpflichten",
@@ -5971,7 +5973,6 @@
     "betreuerhaftung",
     "betreuerhaftung",
     "betreuerhaftung",
-    "betreuerpflichten",
     "haftpflichtversicherung",
     "heilbehandlung",
     "vereinsbetreuer"
@@ -6824,6 +6825,7 @@
     "angehörigenvertretungsrecht",
     "genehmigungen-von-a-bis-z",
     "genehmigungspflichten",
+    "grundstück",
     "haager-übereinkommen",
     "hauptseite",
     "prozessführung",
@@ -7290,6 +7292,7 @@
     "bestattungsvertrag",
     "betreuervergütung",
     "betreuervergütung-2019",
+    "betreuervergütung-2026",
     "betreuervorschlag",
     "betreuerwechsel",
     "betreuungsverfahren",
@@ -8371,6 +8374,7 @@
     "ausländer",
     "betreuer-(ehrenamt)",
     "betreuerhaftung",
+    "checkliste-betreuerpflichten",
     "eherecht-und-betreuung",
     "eingliederungshilfe",
     "eingliederungshilfe",
@@ -9331,7 +9335,6 @@
     "aufwendungsersatz",
     "berufsbetreuer",
     "betreuerhaftung",
-    "betreuerpflichten",
     "betreuungskosten-im-steuerrecht",
     "buchverzeichnis",
     "ermessensvergütung"
@@ -9340,7 +9343,6 @@
     "aufgabenkreis",
     "berufsbetreuer",
     "betreuerhaftung",
-    "betreuerpflichten",
     "rechnungslegung",
     "sterbehilfedokumente",
     "vermögenssorge"
@@ -9583,7 +9585,6 @@
   ],
   "steht": [
     "aufwandspauschale",
-    "grundstück",
     "it-sicherheit",
     "sozialhilfe",
     "trennungsgebot"
@@ -9857,6 +9858,7 @@
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuervergütung-2019",
+    "betreuervergütung-2026",
     "betreuervergütung-2026",
     "ermessensvergütung",
     "freibetrag",
@@ -11681,6 +11683,7 @@
   "heilbehandlung": [
     "behandlungsvertrag",
     "behindertenkonvention",
+    "checkliste-betreuerpflichten",
     "checkliste-für-arztgespräche",
     "corona",
     "dokumentationspflicht",
@@ -13269,13 +13272,18 @@
     "delegation",
     "grundstück"
   ],
-  "buchrezension": [
+  "unterbringungsrecht": [
     "betreuerpflichten",
     "buchverzeichnis",
     "buchverzeichnis",
-    "buchverzeichnis",
     "psychisch-kranken-gesetz",
-    "unterbringung"
+    "rechtsanwalt",
+    "unterbringung",
+    "unterbringung",
+    "unterbringungsverfahren",
+    "unterbringungsverfahren",
+    "unterbringungsähnliche-maßnahme",
+    "unterbringungsähnliche-maßnahme"
   ],
   "gerichtlichen": [
     "betreuerpflichten",
@@ -13808,6 +13816,7 @@
     "betreuervergütung-2026",
     "betreuervergütung-2026",
     "elektronisches-gerichts--und-verwaltungspostfach",
+    "grundstück",
     "strafprozess"
   ],
   "ende": [
@@ -13883,6 +13892,13 @@
   ],
   "stufen": [
     "betreuervergütung-2026"
+  ],
+  "änderungen": [
+    "betreuervergütung-2026",
+    "betreuungsrechtsreform",
+    "kindschaftsrecht",
+    "neu",
+    "rente"
   ],
   "pflegebedürftigen": [
     "betreuervorschlag",
@@ -14568,12 +14584,6 @@
   "verlagsseite": [
     "betreuungsrechtliche-praxis"
   ],
-  "änderungen": [
-    "betreuungsrechtsreform",
-    "kindschaftsrecht",
-    "neu",
-    "rente"
-  ],
   "überprüfung": [
     "betreuungsrechtsreform"
   ],
@@ -14681,7 +14691,8 @@
   ],
   "evangelischen": [
     "betreuungsverein",
-    "eingliederungshilfe"
+    "eingliederungshilfe",
+    "haager-übereinkommen"
   ],
   "landeskirchen": [
     "betreuungsverein"
@@ -15133,6 +15144,13 @@
     "online-lexikon-betreuungsrecht:datenschutz",
     "spielwiese"
   ],
+  "buchrezension": [
+    "buchverzeichnis",
+    "buchverzeichnis",
+    "buchverzeichnis",
+    "psychisch-kranken-gesetz",
+    "unterbringung"
+  ],
   "nachlasspflegschaft": [
     "buchverzeichnis",
     "tod-des-betreuten",
@@ -15184,18 +15202,6 @@
   "lebensunwert": [
     "buchverzeichnis",
     "sterilisation"
-  ],
-  "unterbringungsrecht": [
-    "buchverzeichnis",
-    "buchverzeichnis",
-    "psychisch-kranken-gesetz",
-    "rechtsanwalt",
-    "unterbringung",
-    "unterbringung",
-    "unterbringungsverfahren",
-    "unterbringungsverfahren",
-    "unterbringungsähnliche-maßnahme",
-    "unterbringungsähnliche-maßnahme"
   ],
   "zimmermann": [
     "buchverzeichnis",
@@ -15422,6 +15428,10 @@
     "checkliste-betreuerpflichten",
     "grundrechte",
     "selbstbestimmung"
+  ],
+  "einwilligen": [
+    "checkliste-betreuerpflichten",
+    "heilbehandlung"
   ],
   "schritte": [
     "checkliste-betreuerpflichten"
@@ -17971,8 +17981,7 @@
   ],
   "vormundschaftsgerichtliche": [
     "genehmigungen-von-a-bis-z",
-    "genehmigungspflichten",
-    "grundstück"
+    "genehmigungspflichten"
   ],
   "pachtverträgen": [
     "genehmigungspflichten"
@@ -18833,6 +18842,13 @@
     "haager-übereinkommen"
   ],
   "friedrich": [
+    "haager-übereinkommen",
+    "haager-übereinkommen"
+  ],
+  "bodelschwingh": [
+    "haager-übereinkommen"
+  ],
+  "reichsbischof": [
     "haager-übereinkommen"
   ],
   "abkommen": [
@@ -19027,9 +19043,6 @@
     "heilbehandlung",
     "unterbringungsverfahren",
     "vorführung"
-  ],
-  "einwilligen": [
-    "heilbehandlung"
   ],
   "kriterien": [
     "heilbehandlung"
