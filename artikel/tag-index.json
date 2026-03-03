@@ -2199,6 +2199,7 @@
     "angehörigenvertretungsrecht",
     "beratung",
     "betreuerbestellung",
+    "betreuerpflichten",
     "betreuervergütung",
     "betreuervorschlag",
     "betreuervorschlag",
@@ -4113,7 +4114,6 @@
     "beaufsichtigung",
     "bestellung-mehrerer-betreuer",
     "betreuerhaftung",
-    "betreuerpflichten",
     "betreuerpflichten",
     "betreuerpflichten",
     "betreuerpflichten",
@@ -7494,6 +7494,7 @@
     "aufenthaltsbestimmung",
     "aufenthaltsbestimmung",
     "aufgabenkreis",
+    "betreuerpflichten",
     "erbausschlagung",
     "erbschaft",
     "gesundheitssorge",
@@ -8223,7 +8224,6 @@
     "aufhebung-der-betreuung",
     "berufsbetreuer",
     "betreuer-(ehrenamt)",
-    "betreuerpflichten",
     "betreuervorschlag",
     "betreutes-wohnen",
     "datenschutz",
@@ -13146,6 +13146,10 @@
     "delegation",
     "genehmigung-der-heilbehandlung"
   ],
+  "aufgabenbereichen": [
+    "betreuerpflichten",
+    "vermögenssorge"
+  ],
   "einzelne": [
     "betreuerpflichten",
     "rechtsverkehr-in-deutschland",
@@ -13156,12 +13160,6 @@
     "betreuerpflichten",
     "gesetzestexte",
     "vormundschaftsgericht"
-  ],
-  "abgrenzung": [
-    "betreuerpflichten",
-    "betreuerpflichten",
-    "delegation",
-    "sozialhilfe"
   ],
   "aller": [
     "betreuerpflichten",
@@ -13304,6 +13302,11 @@
     "betreuerpflichten",
     "broschüren",
     "delegation"
+  ],
+  "abgrenzung": [
+    "betreuerpflichten",
+    "delegation",
+    "sozialhilfe"
   ],
   "verordnung": [
     "betreuerregistrierungsverordnung",
@@ -22806,9 +22809,6 @@
   ],
   "endet": [
     "verlängerung-der-betreuung"
-  ],
-  "aufgabenbereichen": [
-    "vermögenssorge"
   ],
   "geltendmachung": [
     "vermögenssorge"
