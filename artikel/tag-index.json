@@ -3681,6 +3681,7 @@
     "anzeigepflicht",
     "eingliederungshilfe",
     "freier-wille",
+    "geheimhaltungspflicht",
     "werkstatt-für-behinderte-menschen"
   ],
   "gemäß": [
@@ -4680,7 +4681,8 @@
     "prozessfähigkeit"
   ],
   "vorschrift": [
-    "altenheim"
+    "altenheim",
+    "geheimhaltungspflicht"
   ],
   "kündigung": [
     "altenheim",
@@ -5877,6 +5879,7 @@
     "digitale-barrierefreiheit",
     "freier-wille",
     "föderalismus",
+    "geheimhaltungspflicht",
     "geschäftsfähigkeit",
     "gesetzgebung",
     "grundrechte",
@@ -8703,6 +8706,7 @@
     "e-rezept",
     "elektronische-patientenakte",
     "elektronisches-gerichts--und-verwaltungspostfach",
+    "geheimhaltungspflicht",
     "genehmigung-der-heilbehandlung",
     "gesundheitliche-versorgungsplanung",
     "heilbehandlung",
@@ -17626,6 +17630,9 @@
     "geheimhaltungspflicht"
   ],
   "bundesagentur": [
+    "geheimhaltungspflicht"
+  ],
+  "sozialgeheimnis": [
     "geheimhaltungspflicht"
   ],
   "gegenstand": [
