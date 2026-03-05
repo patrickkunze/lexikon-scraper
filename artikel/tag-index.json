@@ -451,6 +451,7 @@
     "bundesverband-freier-berufsbetreuer",
     "checkliste-betreuerpflichten",
     "checkliste-betreuerpflichten",
+    "checkliste-betreuerpflichten",
     "checkliste-für-arztgespräche",
     "corona",
     "datenschutz",
@@ -5638,6 +5639,7 @@
     "altenheim",
     "aufgabenkreis",
     "auskunftspflicht",
+    "beamte-als-betreuer",
     "beaufsichtigung",
     "betreuerpflichten",
     "betreuungsarbeitsgemeinschaft",
@@ -6013,6 +6015,7 @@
     "anzeigepflicht",
     "beamte-als-betreuer",
     "behördenbetreuer",
+    "checkliste-betreuerpflichten",
     "nebentätigkeit"
   ],
   "gesetzlich": [
@@ -8018,6 +8021,7 @@
   "betreuerbestellung": [
     "anregung-der-betreuerbestellung",
     "arztzeugnis",
+    "beamte-als-betreuer",
     "behindertenkonvention",
     "betreuerausweis",
     "betreuerbestellung",
@@ -8862,7 +8866,6 @@
   ],
   "unterstützungspflicht": [
     "assistenzleistungen",
-    "checkliste-betreuerpflichten",
     "datenschutz",
     "freibetrag",
     "freier-wille",
@@ -9020,7 +9023,6 @@
     "aufenthaltsbestimmung",
     "betreuerpflichten",
     "betreutes-wohnen",
-    "checkliste-betreuerpflichten",
     "meldepflicht",
     "meldepflicht",
     "meldepflicht",
@@ -13499,7 +13501,6 @@
     "genehmigung-der-heilbehandlung",
     "kindschaftsrecht",
     "organspende",
-    "regress-der-staatskasse",
     "tod-des-betreuten",
     "unfallversicherung",
     "unterbringungsähnliche-maßnahme",
@@ -15094,7 +15095,8 @@
   "bezirksrevisor": [
     "bezirksrevisor",
     "finanzamt",
-    "rechtspfleger"
+    "rechtspfleger",
+    "regress-der-staatskasse"
   ],
   "berufsausbildung": [
     "bezirksrevisor"
@@ -17082,6 +17084,7 @@
     "erbschaft",
     "grundrechte",
     "kindschaftsrecht",
+    "regress-der-staatskasse",
     "vaterschaftsanerkennung"
   ],
   "rechtsfragen": [
@@ -21226,9 +21229,6 @@
     "regress-der-staatskasse"
   ],
   "hasper": [
-    "regress-der-staatskasse"
-  ],
-  "rechtspflegerforum": [
     "regress-der-staatskasse"
   ],
   "bera": [

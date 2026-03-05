@@ -168,18 +168,18 @@
   ],
   "zusammenfassung": " Organentnahme bei Toten \nDie Bundesärztekammer als Repräsentant der Ärzteschaft bestimmt nach § 3 TPG in Richtlinien die Regeln zum Nachweis des Todes. Der [Gesetzgebung](gesetzgebung) sollte lediglich den Punkt markieren, der als Mindestvoraussetzung für eine Organentnahme gelten muss Daher war vo...",
   "verwandteArtikel": [
-    "datenschutz",
     "aufgabenbereich",
-    "elektronische-patientenakte",
-    "registrierung",
+    "datenschutz",
     "digitale-barrierefreiheit",
-    "gesetzgebung",
-    "kategorie:betreuungsende",
-    "kategorie:auswirkungen",
-    "selbstbestimmung",
     "zugriffsrecht",
     "angehörigenvertretungsrecht",
+    "gesetzgebung",
+    "registrierung",
+    "kategorie:betreuungsende",
     "widerspruchsrecht",
-    "patientenvertreter"
+    "elektronische-patientenakte",
+    "selbstbestimmung",
+    "patientenvertreter",
+    "kategorie:auswirkungen"
   ]
 }

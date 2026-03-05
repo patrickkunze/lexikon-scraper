@@ -50,19 +50,19 @@
   ],
   "zusammenfassung": "Eine Vertreterdokumentation ist \n die Feststellung der Behandlungswünsche und/oder des mutmaßlichen Willens \n einer auf unbestimmte Zeit oder dauerhaft nicht einwilligungsfähigen Person \n für den Fall künftiger gesundheitlicher Krisen \n durch den Bevollmächtigten oder Betreuer (\"Vertreter\") gemäß § ...",
   "verwandteArtikel": [
-    "natürlicher-wille",
     "datenschutz",
-    "gesundheitliche-versorgungsplanung",
-    "patientenverfügung",
-    "einwilligungsfähigkeit",
-    "advance-care-planning",
-    "notfalldaten",
-    "kategorie:aufgabenkreise",
-    "dokumentationspflicht",
-    "kategorie:gesundheitssorge",
     "schweigepflicht",
-    "freier-wille",
+    "gesundheitliche-versorgungsplanung",
+    "natürlicher-wille",
     "geheimhaltungspflicht",
-    "unterstützte-entscheidungsfindung"
+    "dokumentationspflicht",
+    "einwilligungsfähigkeit",
+    "notfalldaten",
+    "kategorie:gesundheitssorge",
+    "freier-wille",
+    "kategorie:aufgabenkreise",
+    "unterstützte-entscheidungsfindung",
+    "advance-care-planning",
+    "patientenverfügung"
   ]
 }
