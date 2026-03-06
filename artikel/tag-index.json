@@ -451,7 +451,6 @@
     "bundesverband-freier-berufsbetreuer",
     "checkliste-betreuerpflichten",
     "checkliste-betreuerpflichten",
-    "checkliste-betreuerpflichten",
     "checkliste-für-arztgespräche",
     "corona",
     "datenschutz",
@@ -3332,7 +3331,6 @@
     "angehörigenvertretungsrecht",
     "ausländer",
     "checkliste-gesundheitssorge",
-    "checkliste-wohnungsangelegenheiten",
     "dokumentationspflicht",
     "einwilligungsfähigkeit",
     "elektronische-patientenakte",
@@ -5644,6 +5642,7 @@
     "betreuerpflichten",
     "betreuungsarbeitsgemeinschaft",
     "checkliste-betreuerpflichten",
+    "checkliste-wohnungsangelegenheiten",
     "delegation",
     "eidesstattliche-versicherung",
     "einwilligungsfähigkeit",
@@ -6531,6 +6530,7 @@
   "verpflichtungsgespräch": [
     "anfangsgespräch",
     "betreuer-(ehrenamt)",
+    "checkliste-betreuerpflichten",
     "einführungsgespräch",
     "verpflichtungsgespräch"
   ],
@@ -7517,7 +7517,6 @@
     "betreuerpflichten",
     "checkliste-personenbogen",
     "checkliste-vermögenssorge",
-    "checkliste-wohnungsangelegenheiten",
     "eherecht-und-betreuung",
     "erbausschlagung",
     "geldanlage",
@@ -9003,6 +9002,7 @@
     "betreutes-wohnen",
     "checkliste-wohnungsangelegenheiten",
     "mietvertragsangelegenheiten",
+    "unterbringungsähnliche-maßnahme",
     "wohn--und-betreuungsvertragsgesetz",
     "wohnungsangelegenheiten",
     "wohnungsangelegenheiten",
@@ -11708,7 +11708,6 @@
     "patientenvertreter",
     "sterbehilfe",
     "unterbringungsverfahren",
-    "unterbringungsähnliche-maßnahme",
     "zwangsbehandlung"
   ],
   "basisdaten": [
@@ -11936,8 +11935,7 @@
     "buchverzeichnis",
     "ermessensvergütung",
     "familienverfahrensgesetz",
-    "rechnungslegung",
-    "unterbringungsähnliche-maßnahme"
+    "rechnungslegung"
   ],
   "brucker": [
     "behördenbetreuer",
@@ -13003,7 +13001,8 @@
   ],
   "praxiskommentar": [
     "betreuerbestellung",
-    "betreuungsverfahren"
+    "betreuungsverfahren",
+    "unterbringungsähnliche-maßnahme"
   ],
   "eignung": [
     "betreuerbestellung",
@@ -13286,7 +13285,6 @@
     "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsverfahren",
-    "unterbringungsähnliche-maßnahme",
     "unterbringungsähnliche-maßnahme"
   ],
   "gerichtlichen": [
@@ -14776,7 +14774,8 @@
     "gesetzestexte"
   ],
   "fröschle": [
-    "betreuungsverfahren"
+    "betreuungsverfahren",
+    "unterbringungsähnliche-maßnahme"
   ],
   "unterbringungsverfahren": [
     "betreuungsverfahren",
@@ -14784,6 +14783,7 @@
     "unterbringung",
     "unterbringungssache",
     "unterbringungsverfahren",
+    "unterbringungsähnliche-maßnahme",
     "unterbringungsähnliche-maßnahme",
     "verfahrenspfleger",
     "vorläufiger-betreuer",
@@ -15502,6 +15502,14 @@
   ],
   "finanzierung": [
     "checkliste-wohnungsangelegenheiten"
+  ],
+  "unterbringungsähnliche": [
+    "checkliste-wohnungsangelegenheiten",
+    "fem",
+    "fem",
+    "unterbringung",
+    "unterbringungsverfahren",
+    "zuführung-zur-unterbringung"
   ],
   "medikationsplan": [
     "checkliste-für-arztgespräche",
@@ -17307,13 +17315,6 @@
     "unterstützte-entscheidungsfindung",
     "unterstützte-entscheidungsfindung",
     "vertrauensperson"
-  ],
-  "unterbringungsähnliche": [
-    "fem",
-    "fem",
-    "unterbringung",
-    "unterbringungsverfahren",
-    "zuführung-zur-unterbringung"
   ],
   "familienverfahrensgesetz": [
     "famfg",
@@ -22326,8 +22327,7 @@
   "engelfried": [
     "umgangsbestimmung",
     "unterbringung",
-    "unterbringungsverfahren",
-    "unterbringungsähnliche-maßnahme"
+    "unterbringungsverfahren"
   ],
   "zählt": [
     "unfallversicherung"
