@@ -4129,7 +4129,6 @@
     "prozessführung",
     "sozialhilfe",
     "strafprozess",
-    "strafprozess",
     "vertretung-gegenüber-behörden",
     "wohnungsangelegenheiten",
     "wohnungsangelegenheiten",
@@ -22063,6 +22062,7 @@
     "sterilisationsbetreuer"
   ],
   "strafverfahren": [
+    "strafprozess",
     "strafprozess",
     "strafprozess",
     "strafprozess"
