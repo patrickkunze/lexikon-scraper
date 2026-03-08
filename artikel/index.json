@@ -377,6 +377,10 @@
       "titel": "Betreuungsarbeitsgemeinschaft"
     },
     {
+      "id": "betreuungsausweis",
+      "titel": "Betreuungsausweis"
+    },
+    {
       "id": "betreuungsbedarf",
       "titel": "Betreuungsbedarf"
     },
@@ -1851,6 +1855,10 @@
     {
       "id": "vertretungsausschluss",
       "titel": "Vertretungsausschluss"
+    },
+    {
+      "id": "vertretungsbefugnis",
+      "titel": "Vertretungsbefugnis"
     },
     {
       "id": "vertretungsmacht",
