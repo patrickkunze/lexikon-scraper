@@ -875,6 +875,7 @@
     "nutzungspflicht",
     "nutzungspflicht",
     "ordre-public",
+    "ordre-public",
     "personalausweis",
     "prozessführung",
     "prozessführung",
@@ -1506,7 +1507,6 @@
     "persönliche-betreuung",
     "persönliches-budget",
     "pflegeversicherung",
-    "polizeirecht",
     "postkontrolle",
     "prozessführung",
     "psychisch-kranken-gesetz",
@@ -3269,7 +3269,6 @@
     "bundesverband-der-berufsbetreuer",
     "ermessensvergütung",
     "ermessensvergütung",
-    "ermessensvergütung",
     "gesetzestexte",
     "kontrollbetreuer",
     "mittellosigkeit",
@@ -3289,8 +3288,6 @@
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
-    "behördenbetreuer",
-    "behördenbetreuer",
     "behördenbetreuer",
     "behördenbetreuer",
     "beratung",
@@ -3561,6 +3558,7 @@
     "haager-übereinkommen",
     "haager-übereinkommen",
     "mittellosigkeit",
+    "neu",
     "neu",
     "neu",
     "neu",
@@ -4350,6 +4348,7 @@
     "erbausschlagung",
     "erbschaft",
     "ergänzungsbetreuer",
+    "ermessensvergütung",
     "finanzamt",
     "freibetrag",
     "freier-wille",
@@ -5260,7 +5259,6 @@
     "aufwandspauschale",
     "aufwendungsersatz",
     "beamte-als-betreuer",
-    "behördenbetreuer",
     "berufsbetreuer",
     "bestattung",
     "betreuerhaftung",
@@ -5274,7 +5272,6 @@
     "buchverzeichnis",
     "buchverzeichnis",
     "buchverzeichnis",
-    "ermessensvergütung",
     "finanzamt",
     "haftpflichtversicherung",
     "kirchenaustritt",
@@ -5380,7 +5377,6 @@
     "einwilligungsvorbehalt",
     "einwilligungsvorbehalt",
     "erbschaft",
-    "ermessensvergütung",
     "freibetrag",
     "geldanlage",
     "genehmigungspflichten",
@@ -9345,16 +9341,14 @@
     "berufsbetreuer",
     "betreuerhaftung",
     "betreuungskosten-im-steuerrecht",
-    "buchverzeichnis",
-    "ermessensvergütung"
+    "buchverzeichnis"
   ],
   "meier": [
     "aufgabenkreis",
     "berufsbetreuer",
     "betreuerhaftung",
     "rechnungslegung",
-    "sterbehilfedokumente",
-    "vermögenssorge"
+    "sterbehilfedokumente"
   ],
   "personensorge": [
     "aufgabenkreis"
@@ -10346,7 +10340,6 @@
     "internationales",
     "internationales-betreuungsrecht",
     "neu",
-    "ordre-public",
     "vulnerabilität",
     "übereinkommen-über-den-internationalen-schutz-von-erwachsenen"
   ],
@@ -10488,6 +10481,7 @@
   "rechtsweg": [
     "ausschließlichkeitserklärung",
     "einstweilige-anordnung",
+    "polizeirecht",
     "prozessführung",
     "prozesspfleger",
     "rechtsprechung-zum-verfahrenspfleger",
@@ -11897,11 +11891,25 @@
     "gesetzestexte",
     "rechnungslegung"
   ],
+  "ermessensvergütung": [
+    "behördenbetreuer",
+    "betreuervergütung-2019",
+    "betreuervergütung-2026",
+    "ermessensvergütung",
+    "ermessensvergütung",
+    "gesetzestexte"
+  ],
   "eingruppierung": [
     "behördenbetreuer",
     "betreuungsbehörde",
     "eingruppierung",
     "eingruppierung"
+  ],
+  "brucker": [
+    "behördenbetreuer",
+    "betreuervorschlag",
+    "betreuungsbehördengesetz",
+    "buchverzeichnis"
   ],
   "hinweis": [
     "behördenbetreuer",
@@ -11912,61 +11920,6 @@
     "behördenbetreuer",
     "betreuungsbehördengesetz",
     "rechnungslegung"
-  ],
-  "kommentiert": [
-    "behördenbetreuer",
-    "betreuungsbehördengesetz"
-  ],
-  "kommentaren": [
-    "behördenbetreuer",
-    "betreuungsbehördengesetz"
-  ],
-  "walther": [
-    "behördenbetreuer",
-    "eingruppierung",
-    "patientenverfügung"
-  ],
-  "handbuch": [
-    "behördenbetreuer",
-    "rechnungslegung",
-    "vermögenssorge",
-    "vorsorgevollmacht"
-  ],
-  "neuauflage": [
-    "behördenbetreuer",
-    "betreuerbestellung",
-    "buchverzeichnis",
-    "ermessensvergütung",
-    "familienverfahrensgesetz",
-    "rechnungslegung"
-  ],
-  "brucker": [
-    "behördenbetreuer",
-    "betreuervorschlag",
-    "betreuungsbehördengesetz",
-    "buchverzeichnis"
-  ],
-  "barabas": [
-    "behördenbetreuer",
-    "beratung"
-  ],
-  "beratungsrecht": [
-    "behördenbetreuer",
-    "beratung"
-  ],
-  "aufgaben": [
-    "behördenbetreuer",
-    "betreuer-(ehrenamt)",
-    "betreuungsbehörde",
-    "betreuungsbehörde",
-    "betreuungsbehördengesetz",
-    "betreuungsorganisationsgesetz",
-    "betreuungsorganisationsgesetz",
-    "betreuungsorganisationsgesetz",
-    "betreuungsrichter",
-    "krankenhaussozialdienst",
-    "querschnittsaufgaben",
-    "tod-des-betreuten"
   ],
   "betreuungsverein": [
     "beratung",
@@ -12053,6 +12006,12 @@
     "zweites-betreuungsrechtsänderungsgesetz"
   ],
   "gerichtsbescheid": [
+    "beratung"
+  ],
+  "barabas": [
+    "beratung"
+  ],
+  "beratungsrecht": [
     "beratung"
   ],
   "klie": [
@@ -12662,6 +12621,19 @@
   "stadtverwaltung": [
     "betreuer-(ehrenamt)"
   ],
+  "aufgaben": [
+    "betreuer-(ehrenamt)",
+    "betreuungsbehörde",
+    "betreuungsbehörde",
+    "betreuungsbehördengesetz",
+    "betreuungsorganisationsgesetz",
+    "betreuungsorganisationsgesetz",
+    "betreuungsorganisationsgesetz",
+    "betreuungsrichter",
+    "krankenhaussozialdienst",
+    "querschnittsaufgaben",
+    "tod-des-betreuten"
+  ],
   "beauftragt": [
     "betreuer-(ehrenamt)",
     "delegation"
@@ -13007,6 +12979,12 @@
     "betreuerbestellung",
     "betreuungsverfahren",
     "unterbringungsähnliche-maßnahme"
+  ],
+  "neuauflage": [
+    "betreuerbestellung",
+    "buchverzeichnis",
+    "familienverfahrensgesetz",
+    "rechnungslegung"
   ],
   "eignung": [
     "betreuerbestellung",
@@ -13763,12 +13741,6 @@
     "vbvg",
     "vbvg-rechtsprechung"
   ],
-  "ermessensvergütung": [
-    "betreuervergütung-2019",
-    "betreuervergütung-2026",
-    "ermessensvergütung",
-    "gesetzestexte"
-  ],
   "kreutzer": [
     "betreuervergütung-2019",
     "betreuungsverfahren",
@@ -14274,6 +14246,12 @@
   "landesrecht": [
     "betreuungsbehördengesetz"
   ],
+  "kommentiert": [
+    "betreuungsbehördengesetz"
+  ],
+  "kommentaren": [
+    "betreuungsbehördengesetz"
+  ],
   "organisation": [
     "betreuungsbehördengesetz",
     "elektronisches-gerichts--und-verwaltungspostfach"
@@ -14359,6 +14337,7 @@
   "gesetzbuch": [
     "betreuungsgesetz",
     "gesetzestexte",
+    "neu",
     "vormundschaftsgericht"
   ],
   "allgemeines": [
@@ -15166,8 +15145,7 @@
   ],
   "nachlasspflegschaft": [
     "buchverzeichnis",
-    "tod-des-betreuten",
-    "vermögenssorge"
+    "tod-des-betreuten"
   ],
   "verfahrenspflegschaft": [
     "buchverzeichnis",
@@ -15993,6 +15971,7 @@
   ],
   "wahlrecht": [
     "diskriminierungsverbot",
+    "gesetzestexte",
     "wahlrecht",
     "wahlrecht",
     "wahlrecht",
@@ -16527,6 +16506,10 @@
   ],
   "thomas": [
     "eingruppierung"
+  ],
+  "walther": [
+    "eingruppierung",
+    "patientenverfügung"
   ],
   "dienst": [
     "eingruppierung",
@@ -17257,9 +17240,20 @@
   "mühlhausen": [
     "ergänzungsbetreuer"
   ],
-  "betreuerinnen": [
+  "rosenow": [
+    "ermessensvergütung"
+  ],
+  "honorarvereinbarung": [
+    "ermessensvergütung"
+  ],
+  "vermögenden": [
+    "ermessensvergütung"
+  ],
+  "mündelgeld": [
     "ermessensvergütung",
-    "unterstützungspflicht"
+    "geldanlage",
+    "genehmigungen-von-a-bis-z",
+    "mündelgeld"
   ],
   "erziehungsmaßregeln": [
     "erziehungsmaßregeln"
@@ -17694,11 +17688,6 @@
   ],
   "anlagebeschränkungen": [
     "geldanlage"
-  ],
-  "mündelgeld": [
-    "geldanlage",
-    "genehmigungen-von-a-bis-z",
-    "mündelgeld"
   ],
   "anlegung": [
     "geldanlage"
@@ -20165,6 +20154,15 @@
   "nachstellungen": [
     "neu"
   ],
+  "wirkung": [
+    "neu"
+  ],
+  "bürgerliche": [
+    "neu"
+  ],
+  "eingefügt": [
+    "neu"
+  ],
   "erschien": [
     "neu"
   ],
@@ -21093,8 +21091,11 @@
   ],
   "reinfarth": [
     "rechnungslegung",
-    "schenkung",
-    "vermögenssorge"
+    "schenkung"
+  ],
+  "handbuch": [
+    "rechnungslegung",
+    "vorsorgevollmacht"
   ],
   "platz": [
     "rechnungslegung"
@@ -22591,6 +22592,9 @@
   "zweckmäßig": [
     "unterstützungspflicht"
   ],
+  "betreuerinnen": [
+    "unterstützungspflicht"
+  ],
   "exekutive": [
     "unterstützungspflicht"
   ],
@@ -22841,9 +22845,6 @@
     "vermögenssorge"
   ],
   "verwendet": [
-    "vermögenssorge"
-  ],
-  "jochum": [
     "vermögenssorge"
   ],
   "anschreiben": [
