@@ -1486,7 +1486,6 @@
     "kirchenaustritt",
     "kontrollbetreuer",
     "krankenversicherung",
-    "link-liste",
     "mdk-gutachten",
     "mahnverfahren",
     "mailingliste",
@@ -2925,6 +2924,7 @@
     "neu",
     "neu",
     "neu",
+    "neu",
     "organspende",
     "organspende",
     "peg-sonde",
@@ -2939,6 +2939,7 @@
     "registrierung",
     "sachkundenachweis",
     "schweigepflicht",
+    "selbstbestimmung",
     "sozialhilfe",
     "sterbehilfe",
     "sterbehilfe",
@@ -5192,6 +5193,8 @@
     "ausschließlichkeitserklärung",
     "digitale-barrierefreiheit",
     "diskriminierungsverbot",
+    "neu",
+    "selbstbestimmung",
     "selbstbestimmung",
     "selbstbestimmung",
     "selbstbestimmungsrecht",
@@ -9142,9 +9145,11 @@
     "neu",
     "neu",
     "neu",
+    "neu",
     "psychisch-kranken-gesetz",
     "psychkg",
     "rechnungslegung",
+    "selbstbestimmung",
     "sozialpsychiatrischer-dienst",
     "sterbehilfedokumente",
     "synopse-patientenverfügungsgesetze",
@@ -14235,6 +14240,8 @@
     "neu",
     "neu",
     "neu",
+    "neu",
+    "selbstbestimmung",
     "vormundschaftsgericht",
     "vormünder--und-betreuervergütungsgesetz",
     "wohn--und-betreuungsvertragsgesetz",
@@ -14724,6 +14731,7 @@
     "globales-nachhaltigkeitsziel-10",
     "haager-übereinkommen",
     "konvention-über-die-rechte-behinderter-menschen",
+    "link-liste",
     "selbstbestimmung",
     "un-brk",
     "un-behindertenrechtskonvention",
@@ -20302,6 +20310,10 @@
   "irland": [
     "neu"
   ],
+  "bezug": [
+    "neu",
+    "rechtsanwalt"
+  ],
   "übergangszeitraum": [
     "neu"
   ],
@@ -21125,9 +21137,6 @@
   "dstr": [
     "rechtsanwalt"
   ],
-  "bezug": [
-    "rechtsanwalt"
-  ],
   "anzumelden": [
     "rechtsanwalt"
   ],
@@ -21582,6 +21591,9 @@
     "vertretung-gegenüber-behörden"
   ],
   "besprechung": [
+    "selbstbestimmung"
+  ],
+  "geschlechtseintrag": [
     "selbstbestimmung"
   ],
   "renate": [
