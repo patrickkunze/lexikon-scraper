@@ -3586,8 +3586,7 @@
     "hauptseite",
     "mittellosigkeit",
     "neu",
-    "neu",
-    "vormundschaftsgericht"
+    "neu"
   ],
   "rechtsinstitut": [
     "allgemeines"
@@ -5598,7 +5597,6 @@
     "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsverfahren",
-    "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme",
     "unterbringungsähnliche-maßnahme",
     "unterbringungsähnliche-maßnahme",
@@ -7225,7 +7223,6 @@
     "bezirksrevisor",
     "ebo",
     "egvp",
-    "personalausweis",
     "prozessführung",
     "querschnittsaufgaben",
     "software"
@@ -8321,8 +8318,7 @@
     "persönliche-betreuung",
     "vollmachtswiderruf",
     "vormundschaftsgericht",
-    "wohnungsauflösung",
-    "zugangsrecht"
+    "wohnungsauflösung"
   ],
   "mitteilungspflicht": [
     "anzeigepflicht",
@@ -9362,7 +9358,6 @@
     "aufgabenkreis",
     "gesetzliche-vertretung",
     "verpflichtungsgespräch",
-    "vormundschaftsgericht",
     "wohnungsauflösung"
   ],
   "einwilligungsvorbehaltes": [
@@ -9793,7 +9788,6 @@
     "buchverzeichnis",
     "haftpflichtversicherung",
     "unterbringung",
-    "unterbringungsverfahren",
     "unterstützte-kommunikation"
   ],
   "aufwendungsersatz": [
@@ -11155,6 +11149,7 @@
     "befreiter-betreuer",
     "informationspflicht",
     "medikationsplan",
+    "personalausweis",
     "postkontrolle",
     "schweigepflicht",
     "vorsorgeregister"
@@ -11479,6 +11474,7 @@
   ],
   "vormundschaftsgericht": [
     "beglaubigung-durch-betreuungsbehörde",
+    "betreuungssache",
     "haager-übereinkommen",
     "vormundschaftsgericht",
     "vormundschaftsgericht",
@@ -11654,10 +11650,8 @@
     "rechtsanwalt",
     "unterbringung",
     "unterbringungsverfahren",
-    "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme",
     "vorläufiger-betreuer",
-    "vormundschaftsgericht",
     "vormundschaftsgericht"
   ],
   "vormundschaftsrecht": [
@@ -12454,7 +12448,6 @@
     "tod-des-betreuten",
     "unterbringung",
     "unterbringung",
-    "unterbringungsverfahren",
     "verfahrenspfleger"
   ],
   "bestattungspflicht": [
@@ -13270,7 +13263,6 @@
     "rechtsanwalt",
     "unterbringung",
     "unterbringung",
-    "unterbringungsverfahren",
     "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme"
   ],
@@ -14662,8 +14654,7 @@
     "familienverfahrensgesetz",
     "gesetzestexte",
     "unterbringungsverfahren",
-    "unterbringungsverfahren",
-    "vormundschaftsgericht"
+    "unterbringungsverfahren"
   ],
   "redirectbetreuungsverfahren": [
     "betreuungssachen"
@@ -15159,8 +15150,7 @@
     "buchverzeichnis",
     "verfahrenspfleger",
     "verfahrenspfleger",
-    "verfahrenspfleger",
-    "vormundschaftsgericht"
+    "verfahrenspfleger"
   ],
   "kindes": [
     "buchverzeichnis",
@@ -17326,7 +17316,8 @@
     "famfg",
     "neu",
     "pflicht-zur-betreuungsübernahme",
-    "vaterschaftsanerkennung"
+    "vaterschaftsanerkennung",
+    "zugangsrecht"
   ],
   "familiensachen": [
     "familienverfahrensgesetz"
@@ -22344,8 +22335,7 @@
   ],
   "engelfried": [
     "umgangsbestimmung",
-    "unterbringung",
-    "unterbringungsverfahren"
+    "unterbringung"
   ],
   "zählt": [
     "unfallversicherung"
