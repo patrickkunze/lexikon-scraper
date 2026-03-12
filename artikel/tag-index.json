@@ -192,7 +192,6 @@
     "betreuungsgesetz",
     "betreuungsrechtsreform-2023",
     "betreuungsreform",
-    "elektronischer-identitätsnachweis",
     "reform",
     "sachkundenachweis",
     "zugangsrecht",
@@ -3317,6 +3316,7 @@
     "gerichtsbeschluss",
     "hauptseite",
     "querschnittsaufgaben",
+    "querschnittsaufgaben",
     "stammbehörde",
     "unterbringungsverfahren",
     "unterschriftsbeglaubigung",
@@ -6054,8 +6054,10 @@
   "gesetzlicher": [
     "amtspflichtverletzung",
     "angehörigenvertretungsrecht",
+    "elektronischer-identitätsnachweis",
     "gesetzliche-vertretung",
     "haftpflichtversicherung",
+    "personalausweis",
     "rechtsgeschäft"
   ],
   "vertreter": [
@@ -6063,6 +6065,7 @@
     "angehörigenvertretungsrecht",
     "arbeitsvertrag",
     "bankvollmacht",
+    "elektronischer-identitätsnachweis",
     "geschäftsfähigkeit",
     "geschäftsfähigkeit",
     "geschäftsfähigkeit",
@@ -6980,6 +6983,7 @@
     "ausländer",
     "betreuervorschlag",
     "betreuerwechsel",
+    "betreuungsverein",
     "sozialhilfe",
     "vorläufiger-betreuer"
   ],
@@ -7965,7 +7969,6 @@
     "bestattungsvertrag",
     "betreuer-(ehrenamt)",
     "betreuungsgesetz",
-    "betreuungsverein",
     "betreuungsverfügung",
     "corona",
     "corona",
@@ -15088,7 +15091,6 @@
     "ebo",
     "egvp",
     "genehmigungen-von-a-bis-z",
-    "personalausweis",
     "querschnittsaufgaben",
     "sachkundenachweis",
     "software",
@@ -16123,7 +16125,6 @@
   "rezept": [
     "e-rezept",
     "e-rezept",
-    "elektronischer-identitätsnachweis",
     "neu"
   ],
   "bundesinstituts": [
@@ -21067,9 +21068,6 @@
     "querschnittsaufgaben"
   ],
   "geeigneten": [
-    "querschnittsaufgaben"
-  ],
-  "qualitätsleitfaden": [
     "querschnittsaufgaben"
   ],
   "abrechnung": [

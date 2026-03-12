@@ -1,7 +1,7 @@
 {
   "id": "elektronischer-identitätsnachweis",
   "titel": "Elektronischer Identitätsnachweis",
-  "inhalt": "Was der [Personalausweis](personalausweis) oder der Reisepass rechtlich im realen Leben leistet, leistet der elektronische Identitätsnachweis (eID) im Internet bzw. im \"Cyberspace\".\n\nBeide Aus- bzw. Nachweise können gefälscht werden. Dagegen gibt es im deutschen Strafgesetzbuch zahlreiche Strafvorschriften:\n\n Urkundenfälschung § 267 StGB\n Fälschung beweiserheblicher Daten § 269 StGB\n Täuschung im Rechtsverkehr bei Datenverarbeitung § 270 StGB\n Missbrauch von Ausweispapieren § 281 StGB\n\nSiehe auch\n [Personalausweis](personalausweis), [Schwerbehindertenausweis](schwerbehindertenausweis)\n [Betreuerausweis](betreuerausweis)\n [Betreuungsrechtsreform](betreuungsrechtsreform)\n [e-Rezept](e-rezept), [Medikationsplan](medikationsplan), [elektronische Patientenakte](elektronische-patientenakte)\n [Software](software), [Formulare](formulare)\n [digitale Barrierefreiheit](digitale-barrierefreiheit), [e-Rechnung](e-rechnung)\n [Informationspflicht](informationspflicht)\n [Interoperabilität](interoperabilität)\n [Datenschutz](datenschutz)\n [IT-Sicherheit](it-sicherheit)\n [Registrierung](registrierung)\n [ordre public](ordre-public), [Polizeirecht](polizeirecht)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n [Strafprozess](strafprozess)\n [Zugriffsrecht](zugriffsrecht)\n [Elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach), [Nutzungspflicht](nutzungspflicht)\n\nWeblinks\n gemeinnütziger Bürgerservice e.V. zur Förderung der Nutzung der Online-Ausweisfunktion\n\n[Kategorie:Auswirkungen](kategorie:auswirkungen)",
+  "inhalt": "Was der [Personalausweis](personalausweis) oder der Reisepass rechtlich im realen Leben leistet, leistet der elektronische Identitätsnachweis (eID) im Internet bzw. im \"Cyberspace\".\n\nBeide Aus- bzw. Nachweise können gefälscht werden. Dagegen gibt es im deutschen Strafgesetzbuch zahlreiche Strafvorschriften:\n\n Urkundenfälschung § 267 StGB\n Fälschung beweiserheblicher Daten § 269 StGB\n Täuschung im Rechtsverkehr bei Datenverarbeitung § 270 StGB\n Missbrauch von Ausweispapieren § 281 StGB\n\nSiehe auch\n [Personalausweis](personalausweis), [Schwerbehindertenausweis](schwerbehindertenausweis)\n [Betreuerausweis](betreuerausweis), [gesetzlicher Vertreter](gesetzlicher-vertreter), [Vertretungsbefugnis](vertretungsbefugnis)\n [Betreuungsrechtsreform](betreuungsrechtsreform)\n [e-Rezept](e-rezept), [Medikationsplan](medikationsplan), [elektronische Patientenakte](elektronische-patientenakte)\n [Software](software), [Formulare](formulare)\n [digitale Barrierefreiheit](digitale-barrierefreiheit), [e-Rechnung](e-rechnung)\n [Informationspflicht](informationspflicht)\n [Interoperabilität](interoperabilität)\n [Datenschutz](datenschutz)\n [IT-Sicherheit](it-sicherheit)\n [Registrierung](registrierung)\n [ordre public](ordre-public), [Polizeirecht](polizeirecht)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n [Strafprozess](strafprozess)\n [Zugriffsrecht](zugriffsrecht)\n [Elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach), [Nutzungspflicht](nutzungspflicht)\n\nWeblinks\n gemeinnütziger Bürgerservice e.V. zur Förderung der Nutzung der Online-Ausweisfunktion\n\n[Kategorie:Auswirkungen](kategorie:auswirkungen)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -16,13 +16,13 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Personalausweis, Schwerbehindertenausweis\n Betreuerausweis\n Betreuungsrechtsreform\n e-Rezept, Medikationsplan, elektronische Patientenakte\n Software, Formulare\n digitale Barrierefreiheit, e-Rechnung\n Informationspflicht\n Interoperabilität\n Datenschutz\n IT-Sicherheit\n Registrierung\n ordre public, Polizeirecht\n Rechtsverkehr in Deutschland\n Strafprozess\n Zugriffsrecht\n Elektronisches Gerichts- und Verwaltungspostfach, Nutzungspflicht",
+      "inhalt": "Personalausweis, Schwerbehindertenausweis\n Betreuerausweis, gesetzlicher Vertreter, Vertretungsbefugnis\n Betreuungsrechtsreform\n e-Rezept, Medikationsplan, elektronische Patientenakte\n Software, Formulare\n digitale Barrierefreiheit, e-Rechnung\n Informationspflicht\n Interoperabilität\n Datenschutz\n IT-Sicherheit\n Registrierung\n ordre public, Polizeirecht\n Rechtsverkehr in Deutschland\n Strafprozess\n Zugriffsrecht\n Elektronisches Gerichts- und Verwaltungspostfach, Nutzungspflicht",
       "tags": [
         "personalausweis",
         "schwerbehindertenausweis",
         "betreuerausweis",
-        "betreuungsrechtsreform",
-        "rezept"
+        "gesetzlicher",
+        "vertreter"
       ]
     },
     {
@@ -39,29 +39,31 @@
   ],
   "zusammenfassung": "Was der [Personalausweis](personalausweis) oder der Reisepass rechtlich im realen Leben leistet, leistet der elektronische Identitätsnachweis (eID) im Internet bzw. im \"Cyberspace\".\n\nBeide Aus- bzw. Nachweise können gefälscht werden. Dagegen gibt es im deutschen Strafgesetzbuch zahlreiche Strafvorsc...",
   "verwandteArtikel": [
-    "e-rezept",
-    "schwerbehindertenausweis",
-    "medikationsplan",
-    "kategorie:auswirkungen",
-    "it-sicherheit",
-    "elektronische-patientenakte",
-    "zugriffsrecht",
     "digitale-barrierefreiheit",
+    "nutzungspflicht",
     "registrierung",
     "rechtsverkehr-in-deutschland",
-    "e-rechnung",
-    "informationspflicht",
+    "vertretungsbefugnis",
     "software",
     "ordre-public",
-    "datenschutz",
-    "polizeirecht",
-    "strafprozess",
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "formulare",
-    "betreuerausweis",
-    "nutzungspflicht",
-    "betreuungsrechtsreform",
+    "medikationsplan",
     "interoperabilität",
-    "personalausweis"
+    "polizeirecht",
+    "it-sicherheit",
+    "e-rezept",
+    "datenschutz",
+    "personalausweis",
+    "zugriffsrecht",
+    "gesetzlicher-vertreter",
+    "betreuungsrechtsreform",
+    "kategorie:auswirkungen",
+    "strafprozess",
+    "betreuerausweis",
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "elektronische-patientenakte",
+    "e-rechnung",
+    "formulare",
+    "informationspflicht",
+    "schwerbehindertenausweis"
   ]
 }
