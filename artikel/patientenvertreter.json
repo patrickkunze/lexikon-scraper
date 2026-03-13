@@ -37,19 +37,19 @@
   "zusammenfassung": "Als Patientenvertreter wird eine Person bezeichnet, die berechtigt ist, als Dritter in Behandlungsverträge gem. § 630d BGB einzuwilligen, weil der Patient selbst [Einwilligungsfähigkeit](einwilligungsfähigkeit) ist. Dabei kann eine [Patientenverfügung](patientenverfügung) (§ 1827 BGB) vorliegen oder...",
   "verwandteArtikel": [
     "patientenverfügung",
-    "notfalldaten",
-    "vorsorgevollmacht",
-    "gesundheitssorge",
-    "sterbehilfe",
-    "einwilligungsfähigkeit",
     "gesundheitliche-versorgungsplanung",
-    "kategorie:betreuungspersonen",
-    "kategorie:betreuungsalternativen",
-    "aufgabenkreis",
-    "vulnerabilität",
     "betreuungsverfügung",
-    "organspende",
+    "gesundheitssorge",
+    "vorsorgevollmacht",
+    "kategorie:betreuungspersonen",
     "angehörigenvertretungsrecht",
-    "heilbehandlung"
+    "notfalldaten",
+    "einwilligungsfähigkeit",
+    "vulnerabilität",
+    "sterbehilfe",
+    "aufgabenkreis",
+    "heilbehandlung",
+    "kategorie:betreuungsalternativen",
+    "organspende"
   ]
 }

@@ -9780,6 +9780,40 @@
     "vermögenssorge",
     "vermögensverzeichnis"
   ],
+  "betreuervergütung": [
+    "aufwandspauschale",
+    "aufwendungsersatz",
+    "betreuervergütung",
+    "betreuervergütung",
+    "betreuervergütung",
+    "betreuervergütung-2019",
+    "betreuervergütung-2019",
+    "betreuervergütung-2019",
+    "betreuervergütung-2026",
+    "betreuervergütung-2026",
+    "ermessensvergütung",
+    "freibetrag",
+    "freibetrag",
+    "inflationsausgleich",
+    "mittellosigkeit",
+    "neu",
+    "stundensatz",
+    "vbvg-rechtsprechung",
+    "vereinsbetreuer",
+    "vergütung-2026",
+    "vergütungsreform-2019",
+    "vormünder--und-betreuervergütungsgesetz",
+    "wohn--und-betreuungsvertragsgesetz"
+  ],
+  "ermessensvergütung": [
+    "aufwandspauschale",
+    "behördenbetreuer",
+    "betreuervergütung-2019",
+    "betreuervergütung-2026",
+    "ermessensvergütung",
+    "ermessensvergütung",
+    "gesetzestexte"
+  ],
   "auflage": [
     "aufwandspauschale",
     "beratung",
@@ -9854,30 +9888,6 @@
     "ausländer",
     "mittellosigkeit",
     "rechtsanwalt"
-  ],
-  "betreuervergütung": [
-    "aufwendungsersatz",
-    "betreuervergütung",
-    "betreuervergütung",
-    "betreuervergütung",
-    "betreuervergütung-2019",
-    "betreuervergütung-2019",
-    "betreuervergütung-2019",
-    "betreuervergütung-2026",
-    "betreuervergütung-2026",
-    "ermessensvergütung",
-    "freibetrag",
-    "freibetrag",
-    "inflationsausgleich",
-    "mittellosigkeit",
-    "neu",
-    "stundensatz",
-    "vbvg-rechtsprechung",
-    "vereinsbetreuer",
-    "vergütung-2026",
-    "vergütungsreform-2019",
-    "vormünder--und-betreuervergütungsgesetz",
-    "wohn--und-betreuungsvertragsgesetz"
   ],
   "mittellosigkeit": [
     "aufwendungsersatz",
@@ -11892,14 +11902,6 @@
     "behördenbetreuer",
     "gesetzestexte",
     "rechnungslegung"
-  ],
-  "ermessensvergütung": [
-    "behördenbetreuer",
-    "betreuervergütung-2019",
-    "betreuervergütung-2026",
-    "ermessensvergütung",
-    "ermessensvergütung",
-    "gesetzestexte"
   ],
   "eingruppierung": [
     "behördenbetreuer",
