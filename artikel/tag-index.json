@@ -5882,6 +5882,7 @@
     "geheimhaltungspflicht",
     "geschäftsfähigkeit",
     "gesetzgebung",
+    "globales-nachhaltigkeitsziel-10",
     "grundrechte",
     "grundrechte",
     "grundrechte",
@@ -8782,7 +8783,6 @@
   ],
   "assistenzleistungen": [
     "assistenzleistungen",
-    "assistenzleistungen",
     "e-rezept",
     "gesamtplanverfahren",
     "persönliches-budget",
@@ -8829,6 +8829,23 @@
     "assistenzleistungen",
     "mdk-gutachten"
   ],
+  "erklärung": [
+    "assistenzleistungen",
+    "erbausschlagung",
+    "gesetzestexte",
+    "kirchenaustritt",
+    "kirchenaustritt",
+    "organspende",
+    "selbstverwaltungserklärung",
+    "vaterschaftsanerkennung"
+  ],
+  "begriffs": [
+    "assistenzleistungen"
+  ],
+  "karlsruhe": [
+    "assistenzleistungen",
+    "heilbehandlung"
+  ],
   "empfehlungen": [
     "assistenzleistungen",
     "betreuerbestellung",
@@ -8839,15 +8856,6 @@
     "betreuungsgerichtshilfe",
     "corona",
     "patientenvertreter"
-  ],
-  "vereins": [
-    "assistenzleistungen",
-    "betreuerbestellung",
-    "betreuerpflichten",
-    "betreuerwechsel",
-    "delegation",
-    "tod-des-betreuers",
-    "vereinsbetreuer"
   ],
   "eingliederungshilfe": [
     "assistenzleistungen",
@@ -9814,6 +9822,28 @@
     "ermessensvergütung",
     "gesetzestexte"
   ],
+  "stundensatz": [
+    "aufwandspauschale",
+    "betreuervergütung",
+    "ermessensvergütung",
+    "tabelleneinstufung",
+    "vbvg-rechtsprechung",
+    "vergütungsstufe",
+    "vergütungstabelle",
+    "vormünder--und-betreuervergütungsgesetz"
+  ],
+  "aufwendungsersatz": [
+    "aufwandspauschale",
+    "aufwendungsersatz",
+    "aufwendungsersatz",
+    "aufwendungsersatz",
+    "aufwendungsersatz",
+    "aufwendungsersatz",
+    "berufliche-dienste",
+    "betreuervergütung",
+    "betreuungszahlen",
+    "gesetzestexte"
+  ],
   "auflage": [
     "aufwandspauschale",
     "beratung",
@@ -9826,17 +9856,6 @@
     "haftpflichtversicherung",
     "unterbringung",
     "unterstützte-kommunikation"
-  ],
-  "aufwendungsersatz": [
-    "aufwendungsersatz",
-    "aufwendungsersatz",
-    "aufwendungsersatz",
-    "aufwendungsersatz",
-    "aufwendungsersatz",
-    "berufliche-dienste",
-    "betreuervergütung",
-    "betreuungszahlen",
-    "gesetzestexte"
   ],
   "siehe": [
     "aufwendungsersatz",
@@ -12925,6 +12944,14 @@
     "bundesverband-freier-berufsbetreuer",
     "natürlicher-wille"
   ],
+  "vereins": [
+    "betreuerbestellung",
+    "betreuerpflichten",
+    "betreuerwechsel",
+    "delegation",
+    "tod-des-betreuers",
+    "vereinsbetreuer"
+  ],
   "sterilisation": [
     "betreuerbestellung",
     "betreuerpflichten",
@@ -13523,15 +13550,6 @@
   "betreuervergütungen": [
     "betreuervergütung",
     "finanzamt"
-  ],
-  "stundensatz": [
-    "betreuervergütung",
-    "ermessensvergütung",
-    "tabelleneinstufung",
-    "vbvg-rechtsprechung",
-    "vergütungsstufe",
-    "vergütungstabelle",
-    "vormünder--und-betreuervergütungsgesetz"
   ],
   "thema": [
     "betreuervergütung",
@@ -14671,6 +14689,7 @@
     "betreuungsverein",
     "dokumentationspflicht",
     "gerichtskosten",
+    "globales-nachhaltigkeitsziel-10",
     "haager-übereinkommen",
     "haager-übereinkommen",
     "hamburger-mustergliederung",
@@ -14684,6 +14703,7 @@
   "evangelischen": [
     "betreuungsverein",
     "eingliederungshilfe",
+    "globales-nachhaltigkeitsziel-10",
     "haager-übereinkommen"
   ],
   "landeskirchen": [
@@ -17059,15 +17079,6 @@
   "ausschlagungserklärung": [
     "erbausschlagung"
   ],
-  "erklärung": [
-    "erbausschlagung",
-    "gesetzestexte",
-    "kirchenaustritt",
-    "kirchenaustritt",
-    "organspende",
-    "selbstverwaltungserklärung",
-    "vaterschaftsanerkennung"
-  ],
   "nachlass": [
     "erbausschlagung",
     "regress-der-staatskasse"
@@ -17625,6 +17636,7 @@
   "worden": [
     "geheimhaltungspflicht",
     "geschäftsfähigkeit",
+    "globales-nachhaltigkeitsziel-10",
     "kindschaftsrecht",
     "neu",
     "tierschutz",
@@ -18601,6 +18613,9 @@
   "nachhaltigkeitszielen": [
     "globales-nachhaltigkeitsziel-10"
   ],
+  "theologinnenordnung": [
+    "globales-nachhaltigkeitsziel-10"
+  ],
   "zwangsmedikation": [
     "grundrechte"
   ],
@@ -19100,9 +19115,6 @@
   "operation": [
     "heilbehandlung",
     "vorläufiger-betreuer"
-  ],
-  "karlsruhe": [
-    "heilbehandlung"
   ],
   "hahnemann": [
     "heilbehandlung"
