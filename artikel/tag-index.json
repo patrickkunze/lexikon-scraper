@@ -5263,7 +5263,6 @@
     "beamte-als-betreuer",
     "berufsbetreuer",
     "bestattung",
-    "betreuerhaftung",
     "betreuerregistrierungsverordnung",
     "betreuervergütung-2026",
     "betreuungsbehörde",
@@ -5351,7 +5350,6 @@
     "betreuerbestellung",
     "betreuerbestellung",
     "betreuerbestellung",
-    "betreuerhaftung",
     "betreuerhaftung",
     "betreuerhaftung",
     "betreuerhaftung",
@@ -5867,7 +5865,6 @@
   ],
   "deutschen": [
     "amtsermittlungspflicht",
-    "assistenzleistungen",
     "ausbildung",
     "ausländer",
     "ausländer",
@@ -5972,7 +5969,6 @@
     "amtspflichtverletzung",
     "arbeitsvertrag",
     "aufgabenkreis",
-    "betreuerhaftung",
     "betreuerhaftung",
     "betreuerhaftung",
     "betreuerhaftung",
@@ -8811,6 +8807,7 @@
     "assistenzleistungen"
   ],
   "delegationstechnik": [
+    "assistenzleistungen",
     "assistenzleistungen"
   ],
   "system": [
@@ -8839,12 +8836,12 @@
     "selbstverwaltungserklärung",
     "vaterschaftsanerkennung"
   ],
-  "begriffs": [
-    "assistenzleistungen"
-  ],
   "karlsruhe": [
     "assistenzleistungen",
     "heilbehandlung"
+  ],
+  "begriffs": [
+    "assistenzleistungen"
   ],
   "empfehlungen": [
     "assistenzleistungen",
@@ -9351,14 +9348,12 @@
     "aufwandspauschale",
     "aufwendungsersatz",
     "berufsbetreuer",
-    "betreuerhaftung",
     "betreuungskosten-im-steuerrecht",
     "buchverzeichnis"
   ],
   "meier": [
     "aufgabenkreis",
     "berufsbetreuer",
-    "betreuerhaftung",
     "rechnungslegung",
     "sterbehilfedokumente"
   ],
