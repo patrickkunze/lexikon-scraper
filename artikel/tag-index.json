@@ -2268,6 +2268,7 @@
     "berufsbetreuer",
     "bestattungsvertrag",
     "betreuer-(ehrenamt)",
+    "betreuer-(ehrenamt)",
     "betreuerbestellung",
     "betreuerbestellung",
     "betreuerhaftung",
@@ -3305,6 +3306,7 @@
     "betreuungsbehörde",
     "betreuungsbehörde",
     "betreuungsbehörde",
+    "betreuungsbehörde",
     "betreuungsbehördengesetz",
     "betreuungsgerichtshilfe",
     "betreuungsgerichtshilfe",
@@ -4126,7 +4128,6 @@
     "heilbehandlung",
     "kirchenaustritt",
     "meldepflicht",
-    "pflegeversicherung",
     "prozessführung",
     "prozessführung",
     "prozessführung",
@@ -7505,6 +7506,7 @@
     "erbausschlagung",
     "erbschaft",
     "gesundheitssorge",
+    "pflegeversicherung",
     "wohnungsangelegenheiten"
   ],
   "vermögenssorge": [
@@ -8125,6 +8127,7 @@
   "anzeigepflicht": [
     "anzeigepflicht",
     "auskunftspflicht",
+    "beamte-als-betreuer",
     "beaufsichtigung",
     "betreuerbestellung",
     "betreuerhaftung",
@@ -10777,19 +10780,6 @@
   "dienstverhältnissen": [
     "beamte-als-betreuer"
   ],
-  "einwilligungsfähigkeit": [
-    "beamte-als-betreuer",
-    "corona",
-    "einwilligungsfähigkeit",
-    "einwilligungsfähigkeit",
-    "einwilligungsunfähigkeit",
-    "einwilligungsvorbehalt",
-    "erörterungsgespräch",
-    "freier-wille",
-    "intellektuelle-beeinträchtigung",
-    "peg-sonde",
-    "testierfähigkeit"
-  ],
   "bverfg": [
     "beamte-als-betreuer",
     "rechtsprechung",
@@ -12566,7 +12556,6 @@
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
-    "betreuer-(ehrenamt)",
     "betreuerhaftung",
     "betreuervergütung-2019",
     "ermessensvergütung",
@@ -12592,9 +12581,6 @@
     "betreuungsorganisationsgesetz"
   ],
   "mitarbeit": [
-    "betreuer-(ehrenamt)"
-  ],
-  "entgelt": [
     "betreuer-(ehrenamt)"
   ],
   "einverständniserklärung": [
@@ -12714,6 +12700,12 @@
   ],
   "mustervereinbarung": [
     "betreuer-(ehrenamt)",
+    "querschnittsaufgaben",
+    "vereinbarung-über-begleitung-und-unterstützung"
+  ],
+  "ehrenamtler": [
+    "betreuer-(ehrenamt)",
+    "betreuungszahlen",
     "querschnittsaufgaben",
     "vereinbarung-über-begleitung-und-unterstützung"
   ],
@@ -13010,6 +13002,7 @@
   ],
   "neuauflage": [
     "betreuerbestellung",
+    "betreuungsbehörde",
     "buchverzeichnis",
     "familienverfahrensgesetz",
     "rechnungslegung"
@@ -13781,7 +13774,6 @@
   ],
   "köln": [
     "betreuervergütung-2019",
-    "betreuungsbehörde",
     "betreuungsgerichtshilfe",
     "buchverzeichnis",
     "buchverzeichnis",
@@ -14160,21 +14152,15 @@
     "zuführung",
     "zuführung-zur-unterbringung"
   ],
-  "ansen": [
+  "walther": [
     "betreuungsbehörde",
-    "betreuungsgerichtshilfe",
-    "buchverzeichnis"
+    "eingruppierung",
+    "patientenverfügung"
   ],
-  "sozialdiagnostik": [
+  "handbuch": [
     "betreuungsbehörde",
-    "betreuungsgerichtshilfe",
-    "buchverzeichnis"
-  ],
-  "betreuungspraxis": [
-    "betreuungsbehörde",
-    "betreuungsgerichtshilfe",
-    "buchverzeichnis",
-    "sozialhilfe"
+    "rechnungslegung",
+    "vorsorgevollmacht"
   ],
   "stärkung": [
     "betreuungsbehörde"
@@ -14302,6 +14288,19 @@
   ],
   "bedürfnisse": [
     "betreuungsgerichtshilfe"
+  ],
+  "ansen": [
+    "betreuungsgerichtshilfe",
+    "buchverzeichnis"
+  ],
+  "sozialdiagnostik": [
+    "betreuungsgerichtshilfe",
+    "buchverzeichnis"
+  ],
+  "betreuungspraxis": [
+    "betreuungsgerichtshilfe",
+    "buchverzeichnis",
+    "sozialhilfe"
   ],
   "sozialgutachten": [
     "betreuungsgerichtshilfe"
@@ -15016,11 +15015,6 @@
   "vorjahr": [
     "betreuungszahlen"
   ],
-  "ehrenamtler": [
-    "betreuungszahlen",
-    "querschnittsaufgaben",
-    "vereinbarung-über-begleitung-und-unterstützung"
-  ],
   "verfahrenspflegerbestellungen": [
     "betreuungszahlen",
     "verfahrenspfleger"
@@ -15600,6 +15594,18 @@
   ],
   "berufskrankheit": [
     "corona"
+  ],
+  "einwilligungsfähigkeit": [
+    "corona",
+    "einwilligungsfähigkeit",
+    "einwilligungsfähigkeit",
+    "einwilligungsunfähigkeit",
+    "einwilligungsvorbehalt",
+    "erörterungsgespräch",
+    "freier-wille",
+    "intellektuelle-beeinträchtigung",
+    "peg-sonde",
+    "testierfähigkeit"
   ],
   "datenschutzregelung": [
     "datenschutz"
@@ -16526,10 +16532,6 @@
   ],
   "thomas": [
     "eingruppierung"
-  ],
-  "walther": [
-    "eingruppierung",
-    "patientenverfügung"
   ],
   "dienst": [
     "eingruppierung",
@@ -21097,10 +21099,6 @@
   "reinfarth": [
     "rechnungslegung",
     "schenkung"
-  ],
-  "handbuch": [
-    "rechnungslegung",
-    "vorsorgevollmacht"
   ],
   "platz": [
     "rechnungslegung"
