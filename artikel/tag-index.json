@@ -897,6 +897,7 @@
     "vorsorgeregister",
     "vulnerabilität",
     "vulnerabilität",
+    "vulnerabilität",
     "wahlrecht",
     "wahlrecht",
     "widerspruchsrecht",
@@ -2239,7 +2240,6 @@
     "vermögenssorge",
     "vermögensverzeichnis",
     "vorsorgeregister",
-    "vulnerabilität",
     "wohnungsangelegenheiten"
   ],
   "wenn": [
@@ -3503,6 +3503,7 @@
     "sachverständigengutachten",
     "sachverständigengutachten",
     "schlussbericht",
+    "schlussbericht",
     "schlussrechnungslegung",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
@@ -4216,7 +4217,6 @@
     "altenheim",
     "gesetzgebung",
     "unterbringungsverfahren",
-    "vulnerabilität",
     "wahlrecht"
   ],
   "heim": [
@@ -13468,6 +13468,7 @@
     "betreuervergütung",
     "betreuervergütung-2019",
     "rechtsprechung",
+    "schlussbericht",
     "schlusstätigkeiten",
     "tod-des-betreuers",
     "verlängerung-der-betreuung"
@@ -13812,6 +13813,7 @@
     "betreuungszahlen",
     "gesetzestexte",
     "globales-nachhaltigkeitsziel-10",
+    "schlussbericht",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
     "tod-des-betreuers"
@@ -16006,7 +16008,8 @@
     "mdk-gutachten",
     "patientenverfügung",
     "psychisch-kranken-gesetz",
-    "tierschutz"
+    "tierschutz",
+    "vulnerabilität"
   ],
   "machen": [
     "dokumentationspflicht",
@@ -16996,22 +16999,19 @@
   "schlusstätigkeiten": [
     "ende-der-betreuung",
     "entlastungserklärung",
-    "schlussbericht",
     "schlussrechung",
     "tod-des-betreuten"
   ],
   "schlussrechnungslegung": [
     "ende-der-betreuung",
     "erbschaft",
-    "schlussbericht",
     "schlussrechnung",
     "schlussrechnungslegung",
     "schlusstätigkeiten",
     "tod-des-betreuers"
   ],
   "notgeschäftsführung": [
-    "ende-der-betreuung",
-    "schlussbericht"
+    "ende-der-betreuung"
   ],
   "schulden": [
     "erbausschlagung",
@@ -19450,6 +19450,7 @@
   "kirche": [
     "kirchenaustritt",
     "kirchenaustritt",
+    "vulnerabilität",
     "wahlrecht"
   ],
   "religionsgemeinschaft": [
@@ -23162,10 +23163,10 @@
   "verletzliche": [
     "vulnerabilität"
   ],
-  "geistliche": [
+  "orthodoxe": [
     "vulnerabilität"
   ],
-  "seelsorgearbeit": [
+  "geistliche": [
     "vulnerabilität"
   ],
   "erklärt": [
