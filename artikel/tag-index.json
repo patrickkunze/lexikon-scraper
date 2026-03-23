@@ -3312,6 +3312,7 @@
     "betreuungsgerichtshilfe",
     "betreuungsgerichtshilfe",
     "betreuungsgerichtshilfe",
+    "betreuungsgerichtshilfe",
     "betreuungsplan",
     "datenschutz",
     "datenschutz",
@@ -3563,6 +3564,7 @@
     "grundrechte",
     "haager-übereinkommen",
     "haager-übereinkommen",
+    "hauptseite",
     "mittellosigkeit",
     "neu",
     "neu",
@@ -6533,14 +6535,16 @@
     "einführungsgespräch",
     "verpflichtungsgespräch"
   ],
+  "betreuungsgerichtshilfe": [
+    "anfangsgespräch",
+    "sozialbericht",
+    "vormundschaftsgerichtshilfe"
+  ],
   "betreuungsvoraussetzung": [
     "anfangsgespräch",
     "anregung-der-betreuerbestellung",
     "betreuungsbedürftigkeit",
     "erforderlichkeit"
-  ],
-  "erörterungsgespräch": [
-    "anfangsgespräch"
   ],
   "artikel": [
     "angehörigenvertretungsrecht",
@@ -10610,7 +10614,6 @@
   "psychisch": [
     "baden-württemberg",
     "datenschutz",
-    "hauptseite",
     "psychisch-kranken-gesetz",
     "sozialpsychiatrischer-dienst",
     "ubg",
@@ -12999,6 +13002,7 @@
   "neuauflage": [
     "betreuerbestellung",
     "betreuungsbehörde",
+    "betreuungsgerichtshilfe",
     "buchverzeichnis",
     "familienverfahrensgesetz",
     "rechnungslegung"
@@ -13770,7 +13774,6 @@
   ],
   "köln": [
     "betreuervergütung-2019",
-    "betreuungsgerichtshilfe",
     "buchverzeichnis",
     "buchverzeichnis",
     "delegation",
@@ -14151,11 +14154,13 @@
   ],
   "walther": [
     "betreuungsbehörde",
+    "betreuungsgerichtshilfe",
     "eingruppierung",
     "patientenverfügung"
   ],
   "handbuch": [
     "betreuungsbehörde",
+    "betreuungsgerichtshilfe",
     "rechnungslegung",
     "vorsorgevollmacht"
   ],
@@ -14286,27 +14291,29 @@
   "bedürfnisse": [
     "betreuungsgerichtshilfe"
   ],
-  "ansen": [
-    "betreuungsgerichtshilfe",
-    "buchverzeichnis"
-  ],
-  "sozialdiagnostik": [
-    "betreuungsgerichtshilfe",
-    "buchverzeichnis"
-  ],
-  "betreuungspraxis": [
-    "betreuungsgerichtshilfe",
-    "buchverzeichnis",
-    "sozialhilfe"
-  ],
   "sozialgutachten": [
     "betreuungsgerichtshilfe"
   ],
   "feststellung": [
     "betreuungsgerichtshilfe"
   ],
-  "sachverhaltsaufklärung": [
-    "betreuungsgerichtshilfe"
+  "unterstützte": [
+    "betreuungsgerichtshilfe",
+    "eingliederungshilfe",
+    "erörterungsgespräch",
+    "intellektuelle-beeinträchtigung",
+    "natürlicher-wille",
+    "psychisch-kranken-gesetz",
+    "rechtsprechung-zur-anhörung",
+    "schweigepflicht",
+    "selbstbestimmung",
+    "selbstbestimmung",
+    "unterstützte-entscheidungsfindung",
+    "unterstützte-entscheidungsfindung",
+    "unterstützte-kommunikation",
+    "unterstützte-kommunikation",
+    "vertrauensperson",
+    "vertreterdokumentation"
   ],
   "rechts": [
     "betreuungsgesetz",
@@ -15207,6 +15214,16 @@
     "rechtsanwalt",
     "unterbringung",
     "unterbringungsverfahren"
+  ],
+  "ansen": [
+    "buchverzeichnis"
+  ],
+  "sozialdiagnostik": [
+    "buchverzeichnis"
+  ],
+  "betreuungspraxis": [
+    "buchverzeichnis",
+    "sozialhilfe"
   ],
   "sterbehilfe": [
     "buchverzeichnis",
@@ -16477,23 +16494,6 @@
   ],
   "lehr": [
     "eingliederungshilfe"
-  ],
-  "unterstützte": [
-    "eingliederungshilfe",
-    "erörterungsgespräch",
-    "intellektuelle-beeinträchtigung",
-    "natürlicher-wille",
-    "psychisch-kranken-gesetz",
-    "rechtsprechung-zur-anhörung",
-    "schweigepflicht",
-    "selbstbestimmung",
-    "selbstbestimmung",
-    "unterstützte-entscheidungsfindung",
-    "unterstützte-entscheidungsfindung",
-    "unterstützte-kommunikation",
-    "unterstützte-kommunikation",
-    "vertrauensperson",
-    "vertreterdokumentation"
   ],
   "umsetzungebegleitung": [
     "eingliederungshilfe"
@@ -21635,10 +21635,6 @@
   ],
   "gmbh": [
     "software"
-  ],
-  "betreuungsgerichtshilfe": [
-    "sozialbericht",
-    "vormundschaftsgerichtshilfe"
   ],
   "keiner": [
     "sozialhilfe"
