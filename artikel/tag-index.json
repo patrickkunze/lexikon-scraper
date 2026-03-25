@@ -3258,7 +3258,6 @@
     "aufwandspauschale",
     "aufwandspauschale",
     "aufwendungsersatz",
-    "berufsbetreuer",
     "betreuer-(ehrenamt)",
     "betreuerbestellung",
     "betreuervergütung",
@@ -5264,7 +5263,6 @@
     "aufwandspauschale",
     "aufwendungsersatz",
     "beamte-als-betreuer",
-    "berufsbetreuer",
     "bestattung",
     "betreuerregistrierungsverordnung",
     "betreuervergütung-2026",
@@ -5346,7 +5344,6 @@
     "beaufsichtigung",
     "beaufsichtigung",
     "beaufsichtigung",
-    "berufsbetreuer",
     "betreuerausweis",
     "betreuerausweis",
     "betreuerbestellung",
@@ -9345,7 +9342,6 @@
     "aufgabenkreis",
     "aufwandspauschale",
     "aufwendungsersatz",
-    "berufsbetreuer",
     "betreuungskosten-im-steuerrecht",
     "buchverzeichnis"
   ],
@@ -10173,8 +10169,9 @@
     "sachkundenachweis",
     "spielwiese"
   ],
-  "diskussionsbeitrag": [
-    "ausbildung"
+  "selbsttest": [
+    "ausbildung",
+    "test"
   ],
   "qualitätsstandards": [
     "ausbildung",
@@ -12178,6 +12175,19 @@
   "örtlichen": [
     "berufsbetreuer",
     "informationspflicht"
+  ],
+  "thar": [
+    "berufsbetreuer",
+    "waffenbesitz"
+  ],
+  "betreuerbüro": [
+    "berufsbetreuer"
+  ],
+  "erfolgreiche": [
+    "berufsbetreuer"
+  ],
+  "unternehmensführung": [
+    "berufsbetreuer"
   ],
   "leicht": [
     "berufsbetreuer",
@@ -22175,9 +22185,6 @@
   "finden": [
     "test"
   ],
-  "selbsttest": [
-    "test"
-  ],
   "todes": [
     "testierfähigkeit",
     "tod-des-betreuten"
@@ -23172,9 +23179,6 @@
     "waffenbesitz"
   ],
   "waffe": [
-    "waffenbesitz"
-  ],
-  "thar": [
     "waffenbesitz"
   ],
   "waffg": [
