@@ -3265,6 +3265,7 @@
     "betreuervergütung",
     "betreuervergütung",
     "betreuervergütung",
+    "betreuervergütung-2026",
     "betreuerwechsel",
     "betreuungskosten-im-steuerrecht",
     "betreuungskosten-im-steuerrecht",
@@ -5059,6 +5060,7 @@
   ],
   "alle": [
     "altenheim",
+    "angehörigenvertretungsrecht",
     "anzeigepflicht",
     "aufgabenkreis",
     "betreuerhaftung",
@@ -5265,7 +5267,6 @@
     "beamte-als-betreuer",
     "bestattung",
     "betreuerregistrierungsverordnung",
-    "betreuervergütung-2026",
     "betreuungsbehörde",
     "betreuungsgerichtshilfe",
     "betreuungskosten-im-steuerrecht",
@@ -6824,7 +6825,6 @@
     "eingruppierung"
   ],
   "ehegattenvertretungsrecht": [
-    "angehörigenvertretungsrecht",
     "angehörigenvertretungsrecht"
   ],
   "teil": [
@@ -7008,12 +7008,8 @@
     "angehörigenvertretungsrecht",
     "beglaubigung-durch-betreuungsbehörde"
   ],
-  "präsentation": [
-    "angehörigenvertretungsrecht",
-    "betreuerbestellung",
-    "selbstbestimmung",
-    "unterstützte-entscheidungsfindung",
-    "vermögenssorge"
+  "parlamentspapiere": [
+    "angehörigenvertretungsrecht"
   ],
   "youtube": [
     "angehörigenvertretungsrecht",
@@ -8245,6 +8241,7 @@
     "rechtsmittel",
     "registrierung",
     "schlussrechnungslegung",
+    "sterbehilfe",
     "sterbehilfe",
     "unterstützungspflicht"
   ],
@@ -11413,7 +11410,6 @@
     "bestattung",
     "datenschutz",
     "rente",
-    "sterbehilfe",
     "tod-des-betreuers",
     "unterstützungspflicht",
     "vermögenssorge"
@@ -12768,7 +12764,6 @@
     "betreuer-als-erbe",
     "erbausschlagung",
     "erbschaft",
-    "erbschaft",
     "testierfähigkeit"
   ],
   "urkunde": [
@@ -13029,6 +13024,12 @@
     "betreuervorschlag",
     "betreuungsbehörde",
     "betreuungsverfügung"
+  ],
+  "präsentation": [
+    "betreuerbestellung",
+    "selbstbestimmung",
+    "unterstützte-entscheidungsfindung",
+    "vermögenssorge"
   ],
   "bagüs": [
     "betreuerbestellung",
@@ -15991,7 +15992,6 @@
     "neu",
     "schwerbehindertenausweis",
     "subsidiaritätsprinzip",
-    "unterstützungspflicht",
     "zugangsrecht"
   ],
   "union": [
@@ -16036,6 +16036,7 @@
     "patientenverfügung",
     "psychisch-kranken-gesetz",
     "tierschutz",
+    "unterstützungspflicht",
     "vulnerabilität"
   ],
   "machen": [
@@ -17186,6 +17187,11 @@
   "jura": [
     "erbschaft",
     "geschäftsfähigkeit"
+  ],
+  "bestattungsvertrag": [
+    "erbschaft",
+    "mittellosigkeit",
+    "tod-des-betreuten"
   ],
   "internetratgeber": [
     "erbschaft"
@@ -20009,10 +20015,6 @@
   "gegenseitig": [
     "mittellosigkeit"
   ],
-  "bestattungsvertrag": [
-    "mittellosigkeit",
-    "tod-des-betreuten"
-  ],
   "teilen": [
     "mitwirkungspflicht"
   ],
@@ -21465,8 +21467,7 @@
     "schenkung"
   ],
   "thielke": [
-    "schlussbericht",
-    "schlussrechnungslegung"
+    "schlussbericht"
   ],
   "word": [
     "schlussbericht"
@@ -21485,6 +21486,9 @@
     "schlussrechnungslegung"
   ],
   "nachlasskonten": [
+    "schlussrechnungslegung"
+  ],
+  "schlussabwicklung": [
     "schlussrechnungslegung"
   ],
   "bisherige": [
@@ -21919,6 +21923,9 @@
   "verfassung": [
     "sterbehilfe"
   ],
+  "wertentscheidungen": [
+    "sterbehilfe"
+  ],
   "gegner": [
     "sterbehilfe",
     "sterbehilfe",
@@ -21927,7 +21934,6 @@
     "sterbehilfe"
   ],
   "sterbens": [
-    "sterbehilfe",
     "sterbehilfe",
     "sterbehilfe",
     "sterbehilfe"
@@ -22655,7 +22661,7 @@
   "charta": [
     "unterstützungspflicht"
   ],
-  "aktionsprogramm": [
+  "gesunde": [
     "unterstützungspflicht"
   ],
   "landgerichtsentscheidungen": [
