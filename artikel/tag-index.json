@@ -1458,6 +1458,7 @@
     "e-rechnung",
     "e-rezept",
     "eidesstattliche-versicherung",
+    "eingliederungshilfe",
     "eingruppierung",
     "einverständniserklärung",
     "einwilligungsfähigkeit",
@@ -3632,7 +3633,6 @@
     "alltagsgeschäfte",
     "altenheim",
     "betreuungsverfahren",
-    "broschüren",
     "buchverzeichnis",
     "buchverzeichnis",
     "formulare",
@@ -4095,7 +4095,6 @@
   ],
   "aufenthaltsbestimmung": [
     "altenheim",
-    "assistenzleistungen",
     "aufenthaltsbestimmung",
     "aufenthaltsbestimmung",
     "aufenthaltsbestimmung",
@@ -5227,6 +5226,7 @@
   ],
   "schwerbehindertenausweis": [
     "altenheim",
+    "assistenzleistungen",
     "ausländer",
     "elektronischer-identitätsnachweis",
     "heimmitarbeiter-als-betreuer",
@@ -7417,7 +7417,6 @@
     "betreuungsrechtsreform",
     "corona",
     "corona",
-    "eingliederungshilfe",
     "gerichtsbeschluss",
     "patientenverfügung",
     "psychisch-kranken-gesetz",
@@ -8412,6 +8411,7 @@
     "arbeitsvertrag",
     "diskriminierungsverbot",
     "haftpflichtversicherung",
+    "schwerbehindertenausweis",
     "schwerbehindertenausweis"
   ],
   "arbeitnehmer": [
@@ -8571,6 +8571,7 @@
   "wikipedia": [
     "arbeitsvertrag",
     "bezirksrevisor",
+    "eingliederungshilfe",
     "erbausschlagung",
     "erbschaft",
     "gesundheitliche-versorgungsplanung",
@@ -8781,7 +8782,6 @@
     "assistenzleistungen",
     "eingliederungshilfe",
     "globales-nachhaltigkeitsziel-10",
-    "schwerbehindertenausweis",
     "unterstützungspflicht",
     "werkstatt-für-behinderte-menschen",
     "wohn--und-betreuungsvertragsgesetz"
@@ -8853,6 +8853,7 @@
     "beratung",
     "bundesteilhabegesetz",
     "egh",
+    "eingliederungshilfe",
     "eingliederungshilfe",
     "geheimhaltungspflicht",
     "gesamtplanverfahren",
@@ -9840,7 +9841,6 @@
     "buchverzeichnis",
     "buchverzeichnis",
     "haftpflichtversicherung",
-    "unterbringung",
     "unterstützte-kommunikation"
   ],
   "siehe": [
@@ -10157,7 +10157,6 @@
     "ausbildung",
     "bezirksrevisor",
     "broschüren",
-    "broschüren",
     "spielwiese"
   ],
   "liste": [
@@ -10229,7 +10228,6 @@
     "betreuer-(ehrenamt)",
     "betreuerhaftung",
     "geheimhaltungspflicht",
-    "schwerbehindertenausweis",
     "unterstützungspflicht",
     "werkstatt-für-behinderte-menschen"
   ],
@@ -10574,7 +10572,6 @@
     "betreuungsgericht",
     "betreuungsverein",
     "diskriminierungsverbot",
-    "eingliederungshilfe",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "neu",
     "rechtsprechung",
@@ -11660,7 +11657,6 @@
     "gerichtsbeschluss",
     "prozessführung",
     "rechtsanwalt",
-    "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme",
     "vorläufiger-betreuer",
@@ -12215,6 +12211,7 @@
   ],
   "software": [
     "berufsbetreuer",
+    "broschüren",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "formulare",
     "it-sicherheit",
@@ -12463,7 +12460,6 @@
     "buchverzeichnis",
     "genehmigung-der-heilbehandlung",
     "tod-des-betreuten",
-    "unterbringung",
     "unterbringung",
     "verfahrenspfleger"
   ],
@@ -12864,6 +12860,7 @@
   ],
   "elektronischer": [
     "betreuerausweis",
+    "broschüren",
     "formulare",
     "medikationsplan",
     "polizeirecht",
@@ -12992,8 +12989,7 @@
     "betreuerwechsel"
   ],
   "dodegge": [
-    "betreuerbestellung",
-    "eingliederungshilfe"
+    "betreuerbestellung"
   ],
   "systematischer": [
     "betreuerbestellung",
@@ -13295,7 +13291,6 @@
     "buchverzeichnis",
     "psychisch-kranken-gesetz",
     "rechtsanwalt",
-    "unterbringung",
     "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme"
@@ -15167,8 +15162,7 @@
     "buchverzeichnis",
     "buchverzeichnis",
     "buchverzeichnis",
-    "psychisch-kranken-gesetz",
-    "unterbringung"
+    "psychisch-kranken-gesetz"
   ],
   "nachlasspflegschaft": [
     "buchverzeichnis",
@@ -15896,11 +15890,6 @@
     "digitale-barrierefreiheit",
     "vorsorgevollmacht"
   ],
-  "plattform": [
-    "digitale-barrierefreiheit",
-    "schwerbehindertenausweis",
-    "verbraucherstreitbeilegung"
-  ],
   "barrierefreiheit": [
     "digitale-barrierefreiheit",
     "e-rezept",
@@ -15910,6 +15899,11 @@
     "organspende",
     "postkontrolle",
     "rundfunkbeitrag"
+  ],
+  "plattform": [
+    "digitale-barrierefreiheit",
+    "schwerbehindertenausweis",
+    "verbraucherstreitbeilegung"
   ],
   "barrierefrei": [
     "digitale-barrierefreiheit"
@@ -16035,6 +16029,7 @@
     "mdk-gutachten",
     "patientenverfügung",
     "psychisch-kranken-gesetz",
+    "schwerbehindertenausweis",
     "tierschutz",
     "unterstützungspflicht",
     "vulnerabilität"
@@ -21563,7 +21558,7 @@
   "monatlich": [
     "schwerbehindertenausweis"
   ],
-  "bundesministeriums": [
+  "arbeitsagentur": [
     "schwerbehindertenausweis"
   ],
   "leben": [
@@ -22334,8 +22329,7 @@
     "umgangsbestimmung"
   ],
   "engelfried": [
-    "umgangsbestimmung",
-    "unterbringung"
+    "umgangsbestimmung"
   ],
   "zählt": [
     "unfallversicherung"
@@ -22413,6 +22407,9 @@
   "verlegung": [
     "unterbringung",
     "unterbringungsverfahren"
+  ],
+  "zwangseinweisung": [
+    "unterbringung"
   ],
   "psychiatriekritsiche": [
     "unterbringung"
