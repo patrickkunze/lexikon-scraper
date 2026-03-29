@@ -6048,6 +6048,13 @@
     "haftpflichtversicherung",
     "rechnungslegung"
   ],
+  "unfallversicherung": [
+    "amtspflichtverletzung",
+    "arbeitsunfall",
+    "berufsgenossenschaft",
+    "unfallversicherung",
+    "vereinsbetreuer"
+  ],
   "gesetzlicher": [
     "amtspflichtverletzung",
     "angehörigenvertretungsrecht",
@@ -6056,30 +6063,6 @@
     "haftpflichtversicherung",
     "personalausweis",
     "rechtsgeschäft"
-  ],
-  "vertreter": [
-    "amtspflichtverletzung",
-    "angehörigenvertretungsrecht",
-    "arbeitsvertrag",
-    "bankvollmacht",
-    "elektronischer-identitätsnachweis",
-    "geschäftsfähigkeit",
-    "geschäftsfähigkeit",
-    "geschäftsfähigkeit",
-    "gesetzgebung",
-    "gesetzliche-vertretung",
-    "haftpflichtversicherung",
-    "mündelgeld",
-    "mündelgeld",
-    "mündelgeld",
-    "prozesspfleger",
-    "rechtsgeschäft",
-    "schweigepflicht",
-    "vermögenssorge",
-    "vertreterdokumentation",
-    "vorsorgevollmacht",
-    "wohn--und-betreuungsvertragsgesetz",
-    "zwangsvollstreckung"
   ],
   "achtung": [
     "anfangsbericht",
@@ -7063,6 +7046,29 @@
   ],
   "rinck": [
     "angehörigenvertretungsrecht"
+  ],
+  "vertreter": [
+    "angehörigenvertretungsrecht",
+    "arbeitsvertrag",
+    "bankvollmacht",
+    "elektronischer-identitätsnachweis",
+    "geschäftsfähigkeit",
+    "geschäftsfähigkeit",
+    "geschäftsfähigkeit",
+    "gesetzgebung",
+    "gesetzliche-vertretung",
+    "haftpflichtversicherung",
+    "mündelgeld",
+    "mündelgeld",
+    "mündelgeld",
+    "prozesspfleger",
+    "rechtsgeschäft",
+    "schweigepflicht",
+    "vermögenssorge",
+    "vertreterdokumentation",
+    "vorsorgevollmacht",
+    "wohn--und-betreuungsvertragsgesetz",
+    "zwangsvollstreckung"
   ],
   "vertretung": [
     "angehörigenvertretungsrecht",
@@ -8350,11 +8356,6 @@
     "arbeitslosengeld",
     "sozialleistung"
   ],
-  "unfallversicherung": [
-    "arbeitsunfall",
-    "berufsgenossenschaft",
-    "unfallversicherung"
-  ],
   "inhalt": [
     "arbeitsvertrag",
     "hauptseite",
@@ -9334,7 +9335,8 @@
     "neu",
     "notfalldaten",
     "personalausweis",
-    "schweigepflicht"
+    "schweigepflicht",
+    "unfallversicherung"
   ],
   "lütgens": [
     "aufgabenkreis",
@@ -12075,7 +12077,8 @@
     "berufsbetreuer",
     "krankenversicherung",
     "krankenversicherung",
-    "krankenversicherung"
+    "krankenversicherung",
+    "unfallversicherung"
   ],
   "ausscheiden": [
     "berufsbetreuer"
@@ -12684,8 +12687,7 @@
     "betreuer-(ehrenamt)"
   ],
   "unterstützungspflichten": [
-    "betreuer-(ehrenamt)",
-    "vereinsbetreuer"
+    "betreuer-(ehrenamt)"
   ],
   "anzeigepflichten": [
     "betreuer-(ehrenamt)",
@@ -12856,7 +12858,8 @@
     "it-sicherheit",
     "it-sicherheit",
     "medikationsplan",
-    "ordre-public"
+    "ordre-public",
+    "unfallversicherung"
   ],
   "elektronischer": [
     "betreuerausweis",
@@ -21253,10 +21256,10 @@
     "rente",
     "unfallversicherung"
   ],
-  "rentner": [
+  "rentenfreibetrag": [
     "rente"
   ],
-  "rentenfreibetrag": [
+  "jahresbruttorente": [
     "rente"
   ],
   "grundsicherung": [
