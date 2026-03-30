@@ -356,6 +356,7 @@
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
+    "betreuer-(ehrenamt)",
     "betreuer-als-erbe",
     "betreuer-als-erbe",
     "betreuer-als-erbe",
@@ -6248,7 +6249,6 @@
   ],
   "anfangsgespräch": [
     "anfangsbericht",
-    "betreuer-(ehrenamt)",
     "betreuungsrichter",
     "verpflichtungsgespräch"
   ],
@@ -6511,7 +6511,6 @@
   ],
   "verpflichtungsgespräch": [
     "anfangsgespräch",
-    "betreuer-(ehrenamt)",
     "checkliste-betreuerpflichten",
     "einführungsgespräch",
     "verpflichtungsgespräch"
@@ -8336,7 +8335,6 @@
   "auskunftspflicht": [
     "anzeigepflicht",
     "arbeitsvertrag",
-    "betreuer-(ehrenamt)",
     "betreuerhaftung",
     "bezirksrevisor",
     "eidesstattliche-versicherung",
@@ -8866,6 +8864,7 @@
   "unterstützungspflicht": [
     "assistenzleistungen",
     "datenschutz",
+    "ergänzungsbetreuer",
     "freibetrag",
     "freier-wille",
     "kirchenaustritt",
@@ -10972,6 +10971,7 @@
     "bestellung-mehrerer-betreuer",
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
+    "betreuer-(ehrenamt)",
     "betreuerausweis",
     "betreuerpflichten",
     "betreuervorschlag",
@@ -12689,6 +12689,13 @@
   "unterstützungspflichten": [
     "betreuer-(ehrenamt)"
   ],
+  "mehrerer": [
+    "betreuer-(ehrenamt)",
+    "ergänzungsbetreuer",
+    "mehrfachbetreuung",
+    "stundensatz",
+    "tandembetreuung"
+  ],
   "anzeigepflichten": [
     "betreuer-(ehrenamt)",
     "gesetzestexte"
@@ -13583,7 +13590,6 @@
     "tod-des-betreuten",
     "vbvg-rechtsprechung",
     "verfahrenspfleger",
-    "verhinderungsbetreuer",
     "verhinderungsbetreuer",
     "vermögenssorge",
     "wohnungsangelegenheiten",
@@ -14617,8 +14623,7 @@
   "materialien": [
     "betreuungsrechtsreform",
     "betreuungsverein",
-    "patientenverfügung",
-    "verhinderungsbetreuer"
+    "patientenverfügung"
   ],
   "bundesjustizministers": [
     "betreuungsrechtsreform"
@@ -17230,24 +17235,6 @@
     "sozialhilfe",
     "wohnungsangelegenheiten"
   ],
-  "mehrerer": [
-    "ergänzungsbetreuer",
-    "mehrfachbetreuung",
-    "stundensatz",
-    "tandembetreuung"
-  ],
-  "testierfähigkeit": [
-    "ergänzungsbetreuer",
-    "geschäftsfähigkeit",
-    "testierfähigkeit",
-    "testierfähigkeit",
-    "testierfähigkeit",
-    "testierfähigkeit",
-    "testierfähigkeit",
-    "testierfähigkeit",
-    "testierfähigkeit",
-    "testierfähigkeit"
-  ],
   "anmerkung": [
     "ergänzungsbetreuer",
     "neu",
@@ -18223,6 +18210,17 @@
   ],
   "geschäfts": [
     "geschäftsfähigkeit",
+    "testierfähigkeit"
+  ],
+  "testierfähigkeit": [
+    "geschäftsfähigkeit",
+    "testierfähigkeit",
+    "testierfähigkeit",
+    "testierfähigkeit",
+    "testierfähigkeit",
+    "testierfähigkeit",
+    "testierfähigkeit",
+    "testierfähigkeit",
     "testierfähigkeit"
   ],
   "stichwort": [
@@ -22782,9 +22780,6 @@
     "verfügungsgeld"
   ],
   "bezeichnungen": [
-    "verhinderungsbetreuer"
-  ],
-  "verhinderungsbetreuung": [
     "verhinderungsbetreuer"
   ],
   "ergänzungspflegers": [
