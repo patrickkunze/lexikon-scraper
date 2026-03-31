@@ -1293,6 +1293,7 @@
     "gewaltschutzanordnung",
     "grundrechte",
     "grundstück",
+    "grundstück",
     "heilbehandlung",
     "heilbehandlung",
     "kindschaftsrecht",
@@ -2455,7 +2456,6 @@
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuervergütung-2019",
-    "betreuervergütung-2026",
     "betreuervorschlag",
     "betreuerwechsel",
     "betreuerwechsel",
@@ -2482,6 +2482,7 @@
     "geschäftsfähigkeit",
     "geschäftsfähigkeit",
     "gesetzesbegründung-patientenverfügung",
+    "grundstück",
     "grundstück",
     "heilbehandlung",
     "informationspflicht",
@@ -2607,6 +2608,7 @@
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuervergütung-2026",
+    "betreuervergütung-2026",
     "betreuervorschlag",
     "betreuerwechsel",
     "betreuerwechsel",
@@ -2678,6 +2680,7 @@
     "grundrechte",
     "grundrechte",
     "grundrechte",
+    "grundstück",
     "grundstück",
     "haager-übereinkommen",
     "haager-übereinkommen",
@@ -3515,7 +3518,6 @@
     "selbstbestimmung",
     "selbstbestimmung",
     "sozialhilfe",
-    "sozialhilfe",
     "sterilisationsbetreuer",
     "strafprozess",
     "strafprozess",
@@ -3555,6 +3557,7 @@
     "allgemeines",
     "aufenthaltsbestimmung",
     "bestattung",
+    "betreuervergütung-2026",
     "betreuungsbehörde",
     "bundesverband-freier-berufsbetreuer",
     "drittes-betreuungsrechtsänderungsgesetz",
@@ -5257,6 +5260,7 @@
     "informationspflicht",
     "neu",
     "unterstützungspflicht",
+    "wohn--und-betreuungsvertragsgesetz",
     "wohn--und-betreuungsvertragsgesetz"
   ],
   "deinert": [
@@ -8308,6 +8312,7 @@
     "anzeigepflicht",
     "genehmigung-der-heilbehandlung",
     "genehmigung-der-heilbehandlung",
+    "grundstück",
     "neu",
     "testierfähigkeit",
     "zwangsvollstreckung"
@@ -8869,8 +8874,7 @@
     "freier-wille",
     "kirchenaustritt",
     "sozialhilfe",
-    "unterstützungspflicht",
-    "wohn--und-betreuungsvertragsgesetz"
+    "unterstützungspflicht"
   ],
   "geheimhaltungspflicht": [
     "assistenzleistungen",
@@ -9121,6 +9125,7 @@
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuervergütung-2026",
+    "betreuervergütung-2026",
     "betreuungsbehörde",
     "betreuungsbehördengesetz",
     "betreuungsgesetz",
@@ -9154,8 +9159,7 @@
     "unterstützungspflicht",
     "vormundschaftsgericht",
     "vormünder--und-betreuervergütungsgesetz",
-    "vormünder--und-betreuervergütungsgesetz",
-    "wohn--und-betreuungsvertragsgesetz"
+    "vormünder--und-betreuervergütungsgesetz"
   ],
   "mögliche": [
     "aufgabenkreis",
@@ -9898,7 +9902,6 @@
   "mittellosigkeit": [
     "aufwendungsersatz",
     "bestattung",
-    "bestattungsvertrag",
     "freibetrag",
     "freibetrag",
     "grundstück",
@@ -9924,7 +9927,6 @@
   ],
   "staatskasse": [
     "aufwendungsersatz",
-    "bestattung",
     "betreuer-(ehrenamt)",
     "betreuungszahlen",
     "bezirksrevisor",
@@ -10566,7 +10568,8 @@
     "strafprozess",
     "strafprozess",
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
-    "vormundschaftsgericht"
+    "vormundschaftsgericht",
+    "wohn--und-betreuungsvertragsgesetz"
   ],
   "württemberg": [
     "baden-württemberg",
@@ -11635,7 +11638,8 @@
     "begleitforschung",
     "betreuungsvoraussetzung",
     "eingliederungshilfe",
-    "erbschaft"
+    "erbschaft",
+    "sozialhilfe"
   ],
   "evaluation": [
     "begleitforschung"
@@ -12383,6 +12387,15 @@
     "erbschaft",
     "kindschaftsrecht",
     "vaterschaftsanerkennung"
+  ],
+  "grundstück": [
+    "bestattung",
+    "bestattungsvertrag",
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "verhältnismäßigkeitsprinzip",
+    "vermögenssorge",
+    "wohn--und-betreuungsvertragsgesetz",
+    "zwangsvollstreckung"
   ],
   "freibetrag": [
     "bestattung",
@@ -13814,27 +13827,8 @@
     "vorsorgeregister",
     "vorsorgeregisterverordnung"
   ],
-  "aktueller": [
-    "betreuervergütung-2026",
-    "betreuungsgesetz"
-  ],
-  "stand": [
-    "betreuervergütung-2026",
-    "betreuervergütung-2026",
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "grundstück",
-    "strafprozess"
-  ],
-  "ende": [
-    "betreuervergütung-2026",
-    "betreuungsrechtsreform",
-    "betreuungszahlen",
-    "gesetzestexte",
-    "globales-nachhaltigkeitsziel-10",
-    "schlussbericht",
-    "schlusstätigkeiten",
-    "schlusstätigkeiten",
-    "tod-des-betreuers"
+  "verabschiedung": [
+    "betreuervergütung-2026"
   ],
   "stationär": [
     "betreuervergütung-2026"
@@ -13877,6 +13871,12 @@
     "betreuervergütung-2026",
     "drittes-betreuungsrechtsänderungsgesetz",
     "verfahrensfähigkeit"
+  ],
+  "stand": [
+    "betreuervergütung-2026",
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "grundstück",
+    "strafprozess"
   ],
   "dito": [
     "betreuervergütung-2026",
@@ -14038,7 +14038,6 @@
   ],
   "wohnformen": [
     "betreutes-wohnen",
-    "wohn--und-betreuungsvertragsgesetz",
     "wohn--und-betreuungsvertragsgesetz"
   ],
   "wohnen": [
@@ -14403,6 +14402,9 @@
     "betreuungsgesetz",
     "betreuungsrechtsreform"
   ],
+  "aktueller": [
+    "betreuungsgesetz"
+  ],
   "außergewöhnliche": [
     "betreuungskosten-im-steuerrecht"
   ],
@@ -14609,6 +14611,16 @@
   ],
   "verlagsseite": [
     "betreuungsrechtliche-praxis"
+  ],
+  "ende": [
+    "betreuungsrechtsreform",
+    "betreuungszahlen",
+    "gesetzestexte",
+    "globales-nachhaltigkeitsziel-10",
+    "schlussbericht",
+    "schlusstätigkeiten",
+    "schlusstätigkeiten",
+    "tod-des-betreuers"
   ],
   "überprüfung": [
     "betreuungsrechtsreform"
@@ -18838,6 +18850,9 @@
   "grunderwerbsteuer": [
     "grundstück"
   ],
+  "nutzungsrecht": [
+    "grundstück"
+  ],
   "weber": [
     "grundstück",
     "prozesspfleger"
@@ -21630,12 +21645,6 @@
   "subsidiaritätsprinzip": [
     "selbstverwaltung-der-deutschen-gemeinden",
     "vorsorgeregister"
-  ],
-  "grundstück": [
-    "selbstverwaltung-der-deutschen-gemeinden",
-    "verhältnismäßigkeitsprinzip",
-    "vermögenssorge",
-    "zwangsvollstreckung"
   ],
   "verwaltet": [
     "selbstverwaltungserklärung"
