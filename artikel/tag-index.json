@@ -1398,8 +1398,7 @@
     "wohnungsauflösung",
     "zuführung-zur-unterbringung",
     "zugangsrecht",
-    "zwangsvollstreckung",
-    "zweites-betreuungsrechtsänderungsgesetz"
+    "zwangsvollstreckung"
   ],
   "auslg": [
     "abschiebung"
@@ -2857,8 +2856,7 @@
     "zwangsbehandlung",
     "zwangsbehandlung",
     "zwangsbehandlung",
-    "zwangsvollstreckung",
-    "zweites-betreuungsrechtsänderungsgesetz"
+    "zwangsvollstreckung"
   ],
   "nein": [
     "abschlussbericht"
@@ -3550,8 +3548,7 @@
     "wohn--und-betreuungsvertragsgesetz",
     "zeitschrift-für-professionelle-betreuungsarbeit",
     "zwangsbehandlung",
-    "zwangsvollstreckung",
-    "zweites-betreuungsrechtsänderungsgesetz"
+    "zwangsvollstreckung"
   ],
   "wurde": [
     "allgemeines",
@@ -4127,6 +4124,7 @@
     "betreuerpflichten",
     "betreuerpflichten",
     "betreuungsbedarf",
+    "checkliste-gesundheitssorge",
     "ehefähigkeit",
     "einwilligungsvorbehalt",
     "heilbehandlung",
@@ -5183,7 +5181,6 @@
     "altenheim",
     "arztzeugnis",
     "betreuungsverfahren",
-    "checkliste-gesundheitssorge",
     "familienverfahrensgesetz",
     "gesetzestexte",
     "krankenversicherung",
@@ -5331,7 +5328,8 @@
     "sozialhilfe",
     "sterbehilfe",
     "unterbringungsähnliche-maßnahme",
-    "zeitschrift-für-professionelle-betreuungsarbeit"
+    "zeitschrift-für-professionelle-betreuungsarbeit",
+    "zweites-betreuungsrechtsänderungsgesetz"
   ],
   "betreuers": [
     "altenheim",
@@ -7709,7 +7707,6 @@
     "e-rechnung",
     "gesetzestexte",
     "girokonto",
-    "grundstück",
     "mündelgeld",
     "schlussrechnungslegung",
     "vermögensverzeichnis",
@@ -11626,7 +11623,8 @@
     "begleitforschung"
   ],
   "sellin": [
-    "begleitforschung"
+    "begleitforschung",
+    "zweites-betreuungsrechtsänderungsgesetz"
   ],
   "aufgabenverteilung": [
     "begleitforschung"
@@ -11682,6 +11680,7 @@
   ],
   "nutzungspflicht": [
     "begleitforschung",
+    "grundstück",
     "interoperabilität",
     "mitteilungspflicht",
     "patientenverfügung"
@@ -13808,7 +13807,8 @@
     "eherecht-und-betreuung",
     "mittellosigkeit",
     "tod-des-betreuten",
-    "vormünder--und-betreuervergütungsgesetz"
+    "vormünder--und-betreuervergütungsgesetz",
+    "zweites-betreuungsrechtsänderungsgesetz"
   ],
   "bgbl": [
     "betreuervergütung-2026",
@@ -15961,7 +15961,8 @@
     "testierfähigkeit",
     "umgangsbestimmung",
     "wahlrecht",
-    "zugriffsrecht"
+    "zugriffsrecht",
+    "zweites-betreuungsrechtsänderungsgesetz"
   ],
   "beschäftigten": [
     "diskriminierungsverbot",
@@ -23548,9 +23549,6 @@
     "zweites-betreuungsrechtsänderungsgesetz"
   ],
   "stundensatzes": [
-    "zweites-betreuungsrechtsänderungsgesetz"
-  ],
-  "zweiten": [
     "zweites-betreuungsrechtsänderungsgesetz"
   ],
   "redirectzwangsbehandlung": [
