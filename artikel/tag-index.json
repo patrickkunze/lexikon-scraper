@@ -3523,6 +3523,7 @@
     "tod-des-betreuers",
     "tod-des-betreuers",
     "trennungsgebot",
+    "umgangsbestimmung",
     "unbetreubarkeit",
     "unterstützte-entscheidungsfindung",
     "vaterschaftsanerkennung",
@@ -10381,7 +10382,6 @@
   ],
   "vorsorgebroschüre": [
     "ausländer",
-    "vorsorgevollmacht",
     "vorsorgevollmacht---vertiefte-infos"
   ],
   "personalausweis": [
@@ -14175,8 +14175,7 @@
   "handbuch": [
     "betreuungsbehörde",
     "betreuungsgerichtshilfe",
-    "rechnungslegung",
-    "vorsorgevollmacht"
+    "rechnungslegung"
   ],
   "stärkung": [
     "betreuungsbehörde"
@@ -14876,8 +14875,7 @@
     "sterbehilfe"
   ],
   "vorsorge": [
-    "betreuungsverfügung",
-    "vorsorgevollmacht"
+    "betreuungsverfügung"
   ],
   "vorsorgemöglichkeiten": [
     "betreuungsverfügung"
@@ -15098,8 +15096,7 @@
     "betreuungszahlen"
   ],
   "große": [
-    "betreuungszahlen",
-    "vorsorgevollmacht"
+    "betreuungszahlen"
   ],
   "anfrage": [
     "betreuungszahlen",
@@ -15696,7 +15693,6 @@
     "vorsorgevollmacht",
     "vorsorgevollmacht",
     "vorsorgevollmacht",
-    "vorsorgevollmacht",
     "vorsorgevollmacht---vertiefte-infos",
     "wohn--und-betreuungsvertragsgesetz"
   ],
@@ -16285,7 +16281,8 @@
     "lebenspartnerschaft",
     "sterilisation",
     "sterilisationsbetreuer",
-    "trennungsgebot"
+    "trennungsgebot",
+    "umgangsbestimmung"
   ],
   "angehörigenvertretungsrecht": [
     "ehefähigkeit",
@@ -16376,7 +16373,6 @@
   "gewaltschutzanordnung": [
     "eherecht-und-betreuung",
     "gewaltschutzanordnung",
-    "umgangsbestimmung",
     "vorläufiger-betreuer",
     "zuführung-zur-unterbringung"
   ],
@@ -18982,7 +18978,6 @@
     "kirchenaustritt",
     "schlussbericht",
     "tod-des-betreuten",
-    "vorsorgevollmacht",
     "vorsorgevollmacht---vertiefte-infos"
   ],
   "logo": [
@@ -21210,8 +21205,7 @@
     "rechtsverkehr-in-deutschland"
   ],
   "zugangsrecht": [
-    "rechtsverkehr-in-deutschland",
-    "umgangsbestimmung"
+    "rechtsverkehr-in-deutschland"
   ],
   "folge": [
     "registrierung"
@@ -21723,8 +21717,7 @@
   ],
   "broschüre": [
     "sozialhilfe",
-    "sterbehilfedokumente",
-    "vorsorgevollmacht"
+    "sterbehilfedokumente"
   ],
   "sobota": [
     "sozialhilfe"
@@ -23118,9 +23111,6 @@
     "vorsorgevollmacht"
   ],
   "klar": [
-    "vorsorgevollmacht"
-  ],
-  "münchener": [
     "vorsorgevollmacht"
   ],
   "privatautonomie": [
