@@ -2633,6 +2633,7 @@
     "datenschutz",
     "datenschutz",
     "datenschutz",
+    "dauervergütung",
     "dokumentationspflicht",
     "ehefähigkeit",
     "ehefähigkeit",
@@ -3273,6 +3274,7 @@
     "betreuungskosten-im-steuerrecht",
     "betreuungskosten-im-steuerrecht",
     "bundesverband-der-berufsbetreuer",
+    "dauervergütung",
     "ermessensvergütung",
     "ermessensvergütung",
     "gesetzestexte",
@@ -5711,6 +5713,7 @@
     "datenschutz",
     "datenschutz",
     "datenschutz",
+    "dauervergütung",
     "drittes-betreuungsrechtsänderungsgesetz",
     "eidesstattliche-versicherung",
     "einstweilige-anordnung",
@@ -5818,6 +5821,7 @@
     "betreuungsgerichtshilfe",
     "betreuungsverfahren",
     "betreuungsverfahren",
+    "dauervergütung",
     "dokumentationspflicht",
     "ehefähigkeit",
     "eherecht-und-betreuung",
@@ -7564,7 +7568,8 @@
     "diskriminierungsverbot",
     "geschäftsfähigkeit",
     "kontrollbetreuer",
-    "vorsorgevollmacht"
+    "vorsorgevollmacht",
+    "überprüfungsfrist"
   ],
   "mehr": [
     "anlagegeld",
@@ -11664,7 +11669,8 @@
     "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme",
     "vorläufiger-betreuer",
-    "vormundschaftsgericht"
+    "vormundschaftsgericht",
+    "überprüfungsfrist"
   ],
   "vormundschaftsrecht": [
     "begleitforschung"
@@ -14701,7 +14707,8 @@
     "familienverfahrensgesetz",
     "gesetzestexte",
     "unterbringungsverfahren",
-    "unterbringungsverfahren"
+    "unterbringungsverfahren",
+    "überprüfungsfrist"
   ],
   "redirectbetreuungsverfahren": [
     "betreuungssachen"
@@ -15508,8 +15515,7 @@
     "kirchenaustritt",
     "kirchenaustritt",
     "kirchenaustritt",
-    "kirchenaustritt",
-    "kontrollbetreuer"
+    "kirchenaustritt"
   ],
   "existieren": [
     "checkliste-vermögenssorge",
@@ -15803,6 +15809,9 @@
   "minuten": [
     "datenschutz",
     "einwilligungsfähigkeit"
+  ],
+  "dauervergütung": [
+    "dauervergütung"
   ],
   "delegation": [
     "delegation",
@@ -18024,7 +18033,8 @@
     "genehmigungspflichten"
   ],
   "vollmachtswiderruf": [
-    "genehmigungspflichten"
+    "genehmigungspflichten",
+    "kontrollbetreuer"
   ],
   "sachverständigengutachtens": [
     "gerichtsbeschluss"
@@ -23543,5 +23553,11 @@
   ],
   "redirectzwangsbehandlung": [
     "ärztliche-zwangsmaßnahme"
+  ],
+  "unterschiedliche": [
+    "überprüfungsfrist"
+  ],
+  "fristsetzungen": [
+    "überprüfungsfrist"
   ]
 }
