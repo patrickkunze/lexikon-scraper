@@ -413,6 +413,7 @@
     "betreuervergütung",
     "betreuervergütung",
     "betreuervergütung",
+    "betreuervergütung",
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuervergütung-2026",
@@ -967,6 +968,7 @@
     "betreuervergütung",
     "betreuervergütung",
     "betreuervergütung",
+    "betreuervergütung",
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuervorschlag",
@@ -1260,6 +1262,7 @@
     "checkliste-betreuerpflichten",
     "datenschutz",
     "datenschutz",
+    "dauervergütung",
     "ehefähigkeit",
     "ehefähigkeit",
     "eherecht-und-betreuung",
@@ -2603,6 +2606,7 @@
     "betreuervergütung",
     "betreuervergütung",
     "betreuervergütung",
+    "betreuervergütung",
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuervergütung-2019",
@@ -2633,6 +2637,7 @@
     "datenschutz",
     "datenschutz",
     "datenschutz",
+    "dauervergütung",
     "dauervergütung",
     "dokumentationspflicht",
     "ehefähigkeit",
@@ -3032,6 +3037,7 @@
     "betreuerhaftung",
     "betreuerpflichten",
     "betreuervergütung",
+    "betreuervergütung",
     "betreuerwechsel",
     "betreuerwechsel",
     "betreuungsorganisationsgesetz",
@@ -3274,7 +3280,6 @@
     "betreuungskosten-im-steuerrecht",
     "betreuungskosten-im-steuerrecht",
     "bundesverband-der-berufsbetreuer",
-    "dauervergütung",
     "ermessensvergütung",
     "ermessensvergütung",
     "gesetzestexte",
@@ -3916,6 +3921,7 @@
     "alltagsgeschäfte",
     "ausbildung",
     "berufsbetreuer",
+    "betreuervergütung",
     "betreuervorschlag",
     "betreuungszahlen",
     "bundesverband-der-berufsbetreuer",
@@ -4806,6 +4812,10 @@
     "betreuerbestellung",
     "betreuerhaftung",
     "betreuervergütung",
+    "betreuervergütung",
+    "betreuervergütung",
+    "betreuervergütung",
+    "betreuervergütung",
     "betreuervergütung-2019",
     "betreuervorschlag",
     "betreuervorschlag",
@@ -5440,6 +5450,7 @@
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuerwechsel",
+    "dauervergütung",
     "ehefähigkeit",
     "eherecht-und-betreuung",
     "genehmigung-der-heilbehandlung",
@@ -6374,6 +6385,7 @@
     "betreuungsverein",
     "bundesverband-freier-berufsbetreuer",
     "datenschutz",
+    "dauervergütung",
     "eingliederungshilfe",
     "einwilligungsfähigkeit",
     "einwilligungsfähigkeit",
@@ -6968,6 +6980,7 @@
     "angehörigenvertretungsrecht",
     "aufwandspauschale",
     "ausländer",
+    "betreuervergütung",
     "betreuervorschlag",
     "betreuerwechsel",
     "betreuungsverein",
@@ -7575,6 +7588,7 @@
     "anlagegeld",
     "ausschließlichkeitserklärung",
     "betreuerbestellung",
+    "betreuervergütung",
     "betreuervergütung-2019",
     "betreuerwechsel",
     "genehmigung-der-heilbehandlung",
@@ -8102,6 +8116,7 @@
     "anwalt",
     "aufwendungsersatz",
     "berufsbetreuer",
+    "betreuervergütung",
     "betreuervergütung-2019",
     "betreuungsverfahren",
     "datenschutz",
@@ -8428,6 +8443,7 @@
   "müssen": [
     "arbeitsvertrag",
     "auskunftspflicht",
+    "betreuervergütung",
     "gerichtskosten",
     "krankenversicherung",
     "nutzungspflicht",
@@ -9793,7 +9809,7 @@
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuervergütung-2026",
-    "betreuervergütung-2026",
+    "eingruppierung",
     "ermessensvergütung",
     "freibetrag",
     "freibetrag",
@@ -9819,7 +9835,6 @@
   ],
   "stundensatz": [
     "aufwandspauschale",
-    "betreuervergütung",
     "ermessensvergütung",
     "tabelleneinstufung",
     "vbvg-rechtsprechung",
@@ -9854,6 +9869,7 @@
   "siehe": [
     "aufwendungsersatz",
     "ausbildung",
+    "betreuervergütung",
     "corona",
     "diskriminierungsverbot",
     "eidesstattliche-versicherung",
@@ -12771,6 +12787,7 @@
   ],
   "berufsbetreuern": [
     "betreuer-als-erbe",
+    "betreuervergütung",
     "betreuungskosten-im-steuerrecht",
     "grundstück",
     "mitteilungspflicht"
@@ -12850,6 +12867,7 @@
   ],
   "beschl": [
     "betreuerausweis",
+    "betreuervergütung",
     "betreuervergütung",
     "corona",
     "rechtsanwalt",
@@ -13168,6 +13186,7 @@
   ],
   "verpflichtet": [
     "betreuerpflichten",
+    "betreuervergütung",
     "eingliederungshilfe",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "gesetzlicher-vertreter",
@@ -13459,6 +13478,7 @@
     "betreuervergütung-2026",
     "betreuerwechsel",
     "betreutes-wohnen",
+    "dauervergütung",
     "gesetzestexte",
     "grundstück",
     "kontrollbetreuer",
@@ -13517,6 +13537,7 @@
   ],
   "festsetzung": [
     "betreuervergütung",
+    "dauervergütung",
     "mittellosigkeit",
     "regress-der-staatskasse"
   ],
@@ -13560,6 +13581,46 @@
     "betreuervergütung"
   ],
   "ausschlussfrist": [
+    "betreuervergütung"
+  ],
+  "dauervergütung": [
+    "betreuervergütung",
+    "betreuervergütung",
+    "betreuervergütung-2026",
+    "dauervergütung",
+    "eingruppierung"
+  ],
+  "verwirkung": [
+    "betreuervergütung"
+  ],
+  "vergütungsanspruchs": [
+    "betreuervergütung"
+  ],
+  "strafbare": [
+    "betreuervergütung"
+  ],
+  "abwesenheit": [
+    "betreuervergütung"
+  ],
+  "vorliegt": [
+    "betreuervergütung"
+  ],
+  "düsseldorf": [
+    "betreuervergütung",
+    "betreuerwechsel",
+    "sachverständigengutachten",
+    "strafprozess"
+  ],
+  "pauschalvergütungen": [
+    "betreuervergütung"
+  ],
+  "elektronisch": [
+    "betreuervergütung"
+  ],
+  "eingereicht": [
+    "betreuervergütung"
+  ],
+  "vergütungsantrag": [
     "betreuervergütung"
   ],
   "vermögens": [
@@ -14010,11 +14071,6 @@
   ],
   "nachteilig": [
     "betreuerwechsel"
-  ],
-  "düsseldorf": [
-    "betreuerwechsel",
-    "sachverständigengutachten",
-    "strafprozess"
   ],
   "beschwerdebefugnis": [
     "betreuerwechsel"
@@ -15809,9 +15865,6 @@
   "minuten": [
     "datenschutz",
     "einwilligungsfähigkeit"
-  ],
-  "dauervergütung": [
-    "dauervergütung"
   ],
   "delegation": [
     "delegation",
