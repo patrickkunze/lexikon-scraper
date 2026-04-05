@@ -675,6 +675,7 @@
     "tandembetreuung",
     "tierschutz",
     "tierschutz",
+    "tod-des-betreuers",
     "tod-des-betreuten",
     "tod-des-betreuten",
     "tod-des-betreuten",
@@ -3740,7 +3741,6 @@
     "informationspflicht",
     "maßregeln-der-besserung-und-sicherung",
     "medikationsplan",
-    "mitteilungspflicht",
     "mitwirkungspflicht",
     "neu",
     "neu",
@@ -4127,7 +4127,6 @@
     "aufgabenkreis",
     "aufgabenkreise",
     "beaufsichtigung",
-    "bestellung-mehrerer-betreuer",
     "betreuerhaftung",
     "betreuerpflichten",
     "betreuerpflichten",
@@ -4453,7 +4452,6 @@
     "sterilisationsbetreuer",
     "strafprozess",
     "strafprozess",
-    "tod-des-betreuers",
     "tod-des-betreuten",
     "tod-des-betreuten",
     "tod-des-betreuten",
@@ -5361,6 +5359,7 @@
     "beaufsichtigung",
     "beaufsichtigung",
     "beaufsichtigung",
+    "bestellung-mehrerer-betreuer",
     "betreuerausweis",
     "betreuerausweis",
     "betreuerbestellung",
@@ -5804,7 +5803,9 @@
     "zuführung-zur-unterbringung",
     "zuführung-zur-unterbringung",
     "zuführung-zur-unterbringung",
-    "zwangsbehandlung"
+    "zwangsbehandlung",
+    "überprüfungsfrist",
+    "überprüfungsfrist"
   ],
   "gericht": [
     "amtsermittlungspflicht",
@@ -7710,7 +7711,8 @@
     "wohnungsangelegenheiten",
     "wohnungsauflösung",
     "zwangsbehandlung",
-    "zwangsbehandlung"
+    "zwangsbehandlung",
+    "überprüfungsfrist"
   ],
   "finanzamt": [
     "anlagegeld",
@@ -8149,6 +8151,7 @@
     "auskunftspflicht",
     "beamte-als-betreuer",
     "beaufsichtigung",
+    "bestellung-mehrerer-betreuer",
     "betreuerbestellung",
     "betreuerhaftung",
     "datenschutz",
@@ -8299,6 +8302,7 @@
   ],
   "mitzuteilen": [
     "anzeigepflicht",
+    "mitteilungspflicht",
     "mitteilungspflicht"
   ],
   "registrierung": [
@@ -8346,6 +8350,9 @@
     "vormundschaftsgericht",
     "wohnungsauflösung"
   ],
+  "überprüfungsfrist": [
+    "anzeigepflicht"
+  ],
   "mitteilungspflicht": [
     "anzeigepflicht",
     "aufhebung-der-betreuung",
@@ -8365,13 +8372,6 @@
     "inklusionsbetrieb",
     "regress-der-staatskasse",
     "zug-um-zug-leistung"
-  ],
-  "amtsermittlungspflicht": [
-    "anzeigepflicht",
-    "betreuungsarbeitsgemeinschaft",
-    "betreuungssache",
-    "diskriminierungsverbot",
-    "einstweilige-anordnung"
   ],
   "redirectsozialhilfe": [
     "arbeitslosengeld",
@@ -8653,7 +8653,8 @@
   ],
   "vorläufigen": [
     "arztzeugnis",
-    "vorläufiger-betreuer"
+    "vorläufiger-betreuer",
+    "überprüfungsfrist"
   ],
   "zeugnis": [
     "arztzeugnis",
@@ -9017,7 +9018,8 @@
     "zuführung-zur-unterbringung",
     "zwangsbehandlung",
     "zwangsbehandlung",
-    "zwangsbehandlung"
+    "zwangsbehandlung",
+    "überprüfungsfrist"
   ],
   "wohnungsangelegenheiten": [
     "aufenthaltsbestimmung",
@@ -10362,7 +10364,6 @@
     "internationales",
     "internationales-betreuungsrecht",
     "neu",
-    "ordre-public",
     "vulnerabilität",
     "übereinkommen-über-den-internationalen-schutz-von-erwachsenen"
   ],
@@ -10941,7 +10942,9 @@
     "vorläufiger-betreuer",
     "vorläufiger-betreuer",
     "wahlrecht",
-    "zwangsbehandlung"
+    "zwangsbehandlung",
+    "überprüfungsfrist",
+    "überprüfungsfrist"
   ],
   "zwangsgeld": [
     "beaufsichtigung",
@@ -11021,6 +11024,7 @@
     "strafprozess",
     "stundensatz",
     "tandembetreuung",
+    "tod-des-betreuers",
     "unterbringungsverfahren",
     "verfahrenspfleger",
     "verhinderungsbetreuer",
@@ -12553,18 +12557,6 @@
     "rechtsanwalt",
     "verhinderungsbetreuer"
   ],
-  "kontrollbetreuer": [
-    "bestellung-mehrerer-betreuer",
-    "grundrechte",
-    "grundrechte",
-    "kontrollbetreuer",
-    "kontrollbetreuer",
-    "kontrollbetreuer",
-    "selbstbestimmung",
-    "vollmachtswiderruf",
-    "vorsorgevollmacht",
-    "vorsorgevollmacht---vertiefte-infos"
-  ],
   "alpenstedt": [
     "bestellung-mehrerer-betreuer"
   ],
@@ -12728,7 +12720,8 @@
     "ergänzungsbetreuer",
     "mehrfachbetreuung",
     "stundensatz",
-    "tandembetreuung"
+    "tandembetreuung",
+    "tod-des-betreuers"
   ],
   "anzeigepflichten": [
     "betreuer-(ehrenamt)",
@@ -13447,7 +13440,8 @@
     "betreuungszahlen",
     "gerichtsbeschluss",
     "regress-der-staatskasse",
-    "verlängerung-der-betreuung"
+    "verlängerung-der-betreuung",
+    "überprüfungsfrist"
   ],
   "juli": [
     "betreuervergütung",
@@ -13528,7 +13522,6 @@
     "rechtsprechung",
     "schlussbericht",
     "schlusstätigkeiten",
-    "tod-des-betreuers",
     "verlängerung-der-betreuung"
   ],
   "weiterhin": [
@@ -14184,6 +14177,12 @@
   ],
   "strategien": [
     "betreuungsarbeitsgemeinschaft"
+  ],
+  "amtsermittlungspflicht": [
+    "betreuungsarbeitsgemeinschaft",
+    "betreuungssache",
+    "diskriminierungsverbot",
+    "einstweilige-anordnung"
   ],
   "betreuungsgesetzes": [
     "betreuungsbehörde"
@@ -16631,7 +16630,8 @@
   ],
   "wochen": [
     "einstweilige-anordnung",
-    "zwangsbehandlung"
+    "zwangsbehandlung",
+    "überprüfungsfrist"
   ],
   "vorläufiger": [
     "einstweilige-anordnung",
@@ -17092,8 +17092,7 @@
     "erbschaft",
     "schlussrechnung",
     "schlussrechnungslegung",
-    "schlusstätigkeiten",
-    "tod-des-betreuers"
+    "schlusstätigkeiten"
   ],
   "notgeschäftsführung": [
     "ende-der-betreuung"
@@ -18694,6 +18693,17 @@
   "zwangsmedikation": [
     "grundrechte"
   ],
+  "kontrollbetreuer": [
+    "grundrechte",
+    "grundrechte",
+    "kontrollbetreuer",
+    "kontrollbetreuer",
+    "kontrollbetreuer",
+    "selbstbestimmung",
+    "vollmachtswiderruf",
+    "vorsorgevollmacht",
+    "vorsorgevollmacht---vertiefte-infos"
+  ],
   "kontrollbetreuers": [
     "grundrechte",
     "kontrollbetreuer",
@@ -18840,6 +18850,7 @@
   ],
   "postkontrolle": [
     "grundrechte",
+    "ordre-public",
     "postverkehr"
   ],
   "standort": [
@@ -21746,7 +21757,8 @@
     "sozialhilfe"
   ],
   "monate": [
-    "sozialhilfe"
+    "sozialhilfe",
+    "überprüfungsfrist"
   ],
   "messie": [
     "sozialhilfe"
