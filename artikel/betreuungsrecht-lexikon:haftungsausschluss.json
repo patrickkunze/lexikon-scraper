@@ -1,7 +1,7 @@
 {
   "id": "betreuungsrecht-lexikon:haftungsausschluss",
   "titel": "Betreuungsrecht-Lexikon:Haftungsausschluss",
-  "inhalt": "Haftungsausschluss: dieses Lexikon kann und darf eine qualifizierte Rechtsberatung nicht ersetzen. In Streitfällen empfehlen wir die Hilfe durch eine/n Anwalt/Anwältin, bevorzugt auf dem Gebiet des Familienrechtes. Die örtliche Anwaltskammer kann dabei weiterhelfen.\n\nBetreuerInnen und Bevollmächtigte können auch Rechtsrat von der örtlichen Betreuungsbehörde oder vom Betreuungsverein einholen.\n\nZum Lexikoninhalt: trotz größter Mühe aller Beteiligten kann keine Garantie für Vollständigkeit und Aktualität gegeben werden. Bitte beachten Sie, dass dies ein nichtkommerzielles Projekt ist. Machen Sie mit und ergänzen Sie die landesrechtlichen Bestimmungen für Ihr [Bundesländer](bundesländer). Auch die laufende Aktualisierung der Rechtstexte ist eine gemeinnützige und sinnstiftende Aufgabe für Betreuungsrechtskundige.\n\nZum Impressum siehe unter:\n\nhttps://www.bgt-ev.de/impressum.html\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)",
+  "inhalt": "Haftungsausschluss: dieses Lexikon kann und darf eine qualifizierte Rechtsberatung nicht ersetzen. In Streitfällen empfehlen wir die Hilfe durch eine/n Anwalt/Anwältin, bevorzugt auf dem Gebiet des Familienrechtes. Die örtliche Anwaltskammer kann dabei weiterhelfen.\n\nBetreuerInnen und Bevollmächtigte können auch Rechtsrat von der örtlichen [Betreuungsbehörde](betreuungsbehörde) oder vom [Betreuungsverein](betreuungsverein) einholen.\n\nZum Lexikoninhalt: trotz größter Mühe aller Beteiligten kann keine Garantie für Vollständigkeit und Aktualität gegeben werden. Bitte beachten Sie, dass dies ein nichtkommerzielles Projekt ist. Machen Sie mit und ergänzen Sie die landesrechtlichen Bestimmungen für Ihr [Bundesländer](bundesländer). Auch die laufende Aktualisierung der Rechtstexte ist eine gemeinnützige und sinnstiftende Aufgabe für Betreuungsrechtskundige.\n\nZum Impressum siehe unter:\n\nhttps://www.bgt-ev.de/impressum.html\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -18,6 +18,8 @@
   "zusammenfassung": "Haftungsausschluss: dieses Lexikon kann und darf eine qualifizierte Rechtsberatung nicht ersetzen. In Streitfällen empfehlen wir die Hilfe durch eine/n Anwalt/Anwältin, bevorzugt auf dem Gebiet des Familienrechtes. Die örtliche Anwaltskammer kann dabei weiterhelfen.\n\nBetreuerInnen und Bevollmächtigt...",
   "verwandteArtikel": [
     "kategorie:rechtsnormen",
+    "betreuungsverein",
+    "betreuungsbehörde",
     "bundesländer"
   ]
 }
