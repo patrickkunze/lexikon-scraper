@@ -1,7 +1,7 @@
 {
   "id": "allgemeines",
   "titel": "Allgemeines",
-  "inhalt": "Allgemeines zur Betreuung\n\nDas Rechtsinstitut der rechtlichen Betreuung wurde in Deutschland durch das am 1. Januar 1992 in Kraft getretene [Betreuungsgesetz](betreuungsgesetz) geschaffen. Die rechtliche Betreuung ist an die Stelle der früheren [wikipedia:de:Vormundschaft](wikipedia:de:vormundschaft) über Volljährige und der [wikipedia:de:Pflegschaft](wikipedia:de:pflegschaft) getreten und geht über sie deutlich hinaus. Sie ist in den § 1814 BGB ff. des [wikipedia:de:Bürgerliches Gesetzbuch](wikipedia:de:bürgerliches-gesetzbuch) (BGB) geregelt. \n\nDas gesetzgeberische Ziel der [Neu](neu) war Betreuung statt [wikipedia:de:Entmündigung](wikipedia:de:entmündigung), um den Betroffenen Hilfe und [Unterstützungspflicht](unterstützungspflicht) zu einem möglichst weitgehend frei [wikipedia:de:Selbstbestimmung](wikipedia:de:selbstbestimmung) Leben zu leisten. Durch das Gesetz zur Reform des Vormundschafts- und Betreuungsrechts vom 4. Mai 2021 (BGBl. 2021, S. 882 ff.) wurde das [Betreuungsrechtsreform](betreuungsrechtsreform).\n\nSiehe auch\n [Betreuungszahlen](betreuungszahlen), [Begleitforschung](begleitforschung), [Hauptseite](hauptseite), [Neu](neu)\n [Mailingliste](mailingliste), [Fortbildung](fortbildung), [Sachkundenachweis](sachkundenachweis)\n [elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach)\n [Querschnittsaufgaben](querschnittsaufgaben)\n\n[Kategorie:Inhaltliches](kategorie:inhaltliches)",
+  "inhalt": "Allgemeines zur Betreuung\n\nDas Rechtsinstitut der rechtlichen Betreuung wurde in Deutschland durch das am 1. Januar 1992 in Kraft getretene [Betreuungsgesetz](betreuungsgesetz) geschaffen. Die rechtliche Betreuung ist an die Stelle der früheren [wikipedia:de:Vormundschaft](wikipedia:de:vormundschaft) über Volljährige und der [wikipedia:de:Pflegschaft](wikipedia:de:pflegschaft) getreten und geht über sie deutlich hinaus. Sie ist in den § 1814 BGB ff. des [wikipedia:de:Bürgerliches Gesetzbuch](wikipedia:de:bürgerliches-gesetzbuch) (BGB) geregelt. \n\nDas [Gesetzgebung](gesetzgebung) Ziel der [Neu](neu) war Betreuung statt [wikipedia:de:Entmündigung](wikipedia:de:entmündigung), um den Betroffenen Hilfe und [Unterstützungspflicht](unterstützungspflicht) zu einem möglichst weitgehend frei [wikipedia:de:Selbstbestimmung](wikipedia:de:selbstbestimmung) Leben zu leisten. Durch das Gesetz zur Reform des Vormundschafts- und Betreuungsrechts vom 4. Mai 2021 (BGBl. 2021, S. 882 ff.) wurde das [Betreuungsrechtsreform](betreuungsrechtsreform).\n\nSiehe auch\n [Betreuungszahlen](betreuungszahlen), [Begleitforschung](begleitforschung), [Hauptseite](hauptseite), [Neu](neu)\n [Mailingliste](mailingliste), [Fortbildung](fortbildung), [Sachkundenachweis](sachkundenachweis)\n [elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach)\n [Querschnittsaufgaben](querschnittsaufgaben)\n [Abkürzungen](abkürzungen), [Medizinische Begriffe](medizinische-begriffe)\n\n[Kategorie:Inhaltliches](kategorie:inhaltliches)",
   "struktur": [
     {
       "titel": "Allgemeines zur Betreuung",
@@ -16,7 +16,7 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Betreuungszahlen, Begleitforschung, Hauptseite, Was ist neu?\n Mailingliste, Fortbildung, Sachkundenachweis\n elektronisches Gerichts- und Verwaltungspostfach\n Querschnittsaufgaben\n\nKategorie:Inhaltliches",
+      "inhalt": "Betreuungszahlen, Begleitforschung, Hauptseite, Was ist neu?\n Mailingliste, Fortbildung, Sachkundenachweis\n elektronisches Gerichts- und Verwaltungspostfach\n Querschnittsaufgaben\n Abkürzungen, Medizinische Begriffe\n\nKategorie:Inhaltliches",
       "tags": [
         "betreuungszahlen",
         "begleitforschung",
@@ -28,23 +28,26 @@
   ],
   "zusammenfassung": "Allgemeines zur Betreuung\n\nDas Rechtsinstitut der rechtlichen Betreuung wurde in Deutschland durch das am 1. Januar 1992 in Kraft getretene [Betreuungsgesetz](betreuungsgesetz) geschaffen. Die rechtliche Betreuung ist an die Stelle der früheren [wikipedia:de:Vormundschaft](wikipedia:de:vormundschaft...",
   "verwandteArtikel": [
-    "wikipedia:de:selbstbestimmung",
-    "begleitforschung",
-    "betreuungsgesetz",
-    "betreuungszahlen",
-    "wikipedia:de:bürgerliches-gesetzbuch",
     "hauptseite",
-    "querschnittsaufgaben",
-    "elektronisches-gerichts--und-verwaltungspostfach",
+    "betreuungszahlen",
+    "begleitforschung",
+    "betreuungsrechtsreform",
+    "wikipedia:de:entmündigung",
+    "betreuungsgesetz",
+    "medizinische-begriffe",
     "fortbildung",
     "wikipedia:de:pflegschaft",
-    "wikipedia:de:entmündigung",
-    "kategorie:inhaltliches",
-    "betreuungsrechtsreform",
-    "unterstützungspflicht",
-    "sachkundenachweis",
     "wikipedia:de:vormundschaft",
     "mailingliste",
-    "neu"
+    "kategorie:inhaltliches",
+    "gesetzgebung",
+    "wikipedia:de:selbstbestimmung",
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "sachkundenachweis",
+    "unterstützungspflicht",
+    "abkürzungen",
+    "wikipedia:de:bürgerliches-gesetzbuch",
+    "neu",
+    "querschnittsaufgaben"
   ]
 }

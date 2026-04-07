@@ -1,7 +1,7 @@
 {
   "id": "überprüfungsfrist",
   "titel": "Überprüfungsfrist",
-  "inhalt": "In Betreuungs- und Unterbringungssachen gibt es unterschiedliche Fristsetzungen.\n\nAutomatische Beendigung\nAnordnung der [vorläufiger Betreuer](vorläufiger-betreuer): 6 Monate (Verlängerung auf 1 Jahr möglich), § 302 FamFG\nAnordnung der Unterbringung zur [Sachverständigengutachten](sachverständigengutachten): 6 Wochen, verlängerbar auf 3 Monate, § 284 Abs. 2 FamFG\nGenehmigung der vorläufigen [Unterbringung](unterbringung): 6 Wochen, Verlängerung auf 3 Monate möglich, § 333 Abs. 1 FamFG\nGenehmigung der [Zwangsbehandlung](zwangsbehandlung) mit [einstweilige Anordnung](einstweilige-anordnung): 2 Wochen, verlängerter auf insgesamt 6, § 333 Abs. 2 FamFG\n\nÜberprüfungsnotwendigkeit\nAnordnung der (endgültigen) [Betreuerbestellung](betreuerbestellung) und eines [Einwilligungsvorbehalt](einwilligungsvorbehalt)es: 7 Jahre (§ 294 Abs. 3 FamFG, § 295 Abs. 2 FamFG)\nAnordnung der (endgültigen) [Betreuerbestellung](betreuerbestellung) und eines [Einwilligungsvorbehalt](einwilligungsvorbehalt)es gegen den Willen des Betreuten: 2 Jahre (§ 294 Abs. 3 FamFG, § 295 Abs. 2 FamFG)\nGenehmigung der freiheitsentziehenden [Unterbringung](unterbringung): 1 Jahr (§ 329 Abs. 1 FamFG)\nGenehmigung der freiheitsentziehenden [Unterbringung](unterbringung) bei offensichtlich langer Unterbringungsbedürftigkeit: 2 Jahre (§ 329 Abs. 1 FamFG)\nGenehmigung der [Zwangsbehandlung](zwangsbehandlung): 6 Wochen, verlängerbar auf 3 Monate (§ 329 Abs. 1 FamFG)\nGenehmigung der [Dauervergütung](dauervergütung): 2 Jahre (§ 292 Abs. 2 FamFG)\n\n[Kategorie: Betreuungsverfahren](kategorie:-betreuungsverfahren)\n[Kategorie: Unterbringung](kategorie:-unterbringung)",
+  "inhalt": "In Betreuungs- und Unterbringungssachen gibt es unterschiedliche Fristsetzungen.\n\nAutomatische Beendigung\nAnordnung der [vorläufiger Betreuer](vorläufiger-betreuer): 6 Monate (Verlängerung auf 1 Jahr möglich), § 302 FamFG\nAnordnung der Unterbringung zur [Sachverständigengutachten](sachverständigengutachten): 6 Wochen, verlängerbar auf 3 Monate, § 284 Abs. 2 FamFG\nGenehmigung der vorläufigen [Unterbringung](unterbringung): 6 Wochen, Verlängerung auf 3 Monate möglich, § 333 Abs. 1 FamFG\nGenehmigung der [Zwangsbehandlung](zwangsbehandlung) mit [einstweilige Anordnung](einstweilige-anordnung): 2 Wochen, verlängerter auf insgesamt 6, § 333 Abs. 2 FamFG\n\nÜberprüfungsnotwendigkeit\nAnordnung der (endgültigen) [Betreuerbestellung](betreuerbestellung) und eines [Einwilligungsvorbehalt](einwilligungsvorbehalt)es: 7 Jahre (§ 294 Abs. 3 FamFG, § 295 Abs. 2 FamFG)\nAnordnung der (endgültigen) [Betreuerbestellung](betreuerbestellung) und eines [Einwilligungsvorbehalt](einwilligungsvorbehalt)es gegen den Willen des Betreuten: 2 Jahre (§ 294 Abs. 3 FamFG, § 295 Abs. 2 FamFG)\nGenehmigung der freiheitsentziehenden [Unterbringung](unterbringung): 1 Jahr (§ 329 Abs. 1 FamFG)\nGenehmigung der freiheitsentziehenden [Unterbringung](unterbringung) bei offensichtlich langer Unterbringungsbedürftigkeit: 2 Jahre (§ 329 Abs. 1 FamFG)\nGenehmigung der [Zwangsbehandlung](zwangsbehandlung): 6 Wochen, verlängerbar auf 3 Monate (§ 329 Abs. 1 FamFG)\nGenehmigung der [Dauervergütung](dauervergütung): 2 Jahre (§ 292 Abs. 2 FamFG)\n\nSiehe auch\n [Verlängerung der Betreuung](verlängerung-der-betreuung)\n [Betreuungsgesetz](betreuungsgesetz)\n\n[Kategorie: Betreuungsverfahren](kategorie:-betreuungsverfahren)\n[Kategorie: Unterbringung](kategorie:-unterbringung)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -27,27 +27,40 @@
     },
     {
       "titel": "Überprüfungsnotwendigkeit",
-      "inhalt": "Anordnung der (endgültigen) Betreuerbestellung und eines Einwilligungsvorbehaltes: 7 Jahre (§ 294 Abs. 3 FamFG, § 295 Abs. 2 FamFG)\nAnordnung der (endgültigen) Betreuerbestellung und eines Einwilligungsvorbehaltes gegen den Willen des Betreuten: 2 Jahre (§ 294 Abs. 3 FamFG, § 295 Abs. 2 FamFG)\nGenehmigung der freiheitsentziehenden Unterbringung: 1 Jahr (§ 329 Abs. 1 FamFG)\nGenehmigung der freiheitsentziehenden Unterbringung bei offensichtlich langer Unterbringungsbedürftigkeit: 2 Jahre (§ 329 Abs. 1 FamFG)\nGenehmigung der Zwangsbehandlung: 6 Wochen, verlängerbar auf 3 Monate (§ 329 Abs. 1 FamFG)\nGenehmigung der Dauervergütung: 2 Jahre (§ 292 Abs. 2 FamFG)\n\nKategorie: Betreuungsverfahren\nKategorie: Unterbringung",
+      "inhalt": "Anordnung der (endgültigen) Betreuerbestellung und eines Einwilligungsvorbehaltes: 7 Jahre (§ 294 Abs. 3 FamFG, § 295 Abs. 2 FamFG)\nAnordnung der (endgültigen) Betreuerbestellung und eines Einwilligungsvorbehaltes gegen den Willen des Betreuten: 2 Jahre (§ 294 Abs. 3 FamFG, § 295 Abs. 2 FamFG)\nGenehmigung der freiheitsentziehenden Unterbringung: 1 Jahr (§ 329 Abs. 1 FamFG)\nGenehmigung der freiheitsentziehenden Unterbringung bei offensichtlich langer Unterbringungsbedürftigkeit: 2 Jahre (§ 329 Abs. 1 FamFG)\nGenehmigung der Zwangsbehandlung: 6 Wochen, verlängerbar auf 3 Monate (§ 329 Abs. 1 FamFG)\nGenehmigung der Dauervergütung: 2 Jahre (§ 292 Abs. 2 FamFG)",
       "tags": [
         "famfg",
         "jahre",
         "genehmigung",
-        "unterbringung",
-        "anordnung"
+        "anordnung",
+        "endgültigen"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Verlängerung der Betreuung\n Betreuungsgesetz\n\nKategorie: Betreuungsverfahren\nKategorie: Unterbringung",
+      "tags": [
+        "kategorie",
+        "verlängerung",
+        "betreuung",
+        "betreuungsgesetz",
+        "betreuungsverfahren"
       ]
     }
   ],
   "zusammenfassung": "In Betreuungs- und Unterbringungssachen gibt es unterschiedliche Fristsetzungen.\n\nAutomatische Beendigung\nAnordnung der [vorläufiger Betreuer](vorläufiger-betreuer): 6 Monate (Verlängerung auf 1 Jahr möglich), § 302 FamFG\nAnordnung der Unterbringung zur [Sachverständigengutachten](sachverständigengu...",
   "verwandteArtikel": [
-    "vorläufiger-betreuer",
     "einwilligungsvorbehalt",
-    "unterbringung",
+    "betreuungsgesetz",
     "einstweilige-anordnung",
     "sachverständigengutachten",
-    "kategorie:-unterbringung",
-    "betreuerbestellung",
-    "zwangsbehandlung",
+    "verlängerung-der-betreuung",
     "dauervergütung",
-    "kategorie:-betreuungsverfahren"
+    "vorläufiger-betreuer",
+    "kategorie:-betreuungsverfahren",
+    "kategorie:-unterbringung",
+    "unterbringung",
+    "zwangsbehandlung",
+    "betreuerbestellung"
   ]
 }

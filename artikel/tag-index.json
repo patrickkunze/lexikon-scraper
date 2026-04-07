@@ -462,6 +462,7 @@
     "datenschutz",
     "datenschutz",
     "datenschutz",
+    "dauervergütung",
     "delegation",
     "delegation",
     "ehefähigkeit",
@@ -990,6 +991,7 @@
     "datenschutz",
     "datenschutz",
     "datenschutz",
+    "dauervergütung",
     "diskriminierungsverbot",
     "drittes-betreuungsrechtsänderungsgesetz",
     "ehefähigkeit",
@@ -1590,7 +1592,8 @@
     "zugangsrecht",
     "zugriffsrecht",
     "zwangsbehandlung",
-    "zwangsvollstreckung"
+    "zwangsvollstreckung",
+    "überprüfungsfrist"
   ],
   "ausländer": [
     "abschiebung",
@@ -2299,6 +2302,7 @@
     "betreuungsverfügung",
     "betreuungsvoraussetzung",
     "betreuungsvoraussetzung",
+    "dauervergütung",
     "digitale-barrierefreiheit",
     "eherecht-und-betreuung",
     "eidesstattliche-versicherung",
@@ -2638,7 +2642,6 @@
     "datenschutz",
     "datenschutz",
     "datenschutz",
-    "dauervergütung",
     "dauervergütung",
     "dokumentationspflicht",
     "ehefähigkeit",
@@ -3374,7 +3377,8 @@
     "rechtspfleger",
     "sachverständigengutachten",
     "verfahrensbeteiligte",
-    "vormundschaftsgericht"
+    "vormundschaftsgericht",
+    "überprüfungsfrist"
   ],
   "akteneinsicht": [
     "akteneinsicht",
@@ -3557,7 +3561,8 @@
     "wohn--und-betreuungsvertragsgesetz",
     "zeitschrift-für-professionelle-betreuungsarbeit",
     "zwangsbehandlung",
-    "zwangsvollstreckung"
+    "zwangsvollstreckung",
+    "überprüfungsfrist"
   ],
   "wurde": [
     "allgemeines",
@@ -3802,6 +3807,7 @@
     "alltagsgeschäfte",
     "beratung",
     "betreuervergütung-2019",
+    "dauervergütung",
     "einwilligungsvorbehalt"
   ],
   "geschäfte": [
@@ -4621,6 +4627,8 @@
     "betreuerpflichten",
     "betreuerpflichten",
     "betreuervergütung-2019",
+    "dauervergütung",
+    "dauervergütung",
     "delegation",
     "ehefähigkeit",
     "einwilligungsfähigkeit",
@@ -4830,6 +4838,7 @@
     "corona",
     "corona",
     "datenschutz",
+    "dauervergütung",
     "delegation",
     "ehefähigkeit",
     "einstweilige-anordnung",
@@ -5213,8 +5222,7 @@
     "selbstbestimmung",
     "selbstbestimmungsrecht",
     "selbstverwaltungserklärung",
-    "verfügungsgeld",
-    "verlängerung-der-betreuung"
+    "verfügungsgeld"
   ],
   "vulnerabilität": [
     "altenheim",
@@ -5724,6 +5732,8 @@
     "datenschutz",
     "datenschutz",
     "dauervergütung",
+    "dauervergütung",
+    "dauervergütung",
     "drittes-betreuungsrechtsänderungsgesetz",
     "eidesstattliche-versicherung",
     "einstweilige-anordnung",
@@ -6178,6 +6188,7 @@
     "aufgabenkreis",
     "betreuerausweis",
     "betreuungsgericht",
+    "dauervergütung",
     "ende-der-betreuung",
     "genehmigungen-von-a-bis-z",
     "gesetzliche-vertretung",
@@ -6387,6 +6398,7 @@
     "bundesverband-freier-berufsbetreuer",
     "datenschutz",
     "dauervergütung",
+    "dauervergütung",
     "eingliederungshilfe",
     "einwilligungsfähigkeit",
     "einwilligungsfähigkeit",
@@ -6506,7 +6518,6 @@
     "anhörung",
     "anhörung",
     "anhörung",
-    "betreuungsrichter",
     "betreuungsverfahren",
     "betreuungsverfahren",
     "betreuungsverfahren",
@@ -7075,7 +7086,6 @@
     "geschäftsfähigkeit",
     "geschäftsfähigkeit",
     "geschäftsfähigkeit",
-    "gesetzgebung",
     "gesetzliche-vertretung",
     "haftpflichtversicherung",
     "mündelgeld",
@@ -7592,6 +7602,7 @@
     "betreuervergütung",
     "betreuervergütung-2019",
     "betreuerwechsel",
+    "dauervergütung",
     "genehmigung-der-heilbehandlung",
     "globales-nachhaltigkeitsziel-10",
     "hauptseite",
@@ -8351,7 +8362,8 @@
     "wohnungsauflösung"
   ],
   "überprüfungsfrist": [
-    "anzeigepflicht"
+    "anzeigepflicht",
+    "verlängerung-der-betreuung"
   ],
   "mitteilungspflicht": [
     "anzeigepflicht",
@@ -8478,8 +8490,7 @@
     "arbeitsvertrag",
     "arbeitsvertrag",
     "arbeitsvertrag",
-    "bankvollmacht",
-    "unfallversicherung"
+    "bankvollmacht"
   ],
   "anwesend": [
     "arbeitsvertrag"
@@ -8489,6 +8500,7 @@
     "assistenzleistungen",
     "aufgabenkreis",
     "beglaubigung-durch-betreuungsbehörde",
+    "dauervergütung",
     "eherecht-und-betreuung",
     "erbschaft",
     "kindschaftsrecht",
@@ -9018,8 +9030,7 @@
     "zuführung-zur-unterbringung",
     "zwangsbehandlung",
     "zwangsbehandlung",
-    "zwangsbehandlung",
-    "überprüfungsfrist"
+    "zwangsbehandlung"
   ],
   "wohnungsangelegenheiten": [
     "aufenthaltsbestimmung",
@@ -9315,7 +9326,6 @@
   "ordre": [
     "aufgabenkreis",
     "freier-wille",
-    "gesetzgebung",
     "it-sicherheit",
     "regress-der-staatskasse",
     "sterbehilfe",
@@ -9359,8 +9369,7 @@
     "neu",
     "notfalldaten",
     "personalausweis",
-    "schweigepflicht",
-    "unfallversicherung"
+    "schweigepflicht"
   ],
   "lütgens": [
     "aufgabenkreis",
@@ -9416,6 +9425,7 @@
     "betreuervergütung",
     "betreuervorschlag",
     "betreuungssache",
+    "dauervergütung",
     "genehmigungen-von-a-bis-z",
     "gesetzestexte",
     "gesetzestexte",
@@ -9736,7 +9746,9 @@
   "pauschale": [
     "aufwandspauschale",
     "berufsbetreuer",
-    "betreuervergütung-2019"
+    "betreuervergütung-2019",
+    "dauervergütung",
+    "dauervergütung"
   ],
   "falls": [
     "aufwandspauschale"
@@ -9811,6 +9823,7 @@
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuervergütung-2026",
+    "dauervergütung",
     "eingruppierung",
     "ermessensvergütung",
     "freibetrag",
@@ -10567,6 +10580,7 @@
     "prozessfähigkeit",
     "subsidiaritätsprinzip",
     "testierfähigkeit",
+    "unfallversicherung",
     "verband-freiberuflicher-betreuer",
     "vertreterdokumentation",
     "vulnerabilität"
@@ -10914,7 +10928,8 @@
     "betreuerhaftung",
     "betreuungsverein",
     "haftpflichtversicherung",
-    "haftpflichtversicherung"
+    "haftpflichtversicherung",
+    "unfallversicherung"
   ],
   "olge": [
     "beaufsichtigung"
@@ -11105,7 +11120,8 @@
     "verlängerung-der-betreuung",
     "vorläufiger-betreuer",
     "vormundschaftsgericht",
-    "vorsorgevollmacht"
+    "vorsorgevollmacht",
+    "überprüfungsfrist"
   ],
   "checkliste": [
     "beaufsichtigung",
@@ -11176,7 +11192,6 @@
     "interoperabilität",
     "interoperabilität",
     "medikationsplan",
-    "medizinische-begriffe",
     "neu",
     "patientenverfügung",
     "sachverständigengutachten",
@@ -12021,6 +12036,7 @@
     "beratung",
     "betreuerhaftung",
     "betreuerwechsel",
+    "dauervergütung",
     "gerichtskosten",
     "grundrechte",
     "ordre-public",
@@ -12894,8 +12910,7 @@
     "it-sicherheit",
     "it-sicherheit",
     "medikationsplan",
-    "ordre-public",
-    "unfallversicherung"
+    "ordre-public"
   ],
   "elektronischer": [
     "betreuerausweis",
@@ -13473,6 +13488,7 @@
     "betreuerwechsel",
     "betreutes-wohnen",
     "dauervergütung",
+    "dauervergütung",
     "gesetzestexte",
     "grundstück",
     "kontrollbetreuer",
@@ -13519,6 +13535,7 @@
   "betreuerwechsel": [
     "betreuervergütung",
     "betreuervergütung-2019",
+    "betreuungsrichter",
     "rechtsprechung",
     "schlussbericht",
     "schlusstätigkeiten",
@@ -13580,6 +13597,7 @@
     "betreuervergütung",
     "betreuervergütung",
     "betreuervergütung-2026",
+    "dauervergütung",
     "dauervergütung",
     "eingruppierung"
   ],
@@ -14439,6 +14457,8 @@
   ],
   "allgemeines": [
     "betreuungsgesetz",
+    "gesetzgebung",
+    "medizinische-begriffe",
     "strafprozess"
   ],
   "gesetzgebung": [
@@ -15121,7 +15141,8 @@
     "wohnungsangelegenheiten"
   ],
   "fällen": [
-    "betreuungszahlen"
+    "betreuungszahlen",
+    "dauervergütung"
   ],
   "anträge": [
     "betreuungszahlen",
@@ -15864,6 +15885,62 @@
   "minuten": [
     "datenschutz",
     "einwilligungsfähigkeit"
+  ],
+  "vergütungsansprüche": [
+    "dauervergütung"
+  ],
+  "vergütungsanordnung": [
+    "dauervergütung"
+  ],
+  "befristet": [
+    "dauervergütung"
+  ],
+  "nötig": [
+    "dauervergütung",
+    "haftpflichtversicherung"
+  ],
+  "notwendig": [
+    "dauervergütung"
+  ],
+  "erfolgen": [
+    "dauervergütung",
+    "gesetzliche-vertretung",
+    "online-lexikon-betreuungsrecht:datenschutz",
+    "testierfähigkeit"
+  ],
+  "selbstzahlern": [
+    "dauervergütung"
+  ],
+  "stets": [
+    "dauervergütung",
+    "neu",
+    "verfahrenspfleger"
+  ],
+  "liegt": [
+    "dauervergütung",
+    "genehmigung-der-heilbehandlung",
+    "heilbehandlung",
+    "polizeirecht",
+    "schenkung",
+    "testierfähigkeit"
+  ],
+  "derzeit": [
+    "dauervergütung"
+  ],
+  "frühjahr": [
+    "dauervergütung"
+  ],
+  "mehreren": [
+    "dauervergütung"
+  ],
+  "bewilligung": [
+    "dauervergütung"
+  ],
+  "gesetzgeberische": [
+    "dauervergütung"
+  ],
+  "normalfall": [
+    "dauervergütung"
   ],
   "delegation": [
     "delegation",
@@ -17881,13 +17958,6 @@
   "entscheidet": [
     "genehmigung-der-heilbehandlung"
   ],
-  "liegt": [
-    "genehmigung-der-heilbehandlung",
-    "heilbehandlung",
-    "polizeirecht",
-    "schenkung",
-    "testierfähigkeit"
-  ],
   "besondere": [
     "genehmigung-der-heilbehandlung",
     "heilbehandlung"
@@ -18457,6 +18527,9 @@
   "westliche": [
     "gesetzgebung"
   ],
+  "vertreterinnen": [
+    "gesetzgebung"
+  ],
   "ganzen": [
     "gesetzgebung"
   ],
@@ -18472,11 +18545,6 @@
   ],
   "verwahrung": [
     "gesetzliche-vertretung",
-    "testierfähigkeit"
-  ],
-  "erfolgen": [
-    "gesetzliche-vertretung",
-    "online-lexikon-betreuungsrecht:datenschutz",
     "testierfähigkeit"
   ],
   "vertretungsverbot": [
@@ -19005,9 +19073,6 @@
     "haftpflichtversicherung"
   ],
   "sammelversicherung": [
-    "haftpflichtversicherung"
-  ],
-  "nötig": [
     "haftpflichtversicherung"
   ],
   "schäden": [
@@ -19815,7 +19880,8 @@
     "pflegebedürftigkeit",
     "pflegeversicherung",
     "pflegeversicherung",
-    "pflegeversicherung"
+    "pflegeversicherung",
+    "unfallversicherung"
   ],
   "mehlhorn": [
     "krankenversicherung"
@@ -20164,10 +20230,6 @@
   "bleibt": [
     "neu",
     "tod-des-betreuers"
-  ],
-  "stets": [
-    "neu",
-    "verfahrenspfleger"
   ],
   "unvollständig": [
     "neu"
@@ -21165,7 +21227,8 @@
   ],
   "verlängerung": [
     "rechnungslegung",
-    "verlängerung-der-betreuung"
+    "verlängerung-der-betreuung",
+    "überprüfungsfrist"
   ],
   "abrechnungsperiode": [
     "rechnungslegung"
@@ -23623,6 +23686,9 @@
     "überprüfungsfrist"
   ],
   "fristsetzungen": [
+    "überprüfungsfrist"
+  ],
+  "endgültigen": [
     "überprüfungsfrist"
   ]
 }
