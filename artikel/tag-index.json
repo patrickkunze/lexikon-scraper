@@ -754,7 +754,8 @@
     "zuführung-zur-unterbringung",
     "zuführung-zur-unterbringung",
     "zugangsrecht",
-    "zwangsvollstreckung"
+    "zwangsvollstreckung",
+    "überprüfungsfrist"
   ],
   "zeitschrift": [
     "abkürzungen",
@@ -3377,8 +3378,7 @@
     "rechtspfleger",
     "sachverständigengutachten",
     "verfahrensbeteiligte",
-    "vormundschaftsgericht",
-    "überprüfungsfrist"
+    "vormundschaftsgericht"
   ],
   "akteneinsicht": [
     "akteneinsicht",
@@ -8363,7 +8363,8 @@
   ],
   "überprüfungsfrist": [
     "anzeigepflicht",
-    "verlängerung-der-betreuung"
+    "verlängerung-der-betreuung",
+    "vorläufiger-betreuer"
   ],
   "mitteilungspflicht": [
     "anzeigepflicht",
@@ -11120,8 +11121,7 @@
     "verlängerung-der-betreuung",
     "vorläufiger-betreuer",
     "vormundschaftsgericht",
-    "vorsorgevollmacht",
-    "überprüfungsfrist"
+    "vorsorgevollmacht"
   ],
   "checkliste": [
     "beaufsichtigung",
@@ -16511,7 +16511,6 @@
   "gewaltschutzanordnung": [
     "eherecht-und-betreuung",
     "gewaltschutzanordnung",
-    "vorläufiger-betreuer",
     "zuführung-zur-unterbringung"
   ],
   "ehrenamt": [
@@ -16713,7 +16712,8 @@
   "vorläufiger": [
     "einstweilige-anordnung",
     "gerichtskosten",
-    "stundensatz"
+    "stundensatz",
+    "überprüfungsfrist"
   ],
   "anordnungen": [
     "einstweilige-anordnung",
