@@ -993,6 +993,7 @@
     "datenschutz",
     "datenschutz",
     "dauervergütung",
+    "dauervergütung",
     "diskriminierungsverbot",
     "drittes-betreuungsrechtsänderungsgesetz",
     "ehefähigkeit",
@@ -3285,6 +3286,7 @@
     "betreuungskosten-im-steuerrecht",
     "betreuungskosten-im-steuerrecht",
     "bundesverband-der-berufsbetreuer",
+    "dauervergütung",
     "ermessensvergütung",
     "ermessensvergütung",
     "gesetzestexte",
@@ -3598,7 +3600,6 @@
   "reform": [
     "allgemeines",
     "anlagegeld",
-    "betreuungsgesetz",
     "betreuungsgesetz",
     "betreuungsorganisationsgesetz",
     "betreuungsrechtsreform",
@@ -5731,7 +5732,6 @@
     "datenschutz",
     "datenschutz",
     "datenschutz",
-    "dauervergütung",
     "dauervergütung",
     "dauervergütung",
     "drittes-betreuungsrechtsänderungsgesetz",
@@ -8000,7 +8000,6 @@
     "berufsbetreuer",
     "bestattungsvertrag",
     "betreuer-(ehrenamt)",
-    "betreuungsgesetz",
     "betreuungsverfügung",
     "corona",
     "corona",
@@ -8916,7 +8915,6 @@
   ],
   "gesamtplanverfahren": [
     "assistenzleistungen",
-    "besonderer-vertreter-im-verwaltungsverfahren",
     "betreuungsplan",
     "persönliches-budget",
     "unterstützungspflicht"
@@ -8978,6 +8976,7 @@
     "betreuerpflichten",
     "betreuungsbehörde",
     "betreuungsgericht",
+    "betreuungsgesetz",
     "einstweilige-anordnung",
     "familienverfahrensgesetz",
     "gesetzestexte",
@@ -9435,7 +9434,8 @@
     "sachkundenachweis",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
-    "unbetreubarkeit"
+    "unbetreubarkeit",
+    "überprüfungsfrist"
   ],
   "thumb": [
     "aufhebung-der-betreuung",
@@ -10538,7 +10538,6 @@
     "einstweilige-anordnung",
     "polizeirecht",
     "prozessführung",
-    "prozesspfleger",
     "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zur-anhörung",
     "rechtsweg-in-deutschland",
@@ -12305,9 +12304,39 @@
   "sozialrechtlichen": [
     "besonderer-vertreter-im-verwaltungsverfahren"
   ],
-  "widerspruchsrecht": [
+  "prozesspfleger": [
     "besonderer-vertreter-im-verwaltungsverfahren",
-    "vollmachtswiderruf"
+    "gerichtskosten",
+    "prozesspfleger",
+    "rechtsanwalt"
+  ],
+  "verfahrenspfleger": [
+    "besonderer-vertreter-im-verwaltungsverfahren",
+    "datenschutz",
+    "freibetrag",
+    "genehmigung-der-heilbehandlung",
+    "gerichtskosten",
+    "kindschaftsrecht",
+    "nutzungspflicht",
+    "prozesspfleger",
+    "rechtsanwalt",
+    "rechtsanwalt",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsweg-in-deutschland",
+    "sterilisation",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger"
   ],
   "totenfürsorge": [
     "bestattung"
@@ -13547,7 +13576,6 @@
   ],
   "festsetzung": [
     "betreuervergütung",
-    "dauervergütung",
     "mittellosigkeit",
     "regress-der-staatskasse"
   ],
@@ -14237,6 +14265,7 @@
   ],
   "zuführung": [
     "betreuungsbehörde",
+    "betreuungsgesetz",
     "querschnittsaufgaben",
     "rechtsverkehr-in-deutschland",
     "unterbringungsverfahren",
@@ -14942,7 +14971,8 @@
     "betreuungsverfahren",
     "gerichtskosten",
     "kontrollbetreuer",
-    "kosten"
+    "kosten",
+    "prozesspfleger"
   ],
   "betreuungsanordnung": [
     "betreuungsverfahren",
@@ -15834,33 +15864,6 @@
     "datenschutz",
     "meldepflicht"
   ],
-  "verfahrenspfleger": [
-    "datenschutz",
-    "freibetrag",
-    "genehmigung-der-heilbehandlung",
-    "gerichtskosten",
-    "kindschaftsrecht",
-    "nutzungspflicht",
-    "prozesspfleger",
-    "rechtsanwalt",
-    "rechtsanwalt",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsweg-in-deutschland",
-    "sterilisation",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger"
-  ],
   "dritten": [
     "datenschutz",
     "vermögensverzeichnis"
@@ -16711,7 +16714,6 @@
   ],
   "vorläufiger": [
     "einstweilige-anordnung",
-    "gerichtskosten",
     "stundensatz",
     "überprüfungsfrist"
   ],
@@ -21116,10 +21118,6 @@
     "prozessführung",
     "strafprozess"
   ],
-  "prozesspfleger": [
-    "prozesspfleger",
-    "rechtsanwalt"
-  ],
   "effektiver": [
     "prozesspfleger"
   ],
@@ -21227,8 +21225,7 @@
   ],
   "verlängerung": [
     "rechnungslegung",
-    "verlängerung-der-betreuung",
-    "überprüfungsfrist"
+    "verlängerung-der-betreuung"
   ],
   "abrechnungsperiode": [
     "rechnungslegung"
@@ -23170,6 +23167,9 @@
     "vollmachtswiderruf"
   ],
   "einzelfall": [
+    "vollmachtswiderruf"
+  ],
+  "widerspruchsrecht": [
     "vollmachtswiderruf"
   ],
   "termin": [
