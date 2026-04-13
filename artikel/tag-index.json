@@ -15325,6 +15325,7 @@
     "unterbringung",
     "unterbringung",
     "unterbringungsverfahren",
+    "vorführung",
     "zwangsbehandlung",
     "zwangsbehandlung",
     "zwangsbehandlung",
@@ -23184,6 +23185,10 @@
   "vorführungen": [
     "vorführung"
   ],
+  "polizeirecht": [
+    "vorführung",
+    "waffenbesitz"
+  ],
   "geschäftsstelle": [
     "vorläufiger-betreuer"
   ],
@@ -23324,9 +23329,6 @@
     "waffenbesitz"
   ],
   "erlass": [
-    "waffenbesitz"
-  ],
-  "polizeirecht": [
     "waffenbesitz"
   ],
   "wahlrechtsausschluss": [
