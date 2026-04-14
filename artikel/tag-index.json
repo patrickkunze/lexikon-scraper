@@ -4792,6 +4792,7 @@
     "altenheim",
     "aufgabenkreis",
     "befreiter-betreuer",
+    "beglaubigung-durch-betreuungsbehörde",
     "organspende",
     "zwangsvollstreckung"
   ],
@@ -6085,14 +6086,14 @@
     "unfallversicherung",
     "vereinsbetreuer"
   ],
-  "gesetzlicher": [
+  "beglaubigung": [
     "amtspflichtverletzung",
-    "angehörigenvertretungsrecht",
-    "elektronischer-identitätsnachweis",
-    "gesetzliche-vertretung",
-    "haftpflichtversicherung",
-    "personalausweis",
-    "rechtsgeschäft"
+    "beglaubigung-durch-betreuungsbehörde",
+    "beglaubigung-durch-betreuungsbehörde",
+    "beglaubigung-durch-betreuungsbehörde",
+    "beglaubigung-durch-betreuungsbehörde",
+    "beglaubigung-durch-betreuungsbehörde",
+    "unterschriftsbeglaubigung"
   ],
   "achtung": [
     "anfangsbericht",
@@ -7078,6 +7079,14 @@
   "rinck": [
     "angehörigenvertretungsrecht"
   ],
+  "gesetzlicher": [
+    "angehörigenvertretungsrecht",
+    "elektronischer-identitätsnachweis",
+    "gesetzliche-vertretung",
+    "haftpflichtversicherung",
+    "personalausweis",
+    "rechtsgeschäft"
+  ],
   "vertreter": [
     "angehörigenvertretungsrecht",
     "arbeitsvertrag",
@@ -7197,6 +7206,7 @@
   ],
   "soll": [
     "anhörung",
+    "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
@@ -8287,6 +8297,7 @@
   "btog": [
     "anzeigepflicht",
     "beglaubigung-durch-betreuungsbehörde",
+    "beglaubigung-durch-betreuungsbehörde",
     "behördenbetreuer",
     "betreuer-(ehrenamt)",
     "betreuervorschlag",
@@ -8352,6 +8363,7 @@
   "genehmigungspflichten": [
     "anzeigepflicht",
     "bestattungsvertrag",
+    "betreuer-als-erbe",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "genehmigungen",
     "genehmigungen-von-a-bis-z",
@@ -11239,14 +11251,6 @@
   "brachte": [
     "beglaubigung-durch-betreuungsbehörde"
   ],
-  "beglaubigung": [
-    "beglaubigung-durch-betreuungsbehörde",
-    "beglaubigung-durch-betreuungsbehörde",
-    "beglaubigung-durch-betreuungsbehörde",
-    "beglaubigung-durch-betreuungsbehörde",
-    "beglaubigung-durch-betreuungsbehörde",
-    "unterschriftsbeglaubigung"
-  ],
   "notarielle": [
     "beglaubigung-durch-betreuungsbehörde"
   ],
@@ -11321,9 +11325,6 @@
     "kindschaftsrecht",
     "unterstützungspflicht",
     "verfahrenspfleger"
-  ],
-  "jugendhilferecht": [
-    "beglaubigung-durch-betreuungsbehörde"
   ],
   "seinen": [
     "beglaubigung-durch-betreuungsbehörde",
@@ -11522,14 +11523,6 @@
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde"
   ],
-  "vormundschaftsgericht": [
-    "beglaubigung-durch-betreuungsbehörde",
-    "betreuungssache",
-    "haager-übereinkommen",
-    "vormundschaftsgericht",
-    "vormundschaftsgericht",
-    "vormundschaftsgericht"
-  ],
   "stadt": [
     "beglaubigung-durch-betreuungsbehörde",
     "haager-übereinkommen"
@@ -11561,11 +11554,6 @@
   ],
   "verwaltungsakt": [
     "beglaubigung-durch-betreuungsbehörde"
-  ],
-  "sieht": [
-    "beglaubigung-durch-betreuungsbehörde",
-    "informationspflicht",
-    "rechnungslegung"
   ],
   "inkrafttreten": [
     "beglaubigung-durch-betreuungsbehörde",
@@ -12807,6 +12795,22 @@
     "betreuer-als-erbe",
     "rechtsverkehr-in-deutschland",
     "rente"
+  ],
+  "genehmigungen": [
+    "betreuer-als-erbe",
+    "betreuungsverfahren",
+    "geldanlage",
+    "genehmigungen-von-a-bis-z",
+    "genehmigungen-von-a-bis-z",
+    "genehmigungen-von-a-bis-z",
+    "genehmigungen-von-a-bis-z",
+    "genehmigungen-von-a-bis-z",
+    "genehmigungspflichten",
+    "genehmigungspflichten",
+    "genehmigungspflichten",
+    "grundstück",
+    "unterbringung",
+    "unterbringungsverfahren"
   ],
   "zuwendungen": [
     "betreuer-als-erbe"
@@ -14805,6 +14809,13 @@
   "betreuungsrichterin": [
     "betreuungssache"
   ],
+  "vormundschaftsgericht": [
+    "betreuungssache",
+    "haager-übereinkommen",
+    "vormundschaftsgericht",
+    "vormundschaftsgericht",
+    "vormundschaftsgericht"
+  ],
   "unterbringungssachen": [
     "betreuungssache",
     "familienverfahrensgesetz",
@@ -14941,21 +14952,6 @@
   ],
   "betreuungsgerichtliche": [
     "betreuungsverfahren"
-  ],
-  "genehmigungen": [
-    "betreuungsverfahren",
-    "geldanlage",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungspflichten",
-    "genehmigungspflichten",
-    "genehmigungspflichten",
-    "grundstück",
-    "unterbringung",
-    "unterbringungsverfahren"
   ],
   "prozessführung": [
     "betreuungsverfahren",
@@ -19372,6 +19368,10 @@
     "informationspflicht",
     "informationspflicht",
     "informationspflicht"
+  ],
+  "sieht": [
+    "informationspflicht",
+    "rechnungslegung"
   ],
   "demokratische": [
     "informationspflicht",
