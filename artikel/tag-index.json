@@ -3916,7 +3916,6 @@
     "regress-der-staatskasse",
     "selbstbestimmung",
     "selbstbestimmung",
-    "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme",
     "unterbringungsähnliche-maßnahme",
@@ -8083,7 +8082,6 @@
     "krankenhaussozialdienst",
     "persönliche-betreuung",
     "rechtsverkehr-in-deutschland",
-    "unterstützte-entscheidungsfindung",
     "verlängerung-der-betreuung",
     "verlängerung-der-betreuung",
     "vorläufiger-betreuer",
@@ -10436,8 +10434,7 @@
     "ausländer"
   ],
   "vorsorgebroschüre": [
-    "ausländer",
-    "vorsorgevollmacht---vertiefte-infos"
+    "ausländer"
   ],
   "personalausweis": [
     "ausländer",
@@ -11334,7 +11331,6 @@
   ],
   "seinen": [
     "beglaubigung-durch-betreuungsbehörde",
-    "unterbringung",
     "unterbringungsähnliche-maßnahme",
     "vorsorgevollmacht"
   ],
@@ -13116,7 +13112,6 @@
   "präsentation": [
     "betreuerbestellung",
     "selbstbestimmung",
-    "unterstützte-entscheidungsfindung",
     "vermögenssorge"
   ],
   "bagüs": [
@@ -13716,6 +13711,7 @@
     "sterbehilfe",
     "strafprozess",
     "tod-des-betreuten",
+    "unterstützte-entscheidungsfindung",
     "vbvg-rechtsprechung",
     "verfahrenspfleger",
     "verhinderungsbetreuer",
@@ -14040,7 +14036,8 @@
   ],
   "aufgrund": [
     "betreuervorschlag",
-    "neu"
+    "neu",
+    "unterbringung"
   ],
   "benennung": [
     "betreuervorschlag"
@@ -14440,7 +14437,6 @@
     "schweigepflicht",
     "selbstbestimmung",
     "selbstbestimmung",
-    "unterstützte-entscheidungsfindung",
     "unterstützte-entscheidungsfindung",
     "unterstützte-kommunikation",
     "unterstützte-kommunikation",
@@ -17470,7 +17466,6 @@
     "selbstbestimmung",
     "selbstbestimmung",
     "unterstützte-entscheidungsfindung",
-    "unterstützte-entscheidungsfindung",
     "vertrauensperson"
   ],
   "familienverfahrensgesetz": [
@@ -19138,8 +19133,7 @@
     "jahresbericht",
     "kirchenaustritt",
     "schlussbericht",
-    "tod-des-betreuten",
-    "vorsorgevollmacht---vertiefte-infos"
+    "tod-des-betreuten"
   ],
   "logo": [
     "hauptseite"
@@ -21709,6 +21703,7 @@
   "mensch": [
     "schwerbehindertenausweis",
     "tierschutz",
+    "unterstützte-entscheidungsfindung",
     "werkstatt-für-behinderte-menschen"
   ],
   "jahresdurchschnittlich": [
@@ -21866,7 +21861,8 @@
   ],
   "broschüre": [
     "sozialhilfe",
-    "sterbehilfedokumente"
+    "sterbehilfedokumente",
+    "unterstützte-entscheidungsfindung"
   ],
   "sobota": [
     "sozialhilfe"
@@ -22529,6 +22525,7 @@
     "unterbringungsähnliche-maßnahme"
   ],
   "erheblichen": [
+    "unterbringung",
     "unterbringung"
   ],
   "eingriffes": [
@@ -22690,6 +22687,9 @@
     "zwangsbehandlung"
   ],
   "unterstützten": [
+    "unterstützte-entscheidungsfindung"
+  ],
+  "aktion": [
     "unterstützte-entscheidungsfindung"
   ],
   "kommuniziert": [
