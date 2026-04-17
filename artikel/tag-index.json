@@ -5103,6 +5103,7 @@
     "nutzungspflicht",
     "prozessfähigkeit",
     "rechnungslegung",
+    "rechtsweg-in-deutschland",
     "vermögensverzeichnis",
     "wahlrecht",
     "wahlrecht"
@@ -8159,7 +8160,6 @@
     "rechtsanwalt",
     "rechtsanwalt",
     "rechtsanwalt",
-    "rechtsweg-in-deutschland",
     "sterbehilfe",
     "strafprozess",
     "vbvg-rechtsprechung",
@@ -8697,6 +8697,7 @@
     "gutachten",
     "mdk-gutachten",
     "rechtsprechung-zum-sachverständigengutachten",
+    "rechtsweg-in-deutschland",
     "sachverständigengutachten"
   ],
   "schriftliche": [
@@ -8916,6 +8917,7 @@
   ],
   "unterstützungspflicht": [
     "assistenzleistungen",
+    "betreuungsbehördengesetz",
     "datenschutz",
     "ergänzungsbetreuer",
     "freibetrag",
@@ -11228,7 +11230,6 @@
   "vorsorgevollmachten": [
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
-    "betreuungsbehördengesetz",
     "betreuungsverein",
     "betreuungszahlen",
     "insichgeschäft",
@@ -21069,8 +21070,7 @@
     "prozessführung"
   ],
   "instanz": [
-    "prozessführung",
-    "rechtsweg-in-deutschland"
+    "prozessführung"
   ],
   "lich": [
     "prozessführung",
