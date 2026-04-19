@@ -5228,7 +5228,6 @@
     "selbstbestimmung",
     "selbstbestimmung",
     "selbstbestimmungsrecht",
-    "selbstverwaltungserklärung",
     "verfügungsgeld"
   ],
   "vulnerabilität": [
@@ -8106,7 +8105,8 @@
     "anregung-der-betreuerbestellung",
     "berufsbetreuer",
     "betreuersuche",
-    "betreuungsarbeitsgemeinschaft"
+    "betreuungsarbeitsgemeinschaft",
+    "vereinbarung-über-begleitung-und-unterstützung"
   ],
   "intellektuelle": [
     "anregung-der-betreuerbestellung",
@@ -9113,6 +9113,7 @@
     "drittes-betreuungsrechtsänderungsgesetz",
     "ehefähigkeit",
     "eherecht-und-betreuung",
+    "eidesstattliche-versicherung",
     "einwilligungsvorbehalt",
     "erörterungsgespräch",
     "freier-wille",
@@ -9127,6 +9128,7 @@
     "pflicht-zur-betreuungsübernahme",
     "prozessfähigkeit",
     "selbstbestimmung",
+    "selbstverwaltungserklärung",
     "testierfähigkeit",
     "unterstützte-kommunikation",
     "vereinbarung-über-begleitung-und-unterstützung",
@@ -9620,6 +9622,7 @@
     "betreuerbestellung",
     "betreuervergütung",
     "betreuervergütung-2019",
+    "betreuervorschlag",
     "betreuervorschlag",
     "betreuungsbehörde",
     "betreuungsvoraussetzung",
@@ -10442,7 +10445,6 @@
     "ausländer",
     "ausweisrecht",
     "betreuerausweis",
-    "eidesstattliche-versicherung",
     "elektronischer-identitätsnachweis",
     "elektronischer-identitätsnachweis",
     "grundrechte",
@@ -10856,8 +10858,7 @@
     "pflicht-zur-betreuungsübernahme",
     "querschnittsaufgaben",
     "querschnittsaufgaben",
-    "unterstützungspflicht",
-    "vereinbarung-über-begleitung-und-unterstützung"
+    "unterstützungspflicht"
   ],
   "aufsicht": [
     "beaufsichtigung",
@@ -14075,12 +14076,6 @@
     "schwerbehindertenausweis",
     "schwerbehindertenausweis",
     "sterilisationsbetreuer"
-  ],
-  "gerichte": [
-    "betreuervorschlag",
-    "jahresbericht",
-    "rechtsprechung",
-    "registrierung"
   ],
   "oftmals": [
     "betreuervorschlag"
@@ -19564,6 +19559,11 @@
   ],
   "einige": [
     "jahresbericht"
+  ],
+  "gerichte": [
+    "jahresbericht",
+    "rechtsprechung",
+    "registrierung"
   ],
   "stellen": [
     "jahresbericht",
