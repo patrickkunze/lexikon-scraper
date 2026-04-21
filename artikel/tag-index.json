@@ -800,7 +800,6 @@
   ],
   "deutschland": [
     "abschiebung",
-    "alltagsgeschäfte",
     "amtspflichtverletzung",
     "angehörigenvertretungsrecht",
     "auskunftspflicht",
@@ -883,6 +882,7 @@
     "ordre-public",
     "ordre-public",
     "personalausweis",
+    "personenstand",
     "prozessführung",
     "prozessführung",
     "psychisch-kranken-gesetz",
@@ -898,7 +898,6 @@
     "synopse-patientenverfügungsgesetze",
     "unterstützungspflicht",
     "unterstützungspflicht",
-    "vertretung-gegenüber-behörden",
     "vorsorgeregister",
     "vulnerabilität",
     "vulnerabilität",
@@ -1000,6 +999,7 @@
     "ehefähigkeit",
     "eherecht-und-betreuung",
     "eherecht-und-betreuung",
+    "eherecht-und-betreuung",
     "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
     "einverständniserklärung",
@@ -1066,6 +1066,7 @@
     "patientenverfügung",
     "patientenverfügung",
     "personalausweis",
+    "personenstand",
     "persönliches-budget",
     "polizeirecht",
     "prozessfähigkeit",
@@ -2307,7 +2308,6 @@
     "betreuungsvoraussetzung",
     "dauervergütung",
     "digitale-barrierefreiheit",
-    "eherecht-und-betreuung",
     "eidesstattliche-versicherung",
     "eingliederungshilfe",
     "einwilligungsfähigkeit",
@@ -3311,6 +3311,7 @@
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
+    "beglaubigung-durch-betreuungsbehörde",
     "behördenbetreuer",
     "behördenbetreuer",
     "beratung",
@@ -3414,6 +3415,7 @@
     "beamte-als-betreuer",
     "beaufsichtigung",
     "beaufsichtigung",
+    "beglaubigung-durch-betreuungsbehörde",
     "begleitforschung",
     "begleitforschung",
     "behördenbetreuer",
@@ -3516,6 +3518,7 @@
     "mailingliste",
     "mittellosigkeit",
     "organspende",
+    "personenstand",
     "pflicht-zur-betreuungsübernahme",
     "psychisch-kranken-gesetz",
     "sachkundenachweis",
@@ -3758,6 +3761,8 @@
     "notfalldaten",
     "nutzungspflicht",
     "personalausweis",
+    "personenstand",
+    "personenstand",
     "persönliches-budget",
     "rechtspfleger",
     "selbstverwaltung-der-deutschen-gemeinden",
@@ -4039,6 +4044,23 @@
     "schenkung",
     "schenkung"
   ],
+  "personenstand": [
+    "alltagsgeschäfte",
+    "aufgabenkreis",
+    "beglaubigung-durch-betreuungsbehörde",
+    "checkliste-personenbogen",
+    "erziehungsmaßregeln",
+    "kindschaftsrecht",
+    "meldepflicht",
+    "personenstand",
+    "personenstand",
+    "persönliches-budget",
+    "schenkung",
+    "umgangsbestimmung",
+    "vaterschaftsanerkennung",
+    "verfügungsgeld",
+    "vertretung-gegenüber-behörden"
+  ],
   "bankvollmacht": [
     "alltagsgeschäfte",
     "anlagegeld",
@@ -4123,8 +4145,6 @@
     "betreutes-wohnen",
     "einwilligungsvorbehalt",
     "heimplatzsuche",
-    "meldepflicht",
-    "umgangsbestimmung",
     "unterbringung",
     "wohnungsangelegenheiten",
     "wohnungsauflösung"
@@ -5227,8 +5247,7 @@
     "selbstbestimmung",
     "selbstbestimmung",
     "selbstbestimmung",
-    "selbstbestimmungsrecht",
-    "verfügungsgeld"
+    "selbstbestimmungsrecht"
   ],
   "vulnerabilität": [
     "altenheim",
@@ -6034,6 +6053,7 @@
     "ordre-public",
     "patientenverfügung",
     "personalausweis",
+    "personenstand",
     "schenkung",
     "sterbehilfe",
     "verbraucherstreitbeilegung",
@@ -6416,6 +6436,7 @@
     "neu",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "patientenverfügung",
+    "personenstand",
     "pflegeversicherung",
     "rechnungslegung",
     "sachkundelehrgang",
@@ -8450,6 +8471,7 @@
     "betreuungsarbeitsgemeinschaft",
     "betreuungsgesetz",
     "einwilligungsvorbehalt",
+    "personenstand",
     "prozessführung",
     "psychisch-kranken-gesetz",
     "selbstbestimmung",
@@ -8763,6 +8785,7 @@
     "medikationsplan",
     "medizinische-begriffe",
     "patientenverfügung",
+    "personenstand",
     "persönliche-betreuung",
     "sachverständigengutachten",
     "schwerbehindertenausweis",
@@ -9142,8 +9165,7 @@
   ],
   "checklisten": [
     "aufenthaltsbestimmung",
-    "beratung",
-    "checkliste-personenbogen"
+    "beratung"
   ],
   "vordrucke": [
     "aufenthaltsbestimmung"
@@ -9216,7 +9238,8 @@
   ],
   "mögliche": [
     "aufgabenkreis",
-    "natürlicher-wille"
+    "natürlicher-wille",
+    "personenstand"
   ],
   "speziell": [
     "aufgabenkreis"
@@ -9374,23 +9397,6 @@
     "aufgabenkreis",
     "persönliches-budget",
     "verfügungsgeld"
-  ],
-  "datenschutz": [
-    "aufgabenkreis",
-    "betreuerausweis",
-    "datenschutz",
-    "datenschutz",
-    "e-rezept",
-    "elektronische-patientenakte",
-    "föderalismus",
-    "gesundheitsdatennutzungsgesetz",
-    "it-sicherheit",
-    "medikationsplan",
-    "mitteilungspflicht",
-    "neu",
-    "notfalldaten",
-    "personalausweis",
-    "schweigepflicht"
   ],
   "lütgens": [
     "aufgabenkreis",
@@ -9967,10 +9973,8 @@
     "mittellosigkeit",
     "mittellosigkeit",
     "mittellosigkeit",
-    "persönliches-budget",
     "regress-der-staatskasse",
     "vbvg-rechtsprechung",
-    "vaterschaftsanerkennung",
     "vormünder--und-betreuervergütungsgesetz",
     "zwangsvollstreckung"
   ],
@@ -10596,7 +10600,6 @@
     "einwilligungsvorbehalt",
     "geschäftsfähigkeit",
     "grundstück",
-    "kindschaftsrecht",
     "prozessfähigkeit",
     "subsidiaritätsprinzip",
     "testierfähigkeit",
@@ -11601,11 +11604,33 @@
     "beglaubigung-durch-betreuungsbehörde",
     "gesetzestexte"
   ],
+  "eherecht": [
+    "beglaubigung-durch-betreuungsbehörde",
+    "ehefähigkeit",
+    "eherecht",
+    "lebenspartnerschaft",
+    "personenstand",
+    "sterilisation",
+    "sterilisationsbetreuer",
+    "trennungsgebot",
+    "umgangsbestimmung"
+  ],
+  "ehefähigkeit": [
+    "beglaubigung-durch-betreuungsbehörde",
+    "ehefähigkeit",
+    "ehefähigkeit",
+    "eherecht-und-betreuung",
+    "personenstand",
+    "sterilisation",
+    "sterilisationsbetreuer",
+    "testierfähigkeit"
+  ],
   "vereine": [
     "beglaubigung-durch-betreuungsbehörde"
   ],
   "beglaubigte": [
-    "beglaubigung-durch-betreuungsbehörde"
+    "beglaubigung-durch-betreuungsbehörde",
+    "personenstand"
   ],
   "abschlussbericht": [
     "begleitforschung",
@@ -12948,6 +12973,22 @@
     "medikationsplan",
     "ordre-public"
   ],
+  "datenschutz": [
+    "betreuerausweis",
+    "datenschutz",
+    "datenschutz",
+    "e-rezept",
+    "elektronische-patientenakte",
+    "föderalismus",
+    "gesundheitsdatennutzungsgesetz",
+    "it-sicherheit",
+    "medikationsplan",
+    "mitteilungspflicht",
+    "neu",
+    "notfalldaten",
+    "personalausweis",
+    "schweigepflicht"
+  ],
   "elektronischer": [
     "betreuerausweis",
     "broschüren",
@@ -13339,8 +13380,7 @@
     "steuern"
   ],
   "waffenfund": [
-    "betreuerpflichten",
-    "erziehungsmaßregeln"
+    "betreuerpflichten"
   ],
   "tierschutz": [
     "betreuerpflichten"
@@ -16139,6 +16179,7 @@
     "it-sicherheit",
     "neu",
     "neu",
+    "personenstand",
     "schwerbehindertenausweis",
     "subsidiaritätsprinzip",
     "zugangsrecht"
@@ -16339,14 +16380,6 @@
     "ebo",
     "egvp"
   ],
-  "ehefähigkeit": [
-    "ehefähigkeit",
-    "ehefähigkeit",
-    "eherecht-und-betreuung",
-    "sterilisation",
-    "sterilisationsbetreuer",
-    "testierfähigkeit"
-  ],
   "einsichtsfähigkeit": [
     "ehefähigkeit"
   ],
@@ -16414,19 +16447,11 @@
     "ordre-public",
     "ordre-public"
   ],
-  "eherecht": [
-    "ehefähigkeit",
-    "eherecht",
-    "lebenspartnerschaft",
-    "sterilisation",
-    "sterilisationsbetreuer",
-    "trennungsgebot",
-    "umgangsbestimmung"
-  ],
   "angehörigenvertretungsrecht": [
     "ehefähigkeit",
     "ehegattenvertretungsrecht",
     "gesetzliche-vertretung",
+    "personenstand",
     "psychisch-kranken-gesetz",
     "schlüsselgewalt",
     "vorsorgeregisterverordnung"
@@ -16478,6 +16503,9 @@
   ],
   "pstg": [
     "eherecht-und-betreuung",
+    "personenstand",
+    "personenstand",
+    "personenstand",
     "tod-des-betreuten"
   ],
   "höchstpersönliche": [
@@ -17693,6 +17721,7 @@
   ],
   "bezeichnet": [
     "föderalismus",
+    "personenstand",
     "prozesspfleger"
   ],
   "verfassungsrechtliche": [
@@ -18098,6 +18127,7 @@
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
     "kindschaftsrecht",
+    "personenstand",
     "vaterschaftsanerkennung",
     "vaterschaftsanerkennung",
     "vaterschaftsanerkennung"
@@ -18387,7 +18417,6 @@
   "trennungsgebot": [
     "gesetzestexte",
     "insichgeschäft",
-    "schenkung",
     "trennungsgebot",
     "verfügungsgeld",
     "vermögensverzeichnis"
@@ -19438,7 +19467,8 @@
   ],
   "rechtsbegriff": [
     "insichgeschäft",
-    "intellektuelle-beeinträchtigung"
+    "intellektuelle-beeinträchtigung",
+    "personenstand"
   ],
   "insichgeschäfts": [
     "insichgeschäft"
@@ -20933,6 +20963,23 @@
   ],
   "ausweisrecht": [
     "personalausweis"
+  ],
+  "merkmalen": [
+    "personenstand"
+  ],
+  "personenstandsregister": [
+    "personenstand"
+  ],
+  "kommunalen": [
+    "personenstand",
+    "personenstand"
+  ],
+  "standesämter": [
+    "personenstand",
+    "personenstand"
+  ],
+  "datenaustausch": [
+    "personenstand"
   ],
   "annette": [
     "persönliche-betreuung"

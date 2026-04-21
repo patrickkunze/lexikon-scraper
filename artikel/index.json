@@ -1269,6 +1269,10 @@
       "titel": "Personenortungsanlage"
     },
     {
+      "id": "personenstand",
+      "titel": "Personenstand"
+    },
+    {
       "id": "persönliche-betreuung",
       "titel": "Persönliche Betreuung"
     },
