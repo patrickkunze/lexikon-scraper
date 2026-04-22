@@ -14814,6 +14814,7 @@
   ],
   "deutscher": [
     "betreuungsrechtsreform",
+    "ehefähigkeit",
     "geldanlage"
   ],
   "frank": [
@@ -15155,8 +15156,7 @@
     "impressum",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "persönliches-budget",
-    "spielwiese",
-    "zwangsbehandlung"
+    "spielwiese"
   ],
   "vorsorgeregister": [
     "betreuungszahlen",
@@ -16392,6 +16392,7 @@
   "eheschließung": [
     "ehefähigkeit",
     "ehefähigkeit",
+    "ehefähigkeit",
     "eherecht-und-betreuung",
     "eherecht-und-betreuung",
     "eherecht-und-betreuung",
@@ -16408,16 +16409,23 @@
   "personenstandsgesetz": [
     "ehefähigkeit"
   ],
+  "ausland": [
+    "ehefähigkeit"
+  ],
+  "benötigt": [
+    "ehefähigkeit",
+    "ehefähigkeit",
+    "geldanlage"
+  ],
+  "staatsbürger": [
+    "ehefähigkeit"
+  ],
   "eheaufhebung": [
     "ehefähigkeit",
     "eherecht-und-betreuung"
   ],
   "bewusstlosigkeit": [
     "ehefähigkeit"
-  ],
-  "benötigt": [
-    "ehefähigkeit",
-    "geldanlage"
   ],
   "lpartg": [
     "ehefähigkeit",
@@ -19243,7 +19251,8 @@
     "krankenhaussozialdienst",
     "krankenhaussozialdienst",
     "unterbringung",
-    "unterbringung"
+    "unterbringung",
+    "zwangsbehandlung"
   ],
   "krankenhausträger": [
     "heilbehandlung",
