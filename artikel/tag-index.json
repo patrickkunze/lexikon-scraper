@@ -4046,7 +4046,9 @@
   ],
   "personenstand": [
     "alltagsgeschäfte",
+    "anzeigepflicht",
     "aufgabenkreis",
+    "auskunftspflicht",
     "beglaubigung-durch-betreuungsbehörde",
     "checkliste-personenbogen",
     "erziehungsmaßregeln",
@@ -4055,6 +4057,7 @@
     "personenstand",
     "personenstand",
     "persönliches-budget",
+    "rente",
     "schenkung",
     "umgangsbestimmung",
     "vaterschaftsanerkennung",
@@ -6941,7 +6944,6 @@
     "angehörigenvertretungsrecht",
     "anregung-der-betreuerbestellung",
     "auskunftspflicht",
-    "auskunftspflicht",
     "beaufsichtigung",
     "beratung",
     "betrg",
@@ -7762,7 +7764,6 @@
   ],
   "finanzamt": [
     "anlagegeld",
-    "anzeigepflicht",
     "ende-der-betreuung",
     "selbstverwaltung-der-deutschen-gemeinden",
     "steuererklärung",
@@ -8385,6 +8386,45 @@
     "testierfähigkeit",
     "zwangsvollstreckung"
   ],
+  "neugeborene": [
+    "anzeigepflicht"
+  ],
+  "müssen": [
+    "anzeigepflicht",
+    "anzeigepflicht",
+    "arbeitsvertrag",
+    "auskunftspflicht",
+    "betreuervergütung",
+    "gerichtskosten",
+    "krankenversicherung",
+    "nutzungspflicht",
+    "nutzungspflicht",
+    "unterbringungsähnliche-maßnahme",
+    "vorsorgevollmacht---vertiefte-infos"
+  ],
+  "jeweils": [
+    "anzeigepflicht",
+    "anzeigepflicht",
+    "betreuungszahlen",
+    "betreuungszahlen",
+    "zwangsvollstreckung"
+  ],
+  "zuständigen": [
+    "anzeigepflicht",
+    "anzeigepflicht",
+    "vereinbarung-über-begleitung-und-unterstützung",
+    "vermögensverzeichnis",
+    "vertretung-gegenüber-behörden"
+  ],
+  "kommunalen": [
+    "anzeigepflicht",
+    "anzeigepflicht",
+    "personenstand",
+    "personenstand"
+  ],
+  "verstorbene": [
+    "anzeigepflicht"
+  ],
   "genehmigungspflichten": [
     "anzeigepflicht",
     "bestattungsvertrag",
@@ -8419,6 +8459,7 @@
     "eidesstattliche-versicherung",
     "freibetrag",
     "inklusionsbetrieb",
+    "personenstand",
     "regress-der-staatskasse",
     "zug-um-zug-leistung"
   ],
@@ -8489,17 +8530,6 @@
   "arbeitnehmer": [
     "arbeitsvertrag",
     "arbeitsvertrag"
-  ],
-  "müssen": [
-    "arbeitsvertrag",
-    "auskunftspflicht",
-    "betreuervergütung",
-    "gerichtskosten",
-    "krankenversicherung",
-    "nutzungspflicht",
-    "nutzungspflicht",
-    "unterbringungsähnliche-maßnahme",
-    "vorsorgevollmacht---vertiefte-infos"
   ],
   "schriftform": [
     "arbeitsvertrag",
@@ -11620,7 +11650,6 @@
     "ehefähigkeit",
     "ehefähigkeit",
     "eherecht-und-betreuung",
-    "personenstand",
     "sterilisation",
     "sterilisationsbetreuer",
     "testierfähigkeit"
@@ -15191,11 +15220,6 @@
     "betreuungszahlen",
     "verfahrenspfleger"
   ],
-  "jeweils": [
-    "betreuungszahlen",
-    "betreuungszahlen",
-    "zwangsvollstreckung"
-  ],
   "gefährliche": [
     "betreuungszahlen",
     "heilbehandlung"
@@ -17503,6 +17527,7 @@
   "familienverfahrensgesetz": [
     "famfg",
     "neu",
+    "personenstand",
     "pflicht-zur-betreuungsübernahme",
     "vaterschaftsanerkennung",
     "zugangsrecht"
@@ -18135,7 +18160,6 @@
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
     "kindschaftsrecht",
-    "personenstand",
     "vaterschaftsanerkennung",
     "vaterschaftsanerkennung",
     "vaterschaftsanerkennung"
@@ -20979,10 +21003,6 @@
   "personenstandsregister": [
     "personenstand"
   ],
-  "kommunalen": [
-    "personenstand",
-    "personenstand"
-  ],
   "standesämter": [
     "personenstand",
     "personenstand"
@@ -21482,10 +21502,6 @@
   ],
   "unkenntnis": [
     "rente"
-  ],
-  "rentenversicherung": [
-    "rente",
-    "tod-des-betreuten"
   ],
   "sozialverband": [
     "rente"
@@ -22472,6 +22488,9 @@
     "tod-des-betreuten",
     "unterstützungspflicht"
   ],
+  "rentenversicherung": [
+    "tod-des-betreuten"
+  ],
   "sozialamtes": [
     "tod-des-betreuten"
   ],
@@ -22918,11 +22937,6 @@
     "verbraucherstreitbeilegung",
     "wohn--und-betreuungsvertragsgesetz",
     "zugangsrecht"
-  ],
-  "zuständigen": [
-    "vereinbarung-über-begleitung-und-unterstützung",
-    "vermögensverzeichnis",
-    "vertretung-gegenüber-behörden"
   ],
   "entgeltgruppe": [
     "vereinsbetreuer"
