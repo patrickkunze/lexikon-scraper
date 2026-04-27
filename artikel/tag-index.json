@@ -416,7 +416,6 @@
     "betreuervergütung",
     "betreuervergütung-2019",
     "betreuervergütung-2019",
-    "betreuervergütung-2026",
     "betreuervorschlag",
     "betreuervorschlag",
     "betreuervorschlag",
@@ -3158,6 +3157,7 @@
     "begleitforschung",
     "behindertenkonvention",
     "behördenbetreuer",
+    "beratung",
     "berufsbetreuer",
     "bestattung",
     "bestattung",
@@ -3169,6 +3169,7 @@
     "betreuerhaftung",
     "betreuerpflichten",
     "betreuervergütung",
+    "betreuervergütung-2026",
     "betreuervorschlag",
     "betreuungsbehörde",
     "betreuungsbehörde",
@@ -3199,6 +3200,7 @@
     "geldanlage",
     "genehmigung-der-heilbehandlung",
     "geschäftsfähigkeit",
+    "gesetzliche-vertretung",
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
     "gesundheitssorge",
@@ -3285,7 +3287,6 @@
     "betreuervergütung",
     "betreuervergütung",
     "betreuervergütung",
-    "betreuervergütung-2026",
     "betreuerwechsel",
     "betreuungskosten-im-steuerrecht",
     "betreuungskosten-im-steuerrecht",
@@ -3775,6 +3776,7 @@
     "verbraucherstreitbeilegung",
     "verhältnismäßigkeitsprinzip",
     "vermögensverzeichnis",
+    "vermögensverzeichnis",
     "vollmachtswiderruf",
     "wahlrecht",
     "wohn--und-betreuungsvertragsgesetz",
@@ -3843,6 +3845,7 @@
     "corona",
     "ergänzungsbetreuer",
     "freier-wille",
+    "gesetzliche-vertretung",
     "grundstück",
     "kirchenaustritt",
     "kirchenaustritt",
@@ -3855,6 +3858,7 @@
     "sozialhilfe",
     "sozialhilfe",
     "strafprozess",
+    "unterstützungspflicht",
     "verfügungsgeld",
     "wohnungsangelegenheiten"
   ],
@@ -4480,6 +4484,7 @@
     "selbstbestimmung",
     "selbstbestimmung",
     "selbstbestimmung",
+    "selbstbestimmung",
     "selbstverwaltungserklärung",
     "sozialhilfe",
     "sterilisation",
@@ -5041,6 +5046,7 @@
     "unterbringungsähnliche-maßnahme",
     "vermögenssorge",
     "vermögensverzeichnis",
+    "vermögensverzeichnis",
     "vertretung-gegenüber-behörden",
     "vorsorgevollmacht",
     "wahlrecht",
@@ -5062,7 +5068,9 @@
   ],
   "begleitung": [
     "altenheim",
+    "gesetzliche-vertretung",
     "kooperationsvereinbarung",
+    "unterstützungspflicht",
     "verhinderungsbetreuer"
   ],
   "heimbewohnern": [
@@ -5319,6 +5327,7 @@
     "beamte-als-betreuer",
     "bestattung",
     "betreuerregistrierungsverordnung",
+    "betreuervergütung-2026",
     "betreuungsbehörde",
     "betreuungsgerichtshilfe",
     "betreuungskosten-im-steuerrecht",
@@ -5364,8 +5373,7 @@
   "aktuell": [
     "altenheim",
     "genehmigungen-von-a-bis-z",
-    "genehmigungspflichten",
-    "selbstbestimmung"
+    "genehmigungspflichten"
   ],
   "btman": [
     "altenheim",
@@ -5963,6 +5971,7 @@
     "unterstützungspflicht",
     "unterstützungspflicht",
     "unterstützungspflicht",
+    "vermögensverzeichnis",
     "vulnerabilität",
     "zug-um-zug-leistung"
   ],
@@ -6660,7 +6669,6 @@
     "datenschutz",
     "gegenbetreuer",
     "gegenbetreuer",
-    "gesetzliche-vertretung",
     "grundrechte",
     "grundrechte",
     "kindschaftsrecht",
@@ -6874,6 +6882,7 @@
   ],
   "teil": [
     "angehörigenvertretungsrecht",
+    "eingliederungshilfe",
     "genehmigungen-von-a-bis-z",
     "genehmigungspflichten",
     "grundstück",
@@ -6906,6 +6915,7 @@
     "geldanlage",
     "genehmigung-der-heilbehandlung",
     "grundstück",
+    "schenkung",
     "schenkung"
   ],
   "behandlungen": [
@@ -8883,8 +8893,7 @@
     "assistenzleistungen",
     "e-rezept",
     "gesamtplanverfahren",
-    "persönliches-budget",
-    "unterstützungspflicht"
+    "persönliches-budget"
   ],
   "teilhabe": [
     "assistenzleistungen",
@@ -8989,8 +8998,7 @@
   "gesamtplanverfahren": [
     "assistenzleistungen",
     "betreuungsplan",
-    "persönliches-budget",
-    "unterstützungspflicht"
+    "persönliches-budget"
   ],
   "einsicht": [
     "aufenthaltsbestimmung"
@@ -9448,7 +9456,6 @@
   ],
   "harm": [
     "aufgabenkreis",
-    "gesetzliche-vertretung",
     "verpflichtungsgespräch",
     "wohnungsauflösung"
   ],
@@ -9960,6 +9967,7 @@
     "unterstützungspflicht",
     "verfahrenspfleger",
     "vermögenssorge",
+    "vermögensverzeichnis",
     "vermögensverzeichnis",
     "vormundschaftsgericht",
     "wahlrecht",
@@ -12115,9 +12123,6 @@
     "unterbringungsähnliche-maßnahme"
   ],
   "gutzeit": [
-    "beratung"
-  ],
-  "löhr": [
     "beratung"
   ],
   "berichterstattung": [
@@ -14511,6 +14516,7 @@
     "unterstützte-entscheidungsfindung",
     "unterstützte-kommunikation",
     "unterstützte-kommunikation",
+    "unterstützungspflicht",
     "vertrauensperson",
     "vertreterdokumentation"
   ],
@@ -16464,6 +16470,7 @@
     "ehefähigkeit",
     "eherecht-und-betreuung",
     "ordre-public",
+    "schenkung",
     "unterbringungsähnliche-maßnahme",
     "vorführung"
   ],
@@ -16712,11 +16719,9 @@
     "eingliederungshilfe",
     "neu"
   ],
-  "düwell": [
-    "eingliederungshilfe"
-  ],
-  "lehr": [
-    "eingliederungshilfe"
+  "sonderausgabe": [
+    "eingliederungshilfe",
+    "pflegeversicherung"
   ],
   "umsetzungebegleitung": [
     "eingliederungshilfe"
@@ -17524,6 +17529,7 @@
     "selbstbestimmung",
     "selbstbestimmung",
     "unterstützte-entscheidungsfindung",
+    "unterstützungspflicht",
     "vertrauensperson"
   ],
   "familienverfahrensgesetz": [
@@ -18625,14 +18631,13 @@
   "zusätzlichen": [
     "gesetzliche-vertretung"
   ],
-  "erforderlichkeitsgrundsatz": [
-    "gesetzliche-vertretung"
+  "haase": [
+    "gesetzliche-vertretung",
+    "unterstützungspflicht"
   ],
-  "betreuungsführung": [
-    "gesetzliche-vertretung"
-  ],
-  "unterstützen": [
-    "gesetzliche-vertretung"
+  "brauche": [
+    "gesetzliche-vertretung",
+    "unterstützungspflicht"
   ],
   "zunächst": [
     "gesetzlicher-vertreter"
@@ -19371,8 +19376,7 @@
     "heimmitarbeiter-als-betreuer"
   ],
   "rechtl": [
-    "heimmitarbeiter-als-betreuer",
-    "schenkung"
+    "heimmitarbeiter-als-betreuer"
   ],
   "ordensgemeinschaften": [
     "heimmitarbeiter-als-betreuer"
@@ -19629,7 +19633,8 @@
   "gerichte": [
     "jahresbericht",
     "rechtsprechung",
-    "registrierung"
+    "registrierung",
+    "schenkung"
   ],
   "stellen": [
     "jahresbericht",
@@ -19759,7 +19764,8 @@
     "kirchenaustritt"
   ],
   "stellvertretung": [
-    "kirchenaustritt"
+    "kirchenaustritt",
+    "unterstützungspflicht"
   ],
   "kirchenaustrittsgesetzesgesetz": [
     "kirchenaustritt"
@@ -19966,7 +19972,6 @@
     "krankenversicherung",
     "neu",
     "pflegebedürftigkeit",
-    "pflegeversicherung",
     "pflegeversicherung",
     "pflegeversicherung",
     "unfallversicherung"
@@ -21058,7 +21063,14 @@
     "pflegeversicherung",
     "pflegeversicherung"
   ],
-  "hußmann": [
+  "beetz": [
+    "pflegeversicherung",
+    "sozialhilfe"
+  ],
+  "gemeinsame": [
+    "pflegeversicherung"
+  ],
+  "jahresbetrag": [
     "pflegeversicherung"
   ],
   "sozialgesetzbuch": [
@@ -21332,8 +21344,7 @@
     "rechnungslegung"
   ],
   "reinfarth": [
-    "rechnungslegung",
-    "schenkung"
+    "rechnungslegung"
   ],
   "platz": [
     "rechnungslegung"
@@ -21682,13 +21693,9 @@
   "schenkers": [
     "schenkung"
   ],
-  "möglichkeiten": [
+  "damrau": [
     "schenkung",
-    "sterbehilfe"
-  ],
-  "grenzen": [
-    "schenkung",
-    "zwangsbehandlung"
+    "unfallversicherung"
   ],
   "mittbaynot": [
     "schenkung"
@@ -21952,9 +21959,6 @@
   "verlag": [
     "sozialhilfe"
   ],
-  "beetz": [
-    "sozialhilfe"
-  ],
   "diverse": [
     "sozialhilfe"
   ],
@@ -22171,6 +22175,9 @@
     "sterbehilfe"
   ],
   "unheilbar": [
+    "sterbehilfe"
+  ],
+  "möglichkeiten": [
     "sterbehilfe"
   ],
   "befürchten": [
@@ -22585,9 +22592,6 @@
     "unfallversicherung"
   ],
   "unfallversicherungsschutz": [
-    "unfallversicherung"
-  ],
-  "damrau": [
     "unfallversicherung"
   ],
   "stolle": [
@@ -23192,6 +23196,9 @@
   "geführten": [
     "vermögensverzeichnis"
   ],
+  "vermvv": [
+    "vermögensverzeichnis"
+  ],
   "klingenhöfer": [
     "vermögensverzeichnis"
   ],
@@ -23699,6 +23706,9 @@
   ],
   "berufsausweis": [
     "zugriffsrecht"
+  ],
+  "grenzen": [
+    "zwangsbehandlung"
   ],
   "zwangsmaßnahmen": [
     "zwangsbehandlung"
