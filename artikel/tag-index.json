@@ -5508,7 +5508,6 @@
     "heilbehandlung",
     "prozessführung",
     "rente",
-    "sachkundenachweis",
     "sozialhilfe",
     "sterbehilfedokumente",
     "stundensatz",
@@ -7608,7 +7607,6 @@
     "insichgeschäft",
     "mündelgeld",
     "mündelgeld",
-    "rechnungslegung",
     "selbstverwaltungserklärung",
     "sozialhilfe",
     "sozialhilfe",
@@ -9449,7 +9447,6 @@
   "meier": [
     "aufgabenkreis",
     "berufsbetreuer",
-    "rechnungslegung",
     "sterbehilfedokumente"
   ],
   "personensorge": [
@@ -10166,7 +10163,8 @@
     "ausbildung",
     "betreuungsgesetz",
     "formulare",
-    "hessen"
+    "hessen",
+    "sachkundenachweis"
   ],
   "anhalt": [
     "ausbildung",
@@ -10479,6 +10477,7 @@
     "organspende",
     "rechtsanwalt",
     "registrierung",
+    "sachkundenachweis",
     "unterbringungsähnliche-maßnahme"
   ],
   "mehrsprachig": [
@@ -13175,8 +13174,7 @@
     "betreuungsbehörde",
     "betreuungsgerichtshilfe",
     "buchverzeichnis",
-    "familienverfahrensgesetz",
-    "rechnungslegung"
+    "familienverfahrensgesetz"
   ],
   "eignung": [
     "betreuerbestellung",
@@ -14366,8 +14364,7 @@
   ],
   "handbuch": [
     "betreuungsbehörde",
-    "betreuungsgerichtshilfe",
-    "rechnungslegung"
+    "betreuungsgerichtshilfe"
   ],
   "stärkung": [
     "betreuungsbehörde"
@@ -14410,7 +14407,6 @@
     "betreuungsorganisationsgesetz",
     "genehmigungen-von-a-bis-z",
     "kindschaftsrecht",
-    "sachkundenachweis",
     "vaterschaftsanerkennung",
     "vaterschaftsanerkennung"
   ],
@@ -16537,6 +16533,7 @@
     "globales-nachhaltigkeitsziel-10",
     "neu",
     "neu",
+    "sachkundenachweis",
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "zurückgeführt": [
@@ -18332,7 +18329,8 @@
     "rechtsanwalt"
   ],
   "antragsformular": [
-    "gerichtskosten"
+    "gerichtskosten",
+    "sachkundenachweis"
   ],
   "prozesskostenhilfe": [
     "gerichtskosten",
@@ -20198,8 +20196,7 @@
   ],
   "stammbehörde": [
     "mitteilungspflicht",
-    "registrierung",
-    "sachkundenachweis"
+    "registrierung"
   ],
   "nachträglichen": [
     "mitteilungspflicht"
@@ -21343,9 +21340,6 @@
   "anhaltspunkte": [
     "rechnungslegung"
   ],
-  "reinfarth": [
-    "rechnungslegung"
-  ],
   "platz": [
     "rechnungslegung"
   ],
@@ -21610,13 +21604,10 @@
   "marx": [
     "sachkundenachweis"
   ],
+  "seminarveranstalter": [
+    "sachkundenachweis"
+  ],
   "zertifizierung": [
-    "sachkundenachweis"
-  ],
-  "sachkundelehrgängen": [
-    "sachkundenachweis"
-  ],
-  "vorkenntnissen": [
     "sachkundenachweis"
   ],
   "genügt": [
