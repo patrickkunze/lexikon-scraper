@@ -1066,6 +1066,7 @@
     "patientenverfügung",
     "personalausweis",
     "personenstand",
+    "personenstand",
     "persönliches-budget",
     "polizeirecht",
     "prozessfähigkeit",
@@ -2069,6 +2070,7 @@
     "organspende",
     "patientenverfügung",
     "personalausweis",
+    "personenstand",
     "polizeirecht",
     "prozessfähigkeit",
     "prozessführung",
@@ -4061,7 +4063,6 @@
     "kindschaftsrecht",
     "meldepflicht",
     "personenstand",
-    "personenstand",
     "persönliches-budget",
     "rente",
     "schenkung",
@@ -4265,6 +4266,7 @@
   "alten": [
     "altenheim",
     "gesetzgebung",
+    "personenstand",
     "unterbringungsverfahren",
     "wahlrecht"
   ],
@@ -5961,6 +5963,8 @@
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "ordre-public",
     "ordre-public",
+    "personenstand",
+    "personenstand",
     "prozessführung",
     "prozessführung",
     "psychisch-kranken-gesetz",
@@ -6998,6 +7002,7 @@
     "betreuervergütung-2019",
     "checkliste-für-arztgespräche",
     "elektronisches-gerichts--und-verwaltungspostfach",
+    "personenstand",
     "testierfähigkeit"
   ],
   "maßnahme": [
@@ -12852,6 +12857,7 @@
     "gegenbetreuer",
     "haager-übereinkommen",
     "heilbehandlung",
+    "personenstand",
     "sterbehilfe",
     "unterbringungsähnliche-maßnahme",
     "vorläufiger-betreuer",
@@ -17759,7 +17765,6 @@
   ],
   "bezeichnet": [
     "föderalismus",
-    "personenstand",
     "prozesspfleger"
   ],
   "verfassungsrechtliche": [
@@ -19504,8 +19509,7 @@
   ],
   "rechtsbegriff": [
     "insichgeschäft",
-    "intellektuelle-beeinträchtigung",
-    "personenstand"
+    "intellektuelle-beeinträchtigung"
   ],
   "insichgeschäfts": [
     "insichgeschäft"
@@ -21011,6 +21015,9 @@
   ],
   "standesämter": [
     "personenstand",
+    "personenstand"
+  ],
+  "kirchenbücher": [
     "personenstand"
   ],
   "datenaustausch": [
