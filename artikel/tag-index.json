@@ -204,7 +204,6 @@
     "gesundheitliche-versorgungsplanung",
     "krankenhaussozialdienst",
     "peg-sonde",
-    "patientenvertreter",
     "vertrauensperson"
   ],
   "versorgungsplanung": [
@@ -5568,7 +5567,6 @@
     "betreuungsverfahren",
     "betreuungsverfahren",
     "betreuungsverfahren",
-    "betreuungsverfahren",
     "betreuungsvoraussetzung",
     "betreuungszahlen",
     "betreuungszahlen",
@@ -10355,6 +10353,7 @@
     "gesetzlicher-vertreter",
     "informationspflicht",
     "mitteilungspflicht",
+    "patientenvertreter",
     "schweigepflicht",
     "vermögensverzeichnis",
     "widerspruchsrecht"
@@ -11756,7 +11755,6 @@
     "begleitforschung",
     "betreuerpflichten",
     "betreuungssache",
-    "betreuungsverfahren",
     "betreuungsverfahren",
     "betreuungszahlen",
     "buchverzeichnis",
@@ -13171,7 +13169,6 @@
   ],
   "praxiskommentar": [
     "betreuerbestellung",
-    "betreuungsverfahren",
     "buchverzeichnis",
     "unterbringungsähnliche-maßnahme"
   ],
@@ -15009,22 +15006,6 @@
     "betreuungsverfahren",
     "familienverfahrensgesetz",
     "gesetzestexte"
-  ],
-  "fröschle": [
-    "betreuungsverfahren",
-    "unterbringungsähnliche-maßnahme"
-  ],
-  "unterbringungsverfahren": [
-    "betreuungsverfahren",
-    "prozessführung",
-    "unterbringung",
-    "unterbringungssache",
-    "unterbringungsverfahren",
-    "unterbringungsähnliche-maßnahme",
-    "unterbringungsähnliche-maßnahme",
-    "verfahrenspfleger",
-    "vorläufiger-betreuer",
-    "vormundschaftsgericht"
   ],
   "coeppicus": [
     "betreuungsverfahren",
@@ -21172,6 +21153,17 @@
     "prozessführung",
     "zwangsvollstreckung"
   ],
+  "unterbringungsverfahren": [
+    "prozessführung",
+    "unterbringung",
+    "unterbringungssache",
+    "unterbringungsverfahren",
+    "unterbringungsähnliche-maßnahme",
+    "unterbringungsähnliche-maßnahme",
+    "verfahrenspfleger",
+    "vorläufiger-betreuer",
+    "vormundschaftsgericht"
+  ],
   "parteivernehmung": [
     "prozessführung"
   ],
@@ -22730,6 +22722,9 @@
     "unterbringungsähnliche-maßnahme"
   ],
   "ortungsmaßnahmen": [
+    "unterbringungsähnliche-maßnahme"
+  ],
+  "fröschle": [
     "unterbringungsähnliche-maßnahme"
   ],
   "bohnert": [

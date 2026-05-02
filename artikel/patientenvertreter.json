@@ -1,7 +1,7 @@
 {
   "id": "patientenvertreter",
   "titel": "Patientenvertreter",
-  "inhalt": "Als Patientenvertreter wird eine Person bezeichnet, die berechtigt ist, als Dritter in Behandlungsverträge gem. § 630d BGB einzuwilligen, weil der Patient selbst [Einwilligungsfähigkeit](einwilligungsfähigkeit) ist. Dabei kann eine [Patientenverfügung](patientenverfügung) (§ 1827 BGB) vorliegen oder nicht.\n\nAls Patientenvertreter kommen in Frage:\n\nBei Volljährigen:\nrechtliche [Betreuer](betreuer), deren [Aufgabenkreis](aufgabenkreis) die [Gesundheitssorge](gesundheitssorge) beinhaltet;\n[Vorsorgevollmacht](vorsorgevollmacht), bei denen selbiges der Fall ist. Bei Generalvollmachten ohne weitere Spezifikation ist zu unterscheiden: geht es um eine Einwilligung in eine Maßnahme, die § 1829 BGB betrifft, reicht die Generalvollmacht nicht aus, bei sonst. med. Eingriffen schon.\n\nBei Minderjährigen:\ndie sorgenberechtigten Eltern oder der alleinsorgeberechtigte Elternteil (Personensorge)\nder Vormund\nder Ergänzungspfleger (§ 1809 BGB), dessen Wirkungskreis die Gesundheitssorge oder die Einwilligung in med. Behandlungen beinhaltet\n\nEhegatten sind (ohne Vollmacht) für sechs Monate übergangsweise [Angehörigenvertretungsrecht](angehörigenvertretungsrecht) (§ 1358 BGB). \n\nWeblinks\nEmpfehlungen der Bundesärztekammer\n\nSiehe auch\n [Patientenverfügung](patientenverfügung)\n [Heilbehandlung](heilbehandlung)\n [Gesundheitssorge](gesundheitssorge)\n [Gesundheitliche Versorgungsplanung](gesundheitliche-versorgungsplanung), [Notfalldaten](notfalldaten)\n [Vorsorgevollmacht](vorsorgevollmacht)\n [Angehörigenvertretungsrecht](angehörigenvertretungsrecht), [Personenstand](personenstand)\n [Vulnerabilität](vulnerabilität)\n [Betreuungsverfügung](betreuungsverfügung)\n [Sterbehilfe](sterbehilfe), [Organspende](organspende)\n\n[Kategorie:Betreuungspersonen](kategorie:betreuungspersonen)\n[Kategorie:Betreuungsalternativen](kategorie:betreuungsalternativen)",
+  "inhalt": "Als Patientenvertreter wird eine Person bezeichnet, die berechtigt ist, als Dritter in Behandlungsverträge gem. § 630d BGB einzuwilligen, weil der Patient selbst [Einwilligungsfähigkeit](einwilligungsfähigkeit) ist. Dabei kann eine [Patientenverfügung](patientenverfügung) (§ 1827 BGB) vorliegen oder nicht.\n\nAls Patientenvertreter kommen in Frage:\n\nBei Volljährigen:\nrechtliche [Betreuer](betreuer), deren [Aufgabenkreis](aufgabenkreis) die [Gesundheitssorge](gesundheitssorge) beinhaltet;\n[Vorsorgevollmacht](vorsorgevollmacht), bei denen selbiges der Fall ist. Bei Generalvollmachten ohne weitere Spezifikation ist zu unterscheiden: geht es um eine Einwilligung in eine Maßnahme, die § 1829 BGB betrifft, reicht die Generalvollmacht nicht aus, bei sonst. med. Eingriffen schon.\n\nBei Minderjährigen:\ndie sorgenberechtigten Eltern oder der alleinsorgeberechtigte Elternteil (Personensorge)\nder Vormund\nder Ergänzungspfleger (§ 1809 BGB), dessen Wirkungskreis die Gesundheitssorge oder die Einwilligung in med. Behandlungen beinhaltet\n\nEhegatten sind (ohne Vollmacht) für sechs Monate übergangsweise [Angehörigenvertretungsrecht](angehörigenvertretungsrecht) (§ 1358 BGB). \n\nWeblinks\nEmpfehlungen der Bundesärztekammer\n\nSiehe auch\n [Patientenverfügung](patientenverfügung)\n [Heilbehandlung](heilbehandlung), [Informationspflicht](informationspflicht)\n [Gesundheitssorge](gesundheitssorge)\n [Gesundheitliche Versorgungsplanung](gesundheitliche-versorgungsplanung), [Notfalldaten](notfalldaten)\n [Vorsorgevollmacht](vorsorgevollmacht)\n [Angehörigenvertretungsrecht](angehörigenvertretungsrecht), [Personenstand](personenstand)\n [Vulnerabilität](vulnerabilität)\n [Betreuungsverfügung](betreuungsverfügung)\n [Sterbehilfe](sterbehilfe), [Organspende](organspende)\n\n[Kategorie:Betreuungspersonen](kategorie:betreuungspersonen)\n[Kategorie:Betreuungsalternativen](kategorie:betreuungsalternativen)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -24,34 +24,35 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Patientenverfügung\n Heilbehandlung\n Gesundheitssorge\n Gesundheitliche Versorgungsplanung, Notfalldaten\n Vorsorgevollmacht\n Angehörigenvertretungsrecht, Personenstand\n Vulnerabilität\n Betreuungsverfügung\n Sterbehilfe, Organspende\n\nKategorie:Betreuungspersonen\nKategorie:Betreuungsalternativen",
+      "inhalt": "Patientenverfügung\n Heilbehandlung, Informationspflicht\n Gesundheitssorge\n Gesundheitliche Versorgungsplanung, Notfalldaten\n Vorsorgevollmacht\n Angehörigenvertretungsrecht, Personenstand\n Vulnerabilität\n Betreuungsverfügung\n Sterbehilfe, Organspende\n\nKategorie:Betreuungspersonen\nKategorie:Betreuungsalternativen",
       "tags": [
         "kategorie",
         "patientenverfügung",
         "heilbehandlung",
-        "gesundheitssorge",
-        "gesundheitliche"
+        "informationspflicht",
+        "gesundheitssorge"
       ]
     }
   ],
   "zusammenfassung": "Als Patientenvertreter wird eine Person bezeichnet, die berechtigt ist, als Dritter in Behandlungsverträge gem. § 630d BGB einzuwilligen, weil der Patient selbst [Einwilligungsfähigkeit](einwilligungsfähigkeit) ist. Dabei kann eine [Patientenverfügung](patientenverfügung) (§ 1827 BGB) vorliegen oder...",
   "verwandteArtikel": [
-    "organspende",
-    "betreuer",
-    "vorsorgevollmacht",
-    "patientenverfügung",
-    "sterbehilfe",
-    "einwilligungsfähigkeit",
-    "angehörigenvertretungsrecht",
-    "gesundheitssorge",
-    "heilbehandlung",
-    "notfalldaten",
-    "vulnerabilität",
-    "kategorie:betreuungspersonen",
-    "kategorie:betreuungsalternativen",
     "personenstand",
     "betreuungsverfügung",
+    "notfalldaten",
+    "patientenverfügung",
+    "betreuer",
+    "angehörigenvertretungsrecht",
+    "kategorie:betreuungspersonen",
+    "kategorie:betreuungsalternativen",
+    "heilbehandlung",
+    "sterbehilfe",
+    "einwilligungsfähigkeit",
+    "gesundheitssorge",
+    "vorsorgevollmacht",
+    "informationspflicht",
+    "organspende",
+    "aufgabenkreis",
     "gesundheitliche-versorgungsplanung",
-    "aufgabenkreis"
+    "vulnerabilität"
   ]
 }
