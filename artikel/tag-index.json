@@ -896,6 +896,7 @@
     "synopse-patientenverfügungsgesetze",
     "unterstützungspflicht",
     "unterstützungspflicht",
+    "verfahrenspfleger",
     "vorsorgeregister",
     "vulnerabilität",
     "vulnerabilität",
@@ -1792,6 +1793,7 @@
     "eingliederungshilfe",
     "eingliederungshilfe",
     "einwilligungsvorbehalt",
+    "freibetrag",
     "freier-wille",
     "geschäftsfähigkeit",
     "globales-nachhaltigkeitsziel-10",
@@ -1818,6 +1820,7 @@
     "schweigepflicht",
     "schweigepflicht",
     "schwerbehindertenausweis",
+    "selbstbestimmung",
     "sozialhilfe",
     "sterbehilfe",
     "sterbehilfe",
@@ -1858,7 +1861,6 @@
     "neu",
     "organspende",
     "personalausweis",
-    "rente",
     "schweigepflicht",
     "verbraucherstreitbeilegung",
     "vertretungsausschluss",
@@ -2959,6 +2961,7 @@
     "registrierung",
     "sachkundenachweis",
     "schweigepflicht",
+    "selbstbestimmung",
     "selbstbestimmung",
     "sozialhilfe",
     "sterbehilfe",
@@ -5259,7 +5262,6 @@
     "digitale-barrierefreiheit",
     "diskriminierungsverbot",
     "neu",
-    "selbstbestimmung",
     "selbstbestimmung",
     "selbstbestimmung",
     "selbstbestimmungsrecht"
@@ -8196,6 +8198,7 @@
     "rechtsanwalt",
     "rechtsanwalt",
     "rechtsanwalt",
+    "rechtsprechung-zum-verfahrenspfleger",
     "sterbehilfe",
     "strafprozess",
     "vbvg-rechtsprechung",
@@ -10607,9 +10610,9 @@
     "einstweilige-anordnung",
     "polizeirecht",
     "prozessführung",
-    "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zur-anhörung",
     "rechtsweg-in-deutschland",
+    "verfahrenspfleger",
     "vertretung-gegenüber-behörden",
     "vorsorgeregister"
   ],
@@ -11943,7 +11946,6 @@
     "beratung",
     "betreuerpflichten",
     "betreuerpflichten",
-    "betreuerpflichten",
     "grundstück",
     "vermögenssorge"
   ],
@@ -12045,7 +12047,6 @@
   "unterstützung": [
     "beratung",
     "kooperationsvereinbarung",
-    "selbstbestimmung",
     "unterstützungspflicht",
     "unterstützungspflicht",
     "unterstützungspflicht"
@@ -12529,6 +12530,7 @@
     "freibetrag",
     "mittellosigkeit",
     "regress-der-staatskasse",
+    "rente",
     "schonvermögen"
   ],
   "todesfall": [
@@ -13194,7 +13196,6 @@
   ],
   "präsentation": [
     "betreuerbestellung",
-    "selbstbestimmung",
     "vermögenssorge"
   ],
   "bagüs": [
@@ -13347,6 +13348,12 @@
     "gesetzestexte",
     "vormundschaftsgericht"
   ],
+  "abgrenzung": [
+    "betreuerpflichten",
+    "betreuerpflichten",
+    "delegation",
+    "sozialhilfe"
+  ],
   "aller": [
     "betreuerpflichten",
     "betreuungsbehördengesetz",
@@ -13485,11 +13492,6 @@
     "betreuerpflichten",
     "broschüren",
     "delegation"
-  ],
-  "abgrenzung": [
-    "betreuerpflichten",
-    "delegation",
-    "sozialhilfe"
   ],
   "verordnung": [
     "betreuerregistrierungsverordnung",
@@ -14446,7 +14448,6 @@
     "neu",
     "neu",
     "neu",
-    "selbstbestimmung",
     "vormundschaftsgericht",
     "vormünder--und-betreuervergütungsgesetz",
     "wohn--und-betreuungsvertragsgesetz",
@@ -15349,7 +15350,6 @@
   ],
   "verfahrenspflegschaft": [
     "buchverzeichnis",
-    "verfahrenspfleger",
     "verfahrenspfleger",
     "verfahrenspfleger"
   ],
@@ -17695,6 +17695,23 @@
     "vertretung-gegenüber-behörden",
     "vertretung-gegenüber-behörden"
   ],
+  "arbeitseinkommen": [
+    "freibetrag"
+  ],
+  "geld": [
+    "freibetrag",
+    "geldanlage",
+    "geldanlage",
+    "geldanlage",
+    "verfügungsgeld",
+    "verfügungsgeld"
+  ],
+  "lohnarbeitenden": [
+    "freibetrag"
+  ],
+  "überschuldet": [
+    "freibetrag"
+  ],
   "willen": [
     "freier-wille",
     "freier-wille",
@@ -17876,13 +17893,6 @@
     "geldanlage",
     "gesetzestexte",
     "vermögensverzeichnis"
-  ],
-  "geld": [
-    "geldanlage",
-    "geldanlage",
-    "geldanlage",
-    "verfügungsgeld",
-    "verfügungsgeld"
   ],
   "mündelsicherheit": [
     "geldanlage",
@@ -19528,6 +19538,7 @@
   ],
   "geistig": [
     "intellektuelle-beeinträchtigung",
+    "selbstbestimmung",
     "sterilisation",
     "sterilisationsbetreuer",
     "sterilisationsbetreuer"
@@ -20525,7 +20536,8 @@
   ],
   "bezug": [
     "neu",
-    "rechtsanwalt"
+    "rechtsanwalt",
+    "selbstbestimmung"
   ],
   "übergangszeitraum": [
     "neu"
@@ -21817,10 +21829,11 @@
   "geschlechtseintrag": [
     "selbstbestimmung"
   ],
-  "renate": [
-    "selbstbestimmung"
+  "leuchtturm": [
+    "selbstbestimmung",
+    "unterbringungsähnliche-maßnahme"
   ],
-  "kosuch": [
+  "behinderten": [
     "selbstbestimmung"
   ],
   "preußische": [
@@ -22752,9 +22765,6 @@
   "projekt": [
     "unterbringungsähnliche-maßnahme"
   ],
-  "leuchtturm": [
-    "unterbringungsähnliche-maßnahme"
-  ],
   "unmittelbarem": [
     "unterbringungsähnliche-maßnahme",
     "zuführung-zur-unterbringung",
@@ -22975,9 +22985,6 @@
     "verfahrenspfleger"
   ],
   "verfahrenspflegern": [
-    "verfahrenspfleger"
-  ],
-  "päsentation": [
     "verfahrenspfleger"
   ],
   "feste": [
