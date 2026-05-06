@@ -4062,6 +4062,7 @@
     "beglaubigung-durch-betreuungsbehörde",
     "checkliste-personenbogen",
     "erziehungsmaßregeln",
+    "gesetzestexte",
     "kindschaftsrecht",
     "meldepflicht",
     "personenstand",
@@ -5706,7 +5707,6 @@
     "checkliste-wohnungsangelegenheiten",
     "delegation",
     "eidesstattliche-versicherung",
-    "einwilligungsfähigkeit",
     "erbschaft",
     "insichgeschäft",
     "kirchenaustritt",
@@ -6780,6 +6780,7 @@
     "angehörigenvertretungsrecht",
     "begleitforschung",
     "betreuungsgesetz",
+    "eingliederungshilfe",
     "eingliederungshilfe",
     "geschäftsfähigkeit",
     "grundrechte",
@@ -8501,7 +8502,6 @@
     "betreuerhaftung",
     "checkliste-betreuerpflichten",
     "eherecht-und-betreuung",
-    "eingliederungshilfe",
     "eingliederungshilfe",
     "eingliederungshilfe",
     "elektronisches-gerichts--und-verwaltungspostfach",
@@ -11198,6 +11198,7 @@
     "checkliste-personenbogen",
     "checkliste-wohnungsangelegenheiten",
     "dokumentationspflicht",
+    "einwilligungsfähigkeit",
     "elektronische-patientenakte",
     "geldanlage",
     "genehmigungspflichten",
@@ -11415,7 +11416,6 @@
     "corona",
     "drittes-betreuungsrechtsänderungsgesetz",
     "drittes-betreuungsrechtsänderungsgesetz",
-    "einwilligungsfähigkeit",
     "genehmigung-der-heilbehandlung",
     "gesetzesbegründung-patientenverfügung",
     "gesetzestexte",
@@ -16308,7 +16308,6 @@
   ],
   "ärzte": [
     "dokumentationspflicht",
-    "einwilligungsfähigkeit",
     "gesundheitssorge",
     "informationspflicht",
     "medikationsplan",
@@ -16614,7 +16613,6 @@
   ],
   "aufklärung": [
     "eidesstattliche-versicherung",
-    "einwilligungsfähigkeit",
     "heilbehandlung",
     "heilbehandlung",
     "heilbehandlung",
@@ -16930,23 +16928,6 @@
   ],
   "beppel": [
     "einwilligungsfähigkeit"
-  ],
-  "merkblatt": [
-    "einwilligungsfähigkeit",
-    "geldanlage",
-    "gesundheitssorge",
-    "haftpflichtversicherung"
-  ],
-  "auswirkungen": [
-    "einwilligungsfähigkeit",
-    "erbausschlagung",
-    "erbschaft",
-    "mahnverfahren",
-    "organspende",
-    "selbstbestimmung",
-    "strafprozess",
-    "testierfähigkeit",
-    "testierfähigkeit"
   ],
   "beschlüssen": [
     "einwilligungsvorbehalt"
@@ -17306,6 +17287,16 @@
   "zerb": [
     "erbausschlagung",
     "erbschaft"
+  ],
+  "auswirkungen": [
+    "erbausschlagung",
+    "erbschaft",
+    "mahnverfahren",
+    "organspende",
+    "selbstbestimmung",
+    "strafprozess",
+    "testierfähigkeit",
+    "testierfähigkeit"
   ],
   "fristen": [
     "erbausschlagung",
@@ -17925,6 +17916,11 @@
   "anlegerentschädigungsgesetz": [
     "geldanlage",
     "mündelgeld"
+  ],
+  "merkblatt": [
+    "geldanlage",
+    "gesundheitssorge",
+    "haftpflichtversicherung"
   ],
   "universeller": [
     "geldanlage",
