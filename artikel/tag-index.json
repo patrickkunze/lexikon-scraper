@@ -2753,7 +2753,6 @@
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz",
-    "psychisch-kranken-gesetz",
     "querschnittsaufgaben",
     "rechnungslegung",
     "rechnungslegung",
@@ -5251,6 +5250,7 @@
     "gesetzestexte",
     "krankenversicherung",
     "pflegeversicherung",
+    "psychisch-kranken-gesetz",
     "sachverständigengutachten",
     "sachverständigengutachten",
     "sachverständigengutachten",
@@ -7501,7 +7501,6 @@
   "stellungnahme": [
     "anhörung",
     "begleitforschung",
-    "behindertenkonvention",
     "betreuervergütung-2026",
     "betreuungsbehörde",
     "betreuungsrechtsreform",
@@ -7618,7 +7617,6 @@
     "sozialhilfe",
     "trennungsgebot",
     "verfügungsgeld",
-    "vermögenssorge",
     "vermögenssorge",
     "vermögenssorge",
     "vermögenssorge",
@@ -10714,6 +10712,7 @@
     "baden-württemberg",
     "datenschutz",
     "psychisch-kranken-gesetz",
+    "psychisch-kranken-gesetz",
     "sozialpsychiatrischer-dienst",
     "ubg",
     "unterbringung",
@@ -11911,10 +11910,6 @@
   ],
   "übereinkommens": [
     "behindertenkonvention"
-  ],
-  "betreuungsgerichtstages": [
-    "behindertenkonvention",
-    "patientenverfügung"
   ],
   "behörden": [
     "behördenangelegenheiten",
@@ -13195,8 +13190,7 @@
     "betreuungsverfügung"
   ],
   "präsentation": [
-    "betreuerbestellung",
-    "vermögenssorge"
+    "betreuerbestellung"
   ],
   "bagüs": [
     "betreuerbestellung",
@@ -20918,6 +20912,9 @@
   "humboldt": [
     "patientenverfügung"
   ],
+  "betreuungsgerichtstages": [
+    "patientenverfügung"
+  ],
   "zwischenbericht": [
     "patientenverfügung"
   ],
@@ -21281,9 +21278,6 @@
     "psychisch-kranken-gesetz",
     "wohnungsauflösung"
   ],
-  "buchrezension": [
-    "psychisch-kranken-gesetz"
-  ],
   "freiheitsentziehung": [
     "psychisch-kranken-gesetz",
     "rechtsprechung-zur-unterbringung",
@@ -21295,15 +21289,14 @@
   "landesgesetze": [
     "psychisch-kranken-gesetz"
   ],
-  "asseln": [
+  "landtags": [
     "psychisch-kranken-gesetz"
   ],
-  "einweisungen": [
+  "antwort": [
     "psychisch-kranken-gesetz"
   ],
-  "kreisen": [
-    "psychisch-kranken-gesetz",
-    "selbstverwaltung-der-deutschen-gemeinden"
+  "landesregierung": [
+    "psychisch-kranken-gesetz"
   ],
   "narr": [
     "psychisch-kranken-gesetz"
@@ -21854,6 +21847,9 @@
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "westdeutschen": [
+    "selbstverwaltung-der-deutschen-gemeinden"
+  ],
+  "kreisen": [
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "säkularen": [
@@ -23077,10 +23073,16 @@
   "verwendet": [
     "vermögenssorge"
   ],
+  "juraforum": [
+    "vermögenssorge"
+  ],
+  "urteilsübersicht": [
+    "vermögenssorge"
+  ],
   "anschreiben": [
     "vermögenssorge"
   ],
-  "barkassenverzeichnis": [
+  "verbindlichkeiten": [
     "vermögenssorge"
   ],
   "verzeichnis": [
