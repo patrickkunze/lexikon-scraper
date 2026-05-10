@@ -1112,6 +1112,7 @@
     "strafprozess",
     "strafprozess",
     "stundensatz",
+    "stundensatz",
     "testierfähigkeit",
     "testierfähigkeit",
     "tod-des-betreuten",
@@ -1460,7 +1461,6 @@
     "bundesverband-der-berufsbetreuer",
     "checkliste-betreuerpflichten",
     "checkliste-gesundheitssorge",
-    "checkliste-personenbogen",
     "checkliste-vermögenssorge",
     "checkliste-wohnungsangelegenheiten",
     "checkliste-für-arztgespräche",
@@ -2801,6 +2801,7 @@
     "strafprozess",
     "stundensatz",
     "stundensatz",
+    "stundensatz",
     "synopse-patientenverfügungsgesetze",
     "testierfähigkeit",
     "testierfähigkeit",
@@ -3545,6 +3546,7 @@
     "strafprozess",
     "strafprozess",
     "strafprozess",
+    "stundensatz",
     "tod-des-betreuers",
     "tod-des-betreuers",
     "trennungsgebot",
@@ -4060,6 +4062,7 @@
     "auskunftspflicht",
     "beglaubigung-durch-betreuungsbehörde",
     "checkliste-personenbogen",
+    "elektronischer-identitätsnachweis",
     "erziehungsmaßregeln",
     "gesetzestexte",
     "kindschaftsrecht",
@@ -4624,6 +4627,7 @@
     "pflegeversicherung",
     "selbstbestimmung",
     "sozialhilfe",
+    "stundensatz",
     "unfallversicherung",
     "unfallversicherung",
     "unterstützungspflicht",
@@ -7136,7 +7140,6 @@
     "angehörigenvertretungsrecht",
     "arbeitsvertrag",
     "bankvollmacht",
-    "elektronischer-identitätsnachweis",
     "geschäftsfähigkeit",
     "geschäftsfähigkeit",
     "geschäftsfähigkeit",
@@ -9143,6 +9146,7 @@
     "aufenthaltsbestimmung",
     "betreuerpflichten",
     "betreutes-wohnen",
+    "checkliste-personenbogen",
     "meldepflicht",
     "meldepflicht",
     "meldepflicht",
@@ -11201,6 +11205,7 @@
     "elektronische-patientenakte",
     "geldanlage",
     "genehmigungspflichten",
+    "meldepflicht",
     "vermögenssorge",
     "vermögensverzeichnis",
     "wohnungsauflösung"
@@ -12233,7 +12238,8 @@
     "eingliederungshilfe",
     "gerichtskosten",
     "mdk-gutachten",
-    "sterbehilfe"
+    "sterbehilfe",
+    "stundensatz"
   ],
   "viii": [
     "berufsbetreuer",
@@ -14881,6 +14887,18 @@
     "familienverfahrensgesetz",
     "gesetzestexte",
     "rechtsmittel"
+  ],
+  "unterbringungsverfahren": [
+    "betreuungssache",
+    "prozessführung",
+    "unterbringung",
+    "unterbringungssache",
+    "unterbringungsverfahren",
+    "unterbringungsähnliche-maßnahme",
+    "unterbringungsähnliche-maßnahme",
+    "verfahrenspfleger",
+    "vorläufiger-betreuer",
+    "vormundschaftsgericht"
   ],
   "betreuungsrichterin": [
     "betreuungssache"
@@ -19345,7 +19363,6 @@
     "heimangelegenheiten",
     "heimmitarbeiter-als-betreuer",
     "heimvertrag",
-    "meldepflicht",
     "pflegeheim",
     "unterbringungsähnliche-maßnahme",
     "verbraucherstreitbeilegung"
@@ -21157,17 +21174,6 @@
   "lich": [
     "prozessführung",
     "zwangsvollstreckung"
-  ],
-  "unterbringungsverfahren": [
-    "prozessführung",
-    "unterbringung",
-    "unterbringungssache",
-    "unterbringungsverfahren",
-    "unterbringungsähnliche-maßnahme",
-    "unterbringungsähnliche-maßnahme",
-    "verfahrenspfleger",
-    "vorläufiger-betreuer",
-    "vormundschaftsgericht"
   ],
   "parteivernehmung": [
     "prozessführung"
