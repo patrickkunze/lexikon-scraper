@@ -1243,8 +1243,6 @@
     "betreuerbestellung",
     "betreuerhaftung",
     "betreuerhaftung",
-    "betreuerhaftung",
-    "betreuerhaftung",
     "betreuerpflichten",
     "betreuerpflichten",
     "betreuerpflichten",
@@ -3555,7 +3553,6 @@
     "unterstützte-entscheidungsfindung",
     "vaterschaftsanerkennung",
     "vereinsbetreuer",
-    "verfahrensfähigkeit",
     "verlängerung-der-betreuung",
     "vermögenssorge",
     "vermögenssorge",
@@ -4171,7 +4168,6 @@
     "aufgabenkreis",
     "aufgabenkreise",
     "beaufsichtigung",
-    "betreuerhaftung",
     "betreuerpflichten",
     "betreuerpflichten",
     "betreuerpflichten",
@@ -4603,7 +4599,6 @@
     "sterbehilfedokumente",
     "unterbringungsähnliche-maßnahme",
     "verfahrensfähigkeit",
-    "verfahrensfähigkeit",
     "wohnungsauflösung",
     "wohnungsauflösung"
   ],
@@ -4784,6 +4779,7 @@
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
+    "betreuerhaftung",
     "freibetrag",
     "freibetrag",
     "geldanlage",
@@ -7895,6 +7891,7 @@
     "girokonto",
     "unterbringung",
     "unterbringungsverfahren",
+    "unterbringungsähnliche-maßnahme",
     "vermögenssorge",
     "vorführung"
   ],
@@ -8665,7 +8662,6 @@
     "prozessführung",
     "prozesspfleger",
     "prozesspfleger",
-    "verfahrensfähigkeit",
     "verwaltungsverfahren"
   ],
   "inklusionsbetrieb": [
@@ -10158,8 +10154,7 @@
     "betreuungsgesetz",
     "kirchenaustritt",
     "psychisch-kranken-gesetz",
-    "psychisch-kranken-gesetz",
-    "verfahrensfähigkeit"
+    "psychisch-kranken-gesetz"
   ],
   "mitte": [
     "ausbildung"
@@ -11918,7 +11913,6 @@
   ],
   "behörden": [
     "behördenangelegenheiten",
-    "besonderer-vertreter-im-verwaltungsverfahren",
     "eingruppierung",
     "rente",
     "strafprozess",
@@ -12361,6 +12355,14 @@
   ],
   "sozialrechtlichen": [
     "besonderer-vertreter-im-verwaltungsverfahren"
+  ],
+  "verfahrensfähigkeit": [
+    "besonderer-vertreter-im-verwaltungsverfahren",
+    "familienverfahrensgesetz",
+    "gesetzestexte",
+    "mahnverfahren",
+    "prozessfähigkeit",
+    "verfahrensfähigkeit"
   ],
   "prozesspfleger": [
     "besonderer-vertreter-im-verwaltungsverfahren",
@@ -13225,8 +13227,34 @@
   "schadenersatzpflicht": [
     "betreuerhaftung"
   ],
-  "abzuschließen": [
-    "betreuerhaftung"
+  "grundlagen": [
+    "betreuerhaftung",
+    "krankenhaussozialdienst"
+  ],
+  "stgb": [
+    "betreuerhaftung",
+    "betreuerhaftung",
+    "einwilligungsfähigkeit",
+    "elektronischer-identitätsnachweis",
+    "geheimhaltungspflicht",
+    "heilbehandlung",
+    "maßregeln-der-besserung-und-sicherung",
+    "ordre-public",
+    "ordre-public",
+    "psychisch-kranken-gesetz",
+    "schweigepflicht",
+    "sterbehilfe",
+    "sterbehilfe",
+    "sterbehilfe",
+    "strafprozess",
+    "strafprozess",
+    "strafprozess",
+    "unterbringung",
+    "unterstützungspflicht",
+    "wahlrecht",
+    "wahlrecht",
+    "wahlrecht",
+    "zwangsbehandlung"
   ],
   "prozesses": [
     "betreuerhaftung",
@@ -16805,29 +16833,6 @@
   "verlauf": [
     "einverständniserklärung"
   ],
-  "stgb": [
-    "einwilligungsfähigkeit",
-    "elektronischer-identitätsnachweis",
-    "geheimhaltungspflicht",
-    "heilbehandlung",
-    "maßregeln-der-besserung-und-sicherung",
-    "ordre-public",
-    "ordre-public",
-    "psychisch-kranken-gesetz",
-    "schweigepflicht",
-    "sterbehilfe",
-    "sterbehilfe",
-    "sterbehilfe",
-    "strafprozess",
-    "strafprozess",
-    "strafprozess",
-    "unterbringung",
-    "unterstützungspflicht",
-    "wahlrecht",
-    "wahlrecht",
-    "wahlrecht",
-    "zwangsbehandlung"
-  ],
   "einsichts": [
     "einwilligungsfähigkeit",
     "gesundheitssorge",
@@ -17533,13 +17538,6 @@
   "verfahrensbeteiligte": [
     "familienverfahrensgesetz",
     "gesetzestexte"
-  ],
-  "verfahrensfähigkeit": [
-    "familienverfahrensgesetz",
-    "gesetzestexte",
-    "mahnverfahren",
-    "prozessfähigkeit",
-    "verfahrensfähigkeit"
   ],
   "einlegen": [
     "familienverfahrensgesetz",
@@ -19901,9 +19899,6 @@
     "unterstützungspflicht",
     "unterstützungspflicht"
   ],
-  "grundlagen": [
-    "krankenhaussozialdienst"
-  ],
   "krankenhaussozialdienst": [
     "krankenhaussozialdienst"
   ],
@@ -21713,6 +21708,9 @@
     "schlussrechnungslegung",
     "umgangsbestimmung"
   ],
+  "schlussvermögensübersicht": [
+    "schlussrechnungslegung"
+  ],
   "schlusspflichten": [
     "schlussrechnungslegung"
   ],
@@ -21825,8 +21823,7 @@
     "selbstbestimmung"
   ],
   "leuchtturm": [
-    "selbstbestimmung",
-    "unterbringungsähnliche-maßnahme"
+    "selbstbestimmung"
   ],
   "behinderten": [
     "selbstbestimmung"
