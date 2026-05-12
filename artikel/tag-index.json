@@ -189,7 +189,6 @@
   "betreuungsrechtsreform": [
     "aaa---betreuungsrechtsreform-2023",
     "betreuervergütung-2019",
-    "betreuungsgesetz",
     "betreuungsrechtsreform-2023",
     "betreuungsreform",
     "reform",
@@ -436,6 +435,7 @@
     "betreuerwechsel",
     "betreuungsarbeitsgemeinschaft",
     "betreuungsgericht",
+    "betreuungsgesetz",
     "betreuungskosten-im-steuerrecht",
     "betreuungskosten-im-steuerrecht",
     "betreuungsorganisationsgesetz",
@@ -580,6 +580,7 @@
     "personalausweis",
     "personalausweis",
     "personalausweis",
+    "persönliche-betreuung",
     "persönliche-betreuung",
     "persönliches-budget",
     "persönliches-budget",
@@ -6083,8 +6084,10 @@
     "anzeigepflicht",
     "beamte-als-betreuer",
     "behördenbetreuer",
+    "betreuungsgesetz",
     "checkliste-betreuerpflichten",
-    "nebentätigkeit"
+    "nebentätigkeit",
+    "persönliche-betreuung"
   ],
   "gesetzlich": [
     "amtspflichtverletzung",
@@ -8448,7 +8451,6 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "genehmigungen",
     "genehmigungen-von-a-bis-z",
-    "persönliche-betreuung",
     "vollmachtswiderruf",
     "vormundschaftsgericht",
     "wohnungsauflösung"
@@ -8830,7 +8832,6 @@
     "medizinische-begriffe",
     "patientenverfügung",
     "personenstand",
-    "persönliche-betreuung",
     "sachverständigengutachten",
     "schwerbehindertenausweis",
     "werkstatt-für-behinderte-menschen"
@@ -8963,7 +8964,6 @@
     "betreuungsbehörde",
     "betreuungsbehörde",
     "betreuungsgerichtshilfe",
-    "corona",
     "patientenvertreter"
   ],
   "eingliederungshilfe": [
@@ -9059,7 +9059,6 @@
     "betreuerpflichten",
     "betreuungsbehörde",
     "betreuungsgericht",
-    "betreuungsgesetz",
     "einstweilige-anordnung",
     "familienverfahrensgesetz",
     "gesetzestexte",
@@ -15779,9 +15778,6 @@
     "corona"
   ],
   "malteser": [
-    "corona"
-  ],
-  "betreuungsgerichtstags": [
     "corona"
   ],
   "newsletter": [
