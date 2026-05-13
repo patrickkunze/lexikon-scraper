@@ -3321,6 +3321,7 @@
     "behördenbetreuer",
     "beratung",
     "beratung",
+    "beratung",
     "berufsbetreuer",
     "berufsbetreuer",
     "betreuer-(ehrenamt)",
@@ -5272,7 +5273,6 @@
     "altenheim",
     "arztzeugnis",
     "begleitforschung",
-    "beratung",
     "checkliste-für-arztgespräche",
     "corona",
     "freier-wille",
@@ -6966,6 +6966,7 @@
     "anregung-der-betreuerbestellung",
     "auskunftspflicht",
     "beaufsichtigung",
+    "beratung",
     "beratung",
     "betrg",
     "betreuer-(ehrenamt)",
@@ -9642,7 +9643,6 @@
   ],
   "beaufsichtigung": [
     "aufsicht",
-    "beratung",
     "betreuungsarbeitsgemeinschaft",
     "betreuungsrichter",
     "elektronisches-gerichts--und-verwaltungspostfach",
@@ -10348,7 +10348,6 @@
   ],
   "informationspflicht": [
     "auskunftspflicht",
-    "beratung",
     "gesetzlicher-vertreter",
     "informationspflicht",
     "mitteilungspflicht",
@@ -12022,6 +12021,7 @@
   "betreuungsverein": [
     "beratung",
     "beratung",
+    "beratung",
     "betreuerbestellung",
     "betreuerbestellung",
     "betreuungsverein",
@@ -13599,6 +13599,7 @@
     "betreuervergütung",
     "betreuungszahlen",
     "gerichtsbeschluss",
+    "pflegeversicherung",
     "regress-der-staatskasse",
     "verlängerung-der-betreuung",
     "überprüfungsfrist"
@@ -14960,6 +14961,7 @@
     "haager-übereinkommen",
     "haager-übereinkommen",
     "hamburger-mustergliederung",
+    "pflegeversicherung",
     "sterilisation",
     "unterbringungsverfahren",
     "zugangsrecht"
@@ -21059,6 +21061,15 @@
   ],
   "pflegegeld": [
     "pflegeversicherung",
+    "pflegeversicherung"
+  ],
+  "krankenschwester": [
+    "pflegeversicherung"
+  ],
+  "florence": [
+    "pflegeversicherung"
+  ],
+  "nightingale": [
     "pflegeversicherung"
   ],
   "beetz": [
