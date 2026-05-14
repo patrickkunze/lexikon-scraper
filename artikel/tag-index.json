@@ -4178,7 +4178,6 @@
     "ehefähigkeit",
     "einwilligungsvorbehalt",
     "heilbehandlung",
-    "kirchenaustritt",
     "meldepflicht",
     "prozessführung",
     "prozessführung",
@@ -7510,7 +7509,6 @@
     "corona",
     "corona",
     "gerichtsbeschluss",
-    "patientenverfügung",
     "psychisch-kranken-gesetz",
     "tod-des-betreuten"
   ],
@@ -19816,6 +19814,10 @@
   "weder": [
     "kirchenaustritt"
   ],
+  "krankenhaussozialdienst": [
+    "kirchenaustritt",
+    "krankenhaussozialdienst"
+  ],
   "kontrollbetreuern": [
     "kontrollbetreuer"
   ],
@@ -19896,9 +19898,6 @@
     "krankenhaussozialdienst",
     "unterstützungspflicht",
     "unterstützungspflicht"
-  ],
-  "krankenhaussozialdienst": [
-    "krankenhaussozialdienst"
   ],
   "redirectkrankenversicherung": [
     "krankenkasse"
@@ -20930,6 +20929,10 @@
   ],
   "enquete": [
     "patientenverfügung"
+  ],
+  "ethik": [
+    "patientenverfügung",
+    "sterbehilfe"
   ],
   "grundsatzentscheidung": [
     "patientenverfügung"
@@ -22219,9 +22222,6 @@
     "sterbehilfe"
   ],
   "referenzzentrum": [
-    "sterbehilfe"
-  ],
-  "ethik": [
     "sterbehilfe"
   ],
   "biowissenschaften": [
