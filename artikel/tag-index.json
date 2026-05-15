@@ -5300,7 +5300,8 @@
     "werkstatt-für-behinderte-menschen"
   ],
   "rechtstipp": [
-    "altenheim"
+    "altenheim",
+    "betreuerbestellung"
   ],
   "umzug": [
     "altenheim",
@@ -6564,6 +6565,7 @@
     "anhörung",
     "anhörung",
     "anhörung",
+    "betreuerbestellung",
     "betreuungsverfahren",
     "betreuungsverfahren",
     "betreuungsverfahren",
@@ -8110,7 +8112,6 @@
     "behindertenkonvention",
     "betreuerausweis",
     "betreuerbestellung",
-    "betreuerbestellung",
     "betreuervergütung",
     "betreuervorschlag",
     "betreuungsanregung",
@@ -8450,7 +8451,6 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "genehmigungen",
     "genehmigungen-von-a-bis-z",
-    "vollmachtswiderruf",
     "vormundschaftsgericht",
     "wohnungsauflösung"
   ],
@@ -10755,7 +10755,8 @@
     "girokonto",
     "kontokorrentkonto",
     "verfügungsgeld",
-    "vermögenssorge"
+    "vermögenssorge",
+    "vollmachtswiderruf"
   ],
   "alltagsgeschäfte": [
     "bankvollmacht",
@@ -11053,7 +11054,6 @@
     "beaufsichtigung",
     "betreuer-(ehrenamt)",
     "betreuungsbehörde",
-    "betreuungsverein",
     "hauptseite"
   ],
   "beschwerdeberechtigt": [
@@ -12840,6 +12840,7 @@
   ],
   "mustervereinbarung": [
     "betreuer-(ehrenamt)",
+    "betreuungsverein",
     "querschnittsaufgaben",
     "vereinbarung-über-begleitung-und-unterstützung"
   ],
@@ -13193,9 +13194,6 @@
     "betreuervorschlag",
     "betreuungsbehörde",
     "betreuungsverfügung"
-  ],
-  "präsentation": [
-    "betreuerbestellung"
   ],
   "bagüs": [
     "betreuerbestellung",
