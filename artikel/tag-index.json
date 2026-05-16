@@ -5225,7 +5225,6 @@
     "querschnittsaufgaben",
     "rechtspfleger",
     "rundfunkbeitrag",
-    "selbstverwaltungserklärung",
     "sozialhilfe",
     "sterbehilfe",
     "sterilisation",
@@ -7628,7 +7627,6 @@
     "vermögenssorge",
     "vermögensverwaltung",
     "vermögensverzeichnis",
-    "vollmachtswiderruf",
     "zwangsvollstreckung"
   ],
   "einsig": [
@@ -8070,6 +8068,7 @@
     "patientenverfügung",
     "pflegeversicherung",
     "sterbehilfe",
+    "vollmachtswiderruf",
     "vormünder--und-betreuervergütungsgesetz",
     "vorsorgevollmacht",
     "vorsorgevollmacht",
@@ -8219,6 +8218,7 @@
     "betreuerbestellung",
     "betreuerhaftung",
     "datenschutz",
+    "selbstverwaltungserklärung",
     "strafprozess"
   ],
   "rechtlich": [
@@ -10755,8 +10755,7 @@
     "girokonto",
     "kontokorrentkonto",
     "verfügungsgeld",
-    "vermögenssorge",
-    "vollmachtswiderruf"
+    "vermögenssorge"
   ],
   "alltagsgeschäfte": [
     "bankvollmacht",
@@ -19972,6 +19971,7 @@
   ],
   "vertiefte": [
     "krankenversicherung",
+    "vollmachtswiderruf",
     "vorsorgevollmacht"
   ],
   "ecxel": [

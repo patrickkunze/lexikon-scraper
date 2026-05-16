@@ -1,7 +1,7 @@
 {
   "id": "vollmachtswiderruf",
   "titel": "Vollmachtswiderruf",
-  "inhalt": "Allgemeines\nGemäß § 1820 Abs. 5 BGB kann ein [Kontrollbetreuer](kontrollbetreuer) im konkreten Einzelfall zum Widerruf einer [Vorsorgevollmacht](vorsorgevollmacht) berechtigt sein.\n\nSiehe auch\n [Vorsorgevollmacht](vorsorgevollmacht)\n [Widerspruchsrecht](widerspruchsrecht)\n [Bankvollmacht](bankvollmacht), [Girokonto](girokonto)\n [Vermögenssorge](vermögenssorge)\n [Genehmigungspflichten](genehmigungspflichten)\n [Kontrollbetreuer](kontrollbetreuer), [Grundrechte](grundrechte), [Diskriminierungsverbot](diskriminierungsverbot)\n [Angehörigenvertretungsrecht](angehörigenvertretungsrecht)\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)",
+  "inhalt": "Allgemeines\nGemäß § 1820 Abs. 5 BGB kann ein [Kontrollbetreuer](kontrollbetreuer) im konkreten Einzelfall zum Widerruf einer [Vorsorgevollmacht](vorsorgevollmacht) berechtigt sein.\n\nSiehe auch\n [Vorsorgevollmacht](vorsorgevollmacht), [Vorsorgevollmacht - vertiefte Infos](vorsorgevollmacht---vertiefte-infos)\n [Widerspruchsrecht](widerspruchsrecht)\n [Bankvollmacht](bankvollmacht), [Girokonto](girokonto)\n [Vermögenssorge](vermögenssorge)\n [Genehmigungspflichten](genehmigungspflichten), [Genehmigungen von a bis z](genehmigungen-von-a-bis-z)\n [Kontrollbetreuer](kontrollbetreuer), [Grundrechte](grundrechte), [Diskriminierungsverbot](diskriminierungsverbot)\n [Angehörigenvertretungsrecht](angehörigenvertretungsrecht)\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)",
   "struktur": [
     {
       "titel": "Allgemeines",
@@ -16,28 +16,30 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Vorsorgevollmacht\n Widerspruchsrecht\n Bankvollmacht, Girokonto\n Vermögenssorge\n Genehmigungspflichten\n Kontrollbetreuer, Grundrechte, Diskriminierungsverbot\n Angehörigenvertretungsrecht\n\nKategorie:Rechtsnormen",
+      "inhalt": "Vorsorgevollmacht, Vorsorgevollmacht - vertiefte Infos\n Widerspruchsrecht\n Bankvollmacht, Girokonto\n Vermögenssorge\n Genehmigungspflichten, Genehmigungen von a bis z\n Kontrollbetreuer, Grundrechte, Diskriminierungsverbot\n Angehörigenvertretungsrecht\n\nKategorie:Rechtsnormen",
       "tags": [
         "vorsorgevollmacht",
+        "vertiefte",
+        "infos",
         "widerspruchsrecht",
-        "bankvollmacht",
-        "girokonto",
-        "vermögenssorge"
+        "bankvollmacht"
       ]
     }
   ],
-  "zusammenfassung": "Allgemeines\nGemäß § 1820 Abs. 5 BGB kann ein [Kontrollbetreuer](kontrollbetreuer) im konkreten Einzelfall zum Widerruf einer [Vorsorgevollmacht](vorsorgevollmacht) berechtigt sein.\n\nSiehe auch\n [Vorsorgevollmacht](vorsorgevollmacht)\n [Widerspruchsrecht](widerspruchsrecht)\n [Bankvollmacht](bankvollma...",
+  "zusammenfassung": "Allgemeines\nGemäß § 1820 Abs. 5 BGB kann ein [Kontrollbetreuer](kontrollbetreuer) im konkreten Einzelfall zum Widerruf einer [Vorsorgevollmacht](vorsorgevollmacht) berechtigt sein.\n\nSiehe auch\n [Vorsorgevollmacht](vorsorgevollmacht), [Vorsorgevollmacht - vertiefte Infos](vorsorgevollmacht---vertieft...",
   "verwandteArtikel": [
+    "angehörigenvertretungsrecht",
     "bankvollmacht",
-    "vermögenssorge",
-    "kontrollbetreuer",
-    "girokonto",
     "diskriminierungsverbot",
-    "widerspruchsrecht",
-    "kategorie:rechtsnormen",
-    "grundrechte",
+    "kontrollbetreuer",
+    "vermögenssorge",
+    "vorsorgevollmacht---vertiefte-infos",
     "vorsorgevollmacht",
-    "genehmigungspflichten",
-    "angehörigenvertretungsrecht"
+    "grundrechte",
+    "kategorie:rechtsnormen",
+    "genehmigungen-von-a-bis-z",
+    "girokonto",
+    "widerspruchsrecht",
+    "genehmigungspflichten"
   ]
 }
