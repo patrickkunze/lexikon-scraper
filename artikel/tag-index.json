@@ -8199,6 +8199,7 @@
     "rechtsanwalt",
     "rechtsanwalt",
     "rechtsprechung-zum-verfahrenspfleger",
+    "sachkundelehrgang",
     "sterbehilfe",
     "strafprozess",
     "vbvg-rechtsprechung",
@@ -8286,6 +8287,7 @@
     "rechtsanwalt",
     "rechtsanwalt",
     "registrierung",
+    "sachkundelehrgang",
     "sachkundenachweis",
     "sachkundenachweis",
     "software",
@@ -10060,8 +10062,7 @@
     "buchverzeichnis",
     "curriculum",
     "gesetzessammlungen-betreuer.pdf",
-    "link-liste",
-    "sachkundelehrgang"
+    "link-liste"
   ],
   "staatlich": [
     "ausbildung"
@@ -14821,8 +14822,7 @@
   "betreuungsrechtliche": [
     "betreuungsrechtliche-praxis",
     "buchverzeichnis",
-    "bundesverband-freier-berufsbetreuer",
-    "sachkundelehrgang"
+    "bundesverband-freier-berufsbetreuer"
   ],
   "verlagsseite": [
     "betreuungsrechtliche-praxis"
