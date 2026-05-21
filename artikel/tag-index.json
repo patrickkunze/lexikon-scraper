@@ -488,7 +488,6 @@
     "erbschaft",
     "ergänzungsbetreuer",
     "ergänzungsbetreuer",
-    "ergänzungsbetreuer",
     "ermessensvergütung",
     "erörterungsgespräch",
     "finanzamt",
@@ -1360,6 +1359,7 @@
     "sterbehilfe",
     "strafprozess",
     "strafprozess",
+    "stundensatz",
     "subsidiaritätsprinzip",
     "testierfähigkeit",
     "testierfähigkeit",
@@ -2519,6 +2519,7 @@
     "sterbehilfedokumente",
     "strafprozess",
     "stundensatz",
+    "stundensatz",
     "subsidiaritätsprinzip",
     "testierfähigkeit",
     "tod-des-betreuten",
@@ -2798,6 +2799,7 @@
     "strafprozess",
     "strafprozess",
     "strafprozess",
+    "stundensatz",
     "stundensatz",
     "stundensatz",
     "stundensatz",
@@ -8293,6 +8295,7 @@
     "sachkundenachweis",
     "software",
     "sterilisationsbetreuer",
+    "stundensatz",
     "unfallversicherung",
     "unfallversicherung",
     "verband-freiberuflicher-betreuer",
@@ -9296,7 +9299,6 @@
     "aufgabenkreis",
     "beamte-als-betreuer",
     "behördenangelegenheiten",
-    "besonderer-vertreter-im-verwaltungsverfahren",
     "bestattung",
     "betreuerbestellung",
     "betreuungsbehördengesetz",
@@ -9858,6 +9860,7 @@
     "sterilisationsbetreuer",
     "sterilisationsbetreuer",
     "sterilisationsbetreuer",
+    "stundensatz",
     "vereinsbetreuer",
     "verfahrenspfleger",
     "verhinderungsbetreuer",
@@ -9919,7 +9922,10 @@
   ],
   "stundensatz": [
     "aufwandspauschale",
+    "besonderer-vertreter-im-verwaltungsverfahren",
+    "ergänzungsbetreuer",
     "ermessensvergütung",
+    "stundensatz",
     "tabelleneinstufung",
     "vbvg-rechtsprechung",
     "vergütungsstufe",
@@ -11101,7 +11107,6 @@
     "rechtsprechung-zum-verfahrenspfleger",
     "selbstbestimmung",
     "strafprozess",
-    "stundensatz",
     "tandembetreuung",
     "tod-des-betreuers",
     "unterbringungsverfahren",
@@ -12366,7 +12371,8 @@
     "besonderer-vertreter-im-verwaltungsverfahren",
     "gerichtskosten",
     "prozesspfleger",
-    "rechtsanwalt"
+    "rechtsanwalt",
+    "stundensatz"
   ],
   "verfahrenspfleger": [
     "besonderer-vertreter-im-verwaltungsverfahren",
@@ -12384,6 +12390,8 @@
     "rechtsprechung-zum-verfahrenspfleger",
     "rechtsweg-in-deutschland",
     "sterilisation",
+    "stundensatz",
+    "stundensatz",
     "verfahrenspfleger",
     "verfahrenspfleger",
     "verfahrenspfleger",
@@ -12659,6 +12667,7 @@
   "ergänzungsbetreuer": [
     "bestellung-mehrerer-betreuer",
     "rechtsanwalt",
+    "stundensatz",
     "verhinderungsbetreuer"
   ],
   "alpenstedt": [
@@ -12823,7 +12832,6 @@
     "betreuer-(ehrenamt)",
     "ergänzungsbetreuer",
     "mehrfachbetreuung",
-    "stundensatz",
     "tandembetreuung",
     "tod-des-betreuers"
   ],
@@ -13638,6 +13646,7 @@
     "grundstück",
     "kontrollbetreuer",
     "sterilisationsbetreuer",
+    "stundensatz",
     "stundensatz",
     "trennungsgebot",
     "vbvg-rechtsprechung",
@@ -22407,6 +22416,9 @@
     "stundensatz"
   ],
   "angegeben": [
+    "stundensatz"
+  ],
+  "erhält": [
     "stundensatz"
   ],
   "subsidiäre": [
