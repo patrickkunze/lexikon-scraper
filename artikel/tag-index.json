@@ -1463,6 +1463,7 @@
     "checkliste-vermögenssorge",
     "checkliste-wohnungsangelegenheiten",
     "checkliste-für-arztgespräche",
+    "dauervergütung",
     "delegation",
     "drittes-betreuungsrechtsänderungsgesetz",
     "e-rechnung",
@@ -3007,6 +3008,7 @@
     "sozialhilfe",
     "sozialhilfe",
     "sterilisationsbetreuer",
+    "stundensatz",
     "trennungsgebot",
     "unterstützte-entscheidungsfindung"
   ],
@@ -7269,6 +7271,7 @@
     "gegenbetreuer",
     "geldanlage",
     "kindschaftsrecht",
+    "neu",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "patientenverfügung",
     "rechtsverkehr-in-deutschland",
@@ -8295,6 +8298,7 @@
     "sachkundenachweis",
     "software",
     "sterilisationsbetreuer",
+    "stundensatz",
     "stundensatz",
     "unfallversicherung",
     "unfallversicherung",
@@ -9861,6 +9865,7 @@
     "sterilisationsbetreuer",
     "sterilisationsbetreuer",
     "stundensatz",
+    "stundensatz",
     "vereinsbetreuer",
     "verfahrenspfleger",
     "verhinderungsbetreuer",
@@ -9893,7 +9898,6 @@
     "betreuervergütung",
     "betreuervergütung-2019",
     "betreuervergütung-2019",
-    "betreuervergütung-2019",
     "betreuervergütung-2026",
     "dauervergütung",
     "eingruppierung",
@@ -9902,6 +9906,7 @@
     "freibetrag",
     "inflationsausgleich",
     "mittellosigkeit",
+    "neu",
     "neu",
     "stundensatz",
     "vbvg-rechtsprechung",
@@ -9923,6 +9928,7 @@
   "stundensatz": [
     "aufwandspauschale",
     "besonderer-vertreter-im-verwaltungsverfahren",
+    "betreuervergütung-2019",
     "ergänzungsbetreuer",
     "ermessensvergütung",
     "stundensatz",
@@ -10061,6 +10067,7 @@
   ],
   "betreuerentschädigung": [
     "aufwendungsersatz",
+    "dauervergütung",
     "tabelleneinstufung"
   ],
   "sachkundenachweis": [
@@ -12913,7 +12920,8 @@
     "betreuervergütung",
     "betreuungskosten-im-steuerrecht",
     "grundstück",
-    "mitteilungspflicht"
+    "mitteilungspflicht",
+    "neu"
   ],
   "auswirkungenkategorie": [
     "betreuer-als-erbe"
@@ -13648,6 +13656,7 @@
     "sterilisationsbetreuer",
     "stundensatz",
     "stundensatz",
+    "stundensatz",
     "trennungsgebot",
     "vbvg-rechtsprechung",
     "vbvg-rechtsprechung",
@@ -13752,7 +13761,8 @@
     "betreuervergütung-2026",
     "dauervergütung",
     "dauervergütung",
-    "eingruppierung"
+    "eingruppierung",
+    "neu"
   ],
   "verwirkung": [
     "betreuervergütung"
@@ -20573,6 +20583,9 @@
   "bestandsbetreuers": [
     "neu"
   ],
+  "regelfall": [
+    "neu"
+  ],
   "spielwiese": [
     "neu",
     "zugangsrecht"
@@ -22319,7 +22332,8 @@
   "sterilisationsbetreuer": [
     "sterilisation",
     "sterilisationsbetreuer",
-    "sterilisationsbetreuer"
+    "sterilisationsbetreuer",
+    "stundensatz"
   ],
   "länge": [
     "sterilisationsbetreuer"
