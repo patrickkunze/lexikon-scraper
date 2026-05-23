@@ -1313,6 +1313,7 @@
     "kirchenaustritt",
     "kirchenaustritt",
     "kontrollbetreuer",
+    "kontrollbetreuer",
     "krankenversicherung",
     "mittellosigkeit",
     "mittellosigkeit",
@@ -2197,7 +2198,6 @@
     "kontrollbetreuer",
     "kontrollbetreuer",
     "kontrollbetreuer",
-    "kontrollbetreuer",
     "personalausweis",
     "personalausweis",
     "vorsorgevollmacht",
@@ -2874,6 +2874,7 @@
     "zwangsbehandlung",
     "zwangsbehandlung",
     "zwangsbehandlung",
+    "zwangsvollstreckung",
     "zwangsvollstreckung"
   ],
   "nein": [
@@ -4096,8 +4097,7 @@
   "rechtsverkehr": [
     "alltagsgeschäfte",
     "krankenversicherung",
-    "rechtsverkehr-in-deutschland",
-    "zug-um-zug-leistung"
+    "rechtsverkehr-in-deutschland"
   ],
   "reck": [
     "alltagsgeschäfte"
@@ -5526,7 +5526,8 @@
     "vermögenssorge",
     "vermögensverzeichnis",
     "wohnungsangelegenheiten",
-    "wohnungsauflösung"
+    "wohnungsauflösung",
+    "zwangsvollstreckung"
   ],
   "right": [
     "altenheim",
@@ -5979,7 +5980,8 @@
     "unterstützungspflicht",
     "vermögensverzeichnis",
     "vulnerabilität",
-    "zug-um-zug-leistung"
+    "zug-um-zug-leistung",
+    "zwangsvollstreckung"
   ],
   "diese": [
     "amtsermittlungspflicht",
@@ -10037,7 +10039,6 @@
     "bestattung",
     "bezirksrevisor",
     "freibetrag",
-    "neu",
     "staatsregress"
   ],
   "staatskasse": [
@@ -10051,7 +10052,6 @@
     "mittellosigkeit",
     "mittellosigkeit",
     "mittellosigkeit",
-    "neu",
     "regress-der-staatskasse",
     "regress-der-staatskasse",
     "regress-der-staatskasse",
@@ -19444,7 +19444,6 @@
     "neu",
     "neu",
     "neu",
-    "neu",
     "organspende"
   ],
   "richtlinie": [
@@ -19560,6 +19559,7 @@
     "verbraucherinsolvenz",
     "vermögensauskunft",
     "vermögenssorge",
+    "zug-um-zug-leistung",
     "zwangsvollstreckung"
   ],
   "geistig": [
@@ -20396,6 +20396,18 @@
   "eheschließungsrechts": [
     "neu"
   ],
+  "gesamtdeutsche": [
+    "neu"
+  ],
+  "insolvenzrecht": [
+    "neu"
+  ],
+  "traten": [
+    "neu",
+    "neu",
+    "neu",
+    "neu"
+  ],
   "lebenspartnerschaftsgesetz": [
     "neu"
   ],
@@ -20438,11 +20450,6 @@
     "neu"
   ],
   "lebenspartnerschaftsrechts": [
-    "neu"
-  ],
-  "traten": [
-    "neu",
-    "neu",
     "neu"
   ],
   "allgemeine": [
@@ -23812,6 +23819,10 @@
     "zwangsvollstreckung"
   ],
   "inso": [
+    "zwangsvollstreckung",
+    "zwangsvollstreckung"
+  ],
+  "insolvenzgericht": [
     "zwangsvollstreckung"
   ],
   "verbraucherstreitbeilegung": [
