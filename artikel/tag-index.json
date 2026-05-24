@@ -8295,6 +8295,7 @@
     "rechtsanwalt",
     "rechtsanwalt",
     "registrierung",
+    "registrierung",
     "sachkundelehrgang",
     "sachkundenachweis",
     "sachkundenachweis",
@@ -12689,7 +12690,6 @@
     "betreuerausweis",
     "betreuungsausweis",
     "elektronischer-identitätsnachweis",
-    "gesetzliche-vertretung",
     "personalausweis",
     "zugriffsrecht"
   ],
@@ -13202,7 +13202,6 @@
   "eignung": [
     "betreuerbestellung",
     "betreuervorschlag",
-    "registrierung",
     "waffenbesitz",
     "zugangsrecht"
   ],
@@ -14637,6 +14636,7 @@
     "föderalismus",
     "gesetzestexte",
     "gesetzgebung",
+    "gesetzliche-vertretung",
     "gesundheitsdatennutzungsgesetz",
     "gewaltschutzanordnung",
     "selbstverwaltung-der-deutschen-gemeinden",
