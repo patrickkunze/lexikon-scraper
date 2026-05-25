@@ -1198,6 +1198,7 @@
     "altenheim",
     "anhörung",
     "anhörung",
+    "anhörung",
     "anregung-der-betreuerbestellung",
     "arztzeugnis",
     "aufgabenkreis",
@@ -6570,6 +6571,7 @@
     "anhörung",
     "anhörung",
     "anhörung",
+    "anhörung",
     "betreuerbestellung",
     "betreuungsverfahren",
     "betreuungsverfahren",
@@ -7341,6 +7343,21 @@
   "anhörungsrüge": [
     "anhörung"
   ],
+  "bverfg": [
+    "anhörung",
+    "beamte-als-betreuer",
+    "rechtsprechung",
+    "sterbehilfedokumente",
+    "verfahrensfähigkeit",
+    "zwangsbehandlung",
+    "zwangsbehandlung"
+  ],
+  "videokonferenz": [
+    "anhörung"
+  ],
+  "stattfinden": [
+    "anhörung"
+  ],
   "rechtsprechung": [
     "anhörung",
     "beglaubigung-durch-betreuungsbehörde",
@@ -7361,6 +7378,7 @@
     "rechtsprechung",
     "rechtsprechung-zum-sachverständigengutachten",
     "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zur-anhörung",
     "rechtsprechung-zur-unterbringung",
     "rechtsweg-in-deutschland",
     "sachverständigengutachten",
@@ -10886,14 +10904,6 @@
   "amtspflichtverletzung": [
     "beamte-als-betreuer",
     "finanzamt"
-  ],
-  "bverfg": [
-    "beamte-als-betreuer",
-    "rechtsprechung",
-    "sterbehilfedokumente",
-    "verfahrensfähigkeit",
-    "zwangsbehandlung",
-    "zwangsbehandlung"
   ],
   "betreuungspersonen": [
     "beamte-als-betreuer",
@@ -14563,7 +14573,6 @@
     "intellektuelle-beeinträchtigung",
     "natürlicher-wille",
     "psychisch-kranken-gesetz",
-    "rechtsprechung-zur-anhörung",
     "schweigepflicht",
     "selbstbestimmung",
     "selbstbestimmung",
