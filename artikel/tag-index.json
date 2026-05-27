@@ -1504,7 +1504,6 @@
     "krankenversicherung",
     "mdk-gutachten",
     "mahnverfahren",
-    "mailingliste",
     "maßregeln-der-besserung-und-sicherung",
     "medizinische-begriffe",
     "meldepflicht",
@@ -3653,6 +3652,7 @@
     "ausbildung",
     "diskussionsforum",
     "forum-url",
+    "link-liste",
     "mailingliste"
   ],
   "fortbildung": [
@@ -9095,7 +9095,6 @@
     "grundrechte",
     "heilbehandlung",
     "maßregeln-der-besserung-und-sicherung",
-    "natürlicher-wille",
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz",
@@ -10295,11 +10294,13 @@
     "ausbildung",
     "bezirksrevisor",
     "broschüren",
+    "mailingliste",
     "spielwiese"
   ],
   "liste": [
     "ausbildung",
     "genehmigung-der-heilbehandlung",
+    "mailingliste",
     "sachkundenachweis",
     "spielwiese"
   ],
@@ -10515,9 +10516,6 @@
     "unterbringungsähnliche-maßnahme"
   ],
   "mehrsprachig": [
-    "ausländer"
-  ],
-  "vorsorgebroschüre": [
     "ausländer"
   ],
   "personalausweis": [
@@ -11168,7 +11166,6 @@
     "kindschaftsrecht",
     "krankenversicherung",
     "mittellosigkeit",
-    "natürlicher-wille",
     "ordre-public",
     "pflegeversicherung",
     "prozessführung",
@@ -12114,6 +12111,7 @@
     "dauervergütung",
     "gerichtskosten",
     "grundrechte",
+    "natürlicher-wille",
     "ordre-public",
     "ordre-public",
     "ordre-public",
@@ -15053,7 +15051,6 @@
     "globales-nachhaltigkeitsziel-10",
     "haager-übereinkommen",
     "konvention-über-die-rechte-behinderter-menschen",
-    "link-liste",
     "selbstbestimmung",
     "un-brk",
     "un-behindertenrechtskonvention",
@@ -16177,7 +16174,6 @@
     "digitale-barrierefreiheit",
     "e-rezept",
     "informationspflicht",
-    "mailingliste",
     "notfalldaten",
     "organspende",
     "postkontrolle",
@@ -20330,6 +20326,7 @@
     "natürlicher-wille"
   ],
   "natürlichen": [
+    "natürlicher-wille",
     "natürlicher-wille"
   ],
   "angriff": [

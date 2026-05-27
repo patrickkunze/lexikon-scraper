@@ -1,7 +1,7 @@
 {
   "id": "mailingliste",
   "titel": "Mailingliste",
-  "inhalt": "Mailingliste Betreuungsrecht\n\nDie Mailingliste Betreuungsrecht der Ruhr-Uni Bochum ermöglichte über 20 Jahre lang den Meinungs- und Infoaustausch zu allen Fragen des Betreuungsrechtes.\n\nMailingliste [Betreuungsbehörde](betreuungsbehörde)n\n\nSiehe unter: http://lists.ruhr-uni-bochum.de/mailman/listinfo/btr-behoerde\n\nDiskussionsforum zum Betreuungsrecht\n\nForum Betreuung: http://www.forum-betreuung.de\n\nSiehe auch\n [Fortbildung](fortbildung)\n [Software](software)\n [digitale Barrierefreiheit](digitale-barrierefreiheit)\n\n[Kategorie:Arbeitshilfen](kategorie:arbeitshilfen)",
+  "inhalt": "Mailingliste Betreuungsrecht\n\nDie Mailingliste Betreuungsrecht der Ruhr-Uni Bochum ermöglichte über 20 Jahre lang den Meinungs- und Infoaustausch zu allen Fragen des Betreuungsrechtes.\n\nMailingliste [Betreuungsbehörde](betreuungsbehörde)n\n\nSiehe unter: http://lists.ruhr-uni-bochum.de/mailman/listinfo/btr-behoerde\n\nDiskussionsforum zum Betreuungsrecht\n\nForum Betreuung: http://www.forum-betreuung.de\n\nSiehe auch\n [Fortbildung](fortbildung), [Link-Liste](link-liste)\n [Software](software)\n [digitale Barrierefreiheit](digitale-barrierefreiheit), [IT-Sicherheit](it-sicherheit), [Datenschutz](datenschutz)\n\n[Kategorie:Arbeitshilfen](kategorie:arbeitshilfen)",
   "struktur": [
     {
       "titel": "Mailingliste Betreuungsrecht",
@@ -36,22 +36,25 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Fortbildung\n Software\n digitale Barrierefreiheit\n\nKategorie:Arbeitshilfen",
+      "inhalt": "Fortbildung, Link-Liste\n Software\n digitale Barrierefreiheit, IT-Sicherheit, Datenschutz\n\nKategorie:Arbeitshilfen",
       "tags": [
         "fortbildung",
+        "link",
+        "liste",
         "software",
-        "digitale",
-        "barrierefreiheit",
-        "kategorie"
+        "digitale"
       ]
     }
   ],
   "zusammenfassung": "Mailingliste Betreuungsrecht\n\nDie Mailingliste Betreuungsrecht der Ruhr-Uni Bochum ermöglichte über 20 Jahre lang den Meinungs- und Infoaustausch zu allen Fragen des Betreuungsrechtes.\n\nMailingliste [Betreuungsbehörde](betreuungsbehörde)n\n\nSiehe unter: http://lists.ruhr-uni-bochum.de/mailman/listinf...",
   "verwandteArtikel": [
-    "digitale-barrierefreiheit",
-    "fortbildung",
-    "betreuungsbehörde",
     "software",
-    "kategorie:arbeitshilfen"
+    "it-sicherheit",
+    "digitale-barrierefreiheit",
+    "datenschutz",
+    "betreuungsbehörde",
+    "kategorie:arbeitshilfen",
+    "fortbildung",
+    "link-liste"
   ]
 }
