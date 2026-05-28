@@ -2074,6 +2074,7 @@
     "personalausweis",
     "personenstand",
     "polizeirecht",
+    "postkontrolle",
     "prozessfähigkeit",
     "prozessführung",
     "prozessführung",
@@ -3777,6 +3778,7 @@
     "personenstand",
     "personenstand",
     "persönliches-budget",
+    "postkontrolle",
     "rechtspfleger",
     "selbstverwaltung-der-deutschen-gemeinden",
     "subsidiaritätsprinzip",
@@ -6103,6 +6105,7 @@
     "it-sicherheit",
     "it-sicherheit",
     "informationspflicht",
+    "postkontrolle",
     "rechtsverkehr-in-deutschland",
     "sachkundelehrgang",
     "sozialpsychiatrischer-dienst",
@@ -6463,6 +6466,7 @@
     "neu",
     "neu",
     "neu",
+    "neu",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "patientenverfügung",
     "personenstand",
@@ -6656,6 +6660,7 @@
     "meldepflicht",
     "mittellosigkeit",
     "mündelgeld",
+    "neu",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "patientenverfügung",
@@ -10752,7 +10757,8 @@
   ],
   "willenserklärung": [
     "bankvollmacht",
-    "eherecht-und-betreuung"
+    "eherecht-und-betreuung",
+    "postkontrolle"
   ],
   "sondern": [
     "bankvollmacht",
@@ -12987,6 +12993,7 @@
     "geldanlage",
     "mittellosigkeit",
     "mündelgeld",
+    "neu",
     "online-lexikon-betreuungsrecht:datenschutz",
     "online-lexikon-betreuungsrecht:datenschutz",
     "online-lexikon-betreuungsrecht:datenschutz",
@@ -13547,6 +13554,7 @@
     "grundstück",
     "kirchenaustritt",
     "kirchenaustritt",
+    "neu",
     "neu",
     "neu",
     "sachkundenachweis",
@@ -20087,6 +20095,7 @@
   "zustellung": [
     "mahnverfahren",
     "mahnverfahren",
+    "postkontrolle",
     "prozessführung",
     "strafprozess",
     "strafprozess",
@@ -20553,6 +20562,9 @@
     "neu"
   ],
   "digitaler": [
+    "neu"
+  ],
+  "schriftstücke": [
     "neu"
   ],
   "großen": [
