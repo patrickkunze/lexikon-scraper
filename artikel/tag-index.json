@@ -1170,6 +1170,7 @@
     "wohnungsauflösung",
     "wohnungsauflösung",
     "zuführung-zur-unterbringung",
+    "zug-um-zug-leistung",
     "zugangsrecht",
     "zwangsbehandlung",
     "zwangsbehandlung",
@@ -1177,6 +1178,7 @@
     "zwangsbehandlung",
     "zwangsbehandlung",
     "zwangsbehandlung",
+    "zwangsvollstreckung",
     "zwangsvollstreckung",
     "zwangsvollstreckung",
     "zwangsvollstreckung"
@@ -2973,7 +2975,6 @@
     "sterbehilfe",
     "sterilisationsbetreuer",
     "sterilisationsbetreuer",
-    "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "vaterschaftsanerkennung",
     "verbraucherstreitbeilegung",
     "verfahrensfähigkeit",
@@ -3796,6 +3797,7 @@
     "zug-um-zug-leistung",
     "zug-um-zug-leistung",
     "zug-um-zug-leistung",
+    "zug-um-zug-leistung",
     "zugangsrecht",
     "zugangsrecht",
     "zugangsrecht"
@@ -4311,7 +4313,8 @@
     "wohnungsangelegenheiten",
     "wohnungsauflösung",
     "wohnungsauflösung",
-    "wohnungsauflösung"
+    "wohnungsauflösung",
+    "zwangsvollstreckung"
   ],
   "betreuten": [
     "altenheim",
@@ -10376,7 +10379,8 @@
     "werkstatt-für-behinderte-menschen"
   ],
   "leistung": [
-    "auskunftspflicht"
+    "auskunftspflicht",
+    "zug-um-zug-leistung"
   ],
   "eingliederung": [
     "auskunftspflicht"
@@ -11530,7 +11534,8 @@
     "rente",
     "tod-des-betreuers",
     "unterstützungspflicht",
-    "vermögenssorge"
+    "vermögenssorge",
+    "zwangsvollstreckung"
   ],
   "handzeichen": [
     "beglaubigung-durch-betreuungsbehörde",
@@ -12007,7 +12012,8 @@
     "testierfähigkeit",
     "unterbringung",
     "unterbringungsverfahren",
-    "vermögenssorge"
+    "vermögenssorge",
+    "zwangsvollstreckung"
   ],
   "sofern": [
     "behördenbetreuer",
@@ -12706,6 +12712,7 @@
     "betreuungsausweis",
     "elektronischer-identitätsnachweis",
     "personalausweis",
+    "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "zugriffsrecht"
   ],
   "ehrenamtlicher": [
@@ -16721,6 +16728,7 @@
   ],
   "schuldner": [
     "eidesstattliche-versicherung",
+    "zug-um-zug-leistung",
     "zwangsvollstreckung",
     "zwangsvollstreckung",
     "zwangsvollstreckung"
@@ -16952,7 +16960,8 @@
     "genehmigung-der-heilbehandlung",
     "genehmigungen-von-a-bis-z",
     "unterbringungsähnliche-maßnahme",
-    "vorsorgevollmacht---vertiefte-infos"
+    "vorsorgevollmacht---vertiefte-infos",
+    "zwangsvollstreckung"
   ],
   "sexuelle": [
     "einwilligungsfähigkeit",
@@ -23710,6 +23719,9 @@
   "abtretung": [
     "zug-um-zug-leistung"
   ],
+  "gläubigers": [
+    "zug-um-zug-leistung"
+  ],
   "gebrauch": [
     "zugangsrecht"
   ],
@@ -23832,6 +23844,7 @@
     "zwangsvollstreckung"
   ],
   "schuldners": [
+    "zwangsvollstreckung",
     "zwangsvollstreckung"
   ],
   "zwangsversteigerungsverfahrens": [
@@ -23841,6 +23854,18 @@
     "zwangsvollstreckung"
   ],
   "vollstreckungsgericht": [
+    "zwangsvollstreckung"
+  ],
+  "vollstreckungshandlung": [
+    "zwangsvollstreckung"
+  ],
+  "angriffen": [
+    "zwangsvollstreckung"
+  ],
+  "befugt": [
+    "zwangsvollstreckung"
+  ],
+  "behältnisse": [
     "zwangsvollstreckung"
   ],
   "inso": [
