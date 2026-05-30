@@ -646,6 +646,7 @@
     "schlusstätigkeiten",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
+    "schuldnerverzeichnis",
     "schweigepflicht",
     "schweigepflicht",
     "schweigepflicht",
@@ -1547,6 +1548,7 @@
     "schenkung",
     "schleswig-holstein",
     "schlusstätigkeiten",
+    "schuldnerverzeichnis",
     "selbstbestimmung",
     "selbstverwaltung-der-deutschen-gemeinden",
     "selbstverwaltungserklärung",
@@ -2967,6 +2969,7 @@
     "registrierung",
     "registrierung",
     "sachkundenachweis",
+    "schuldnerverzeichnis",
     "schweigepflicht",
     "selbstbestimmung",
     "selbstbestimmung",
@@ -4490,6 +4493,7 @@
     "schlusstätigkeiten",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
+    "schuldnerverzeichnis",
     "schweigepflicht",
     "schweigepflicht",
     "selbstbestimmung",
@@ -7828,6 +7832,8 @@
     "girokonto",
     "mündelgeld",
     "schlussrechnungslegung",
+    "schuldnerverzeichnis",
+    "schuldnerverzeichnis",
     "vermögensverzeichnis",
     "vermögensverzeichnis",
     "wohn--und-betreuungsvertragsgesetz"
@@ -8260,6 +8266,7 @@
     "anzeigepflicht",
     "elektronischer-identitätsnachweis",
     "geschäftsfähigkeit",
+    "unterstützungspflicht",
     "unterstützungspflicht",
     "verfahrensfähigkeit"
   ],
@@ -9310,7 +9317,6 @@
     "sterbehilfedokumente",
     "synopse-patientenverfügungsgesetze",
     "ubg",
-    "unterstützungspflicht",
     "vormundschaftsgericht",
     "vormünder--und-betreuervergütungsgesetz",
     "vormünder--und-betreuervergütungsgesetz"
@@ -10357,6 +10363,7 @@
   "gläubiger": [
     "auskunftspflicht",
     "erbschaft",
+    "schuldnerverzeichnis",
     "verfahrensfähigkeit",
     "vermögensverzeichnis"
   ],
@@ -10835,6 +10842,7 @@
     "datenschutz",
     "einwilligungsvorbehalt",
     "prozessführung",
+    "schuldnerverzeichnis",
     "vbvg-rechtsprechung"
   ],
   "vormundschaften": [
@@ -11182,7 +11190,6 @@
     "tod-des-betreuten",
     "tod-des-betreuten",
     "unfallversicherung",
-    "unterstützungspflicht",
     "verbraucherstreitbeilegung",
     "vertretung-gegenüber-behörden",
     "wohn--und-betreuungsvertragsgesetz"
@@ -12012,6 +12019,7 @@
     "testierfähigkeit",
     "unterbringung",
     "unterbringungsverfahren",
+    "unterstützungspflicht",
     "vermögenssorge",
     "zwangsvollstreckung"
   ],
@@ -12551,6 +12559,7 @@
     "erbausschlagung",
     "erbschaft",
     "kindschaftsrecht",
+    "schuldnerverzeichnis",
     "vaterschaftsanerkennung"
   ],
   "grundstück": [
@@ -15160,6 +15169,7 @@
     "betreuungsverfügung",
     "gerichtsbeschluss",
     "kirchenaustritt",
+    "schuldnerverzeichnis",
     "vermögensverzeichnis",
     "vertreterdokumentation"
   ],
@@ -16658,6 +16668,7 @@
     "ehrenamtler",
     "ehrenamtlicher-betreuer",
     "pflicht-zur-betreuungsübernahme",
+    "schuldnerverzeichnis",
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "verpflichtungsgespräch"
   ],
@@ -21828,6 +21839,21 @@
     "strafanzeige",
     "strafverfahren"
   ],
+  "anzugeben": [
+    "schuldnerverzeichnis",
+    "vermögensverzeichnis",
+    "vermögensverzeichnis",
+    "vermögensverzeichnis"
+  ],
+  "schuldnerverzeichnis": [
+    "schuldnerverzeichnis"
+  ],
+  "schuldnerverzeichnisses": [
+    "schuldnerverzeichnis"
+  ],
+  "schufv": [
+    "schuldnerverzeichnis"
+  ],
   "keinerlei": [
     "schweigepflicht"
   ],
@@ -22952,7 +22978,7 @@
   "gesundheit": [
     "unterstützungspflicht"
   ],
-  "erfolg": [
+  "garantenstellung": [
     "unterstützungspflicht"
   ],
   "entschädigung": [
@@ -23197,11 +23223,6 @@
     "vermögensverzeichnis"
   ],
   "kurswert": [
-    "vermögensverzeichnis"
-  ],
-  "anzugeben": [
-    "vermögensverzeichnis",
-    "vermögensverzeichnis",
     "vermögensverzeichnis"
   ],
   "zählen": [

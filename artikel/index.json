@@ -1501,6 +1501,10 @@
       "titel": "Schuldfähigkeit"
     },
     {
+      "id": "schuldnerverzeichnis",
+      "titel": "Schuldnerverzeichnis"
+    },
+    {
       "id": "schweigepflicht",
       "titel": "Schweigepflicht"
     },
