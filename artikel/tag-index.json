@@ -82,6 +82,7 @@
     "familienangehörige",
     "fem",
     "forum-url",
+    "garantenpflicht",
     "genehmigung-der-sterilisation",
     "genehmigungen",
     "gerichtsverfahren",
@@ -5962,6 +5963,7 @@
     "digitale-barrierefreiheit",
     "freier-wille",
     "föderalismus",
+    "garantenpflicht",
     "geheimhaltungspflicht",
     "geschäftsfähigkeit",
     "gesetzgebung",
@@ -7654,6 +7656,7 @@
     "insichgeschäft",
     "mündelgeld",
     "mündelgeld",
+    "schuldnerverzeichnis",
     "selbstverwaltungserklärung",
     "sozialhilfe",
     "sozialhilfe",
@@ -7835,7 +7838,6 @@
     "girokonto",
     "mündelgeld",
     "schlussrechnungslegung",
-    "schuldnerverzeichnis",
     "schuldnerverzeichnis",
     "vermögensverzeichnis",
     "vermögensverzeichnis",
@@ -9036,6 +9038,7 @@
     "ergänzungsbetreuer",
     "freibetrag",
     "freier-wille",
+    "garantenpflicht",
     "kirchenaustritt",
     "sozialhilfe",
     "unterstützungspflicht"
@@ -11240,6 +11243,7 @@
     "geldanlage",
     "genehmigungspflichten",
     "meldepflicht",
+    "schuldnerverzeichnis",
     "vermögenssorge",
     "vermögensverzeichnis",
     "wohnungsauflösung"
@@ -11306,7 +11310,6 @@
   ],
   "zugriffsrecht": [
     "befreiter-betreuer",
-    "informationspflicht",
     "medikationsplan",
     "personalausweis",
     "postkontrolle",
@@ -12563,7 +12566,6 @@
     "erbausschlagung",
     "erbschaft",
     "kindschaftsrecht",
-    "schuldnerverzeichnis",
     "vaterschaftsanerkennung"
   ],
   "grundstück": [
@@ -17881,6 +17883,13 @@
     "psychisch-kranken-gesetz",
     "verhältnismäßigkeitsprinzip"
   ],
+  "garantenstellung": [
+    "garantenpflicht",
+    "unterstützungspflicht"
+  ],
+  "strafrecht": [
+    "garantenpflicht"
+  ],
   "gegenbetreuers": [
     "gegenbetreuer",
     "gegenbetreuer",
@@ -19061,6 +19070,7 @@
   ],
   "postkontrolle": [
     "grundrechte",
+    "informationspflicht",
     "ordre-public",
     "postverkehr"
   ],
@@ -19900,6 +19910,7 @@
   ],
   "zentrales": [
     "kontrollbetreuer",
+    "schuldnerverzeichnis",
     "testierfähigkeit",
     "vorsorgeregister",
     "vorsorgeregisterverordnung",
@@ -21859,6 +21870,18 @@
   "schufv": [
     "schuldnerverzeichnis"
   ],
+  "länderübergreifendes": [
+    "schuldnerverzeichnis"
+  ],
+  "abrufportal": [
+    "schuldnerverzeichnis"
+  ],
+  "einträge": [
+    "schuldnerverzeichnis"
+  ],
+  "schuldnerverzeichnissen": [
+    "schuldnerverzeichnis"
+  ],
   "keinerlei": [
     "schweigepflicht"
   ],
@@ -22981,9 +23004,6 @@
     "zwangsvollstreckung"
   ],
   "gesundheit": [
-    "unterstützungspflicht"
-  ],
-  "garantenstellung": [
     "unterstützungspflicht"
   ],
   "entschädigung": [
