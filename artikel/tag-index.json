@@ -2161,6 +2161,7 @@
   "betreuungsvereine": [
     "abschlussbericht",
     "ausbildung",
+    "baden-württemberg",
     "bayern",
     "betreuungsverein",
     "betreuungsverein",
@@ -3635,7 +3636,6 @@
     "betreuungsverfahren",
     "hauptseite",
     "mittellosigkeit",
-    "neu",
     "neu"
   ],
   "rechtsinstitut": [
@@ -8987,7 +8987,8 @@
   ],
   "sogenannten": [
     "assistenzleistungen",
-    "mdk-gutachten"
+    "mdk-gutachten",
+    "neu"
   ],
   "erklärung": [
     "assistenzleistungen",
@@ -10758,17 +10759,6 @@
   "kvjs": [
     "baden-württemberg"
   ],
-  "psychisch": [
-    "baden-württemberg",
-    "datenschutz",
-    "psychisch-kranken-gesetz",
-    "psychisch-kranken-gesetz",
-    "sozialpsychiatrischer-dienst",
-    "ubg",
-    "unterbringung",
-    "unterbringungsverfahren",
-    "zwangsbehandlung"
-  ],
   "handeln": [
     "bankvollmacht",
     "gesetzliche-vertretung"
@@ -11949,7 +11939,8 @@
     "psychisch-kranken-gesetz"
   ],
   "bundesweit": [
-    "behindertenkonvention"
+    "behindertenkonvention",
+    "neu"
   ],
   "übereinkommens": [
     "behindertenkonvention"
@@ -12943,8 +12934,7 @@
   ],
   "betreuungsrechtes": [
     "betreuer-als-erbe",
-    "betreuungsgesetz",
-    "neu"
+    "betreuungsgesetz"
   ],
   "verfügungen": [
     "betreuer-als-erbe",
@@ -14626,6 +14616,7 @@
     "betreuungszahlen",
     "betreuungszahlen",
     "intellektuelle-beeinträchtigung",
+    "neu",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
     "sterilisationsbetreuer",
     "stundensatz"
@@ -15294,6 +15285,7 @@
     "betreuungszahlen",
     "digitale-barrierefreiheit",
     "kontrollbetreuer",
+    "neu",
     "neu",
     "registrierung",
     "vorsorgeregister",
@@ -16031,6 +16023,16 @@
   "gliedstaaten": [
     "datenschutz"
   ],
+  "psychisch": [
+    "datenschutz",
+    "psychisch-kranken-gesetz",
+    "psychisch-kranken-gesetz",
+    "sozialpsychiatrischer-dienst",
+    "ubg",
+    "unterbringung",
+    "unterbringungsverfahren",
+    "zwangsbehandlung"
+  ],
   "kranken": [
     "datenschutz",
     "gesundheitsdatennutzungsgesetz",
@@ -16413,6 +16415,7 @@
     "gesundheitssorge",
     "informationspflicht",
     "medikationsplan",
+    "neu",
     "vorsorgeregister"
   ],
   "schweiz": [
@@ -16578,6 +16581,7 @@
     "ehefähigkeit",
     "ehegattenvertretungsrecht",
     "gesetzliche-vertretung",
+    "neu",
     "personenstand",
     "psychisch-kranken-gesetz",
     "schlüsselgewalt",
@@ -17896,21 +17900,22 @@
     "gegenbetreuer"
   ],
   "abgeschafft": [
-    "gegenbetreuer"
+    "gegenbetreuer",
+    "neu"
   ],
   "beabsichtigten": [
     "gegenbetreuer"
   ],
   "gegenbetreuer": [
     "gegenbetreuer",
-    "kontrollbetreuer"
+    "kontrollbetreuer",
+    "neu"
   ],
   "abschaffung": [
     "gegenbetreuer"
   ],
   "einführung": [
     "gegenbetreuer",
-    "neu",
     "neu",
     "neu"
   ],
@@ -20603,7 +20608,7 @@
   "schriftstücke": [
     "neu"
   ],
-  "großen": [
+  "ärztinnen": [
     "neu"
   ],
   "zettelwirtschaft": [
