@@ -627,6 +627,7 @@
     "rechtsanwalt",
     "rechtsanwalt",
     "rechtsanwalt",
+    "rechtsprechung-zum-verfahrenspfleger",
     "registrierung",
     "registrierung",
     "registrierung",
@@ -889,6 +890,7 @@
     "rechtsmittel",
     "rechtsprechung-zur-anhörung",
     "rechtsverkehr-in-deutschland",
+    "rechtsweg-in-deutschland",
     "rechtsweg-in-deutschland",
     "rente",
     "rundfunkbeitrag",
@@ -1346,6 +1348,7 @@
     "rechnungslegung",
     "rechtsanwalt",
     "rechtsanwalt",
+    "rechtsprechung-zum-verfahrenspfleger",
     "registrierung",
     "regress-der-staatskasse",
     "regress-der-staatskasse",
@@ -1932,6 +1935,8 @@
     "rechtsanwalt",
     "rechtsmittel",
     "rechtsprechung-zum-sachverständigengutachten",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zur-anhörung",
     "rechtsprechung-zur-anhörung",
     "rechtsprechung-zur-anhörung",
@@ -2091,6 +2096,9 @@
     "rechtsprechung-zum-sachverständigengutachten",
     "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
     "registrierung",
     "sachverständigengutachten",
     "sachverständigengutachten",
@@ -2208,6 +2216,7 @@
     "kontrollbetreuer",
     "personalausweis",
     "personalausweis",
+    "vorsorgevollmacht",
     "vorsorgevollmacht",
     "vorsorgevollmacht",
     "vorsorgevollmacht",
@@ -2519,6 +2528,7 @@
     "personalausweis",
     "persönliches-budget",
     "prozesspfleger",
+    "rechtsweg-in-deutschland",
     "sachverständigengutachten",
     "selbstbestimmung",
     "spielwiese",
@@ -2774,6 +2784,7 @@
     "rechtsmittel",
     "rechtsmittel",
     "rechtspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
     "registrierung",
     "registrierung",
     "registrierung",
@@ -3114,6 +3125,10 @@
     "rechtsprechung-zum-sachverständigengutachten",
     "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zur-anhörung",
     "rechtsprechung-zur-anhörung",
     "sachverständigengutachten",
@@ -3246,6 +3261,7 @@
     "rechnungslegung",
     "rechtsmittel",
     "rechtsprechung",
+    "rechtsprechung-zum-verfahrenspfleger",
     "registrierung",
     "regress-der-staatskasse",
     "rente",
@@ -3315,6 +3331,7 @@
     "gesetzestexte",
     "kontrollbetreuer",
     "mittellosigkeit",
+    "rechtsprechung-zum-verfahrenspfleger",
     "regress-der-staatskasse",
     "vbvg-rechtsprechung",
     "verfahrenspfleger",
@@ -3364,6 +3381,7 @@
     "hauptseite",
     "querschnittsaufgaben",
     "querschnittsaufgaben",
+    "rechtsprechung-zum-verfahrenspfleger",
     "stammbehörde",
     "unterbringungsverfahren",
     "unterschriftsbeglaubigung",
@@ -3787,6 +3805,7 @@
     "persönliches-budget",
     "postkontrolle",
     "rechtspfleger",
+    "rechtsweg-in-deutschland",
     "selbstverwaltung-der-deutschen-gemeinden",
     "subsidiaritätsprinzip",
     "unterstützungspflicht",
@@ -3873,6 +3892,7 @@
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz",
     "rechtsprechung-zum-sachverständigengutachten",
+    "rechtsprechung-zum-verfahrenspfleger",
     "registrierung",
     "schenkung",
     "sozialhilfe",
@@ -4950,6 +4970,14 @@
     "rechtsprechung-zum-sachverständigengutachten",
     "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zur-anhörung",
     "rechtsprechung-zur-anhörung",
     "rechtsprechung-zur-anhörung",
@@ -5070,7 +5098,6 @@
     "vermögensverzeichnis",
     "vermögensverzeichnis",
     "vertretung-gegenüber-behörden",
-    "vorsorgevollmacht",
     "wahlrecht",
     "wahlrecht",
     "wahlrecht"
@@ -8245,6 +8272,8 @@
     "rechtsanwalt",
     "rechtsanwalt",
     "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
     "sachkundelehrgang",
     "sterbehilfe",
     "strafprozess",
@@ -8606,7 +8635,6 @@
   "verlangen": [
     "arbeitsvertrag",
     "auskunftspflicht",
-    "eidesstattliche-versicherung",
     "eidesstattliche-versicherung"
   ],
   "arbeitsverträge": [
@@ -9276,6 +9304,7 @@
     "ergänzungsbetreuer",
     "heimmitarbeiter-als-betreuer",
     "jahresbericht",
+    "rechtsprechung-zum-verfahrenspfleger",
     "sachverständigengutachten",
     "schenkung"
   ],
@@ -9547,6 +9576,7 @@
     "gesetzestexte",
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
+    "rechtsprechung-zum-verfahrenspfleger",
     "sachkundenachweis",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
@@ -9903,6 +9933,7 @@
     "betreuungsbehörde",
     "betreuungsverein",
     "betreuungszahlen",
+    "rechtsprechung-zum-verfahrenspfleger",
     "sterilisation",
     "sterilisationsbetreuer",
     "sterilisationsbetreuer",
@@ -10011,6 +10042,7 @@
     "betreuervergütung",
     "corona",
     "diskriminierungsverbot",
+    "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
     "heilbehandlung",
     "impressum",
@@ -11136,6 +11168,8 @@
     "prozesspfleger",
     "rechtspfleger",
     "rechtspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zum-verfahrenspfleger",
     "selbstbestimmung",
     "strafprozess",
@@ -12425,6 +12459,10 @@
     "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
     "rechtsweg-in-deutschland",
     "sterilisation",
     "stundensatz",
@@ -13144,7 +13182,8 @@
   "mitarbeiter": [
     "betreuerbestellung",
     "betreuungsgerichtshilfe",
-    "betreuungsverein"
+    "betreuungsverein",
+    "rechtsprechung-zum-verfahrenspfleger"
   ],
   "altenheimes": [
     "betreuerbestellung"
@@ -16005,7 +16044,6 @@
     "datenschutz",
     "vorsorgevollmacht",
     "vorsorgevollmacht",
-    "vorsorgevollmacht",
     "vorsorgevollmacht---vertiefte-infos"
   ],
   "bevollmächtigter": [
@@ -17708,6 +17746,7 @@
   "verfahrenspflegers": [
     "freibetrag",
     "gerichtskosten",
+    "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zum-verfahrenspfleger",
     "unterbringungsverfahren",
     "verfahrenspfleger",
@@ -19712,6 +19751,7 @@
   "gerichte": [
     "jahresbericht",
     "rechtsprechung",
+    "rechtsweg-in-deutschland",
     "registrierung",
     "schenkung"
   ],
@@ -19934,6 +19974,7 @@
     "pflicht-zur-betreuungsübernahme",
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "verhinderungsbetreuer",
+    "vorsorgevollmacht",
     "vorsorgevollmacht",
     "werkstatt-für-behinderte-menschen"
   ],
@@ -20288,7 +20329,8 @@
     "registrierung"
   ],
   "anschluss": [
-    "mittellosigkeit"
+    "mittellosigkeit",
+    "rechtsprechung-zum-verfahrenspfleger"
   ],
   "barvermögen": [
     "mittellosigkeit"
@@ -21525,6 +21567,13 @@
   "rechtsp": [
     "rechtsprechung"
   ],
+  "rechtsanwalts": [
+    "rechtsprechung-zum-verfahrenspfleger"
+  ],
+  "abgabe": [
+    "rechtsprechung-zum-verfahrenspfleger",
+    "zwangsvollstreckung"
+  ],
   "entscheiden": [
     "rechtsprechung-zur-unterbringung"
   ],
@@ -21551,6 +21600,9 @@
   ],
   "zugangsrecht": [
     "rechtsverkehr-in-deutschland"
+  ],
+  "ausgeübt": [
+    "rechtsweg-in-deutschland"
   ],
   "folge": [
     "registrierung"
@@ -23891,9 +23943,6 @@
     "zwangsvollstreckung"
   ],
   "vermögensauskunft": [
-    "zwangsvollstreckung"
-  ],
-  "abgabe": [
     "zwangsvollstreckung"
   ],
   "schuldners": [
