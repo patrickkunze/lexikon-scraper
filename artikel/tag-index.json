@@ -2499,6 +2499,7 @@
     "erbschaft",
     "erbschaft",
     "erbschaft",
+    "erweiterte-unterstützung",
     "erörterungsgespräch",
     "familienverfahrensgesetz",
     "gerichtskosten",
@@ -7740,7 +7741,8 @@
   ],
   "andere": [
     "anlagegeld",
-    "elektronisches-gerichts--und-verwaltungspostfach"
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "erweiterte-unterstützung"
   ],
   "geldanlagen": [
     "anlagegeld",
@@ -7860,7 +7862,6 @@
     "anlagegeld",
     "betreuungsplan",
     "diskriminierungsverbot",
-    "e-rechnung",
     "gesetzestexte",
     "girokonto",
     "mündelgeld",
@@ -8844,6 +8845,7 @@
     "mdk-gutachten",
     "rechtsprechung-zum-sachverständigengutachten",
     "rechtsweg-in-deutschland",
+    "sachkundelehrgang",
     "sachverständigengutachten"
   ],
   "schriftliche": [
@@ -9137,7 +9139,6 @@
     "behindertenkonvention",
     "betreuerhaftung",
     "betreuerpflichten",
-    "betreuungsbehörde",
     "betreuungsgericht",
     "einstweilige-anordnung",
     "familienverfahrensgesetz",
@@ -10003,6 +10004,7 @@
     "aufwandspauschale",
     "besonderer-vertreter-im-verwaltungsverfahren",
     "betreuervergütung-2019",
+    "e-rechnung",
     "ergänzungsbetreuer",
     "ermessensvergütung",
     "stundensatz",
@@ -11807,6 +11809,7 @@
     "betreuungsvoraussetzung",
     "eingliederungshilfe",
     "erbschaft",
+    "erweiterte-unterstützung",
     "sozialhilfe"
   ],
   "evaluation": [
@@ -12113,6 +12116,7 @@
   ],
   "unterstützung": [
     "beratung",
+    "betreuungsbehörde",
     "kooperationsvereinbarung",
     "unterstützungspflicht",
     "unterstützungspflicht",
@@ -12406,7 +12410,8 @@
     "betreuungszahlen"
   ],
   "bearbeitet": [
-    "besonderer-vertreter-im-verwaltungsverfahren"
+    "besonderer-vertreter-im-verwaltungsverfahren",
+    "erweiterte-unterstützung"
   ],
   "verwaltungsverfahren": [
     "besonderer-vertreter-im-verwaltungsverfahren",
@@ -13630,6 +13635,7 @@
   "bürkel": [
     "betreuerregistrierungsverordnung",
     "betreuungsorganisationsgesetz",
+    "erweiterte-unterstützung",
     "registrierung"
   ],
   "bestandsbetreuern": [
@@ -14285,8 +14291,7 @@
     "betreuervorschlag",
     "btregv",
     "btregvo",
-    "btregv",
-    "sachkundelehrgang"
+    "btregv"
   ],
   "besser": [
     "betreuervorschlag"
@@ -14475,16 +14480,8 @@
     "betreuungsbehörde",
     "querschnittsarbeit"
   ],
-  "zuführung": [
-    "betreuungsbehörde",
-    "betreuungsgesetz",
-    "querschnittsaufgaben",
-    "rechtsverkehr-in-deutschland",
-    "unterbringungsverfahren",
-    "vorführung",
-    "wohnungsangelegenheiten",
-    "zuführung",
-    "zuführung-zur-unterbringung"
+  "erweiterte": [
+    "betreuungsbehörde"
   ],
   "walther": [
     "betreuungsbehörde",
@@ -14713,6 +14710,16 @@
     "selbstverwaltung-der-deutschen-gemeinden",
     "waffenbesitz",
     "wahlrecht"
+  ],
+  "zuführung": [
+    "betreuungsgesetz",
+    "querschnittsaufgaben",
+    "rechtsverkehr-in-deutschland",
+    "unterbringungsverfahren",
+    "vorführung",
+    "wohnungsangelegenheiten",
+    "zuführung",
+    "zuführung-zur-unterbringung"
   ],
   "bundestagsdrucksache": [
     "betreuungsgesetz"
@@ -16811,6 +16818,7 @@
   ],
   "hilfen": [
     "eingliederungshilfe",
+    "erweiterte-unterstützung",
     "hauptseite",
     "krankenhaussozialdienst",
     "psychisch-kranken-gesetz",
@@ -17575,6 +17583,12 @@
     "geldanlage",
     "genehmigungen-von-a-bis-z",
     "mündelgeld"
+  ],
+  "demnächst": [
+    "erweiterte-unterstützung"
+  ],
+  "kontext": [
+    "erweiterte-unterstützung"
   ],
   "erziehungsmaßregeln": [
     "erziehungsmaßregeln"

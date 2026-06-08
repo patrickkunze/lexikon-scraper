@@ -1,7 +1,7 @@
 {
   "id": "sachkundelehrgang",
   "titel": "Sachkundelehrgang",
-  "inhalt": "Der seit 1.1.2023 gesetzlich notwendige Sachkundelehrgang für registrierte rechtliche (Berufs-)Betreuer und Betreuerinnen in Deutschland wurde in der [Betreuerregistrierungsverordnung](betreuerregistrierungsverordnung) geregelt.\n\nListe aller zertifizierten Sachkundeanbieter (PDF)\n\nSiehe auch\n [Registrierung](registrierung), [Berufsbetreuer](berufsbetreuer), [Rechtsanwalt](rechtsanwalt)\n [Betreuerregistrierungsverordnung](betreuerregistrierungsverordnung)\n [Sachkundenachweis](sachkundenachweis)\n [Betreuungsrechtliche Praxis](betreuungsrechtliche-praxis)\n [Ausbildung](ausbildung)\n [Unterstützte Entscheidungsfindung](unterstützte-entscheidungsfindung)\n\n[Kategorie:Berufsbetreuer](kategorie:berufsbetreuer)\n[Kategorie:Betreuungsreform 2023](kategorie:betreuungsreform-2023)\n[Kategorie:Betreuerpflichten](kategorie:betreuerpflichten)",
+  "inhalt": "Der seit 1.1.2023 gesetzlich notwendige Sachkundelehrgang für registrierte rechtliche (Berufs-)Betreuer und Betreuerinnen in Deutschland wurde in der [Betreuerregistrierungsverordnung](betreuerregistrierungsverordnung) geregelt.\n\nListe aller zertifizierten Sachkundeanbieter (PDF)\n\nSiehe auch\n [Registrierung](registrierung), [Berufsbetreuer](berufsbetreuer), [Rechtsanwalt](rechtsanwalt)\n [Betreuerregistrierungsverordnung](betreuerregistrierungsverordnung)\n [Sachkundenachweis](sachkundenachweis), [Sachverständigengutachten](sachverständigengutachten), [Rechtsprechung zum Sachverständigengutachten](rechtsprechung-zum-sachverständigengutachten)\n [Betreuungsrechtliche Praxis](betreuungsrechtliche-praxis)\n [Ausbildung](ausbildung)\n [Unterstützte Entscheidungsfindung](unterstützte-entscheidungsfindung)\n\n[Kategorie:Berufsbetreuer](kategorie:berufsbetreuer)\n[Kategorie:Betreuungsreform 2023](kategorie:betreuungsreform-2023)\n[Kategorie:Betreuerpflichten](kategorie:betreuerpflichten)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -16,28 +16,30 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Registrierung, Berufsbetreuer, Rechtsanwalt\n Betreuerregistrierungsverordnung\n Sachkundenachweis\n Betreuungsrechtliche Praxis\n Ausbildung\n Unterstützte Entscheidungsfindung\n\nKategorie:Berufsbetreuer\nKategorie:Betreuungsreform 2023\nKategorie:Betreuerpflichten",
+      "inhalt": "Registrierung, Berufsbetreuer, Rechtsanwalt\n Betreuerregistrierungsverordnung\n Sachkundenachweis, Sachverständigengutachten, Rechtsprechung zum Sachverständigengutachten\n Betreuungsrechtliche Praxis\n Ausbildung\n Unterstützte Entscheidungsfindung\n\nKategorie:Berufsbetreuer\nKategorie:Betreuungsreform 2023\nKategorie:Betreuerpflichten",
       "tags": [
         "kategorie",
         "berufsbetreuer",
+        "sachverständigengutachten",
         "registrierung",
-        "rechtsanwalt",
-        "betreuerregistrierungsverordnung"
+        "rechtsanwalt"
       ]
     }
   ],
   "zusammenfassung": "Der seit 1.1.2023 gesetzlich notwendige Sachkundelehrgang für registrierte rechtliche (Berufs-)Betreuer und Betreuerinnen in Deutschland wurde in der [Betreuerregistrierungsverordnung](betreuerregistrierungsverordnung) geregelt.\n\nListe aller zertifizierten Sachkundeanbieter (PDF)\n\nSiehe auch\n [Regis...",
   "verwandteArtikel": [
-    "rechtsanwalt",
-    "betreuungsrechtliche-praxis",
-    "kategorie:betreuungsreform-2023",
+    "berufsbetreuer",
+    "rechtsprechung-zum-sachverständigengutachten",
+    "unterstützte-entscheidungsfindung",
+    "kategorie:betreuerpflichten",
     "kategorie:berufsbetreuer",
     "sachkundenachweis",
-    "berufsbetreuer",
-    "ausbildung",
-    "unterstützte-entscheidungsfindung",
-    "betreuerregistrierungsverordnung",
+    "rechtsanwalt",
+    "sachverständigengutachten",
+    "betreuungsrechtliche-praxis",
+    "kategorie:betreuungsreform-2023",
     "registrierung",
-    "kategorie:betreuerpflichten"
+    "ausbildung",
+    "betreuerregistrierungsverordnung"
   ]
 }
