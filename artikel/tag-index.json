@@ -7428,6 +7428,7 @@
     "rechtsprechung-zur-unterbringung",
     "rechtsweg-in-deutschland",
     "sachverständigengutachten",
+    "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme",
     "vbvg-rechtsprechung",
     "verfahrenspfleger",
@@ -9058,7 +9059,6 @@
     "geheimhaltungspflicht",
     "gesamtplanverfahren",
     "persönliches-budget",
-    "psychisch-kranken-gesetz",
     "schwerbehindertenausweis",
     "unterstützungspflicht"
   ],
@@ -9156,8 +9156,10 @@
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz",
+    "psychisch-kranken-gesetz",
     "querschnittsaufgaben",
     "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zur-unterbringung",
     "rechtsprechung-zur-unterbringung",
     "unterbringung",
     "unterbringung",
@@ -14714,8 +14716,8 @@
   "zuführung": [
     "betreuungsgesetz",
     "querschnittsaufgaben",
+    "rechtsprechung-zur-unterbringung",
     "rechtsverkehr-in-deutschland",
-    "unterbringungsverfahren",
     "vorführung",
     "wohnungsangelegenheiten",
     "zuführung",
@@ -15023,6 +15025,7 @@
   "unterbringungsverfahren": [
     "betreuungssache",
     "prozessführung",
+    "rechtsprechung-zur-unterbringung",
     "unterbringung",
     "unterbringungssache",
     "unterbringungsverfahren",
@@ -17604,19 +17607,16 @@
   ],
   "maßregeln": [
     "erziehungsmaßregeln",
-    "maßregeln-der-besserung-und-sicherung",
-    "rechtsprechung-zur-unterbringung"
+    "maßregeln-der-besserung-und-sicherung"
   ],
   "besserung": [
     "erziehungsmaßregeln",
     "maßregeln-der-besserung-und-sicherung",
-    "maßregeln-der-besserung-und-sicherung",
-    "rechtsprechung-zur-unterbringung"
+    "maßregeln-der-besserung-und-sicherung"
   ],
   "sicherung": [
     "erziehungsmaßregeln",
-    "maßregeln-der-besserung-und-sicherung",
-    "rechtsprechung-zur-unterbringung"
+    "maßregeln-der-besserung-und-sicherung"
   ],
   "erörterung": [
     "erörterungsgespräch"
