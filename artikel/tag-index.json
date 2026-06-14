@@ -15346,7 +15346,8 @@
     "vorsorgeregisterverordnung",
     "vorsorgevollmacht---vertiefte-infos",
     "vorsorgevollmacht---vertiefte-infos",
-    "vorsorgevollmacht---vertiefte-infos"
+    "vorsorgevollmacht---vertiefte-infos",
+    "zugriffsrecht"
   ],
   "zahl": [
     "betreuungszahlen",
@@ -16465,7 +16466,8 @@
     "informationspflicht",
     "medikationsplan",
     "neu",
-    "vorsorgeregister"
+    "vorsorgeregister",
+    "zugriffsrecht"
   ],
   "schweiz": [
     "dokumentationspflicht",
@@ -23900,12 +23902,6 @@
     "zugriffsrecht"
   ],
   "heilberufs": [
-    "zugriffsrecht"
-  ],
-  "berufsausweise": [
-    "zugriffsrecht"
-  ],
-  "befähigen": [
     "zugriffsrecht"
   ],
   "berufsausweis": [
