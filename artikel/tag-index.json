@@ -6548,7 +6548,6 @@
     "meldepflicht",
     "nutzungspflicht",
     "psychisch-kranken-gesetz",
-    "querschnittsaufgaben",
     "registrierung",
     "sachkundenachweis",
     "sozialhilfe",
@@ -16058,7 +16057,8 @@
   ],
   "bevollmächtigter": [
     "datenschutz",
-    "meldepflicht"
+    "meldepflicht",
+    "querschnittsaufgaben"
   ],
   "dritten": [
     "datenschutz",
