@@ -3010,7 +3010,8 @@
     "vorsorgevollmacht",
     "vorsorgevollmacht",
     "zuführung-zur-unterbringung",
-    "zugangsrecht"
+    "zugangsrecht",
+    "zwangsvollstreckung"
   ],
   "satz": [
     "abschlussbericht",
@@ -11225,7 +11226,8 @@
     "unfallversicherung",
     "verbraucherstreitbeilegung",
     "vertretung-gegenüber-behörden",
-    "wohn--und-betreuungsvertragsgesetz"
+    "wohn--und-betreuungsvertragsgesetz",
+    "zwangsvollstreckung"
   ],
   "verletzt": [
     "beaufsichtigung"
@@ -19124,7 +19126,8 @@
     "grundrechte",
     "neu",
     "ordre-public",
-    "schwerbehindertenausweis"
+    "schwerbehindertenausweis",
+    "zwangsvollstreckung"
   ],
   "staatenbund": [
     "grundrechte"
@@ -20543,7 +20546,8 @@
     "neu"
   ],
   "insolvenzverfahren": [
-    "neu"
+    "neu",
+    "zwangsvollstreckung"
   ],
   "wirkung": [
     "neu"
@@ -23985,6 +23989,9 @@
     "zwangsvollstreckung"
   ],
   "insolvenzgericht": [
+    "zwangsvollstreckung"
+  ],
+  "mitgliedstaaten": [
     "zwangsvollstreckung"
   ],
   "verbraucherstreitbeilegung": [
