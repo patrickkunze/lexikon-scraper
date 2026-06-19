@@ -2837,7 +2837,6 @@
     "tod-des-betreuten",
     "tod-des-betreuten",
     "tod-des-betreuten",
-    "tod-des-betreuten",
     "trennungsgebot",
     "umgangsbestimmung",
     "unfallversicherung",
@@ -22711,6 +22710,9 @@
     "tod-des-betreuers"
   ],
   "standesamt": [
+    "tod-des-betreuten"
+  ],
+  "sterbeort": [
     "tod-des-betreuten"
   ],
   "benachrichtigung": [
