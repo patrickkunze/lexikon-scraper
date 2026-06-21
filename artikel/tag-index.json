@@ -191,8 +191,10 @@
     "aaa---betreuungsrechtsreform-2023",
     "betreuerregistrierungsverordnung",
     "betreuervergütung-2019",
+    "betreuungsbehörde",
     "betreuungsrechtsreform-2023",
     "betreuungsreform",
+    "erweiterte-unterstützung",
     "reform",
     "sachkundenachweis",
     "zugangsrecht",
@@ -442,6 +444,7 @@
     "betreuungskosten-im-steuerrecht",
     "betreuungsorganisationsgesetz",
     "betreuungsorganisationsgesetz",
+    "betreuungsrechtsreform",
     "betreuungsrechtsreform",
     "betreuungsverein",
     "betreuungsverfügung",
@@ -1489,6 +1492,7 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "erbausschlagung",
     "erbschaft",
+    "erweiterte-unterstützung",
     "erziehungsmaßregeln",
     "fgg",
     "famfg",
@@ -2657,6 +2661,7 @@
     "betreuungsbehörde",
     "betreuungsgerichtshilfe",
     "betreuungsplan",
+    "betreuungsrechtsreform",
     "betreuungsrichter",
     "betreuungssache",
     "betreuungsverein",
@@ -3379,6 +3384,7 @@
     "datenschutz",
     "datenschutz",
     "eingliederungshilfe",
+    "erweiterte-unterstützung",
     "gerichtsbeschluss",
     "hauptseite",
     "querschnittsaufgaben",
@@ -4512,6 +4518,7 @@
     "schenkung",
     "schenkung",
     "schenkung",
+    "schlussbericht",
     "schlussrechnungslegung",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
@@ -7312,6 +7319,7 @@
     "betreuerpflichten",
     "betreuervergütung",
     "betreuervergütung-2019",
+    "betreuungsrechtsreform",
     "betreuungsverfügung",
     "checkliste-betreuerpflichten",
     "erbausschlagung",
@@ -10605,7 +10613,8 @@
     "verfahrensfähigkeit"
   ],
   "eingeführte": [
-    "ausschließlichkeitserklärung"
+    "ausschließlichkeitserklärung",
+    "betreuungsrechtsreform"
   ],
   "hintergrund": [
     "ausschließlichkeitserklärung"
@@ -10965,7 +10974,6 @@
     "beratung",
     "beratung",
     "beratung",
-    "betreuungsbehörde",
     "betreuungsorganisationsgesetz",
     "bundesverband-freier-berufsbetreuer",
     "einverständniserklärung",
@@ -14474,15 +14482,16 @@
     "betreuungsorganisationsgesetz",
     "betreuungsrechtsreform",
     "btog",
+    "erweiterte-unterstützung",
     "gesetzestexte",
     "registrierung"
+  ],
+  "erweiterte": [
+    "betreuungsbehörde"
   ],
   "querschnittsaufgaben": [
     "betreuungsbehörde",
     "querschnittsarbeit"
-  ],
-  "erweiterte": [
-    "betreuungsbehörde"
   ],
   "walther": [
     "betreuungsbehörde",
@@ -14949,6 +14958,9 @@
     "tod-des-betreuers"
   ],
   "überprüfung": [
+    "betreuungsrechtsreform"
+  ],
+  "evaluiert": [
     "betreuungsrechtsreform"
   ],
   "gesetzentwurf": [
@@ -17595,6 +17607,11 @@
   "kontext": [
     "erweiterte-unterstützung"
   ],
+  "betreuungsalternativen": [
+    "erweiterte-unterstützung",
+    "patientenverfügung",
+    "synopse-patientenverfügungsgesetze"
+  ],
   "erziehungsmaßregeln": [
     "erziehungsmaßregeln"
   ],
@@ -19314,8 +19331,7 @@
   "mustergliederung": [
     "hamburger-mustergliederung",
     "hamburger-mustergliederung",
-    "jahresbericht",
-    "schlussbericht"
+    "jahresbericht"
   ],
   "überschriften": [
     "hamburger-mustergliederung"
@@ -21125,10 +21141,6 @@
   ],
   "videos": [
     "patientenverfügung"
-  ],
-  "betreuungsalternativen": [
-    "patientenverfügung",
-    "synopse-patientenverfügungsgesetze"
   ],
   "beinhaltet": [
     "patientenvertreter"

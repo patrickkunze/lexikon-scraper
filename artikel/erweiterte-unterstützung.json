@@ -1,7 +1,7 @@
 {
   "id": "erweiterte-unterstützung",
   "titel": "Erweiterte Unterstützung",
-  "inhalt": "- wird demnächst bearbeitet-\n\nLiteratur\n Bürkel: Andere Hilfen im Kontext rechtlicher Betreuung; BtR aktuell 2024, 21\n Mlosch, Betreuungsrecht. Erweiterte Unterstützung in der Kommune, Teil 1, NDV 2026, 251\n\n[Kategorie: Betreuungsalternativen](kategorie:-betreuungsalternativen)",
+  "inhalt": "- wird demnächst bearbeitet-\n\nLiteratur\n Bürkel: Andere Hilfen im Kontext rechtlicher Betreuung; BtR aktuell 2024, 21\n Mlosch, Betreuungsrecht. Erweiterte Unterstützung in der Kommune, Teil 1, NDV 2026, 251\n\nSiehe auch\n [Betreuungsrechtsreform](betreuungsrechtsreform), [Betreuungsorganisationsgesetz](betreuungsorganisationsgesetz)\n [Betreuungsbehörde](betreuungsbehörde)\n\n[Kategorie: Betreuungsalternativen](kategorie:-betreuungsalternativen)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -14,7 +14,7 @@
     },
     {
       "titel": "Literatur",
-      "inhalt": "Bürkel: Andere Hilfen im Kontext rechtlicher Betreuung; BtR aktuell 2024, 21\n Mlosch, Betreuungsrecht. Erweiterte Unterstützung in der Kommune, Teil 1, NDV 2026, 251\n\nKategorie: Betreuungsalternativen",
+      "inhalt": "Bürkel: Andere Hilfen im Kontext rechtlicher Betreuung; BtR aktuell 2024, 21\n Mlosch, Betreuungsrecht. Erweiterte Unterstützung in der Kommune, Teil 1, NDV 2026, 251",
       "tags": [
         "bürkel",
         "andere",
@@ -22,10 +22,24 @@
         "kontext",
         "rechtlicher"
       ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Betreuungsrechtsreform, Betreuungsorganisationsgesetz\n Betreuungsbehörde\n\nKategorie: Betreuungsalternativen",
+      "tags": [
+        "betreuungsrechtsreform",
+        "betreuungsorganisationsgesetz",
+        "betreuungsbehörde",
+        "kategorie",
+        "betreuungsalternativen"
+      ]
     }
   ],
-  "zusammenfassung": "- wird demnächst bearbeitet-\n\nLiteratur\n Bürkel: Andere Hilfen im Kontext rechtlicher Betreuung; BtR aktuell 2024, 21\n Mlosch, Betreuungsrecht. Erweiterte Unterstützung in der Kommune, Teil 1, NDV 2026, 251\n\n[Kategorie: Betreuungsalternativen](kategorie:-betreuungsalternativen)...",
+  "zusammenfassung": "- wird demnächst bearbeitet-\n\nLiteratur\n Bürkel: Andere Hilfen im Kontext rechtlicher Betreuung; BtR aktuell 2024, 21\n Mlosch, Betreuungsrecht. Erweiterte Unterstützung in der Kommune, Teil 1, NDV 2026, 251\n\nSiehe auch\n [Betreuungsrechtsreform](betreuungsrechtsreform), [Betreuungsorganisationsgesetz...",
   "verwandteArtikel": [
+    "betreuungsrechtsreform",
+    "betreuungsorganisationsgesetz",
+    "betreuungsbehörde",
     "kategorie:-betreuungsalternativen"
   ]
 }
