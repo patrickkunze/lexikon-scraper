@@ -1811,6 +1811,7 @@
     "freibetrag",
     "freier-wille",
     "geschäftsfähigkeit",
+    "gesetzgebung",
     "globales-nachhaltigkeitsziel-10",
     "globales-nachhaltigkeitsziel-10",
     "grundrechte",
@@ -5999,6 +6000,7 @@
     "garantenpflicht",
     "geheimhaltungspflicht",
     "geschäftsfähigkeit",
+    "gesetzgebung",
     "gesetzgebung",
     "globales-nachhaltigkeitsziel-10",
     "grundrechte",
@@ -14166,6 +14168,7 @@
   "ersten": [
     "betreuervergütung-2026",
     "checkliste-betreuerpflichten",
+    "gesetzgebung",
     "grundrechte"
   ],
   "zwölf": [
@@ -18767,6 +18770,13 @@
   "aufträge": [
     "gesetzgebung"
   ],
+  "russischen": [
+    "gesetzgebung"
+  ],
+  "heute": [
+    "gesetzgebung",
+    "grundrechte"
+  ],
   "innenverhältnis": [
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter"
@@ -19086,9 +19096,6 @@
     "zwangsbehandlung"
   ],
   "freizügigkeit": [
-    "grundrechte"
-  ],
-  "heute": [
     "grundrechte"
   ],
   "postgeheimnis": [
