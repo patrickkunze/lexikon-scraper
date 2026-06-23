@@ -1721,6 +1721,7 @@
     "betreuungsbehörde",
     "betreuungsbehördengesetz",
     "betreuungsbehördengesetz",
+    "betreuungsgericht",
     "betreuungsgerichtshilfe",
     "datenschutz",
     "hauptseite",
@@ -3375,6 +3376,7 @@
     "betreuungsbehörde",
     "betreuungsbehörde",
     "betreuungsbehördengesetz",
+    "betreuungsgerichtshilfe",
     "betreuungsgerichtshilfe",
     "betreuungsgerichtshilfe",
     "betreuungsgerichtshilfe",
@@ -6654,6 +6656,7 @@
   ],
   "betreuungsgerichtshilfe": [
     "anfangsgespräch",
+    "personenstand",
     "sozialbericht",
     "vormundschaftsgerichtshilfe"
   ],
@@ -8487,6 +8490,7 @@
   ],
   "regel": [
     "anzeigepflicht",
+    "betreuungsgericht",
     "genehmigung-der-heilbehandlung",
     "genehmigung-der-heilbehandlung",
     "grundstück",
@@ -8520,6 +8524,7 @@
   "zuständigen": [
     "anzeigepflicht",
     "anzeigepflicht",
+    "betreuungsgericht",
     "vereinbarung-über-begleitung-und-unterstützung",
     "vermögensverzeichnis",
     "vertretung-gegenüber-behörden"
@@ -8527,6 +8532,7 @@
   "kommunalen": [
     "anzeigepflicht",
     "anzeigepflicht",
+    "betreuungsgericht",
     "personenstand",
     "personenstand"
   ],
@@ -8565,7 +8571,6 @@
     "eidesstattliche-versicherung",
     "freibetrag",
     "inklusionsbetrieb",
-    "personenstand",
     "regress-der-staatskasse",
     "zug-um-zug-leistung"
   ],
@@ -14628,6 +14633,10 @@
   "akten": [
     "betreuungsgericht"
   ],
+  "arbeiten": [
+    "betreuungsgericht",
+    "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht"
+  ],
   "bedürfnisse": [
     "betreuungsgerichtshilfe"
   ],
@@ -14636,23 +14645,6 @@
   ],
   "feststellung": [
     "betreuungsgerichtshilfe"
-  ],
-  "unterstützte": [
-    "betreuungsgerichtshilfe",
-    "eingliederungshilfe",
-    "erörterungsgespräch",
-    "intellektuelle-beeinträchtigung",
-    "natürlicher-wille",
-    "psychisch-kranken-gesetz",
-    "schweigepflicht",
-    "selbstbestimmung",
-    "selbstbestimmung",
-    "unterstützte-entscheidungsfindung",
-    "unterstützte-kommunikation",
-    "unterstützte-kommunikation",
-    "unterstützungspflicht",
-    "vertrauensperson",
-    "vertreterdokumentation"
   ],
   "rechts": [
     "betreuungsgesetz",
@@ -16881,6 +16873,22 @@
   "sonderausgabe": [
     "eingliederungshilfe",
     "pflegeversicherung"
+  ],
+  "unterstützte": [
+    "eingliederungshilfe",
+    "erörterungsgespräch",
+    "intellektuelle-beeinträchtigung",
+    "natürlicher-wille",
+    "psychisch-kranken-gesetz",
+    "schweigepflicht",
+    "selbstbestimmung",
+    "selbstbestimmung",
+    "unterstützte-entscheidungsfindung",
+    "unterstützte-kommunikation",
+    "unterstützte-kommunikation",
+    "unterstützungspflicht",
+    "vertrauensperson",
+    "vertreterdokumentation"
   ],
   "umsetzungebegleitung": [
     "eingliederungshilfe"
@@ -20863,9 +20871,6 @@
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht"
   ],
   "wissenschaftlichen": [
-    "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht"
-  ],
-  "arbeiten": [
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht"
   ],
   "free": [
