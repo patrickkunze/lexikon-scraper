@@ -493,6 +493,7 @@
     "erbschaft",
     "ergänzungsbetreuer",
     "ergänzungsbetreuer",
+    "ergänzungsbetreuer",
     "ermessensvergütung",
     "erörterungsgespräch",
     "finanzamt",
@@ -759,8 +760,7 @@
     "zuführung-zur-unterbringung",
     "zuführung-zur-unterbringung",
     "zugangsrecht",
-    "zwangsvollstreckung",
-    "überprüfungsfrist"
+    "zwangsvollstreckung"
   ],
   "zeitschrift": [
     "abkürzungen",
@@ -1006,7 +1006,6 @@
     "ehefähigkeit",
     "eherecht-und-betreuung",
     "eherecht-und-betreuung",
-    "eherecht-und-betreuung",
     "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
     "einverständniserklärung",
@@ -1050,6 +1049,7 @@
     "heimmitarbeiter-als-betreuer",
     "heimmitarbeiter-als-betreuer",
     "heimmitarbeiter-als-betreuer",
+    "informationspflicht",
     "kindschaftsrecht",
     "kontrollbetreuer",
     "kontrollbetreuer",
@@ -1283,7 +1283,6 @@
     "dauervergütung",
     "ehefähigkeit",
     "ehefähigkeit",
-    "eherecht-und-betreuung",
     "eherecht-und-betreuung",
     "eherecht-und-betreuung",
     "eherecht-und-betreuung",
@@ -1540,7 +1539,6 @@
     "querschnittsaufgaben",
     "rechnungslegung",
     "rechtsmittel",
-    "rechtsprechung",
     "rechtsprechung-zum-sachverständigengutachten",
     "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zur-anhörung",
@@ -3034,6 +3032,7 @@
     "gesetzliche-vertretung",
     "gesetzliche-vertretung",
     "girokonto",
+    "informationspflicht",
     "regress-der-staatskasse",
     "schenkung",
     "sozialhilfe",
@@ -3434,7 +3433,8 @@
     "rechtspfleger",
     "sachverständigengutachten",
     "verfahrensbeteiligte",
-    "vormundschaftsgericht"
+    "vormundschaftsgericht",
+    "überprüfungsfrist"
   ],
   "akteneinsicht": [
     "akteneinsicht",
@@ -4069,6 +4069,7 @@
     "ausschließlichkeitserklärung",
     "ehefähigkeit",
     "ehefähigkeit",
+    "eherecht-und-betreuung",
     "einwilligungsvorbehalt",
     "einwilligungsvorbehalt",
     "einwilligungsvorbehalt",
@@ -4166,6 +4167,7 @@
     "alltagsgeschäfte",
     "beaufsichtigung",
     "beaufsichtigung",
+    "berufsbetreuer",
     "betreuerwechsel",
     "betreuungsrechtliche-praxis",
     "betreuungsverfügung",
@@ -6860,7 +6862,6 @@
     "bestellung-mehrerer-betreuer",
     "betreuungsverfügung",
     "ehefähigkeit",
-    "eherecht-und-betreuung",
     "einverständniserklärung",
     "einwilligungsfähigkeit",
     "kontrollbetreuer",
@@ -7402,7 +7403,6 @@
   "bverfg": [
     "anhörung",
     "beamte-als-betreuer",
-    "rechtsprechung",
     "sterbehilfedokumente",
     "verfahrensfähigkeit",
     "zwangsbehandlung",
@@ -7427,6 +7427,7 @@
     "gesundheitsdatennutzungsgesetz",
     "gewaltschutzanordnung",
     "girokonto",
+    "informationspflicht",
     "prozesspfleger",
     "rechtsanwalt",
     "rechtsanwalt",
@@ -8133,7 +8134,6 @@
   "infos": [
     "anlagegeld",
     "beglaubigung-durch-betreuungsbehörde",
-    "berufsbetreuer",
     "bestattungsvertrag",
     "betreuer-(ehrenamt)",
     "betreuungsverfügung",
@@ -8182,10 +8182,12 @@
     "betreuervorschlag",
     "betreuungsanregung",
     "betreuungsverfahren",
+    "betreuungsverfahren",
     "einwilligungsvorbehalt",
     "gerichtsbeschluss",
     "krankenhaussozialdienst",
-    "rechtsverkehr-in-deutschland"
+    "rechtsverkehr-in-deutschland",
+    "überprüfungsfrist"
   ],
   "betreuerbestellung": [
     "anregung-der-betreuerbestellung",
@@ -8197,6 +8199,7 @@
     "betreuervergütung",
     "betreuervorschlag",
     "betreuungsanregung",
+    "betreuungsverfahren",
     "ehegatte-als-betreuer",
     "familienangehörige",
     "gesetzestexte",
@@ -8207,7 +8210,8 @@
     "verlängerung-der-betreuung",
     "verlängerung-der-betreuung",
     "vorläufiger-betreuer",
-    "vormundschaftsgericht"
+    "vormundschaftsgericht",
+    "überprüfungsfrist"
   ],
   "bayern": [
     "anregung-der-betreuerbestellung",
@@ -8551,6 +8555,7 @@
   ],
   "überprüfungsfrist": [
     "anzeigepflicht",
+    "betreuungsverfahren",
     "verlängerung-der-betreuung",
     "vorläufiger-betreuer"
   ],
@@ -8704,6 +8709,7 @@
   "geschäftsunfähigen": [
     "arbeitsvertrag",
     "girokonto",
+    "informationspflicht",
     "informationspflicht"
   ],
   "arbeitsgericht": [
@@ -9046,7 +9052,8 @@
   ],
   "karlsruhe": [
     "assistenzleistungen",
-    "heilbehandlung"
+    "heilbehandlung",
+    "rechtsprechung"
   ],
   "begriffs": [
     "assistenzleistungen"
@@ -9596,8 +9603,7 @@
     "sachkundenachweis",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
-    "unbetreubarkeit",
-    "überprüfungsfrist"
+    "unbetreubarkeit"
   ],
   "thumb": [
     "aufhebung-der-betreuung",
@@ -9723,7 +9729,6 @@
   ],
   "rechtsmittel": [
     "aufhebung-der-betreuung",
-    "betreuungsverfahren",
     "corona",
     "erinnerung",
     "gewaltschutzanordnung",
@@ -9909,7 +9914,6 @@
   ],
   "pauschale": [
     "aufwandspauschale",
-    "berufsbetreuer",
     "betreuervergütung-2019",
     "dauervergütung",
     "dauervergütung"
@@ -9983,6 +9987,7 @@
   "betreuervergütung": [
     "aufwandspauschale",
     "aufwendungsersatz",
+    "berufsbetreuer",
     "betreuervergütung",
     "betreuervergütung",
     "betreuervergütung",
@@ -10768,6 +10773,7 @@
     "neu",
     "psychisch-kranken-gesetz",
     "rechtsprechung",
+    "rechtsprechung",
     "strafprozess",
     "strafprozess",
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
@@ -10781,6 +10787,7 @@
     "diskriminierungsverbot",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "neu",
+    "rechtsprechung",
     "rechtsprechung",
     "strafprozess",
     "vormundschaftsgericht"
@@ -10797,7 +10804,6 @@
     "mecklenburg-vorpommern",
     "niedersachsen",
     "nordrhein-westfalen",
-    "rechtsprechung",
     "rheinland-pfalz",
     "saarland",
     "sachsen",
@@ -12926,7 +12932,6 @@
   ],
   "mehrerer": [
     "betreuer-(ehrenamt)",
-    "ergänzungsbetreuer",
     "mehrfachbetreuung",
     "tandembetreuung",
     "tod-des-betreuers"
@@ -13487,7 +13492,6 @@
   "aller": [
     "betreuerpflichten",
     "betreuungsbehördengesetz",
-    "rechtsprechung",
     "vermögenssorge"
   ],
   "zahlungsansprüche": [
@@ -15172,22 +15176,6 @@
   "betreuungsgerichtliche": [
     "betreuungsverfahren"
   ],
-  "prozessführung": [
-    "betreuungsverfahren",
-    "gerichtsverfahren",
-    "gesetzlicher-vertreter",
-    "mahnverfahren",
-    "prozessfähigkeit",
-    "prozesspfleger",
-    "verfahrensfähigkeit"
-  ],
-  "gerichtskosten": [
-    "betreuungsverfahren",
-    "gerichtskosten",
-    "kontrollbetreuer",
-    "kosten",
-    "prozesspfleger"
-  ],
   "betreuungsanordnung": [
     "betreuungsverfahren",
     "betreuungsvoraussetzung"
@@ -16577,6 +16565,7 @@
     "eherecht-und-betreuung",
     "eherecht-und-betreuung",
     "eherecht-und-betreuung",
+    "eherecht-und-betreuung",
     "einwilligungsvorbehalt",
     "grundrechte",
     "neu"
@@ -16690,6 +16679,9 @@
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "zurückgeführt": [
+    "eherecht-und-betreuung"
+  ],
+  "ehegeschäftsfähigkeit": [
     "eherecht-und-betreuung"
   ],
   "pstg": [
@@ -16946,8 +16938,7 @@
   ],
   "vorläufiger": [
     "einstweilige-anordnung",
-    "stundensatz",
-    "überprüfungsfrist"
+    "stundensatz"
   ],
   "anordnungen": [
     "einstweilige-anordnung",
@@ -17703,7 +17694,6 @@
     "familienverfahrensgesetz",
     "gesetzestexte",
     "rechtsmittel",
-    "rechtsprechung",
     "sterbehilfedokumente"
   ],
   "betreuungsrechtsänderungsgesetz": [
@@ -18487,6 +18477,12 @@
   "unterschieden": [
     "gerichtskosten"
   ],
+  "gerichtskosten": [
+    "gerichtskosten",
+    "kontrollbetreuer",
+    "kosten",
+    "prozesspfleger"
+  ],
   "jurbüro": [
     "gerichtskosten",
     "rechtsanwalt"
@@ -18501,6 +18497,14 @@
   ],
   "streitigen": [
     "gerichtskosten"
+  ],
+  "prozessführung": [
+    "gerichtsverfahren",
+    "gesetzlicher-vertreter",
+    "mahnverfahren",
+    "prozessfähigkeit",
+    "prozesspfleger",
+    "verfahrensfähigkeit"
   ],
   "beteiligt": [
     "gesamtplanverfahren"
@@ -18938,6 +18942,7 @@
   "bank": [
     "girokonto",
     "girokonto",
+    "informationspflicht",
     "tod-des-betreuten",
     "vermögenssorge",
     "vermögenssorge",
@@ -19798,7 +19803,6 @@
   ],
   "gerichte": [
     "jahresbericht",
-    "rechtsprechung",
     "rechtsweg-in-deutschland",
     "registrierung",
     "schenkung"
@@ -21594,12 +21598,6 @@
   ],
   "nachlassgerichtlicher": [
     "rechtspfleger"
-  ],
-  "bundesverwaltungsgericht": [
-    "rechtsprechung"
-  ],
-  "bverwg": [
-    "rechtsprechung"
   ],
   "rechtsprechungsdatenbank": [
     "rechtsprechung"
