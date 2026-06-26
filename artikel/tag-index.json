@@ -4129,7 +4129,6 @@
     "betreuerbestellung",
     "betreuungsverfügung",
     "checkliste-vermögenssorge",
-    "geschäftsfähigkeit",
     "mündelgeld",
     "vermögenssorge",
     "vollmachtswiderruf",
@@ -4221,7 +4220,6 @@
     "betreuerpflichten",
     "betreuungsbedarf",
     "checkliste-gesundheitssorge",
-    "ehefähigkeit",
     "einwilligungsvorbehalt",
     "heilbehandlung",
     "meldepflicht",
@@ -6117,6 +6115,7 @@
     "begleitforschung",
     "betreuungsverein",
     "erörterungsgespräch",
+    "forensik",
     "föderalismus",
     "gesundheitsdatennutzungsgesetz",
     "globales-nachhaltigkeitsziel-10",
@@ -8371,7 +8370,6 @@
     "hauptseite",
     "kontrollbetreuer",
     "link-liste",
-    "maßregeln-der-besserung-und-sicherung",
     "mitteilungspflicht",
     "neu",
     "prozessführung",
@@ -8860,6 +8858,7 @@
     "arztzeugnis",
     "begutachtung",
     "betreuervorschlag",
+    "forensik",
     "genehmigung-der-heilbehandlung",
     "gutachten",
     "mdk-gutachten",
@@ -11115,7 +11114,6 @@
     "vorläufiger-betreuer",
     "vorläufiger-betreuer",
     "wahlrecht",
-    "zwangsbehandlung",
     "überprüfungsfrist",
     "überprüfungsfrist"
   ],
@@ -11353,7 +11351,6 @@
     "medikationsplan",
     "neu",
     "patientenverfügung",
-    "sachverständigengutachten",
     "schwerbehindertenausweis"
   ],
   "zugriffsrecht": [
@@ -15941,8 +15938,7 @@
     "erörterungsgespräch",
     "freier-wille",
     "intellektuelle-beeinträchtigung",
-    "peg-sonde",
-    "testierfähigkeit"
+    "peg-sonde"
   ],
   "datenschutzregelung": [
     "datenschutz"
@@ -16625,13 +16621,23 @@
     "ordre-public",
     "ordre-public"
   ],
+  "forensik": [
+    "ehefähigkeit",
+    "forensik",
+    "geschäftsfähigkeit",
+    "maßregeln-der-besserung-und-sicherung",
+    "prozessfähigkeit",
+    "psychisch-kranken-gesetz",
+    "sachverständigengutachten",
+    "testierfähigkeit",
+    "zwangsbehandlung"
+  ],
   "angehörigenvertretungsrecht": [
     "ehefähigkeit",
     "ehegattenvertretungsrecht",
     "gesetzliche-vertretung",
     "neu",
     "personenstand",
-    "psychisch-kranken-gesetz",
     "schlüsselgewalt",
     "vorsorgeregisterverordnung"
   ],
@@ -17758,6 +17764,21 @@
   "anfordern": [
     "finanzamt"
   ],
+  "allem": [
+    "forensik",
+    "föderalismus",
+    "patientenverfügung"
+  ],
+  "fachbegriff": [
+    "forensik",
+    "föderalismus",
+    "interoperabilität",
+    "interoperabilität",
+    "interoperabilität"
+  ],
+  "leitet": [
+    "forensik"
+  ],
   "dateien": [
     "formulare"
   ],
@@ -17899,12 +17920,6 @@
     "umgangsbestimmung",
     "umgangsbestimmung"
   ],
-  "fachbegriff": [
-    "föderalismus",
-    "interoperabilität",
-    "interoperabilität",
-    "interoperabilität"
-  ],
   "bezeichnet": [
     "föderalismus",
     "prozesspfleger"
@@ -17951,10 +17966,6 @@
   "ländern": [
     "föderalismus",
     "selbstverwaltung-der-deutschen-gemeinden"
-  ],
-  "allem": [
-    "föderalismus",
-    "patientenverfügung"
   ],
   "gesetze": [
     "föderalismus",
@@ -18502,7 +18513,6 @@
     "gerichtsverfahren",
     "gesetzlicher-vertreter",
     "mahnverfahren",
-    "prozessfähigkeit",
     "prozesspfleger",
     "verfahrensfähigkeit"
   ],
