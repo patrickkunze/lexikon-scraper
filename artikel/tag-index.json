@@ -7420,6 +7420,7 @@
     "betreuervergütung",
     "betreutes-wohnen",
     "betreuungsorganisationsgesetz",
+    "forensik",
     "gerichtskosten",
     "geschäftsfähigkeit",
     "gesetzestexte",
@@ -8840,7 +8841,6 @@
     "attest",
     "checkliste-für-arztgespräche",
     "medizinische-begriffe",
-    "rechtsprechung-zum-sachverständigengutachten",
     "sachverständigengutachten",
     "ärztliches-zeugnis"
   ],
@@ -16067,6 +16067,7 @@
   ],
   "psychisch": [
     "datenschutz",
+    "forensik",
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz",
     "sozialpsychiatrischer-dienst",
@@ -16077,6 +16078,7 @@
   ],
   "kranken": [
     "datenschutz",
+    "forensik",
     "gesundheitsdatennutzungsgesetz",
     "mdk-gutachten",
     "psychkg",
@@ -16628,6 +16630,7 @@
     "maßregeln-der-besserung-und-sicherung",
     "prozessfähigkeit",
     "psychisch-kranken-gesetz",
+    "rechtsprechung-zum-sachverständigengutachten",
     "sachverständigengutachten",
     "testierfähigkeit",
     "zwangsbehandlung"
@@ -17779,6 +17782,14 @@
   "leitet": [
     "forensik"
   ],
+  "prozessführung": [
+    "forensik",
+    "gerichtsverfahren",
+    "gesetzlicher-vertreter",
+    "mahnverfahren",
+    "prozesspfleger",
+    "verfahrensfähigkeit"
+  ],
   "dateien": [
     "formulare"
   ],
@@ -18508,13 +18519,6 @@
   ],
   "streitigen": [
     "gerichtskosten"
-  ],
-  "prozessführung": [
-    "gerichtsverfahren",
-    "gesetzlicher-vertreter",
-    "mahnverfahren",
-    "prozesspfleger",
-    "verfahrensfähigkeit"
   ],
   "beteiligt": [
     "gesamtplanverfahren"
