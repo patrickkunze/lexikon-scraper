@@ -3679,6 +3679,7 @@
     "allgemeines",
     "betreuungszahlen",
     "evaluation",
+    "forensik",
     "vorsorgeregister"
   ],
   "hauptseite": [
@@ -4541,7 +4542,6 @@
     "sterilisation",
     "sterilisation",
     "sterilisationsbetreuer",
-    "strafprozess",
     "strafprozess",
     "tod-des-betreuten",
     "tod-des-betreuten",
@@ -15042,15 +15042,23 @@
     "vorläufiger-betreuer",
     "vormundschaftsgericht"
   ],
+  "forensik": [
+    "betreuungssache",
+    "ehefähigkeit",
+    "forensik",
+    "geschäftsfähigkeit",
+    "gewaltschutzanordnung",
+    "maßregeln-der-besserung-und-sicherung",
+    "prozessfähigkeit",
+    "psychisch-kranken-gesetz",
+    "rechtsprechung-zum-sachverständigengutachten",
+    "sachverständigengutachten",
+    "strafprozess",
+    "testierfähigkeit",
+    "zwangsbehandlung"
+  ],
   "betreuungsrichterin": [
     "betreuungssache"
-  ],
-  "vormundschaftsgericht": [
-    "betreuungssache",
-    "haager-übereinkommen",
-    "vormundschaftsgericht",
-    "vormundschaftsgericht",
-    "vormundschaftsgericht"
   ],
   "unterbringungssachen": [
     "betreuungssache",
@@ -15107,7 +15115,6 @@
   ],
   "diskriminierungsverbot": [
     "betreuungsverein",
-    "gewaltschutzanordnung",
     "inklusionsbetrieb",
     "kindschaftsrecht",
     "kirchenaustritt",
@@ -16078,7 +16085,6 @@
   ],
   "kranken": [
     "datenschutz",
-    "forensik",
     "gesundheitsdatennutzungsgesetz",
     "mdk-gutachten",
     "psychkg",
@@ -16622,18 +16628,6 @@
     "ehefähigkeit",
     "ordre-public",
     "ordre-public"
-  ],
-  "forensik": [
-    "ehefähigkeit",
-    "forensik",
-    "geschäftsfähigkeit",
-    "maßregeln-der-besserung-und-sicherung",
-    "prozessfähigkeit",
-    "psychisch-kranken-gesetz",
-    "rechtsprechung-zum-sachverständigengutachten",
-    "sachverständigengutachten",
-    "testierfähigkeit",
-    "zwangsbehandlung"
   ],
   "angehörigenvertretungsrecht": [
     "ehefähigkeit",
@@ -19308,6 +19302,12 @@
   ],
   "ehemaliges": [
     "haager-übereinkommen"
+  ],
+  "vormundschaftsgericht": [
+    "haager-übereinkommen",
+    "vormundschaftsgericht",
+    "vormundschaftsgericht",
+    "vormundschaftsgericht"
   ],
   "vereinten": [
     "haager-übereinkommen"

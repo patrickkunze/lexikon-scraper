@@ -1,7 +1,7 @@
 {
   "id": "forensik",
   "titel": "Forensik",
-  "inhalt": "Der deutsche Fachbegriff Forensik leitet sich vom lateinischen Forum her, das einst in Rom den öffentlichen Gerichtsort bezeichnet hatte. Forensik ist heute ein interdisziplinäres Spezialgebiet zur Beantwortung gerichtlicher Fragen. Der Begriff ging beim Forensischen Psychiater in eine Berufsbezeichnung ein, ansonsten spricht man von Rechtspsychologen oder Rechtsmedizinern.\n\nForensiker erstellen im Auftrag des Gerichts [Sachverständigengutachten](sachverständigengutachten) über die Sozial- und/oder Kriminalprognose bei psychisch Kranken. Es geht dabei im Betreuungsrecht vor allem um [Geschäftsfähigkeit](geschäftsfähigkeit) (§ 104 BGB bis § 105a BGB), [Prozessfähigkeit](prozessfähigkeit) (§ 51 ZPO bis § 53 ZPO), [Testierfähigkeit](testierfähigkeit) (§ 2229 BGB) und [Ehefähigkeit](ehefähigkeit) (§ 1304 BGB). Betroffene Rechtsgebiete sind außer dem Strafrecht - wegen der Beurteilung der Schuldfähigkeit - vor allem das Zivilrecht, das Sozialrecht, das Verwaltungsrecht und das Arbeitsrecht. \n\nSiehe auch\n [Sachverständigengutachten](sachverständigengutachten), [Rechtsprechung zum Sachverständigengutachten](rechtsprechung-zum-sachverständigengutachten)\n [Prozessführung](prozessführung)\n [Psychisch-Kranken-Gesetz](psychisch-kranken-gesetz), [Zwangsbehandlung](zwangsbehandlung)\n [Betreuungsgerichtshilfe](betreuungsgerichtshilfe), [Amtsermittlungspflicht](amtsermittlungspflicht)",
+  "inhalt": "Der deutsche Fachbegriff Forensik leitet sich vom lateinischen Forum her, das einst in Rom den öffentlichen Gerichtsort bezeichnet hatte. Forensik ist heute ein interdisziplinäres Spezialgebiet zur Beantwortung gerichtlicher Fragen. Der Begriff ging beim Forensischen Psychiater in eine Berufsbezeichnung ein, ansonsten spricht man von Rechtspsychologen oder Rechtsmedizinern.\n\nForensiker erstellen im Auftrag des Gerichts [Sachverständigengutachten](sachverständigengutachten) über die Sozial- und/oder Kriminalprognose bei psychisch Kranken. Es geht dabei im Betreuungsrecht vor allem um [Geschäftsfähigkeit](geschäftsfähigkeit) (§ 104 BGB bis § 105a BGB), [Prozessfähigkeit](prozessfähigkeit) (§ 51 ZPO bis § 53 ZPO), [Testierfähigkeit](testierfähigkeit) (§ 2229 BGB) und [Ehefähigkeit](ehefähigkeit) (§ 1304 BGB). Betroffene Rechtsgebiete sind außer dem [Strafprozess](strafprozess) - wegen der Beurteilung der Schuldfähigkeit - vor allem das Zivilrecht, das Sozialrecht, das Verwaltungsrecht und das Arbeitsrecht. \n\nSiehe auch\n [Sachverständigengutachten](sachverständigengutachten), [Rechtsprechung zum Sachverständigengutachten](rechtsprechung-zum-sachverständigengutachten)\n [Prozessführung](prozessführung), [Begleitforschung](begleitforschung)\n [Psychisch-Kranken-Gesetz](psychisch-kranken-gesetz), [Zwangsbehandlung](zwangsbehandlung), [Gewaltschutzanordnung](gewaltschutzanordnung)\n [Betreuungsgerichtshilfe](betreuungsgerichtshilfe), [Amtsermittlungspflicht](amtsermittlungspflicht), [Gerichtskosten](gerichtskosten)",
   "struktur": [
     {
       "titel": "Einleitung",
@@ -16,28 +16,32 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Sachverständigengutachten, Rechtsprechung zum Sachverständigengutachten\n Prozessführung\n Psychisch-Kranken-Gesetz, Zwangsbehandlung\n Betreuungsgerichtshilfe, Amtsermittlungspflicht",
+      "inhalt": "Sachverständigengutachten, Rechtsprechung zum Sachverständigengutachten\n Prozessführung, Begleitforschung\n Psychisch-Kranken-Gesetz, Zwangsbehandlung, Gewaltschutzanordnung\n Betreuungsgerichtshilfe, Amtsermittlungspflicht, Gerichtskosten",
       "tags": [
         "sachverständigengutachten",
         "rechtsprechung",
         "prozessführung",
-        "psychisch",
-        "kranken"
+        "begleitforschung",
+        "psychisch"
       ]
     }
   ],
   "zusammenfassung": "Der deutsche Fachbegriff Forensik leitet sich vom lateinischen Forum her, das einst in Rom den öffentlichen Gerichtsort bezeichnet hatte. Forensik ist heute ein interdisziplinäres Spezialgebiet zur Beantwortung gerichtlicher Fragen. Der Begriff ging beim Forensischen Psychiater in eine Berufsbezeich...",
   "verwandteArtikel": [
-    "rechtsprechung-zum-sachverständigengutachten",
-    "sachverständigengutachten",
-    "psychisch-kranken-gesetz",
-    "prozessfähigkeit",
-    "amtsermittlungspflicht",
-    "zwangsbehandlung",
-    "prozessführung",
     "testierfähigkeit",
-    "geschäftsfähigkeit",
+    "gewaltschutzanordnung",
+    "amtsermittlungspflicht",
+    "prozessfähigkeit",
+    "begleitforschung",
+    "zwangsbehandlung",
+    "psychisch-kranken-gesetz",
     "betreuungsgerichtshilfe",
-    "ehefähigkeit"
+    "prozessführung",
+    "gerichtskosten",
+    "sachverständigengutachten",
+    "ehefähigkeit",
+    "rechtsprechung-zum-sachverständigengutachten",
+    "strafprozess",
+    "geschäftsfähigkeit"
   ]
 }
