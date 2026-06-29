@@ -863,7 +863,6 @@
     "it-sicherheit",
     "it-sicherheit",
     "krankenversicherung",
-    "krankenversicherung",
     "mdk-gutachten",
     "maßregeln-der-besserung-und-sicherung",
     "medikationsplan",
@@ -983,6 +982,7 @@
     "betreuervorschlag",
     "betreuervorschlag",
     "betreuervorschlag",
+    "betreuungsarbeitsgemeinschaft",
     "betreuungsgerichtshilfe",
     "betreuungsgerichtshilfe",
     "betreuungsorganisationsgesetz",
@@ -1735,6 +1735,7 @@
     "betreuerpflichten",
     "betreuervorschlag",
     "betreutes-wohnen",
+    "betreuungsarbeitsgemeinschaft",
     "betreuungsbehörde",
     "geheimhaltungspflicht",
     "gerichtsbeschluss",
@@ -6840,6 +6841,7 @@
   ],
   "deren": [
     "angehörigenvertretungsrecht",
+    "betreuungsarbeitsgemeinschaft",
     "freibetrag",
     "geheimhaltungspflicht",
     "polizeirecht"
@@ -10613,6 +10615,7 @@
   ],
   "gemeinden": [
     "ausländer",
+    "betreuungsverein",
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "ausgesprochene": [
@@ -12267,6 +12270,7 @@
   "krankenversicherung": [
     "berufsbetreuer",
     "berufsbetreuer",
+    "betreuungsarbeitsgemeinschaft",
     "krankenversicherung",
     "krankenversicherung",
     "krankenversicherung",
@@ -14459,6 +14463,9 @@
   "strategien": [
     "betreuungsarbeitsgemeinschaft"
   ],
+  "privaten": [
+    "betreuungsarbeitsgemeinschaft"
+  ],
   "amtsermittlungspflicht": [
     "betreuungsarbeitsgemeinschaft",
     "betreuungssache",
@@ -15098,6 +15105,7 @@
     "haager-übereinkommen"
   ],
   "landeskirchen": [
+    "betreuungsverein",
     "betreuungsverein"
   ],
   "christlichen": [
@@ -15112,6 +15120,24 @@
   ],
   "hirten": [
     "betreuungsverein"
+  ],
+  "kirchen": [
+    "betreuungsverein",
+    "grundrechte",
+    "haager-übereinkommen",
+    "unterstützungspflicht"
+  ],
+  "gash": [
+    "betreuungsverein"
+  ],
+  "innerhalb": [
+    "betreuungsverein",
+    "erbausschlagung",
+    "gesetzliche-vertretung",
+    "gesetzlicher-vertreter",
+    "meldepflicht",
+    "neu",
+    "unfallversicherung"
   ],
   "diskriminierungsverbot": [
     "betreuungsverein",
@@ -17403,14 +17429,6 @@
     "erbschaft",
     "tod-des-betreuten"
   ],
-  "innerhalb": [
-    "erbausschlagung",
-    "gesetzliche-vertretung",
-    "gesetzlicher-vertreter",
-    "meldepflicht",
-    "neu",
-    "unfallversicherung"
-  ],
   "demjenigen": [
     "erbausschlagung"
   ],
@@ -19052,11 +19070,6 @@
     "grundrechte",
     "selbstbestimmung"
   ],
-  "kirchen": [
-    "grundrechte",
-    "haager-übereinkommen",
-    "unterstützungspflicht"
-  ],
   "verhalten": [
     "grundrechte",
     "online-lexikon-betreuungsrecht:datenschutz",
@@ -20160,6 +20173,9 @@
     "pflegeversicherung",
     "pflegeversicherung",
     "unfallversicherung"
+  ],
+  "betreuungsarbeitsgemeinschaft": [
+    "krankenversicherung"
   ],
   "mehlhorn": [
     "krankenversicherung"
