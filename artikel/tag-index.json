@@ -692,8 +692,6 @@
     "tod-des-betreuten",
     "tod-des-betreuten",
     "tod-des-betreuten",
-    "tod-des-betreuten",
-    "tod-des-betreuten",
     "trennungsgebot",
     "trennungsgebot",
     "trennungsgebot",
@@ -2841,8 +2839,6 @@
     "tod-des-betreuten",
     "tod-des-betreuten",
     "tod-des-betreuten",
-    "tod-des-betreuten",
-    "tod-des-betreuten",
     "trennungsgebot",
     "umgangsbestimmung",
     "unfallversicherung",
@@ -4544,7 +4540,6 @@
     "sterilisation",
     "sterilisationsbetreuer",
     "strafprozess",
-    "tod-des-betreuten",
     "tod-des-betreuten",
     "tod-des-betreuten",
     "tod-des-betreuten",
@@ -13099,8 +13094,7 @@
     "rechtsanwalt",
     "strafprozess",
     "strafprozess",
-    "stundensatz",
-    "tod-des-betreuten"
+    "stundensatz"
   ],
   "jurionrs": [
     "betreuerausweis"
@@ -14145,7 +14139,6 @@
     "delegation",
     "eherecht-und-betreuung",
     "mittellosigkeit",
-    "tod-des-betreuten",
     "vormünder--und-betreuervergütungsgesetz",
     "zweites-betreuungsrechtsänderungsgesetz"
   ],
@@ -22698,8 +22691,7 @@
     "testierfähigkeit"
   ],
   "testamente": [
-    "testierfähigkeit",
-    "tod-des-betreuten"
+    "testierfähigkeit"
   ],
   "testaments": [
     "testierfähigkeit"
@@ -22792,12 +22784,6 @@
     "vorsorgevollmacht"
   ],
   "typischen": [
-    "tod-des-betreuten"
-  ],
-  "auffindet": [
-    "tod-des-betreuten"
-  ],
-  "vergüten": [
     "tod-des-betreuten"
   ],
   "notarinstitut": [
