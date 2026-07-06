@@ -5765,7 +5765,6 @@
     "mitteilungspflicht",
     "mündelgeld",
     "peg-sonde",
-    "persönliche-betreuung",
     "pflichten",
     "prozessführung",
     "schlusstätigkeiten",
@@ -8546,7 +8545,6 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "genehmigungen",
     "genehmigungen-von-a-bis-z",
-    "vormundschaftsgericht",
     "wohnungsauflösung"
   ],
   "überprüfungsfrist": [
@@ -9732,7 +9730,6 @@
     "rechtsmittel",
     "rechtsmittel",
     "rechtsweg-in-deutschland",
-    "verlängerung-der-betreuung",
     "vertretung-gegenüber-behörden",
     "widerspruchsrecht"
   ],
@@ -11106,6 +11103,7 @@
     "unterbringungsverfahren",
     "verlängerung-der-betreuung",
     "verlängerung-der-betreuung",
+    "verlängerung-der-betreuung",
     "vorführung",
     "vorläufiger-betreuer",
     "vorläufiger-betreuer",
@@ -12094,7 +12092,8 @@
     "behördenbetreuer",
     "betreuungsbehörde",
     "eingruppierung",
-    "eingruppierung"
+    "eingruppierung",
+    "vormundschaftsgericht"
   ],
   "brucker": [
     "behördenbetreuer",
@@ -12760,6 +12759,7 @@
     "ergänzungsbetreuer",
     "ergänzungspfleger",
     "kontrollbetreuer",
+    "persönliche-betreuung",
     "verhinderungsbetreuer"
   ],
   "ergänzungsbetreuer": [
@@ -13792,8 +13792,7 @@
     "betreuungsrichter",
     "rechtsprechung",
     "schlussbericht",
-    "schlusstätigkeiten",
-    "verlängerung-der-betreuung"
+    "schlusstätigkeiten"
   ],
   "weiterhin": [
     "betreuervergütung",
@@ -15314,6 +15313,7 @@
     "familienverfahrensgesetz",
     "gesetzestexte",
     "unterbringungsverfahren",
+    "verlängerung-der-betreuung",
     "vorläufiger-betreuer",
     "vorläufiger-betreuer",
     "vorläufiger-betreuer",
