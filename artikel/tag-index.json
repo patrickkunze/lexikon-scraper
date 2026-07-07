@@ -11881,7 +11881,6 @@
     "einwilligungsfähigkeit",
     "erörterungsgespräch",
     "genehmigung-der-heilbehandlung",
-    "it-sicherheit",
     "patientenverfügung"
   ],
   "heilbehandlung": [
@@ -19621,6 +19620,11 @@
     "it-sicherheit",
     "neu"
   ],
+  "polizeirecht": [
+    "it-sicherheit",
+    "vorführung",
+    "waffenbesitz"
+  ],
   "cybersicherheit": [
     "it-sicherheit"
   ],
@@ -20729,7 +20733,8 @@
     "neu"
   ],
   "ärztinnen": [
-    "neu"
+    "neu",
+    "zugriffsrecht"
   ],
   "zettelwirtschaft": [
     "neu"
@@ -23533,10 +23538,6 @@
   "vorführungen": [
     "vorführung"
   ],
-  "polizeirecht": [
-    "vorführung",
-    "waffenbesitz"
-  ],
   "geschäftsstelle": [
     "vorläufiger-betreuer"
   ],
@@ -23943,9 +23944,6 @@
     "zugriffsrecht"
   ],
   "regelt": [
-    "zugriffsrecht"
-  ],
-  "heilberufs": [
     "zugriffsrecht"
   ],
   "berufsausweis": [
