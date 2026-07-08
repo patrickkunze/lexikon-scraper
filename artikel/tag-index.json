@@ -5332,7 +5332,6 @@
     "pflegeversicherung",
     "schwerbehindertenausweis",
     "sozialhilfe",
-    "sozialpsychiatrischer-dienst",
     "unterstützte-kommunikation",
     "vulnerabilität",
     "vulnerabilität"
@@ -10015,7 +10014,6 @@
   ],
   "stundensatz": [
     "aufwandspauschale",
-    "besonderer-vertreter-im-verwaltungsverfahren",
     "betreuervergütung-2019",
     "e-rechnung",
     "ergänzungsbetreuer",
@@ -12457,6 +12455,15 @@
     "gesetzestexte",
     "mahnverfahren",
     "prozessfähigkeit",
+    "verfahrensfähigkeit"
+  ],
+  "prozessführung": [
+    "besonderer-vertreter-im-verwaltungsverfahren",
+    "forensik",
+    "gerichtsverfahren",
+    "gesetzlicher-vertreter",
+    "mahnverfahren",
+    "prozesspfleger",
     "verfahrensfähigkeit"
   ],
   "prozesspfleger": [
@@ -17786,14 +17793,6 @@
   "leitet": [
     "forensik"
   ],
-  "prozessführung": [
-    "forensik",
-    "gerichtsverfahren",
-    "gesetzlicher-vertreter",
-    "mahnverfahren",
-    "prozesspfleger",
-    "verfahrensfähigkeit"
-  ],
   "dateien": [
     "formulare"
   ],
@@ -20247,7 +20246,6 @@
   "ausführliche": [
     "mahnverfahren",
     "mitwirkungspflicht",
-    "prozessführung",
     "psychisch-kranken-gesetz",
     "verfahrensfähigkeit",
     "vertretung-gegenüber-behörden"
@@ -21439,6 +21437,10 @@
   "zunehmenden": [
     "prozessführung"
   ],
+  "widerspruchsrecht": [
+    "prozessführung",
+    "vollmachtswiderruf"
+  ],
   "prinz": [
     "prozessführung"
   ],
@@ -22235,6 +22237,9 @@
     "sozialpsychiatrischer-dienst"
   ],
   "psychkhg": [
+    "sozialpsychiatrischer-dienst"
+  ],
+  "besonderer": [
     "sozialpsychiatrischer-dienst"
   ],
   "sozialpsychiatrische": [
@@ -23521,9 +23526,6 @@
     "vollmachtswiderruf"
   ],
   "einzelfall": [
-    "vollmachtswiderruf"
-  ],
-  "widerspruchsrecht": [
     "vollmachtswiderruf"
   ],
   "termin": [
