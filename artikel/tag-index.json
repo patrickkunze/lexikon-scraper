@@ -4678,6 +4678,7 @@
   ],
   "schon": [
     "altenheim",
+    "behindertenkonvention",
     "einwilligungsfähigkeit",
     "verhältnismäßigkeitsprinzip"
   ],
@@ -11965,6 +11966,47 @@
   "veröffentlicht": [
     "behindertenkonvention"
   ],
+  "bund": [
+    "behindertenkonvention",
+    "betreuervergütung-2026",
+    "föderalismus",
+    "mdk-gutachten",
+    "neu",
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "vorsorgeregister",
+    "vorsorgeregisterverordnung"
+  ],
+  "immanuel": [
+    "behindertenkonvention"
+  ],
+  "kant": [
+    "behindertenkonvention",
+    "ehefähigkeit",
+    "freier-wille"
+  ],
+  "dieser": [
+    "behindertenkonvention",
+    "betreuerausweis",
+    "betreuerpflichten",
+    "betreuungsbehördengesetz",
+    "betreuungsrechtsreform",
+    "freibetrag",
+    "freier-wille",
+    "geldanlage",
+    "mittellosigkeit",
+    "mündelgeld",
+    "neu",
+    "online-lexikon-betreuungsrecht:datenschutz",
+    "online-lexikon-betreuungsrecht:datenschutz",
+    "online-lexikon-betreuungsrecht:datenschutz",
+    "patientenverfügung",
+    "rechnungslegung",
+    "rechtsanwalt",
+    "spielwiese",
+    "strafprozess",
+    "umgangsbestimmung",
+    "unterbringungsähnliche-maßnahme"
+  ],
   "globales": [
     "behindertenkonvention"
   ],
@@ -13063,28 +13105,6 @@
     "ordre-public",
     "sozialhilfe"
   ],
-  "dieser": [
-    "betreuerausweis",
-    "betreuerpflichten",
-    "betreuungsbehördengesetz",
-    "betreuungsrechtsreform",
-    "freibetrag",
-    "freier-wille",
-    "geldanlage",
-    "mittellosigkeit",
-    "mündelgeld",
-    "neu",
-    "online-lexikon-betreuungsrecht:datenschutz",
-    "online-lexikon-betreuungsrecht:datenschutz",
-    "online-lexikon-betreuungsrecht:datenschutz",
-    "patientenverfügung",
-    "rechnungslegung",
-    "rechtsanwalt",
-    "spielwiese",
-    "strafprozess",
-    "umgangsbestimmung",
-    "unterbringungsähnliche-maßnahme"
-  ],
   "betreuerin": [
     "betreuerausweis",
     "datenschutz",
@@ -14155,15 +14175,6 @@
     "familienverfahrensgesetz",
     "haager-übereinkommen"
   ],
-  "bund": [
-    "betreuervergütung-2026",
-    "föderalismus",
-    "mdk-gutachten",
-    "neu",
-    "selbstverwaltung-der-deutschen-gemeinden",
-    "vorsorgeregister",
-    "vorsorgeregisterverordnung"
-  ],
   "verabschiedung": [
     "betreuervergütung-2026"
   ],
@@ -14464,11 +14475,12 @@
   "privaten": [
     "betreuungsarbeitsgemeinschaft"
   ],
-  "amtsermittlungspflicht": [
+  "allgemeines": [
     "betreuungsarbeitsgemeinschaft",
-    "betreuungssache",
-    "diskriminierungsverbot",
-    "einstweilige-anordnung"
+    "betreuungsgesetz",
+    "gesetzgebung",
+    "medizinische-begriffe",
+    "strafprozess"
   ],
   "betreuungsgesetzes": [
     "betreuungsbehörde"
@@ -14700,12 +14712,6 @@
     "gesetzestexte",
     "neu",
     "vormundschaftsgericht"
-  ],
-  "allgemeines": [
-    "betreuungsgesetz",
-    "gesetzgebung",
-    "medizinische-begriffe",
-    "strafprozess"
   ],
   "gesetzgebung": [
     "betreuungsgesetz",
@@ -15033,6 +15039,11 @@
     "familienverfahrensgesetz",
     "gesetzestexte",
     "rechtsmittel"
+  ],
+  "amtsermittlungspflicht": [
+    "betreuungssache",
+    "diskriminierungsverbot",
+    "einstweilige-anordnung"
   ],
   "unterbringungsverfahren": [
     "betreuungssache",
@@ -16644,10 +16655,6 @@
     "ehefähigkeit",
     "eherecht-und-betreuung",
     "psychisch-kranken-gesetz"
-  ],
-  "kant": [
-    "ehefähigkeit",
-    "freier-wille"
   ],
   "sache": [
     "ehefähigkeit",
