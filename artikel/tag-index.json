@@ -416,6 +416,7 @@
     "betreuervergütung",
     "betreuervergütung",
     "betreuervergütung",
+    "betreuervergütung",
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuervorschlag",
@@ -897,6 +898,7 @@
     "rundfunkbeitrag",
     "schwerbehindertenausweis",
     "selbstbestimmung",
+    "selbstverwaltung-der-deutschen-gemeinden",
     "selbstverwaltung-der-deutschen-gemeinden",
     "synopse-patientenverfügungsgesetze",
     "unterstützungspflicht",
@@ -1806,6 +1808,7 @@
     "eingliederungshilfe",
     "eingliederungshilfe",
     "einwilligungsvorbehalt",
+    "forensik",
     "freibetrag",
     "freier-wille",
     "geschäftsfähigkeit",
@@ -1835,6 +1838,7 @@
     "schweigepflicht",
     "schwerbehindertenausweis",
     "selbstbestimmung",
+    "selbstverwaltung-der-deutschen-gemeinden",
     "sozialhilfe",
     "sterbehilfe",
     "sterbehilfe",
@@ -5993,6 +5997,7 @@
     "datenschutz",
     "delegation",
     "digitale-barrierefreiheit",
+    "forensik",
     "föderalismus",
     "garantenpflicht",
     "geheimhaltungspflicht",
@@ -6182,6 +6187,7 @@
     "amtspflichtverletzung",
     "arbeitsunfall",
     "berufsgenossenschaft",
+    "betreuungsgericht",
     "unfallversicherung",
     "vereinsbetreuer"
   ],
@@ -7045,6 +7051,7 @@
     "hauptseite",
     "schlussrechnungslegung",
     "verfahrenspfleger",
+    "vorläufiger-betreuer",
     "vorsorgevollmacht",
     "vorsorgevollmacht",
     "vorsorgevollmacht---vertiefte-infos",
@@ -8205,7 +8212,6 @@
     "rechtsverkehr-in-deutschland",
     "verlängerung-der-betreuung",
     "verlängerung-der-betreuung",
-    "vorläufiger-betreuer",
     "vormundschaftsgericht",
     "überprüfungsfrist"
   ],
@@ -10034,7 +10040,6 @@
     "aufwendungsersatz",
     "aufwendungsersatz",
     "berufliche-dienste",
-    "betreuervergütung",
     "betreuungszahlen",
     "gesetzestexte"
   ],
@@ -11283,6 +11288,7 @@
     "elektronische-patientenakte",
     "geldanlage",
     "genehmigungspflichten",
+    "medikationsplan",
     "meldepflicht",
     "schuldnerverzeichnis",
     "vermögenssorge",
@@ -11350,7 +11356,6 @@
   ],
   "zugriffsrecht": [
     "befreiter-betreuer",
-    "medikationsplan",
     "personalausweis",
     "postkontrolle",
     "schweigepflicht",
@@ -12499,6 +12504,23 @@
     "prozessfähigkeit",
     "verfahrensfähigkeit"
   ],
+  "forensik": [
+    "besonderer-vertreter-im-verwaltungsverfahren",
+    "betreuungssache",
+    "ehefähigkeit",
+    "forensik",
+    "geschäftsfähigkeit",
+    "gewaltschutzanordnung",
+    "maßregeln-der-besserung-und-sicherung",
+    "prozessfähigkeit",
+    "prozesspfleger",
+    "psychisch-kranken-gesetz",
+    "rechtsprechung-zum-sachverständigengutachten",
+    "sachverständigengutachten",
+    "strafprozess",
+    "testierfähigkeit",
+    "zwangsbehandlung"
+  ],
   "prozessführung": [
     "besonderer-vertreter-im-verwaltungsverfahren",
     "forensik",
@@ -12514,40 +12536,6 @@
     "prozesspfleger",
     "rechtsanwalt",
     "stundensatz"
-  ],
-  "verfahrenspfleger": [
-    "besonderer-vertreter-im-verwaltungsverfahren",
-    "datenschutz",
-    "freibetrag",
-    "genehmigung-der-heilbehandlung",
-    "gerichtskosten",
-    "kindschaftsrecht",
-    "nutzungspflicht",
-    "prozesspfleger",
-    "rechtsanwalt",
-    "rechtsanwalt",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsweg-in-deutschland",
-    "sterilisation",
-    "stundensatz",
-    "stundensatz",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger"
   ],
   "totenfürsorge": [
     "bestattung"
@@ -14632,6 +14620,7 @@
   ],
   "zuständig": [
     "betreuungsgericht",
+    "betreuungsgericht",
     "betreuungsrichter",
     "betreuungsverfahren",
     "gegenbetreuer",
@@ -14642,6 +14631,24 @@
     "unfallversicherung",
     "unterbringungsverfahren",
     "vormundschaftsgericht"
+  ],
+  "tagen": [
+    "betreuungsgericht",
+    "unfallversicherung"
+  ],
+  "stelle": [
+    "betreuungsgericht",
+    "unfallversicherung"
+  ],
+  "innerhalb": [
+    "betreuungsgericht",
+    "betreuungsverein",
+    "erbausschlagung",
+    "gesetzliche-vertretung",
+    "gesetzlicher-vertreter",
+    "meldepflicht",
+    "neu",
+    "unfallversicherung"
   ],
   "rpflg": [
     "betreuungsgericht",
@@ -15058,21 +15065,6 @@
     "vorläufiger-betreuer",
     "vormundschaftsgericht"
   ],
-  "forensik": [
-    "betreuungssache",
-    "ehefähigkeit",
-    "forensik",
-    "geschäftsfähigkeit",
-    "gewaltschutzanordnung",
-    "maßregeln-der-besserung-und-sicherung",
-    "prozessfähigkeit",
-    "psychisch-kranken-gesetz",
-    "rechtsprechung-zum-sachverständigengutachten",
-    "sachverständigengutachten",
-    "strafprozess",
-    "testierfähigkeit",
-    "zwangsbehandlung"
-  ],
   "betreuungsrichterin": [
     "betreuungssache"
   ],
@@ -15139,15 +15131,6 @@
   "gash": [
     "betreuungsverein"
   ],
-  "innerhalb": [
-    "betreuungsverein",
-    "erbausschlagung",
-    "gesetzliche-vertretung",
-    "gesetzlicher-vertreter",
-    "meldepflicht",
-    "neu",
-    "unfallversicherung"
-  ],
   "diskriminierungsverbot": [
     "betreuungsverein",
     "inklusionsbetrieb",
@@ -15169,6 +15152,7 @@
   ],
   "behindertenkonvention": [
     "betreuungsverein",
+    "forensik",
     "globales-nachhaltigkeitsziel-10",
     "haager-übereinkommen",
     "konvention-über-die-rechte-behinderter-menschen",
@@ -16095,6 +16079,39 @@
     "meldepflicht",
     "querschnittsaufgaben"
   ],
+  "verfahrenspfleger": [
+    "datenschutz",
+    "freibetrag",
+    "genehmigung-der-heilbehandlung",
+    "gerichtskosten",
+    "kindschaftsrecht",
+    "nutzungspflicht",
+    "prozesspfleger",
+    "rechtsanwalt",
+    "rechtsanwalt",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsweg-in-deutschland",
+    "sterilisation",
+    "stundensatz",
+    "stundensatz",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger"
+  ],
   "dritten": [
     "datenschutz",
     "vermögensverzeichnis"
@@ -16110,7 +16127,6 @@
   ],
   "psychisch": [
     "datenschutz",
-    "forensik",
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz",
     "sozialpsychiatrischer-dienst",
@@ -16121,6 +16137,7 @@
   ],
   "kranken": [
     "datenschutz",
+    "forensik",
     "gesundheitsdatennutzungsgesetz",
     "mdk-gutachten",
     "psychkg",
@@ -17111,6 +17128,7 @@
   ],
   "psychiatrie": [
     "einwilligungsfähigkeit",
+    "forensik",
     "psychisch-kranken-gesetz",
     "sachverständigengutachten",
     "zwangsbehandlung"
@@ -17799,6 +17817,10 @@
   ],
   "leitet": [
     "forensik"
+  ],
+  "wissenschaftliche": [
+    "forensik",
+    "heilbehandlung"
   ],
   "dateien": [
     "formulare"
@@ -18512,8 +18534,7 @@
   "gerichtskosten": [
     "gerichtskosten",
     "kontrollbetreuer",
-    "kosten",
-    "prozesspfleger"
+    "kosten"
   ],
   "jurbüro": [
     "gerichtskosten",
@@ -19508,9 +19529,6 @@
   "leiden": [
     "heilbehandlung"
   ],
-  "wissenschaftliche": [
-    "heilbehandlung"
-  ],
   "erprobung": [
     "heilbehandlung"
   ],
@@ -20069,7 +20087,8 @@
   ],
   "versorgung": [
     "krankenhaussozialdienst",
-    "mdk-gutachten"
+    "mdk-gutachten",
+    "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "landeskrankenhausgesetz": [
     "krankenhaussozialdienst",
@@ -20815,7 +20834,8 @@
     "nutzungspflicht"
   ],
   "vertragsärztlichen": [
-    "nutzungspflicht"
+    "nutzungspflicht",
+    "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "patientenversorgung": [
     "nutzungspflicht"
@@ -22135,6 +22155,9 @@
   "konkurrierenden": [
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
+  "vereinigung": [
+    "selbstverwaltung-der-deutschen-gemeinden"
+  ],
   "subsidiaritätsprinzip": [
     "selbstverwaltung-der-deutschen-gemeinden",
     "vorsorgeregister"
@@ -22849,12 +22872,6 @@
     "wohnungsauflösung"
   ],
   "unfallversicherungen": [
-    "unfallversicherung"
-  ],
-  "tagen": [
-    "unfallversicherung"
-  ],
-  "stelle": [
     "unfallversicherung"
   ],
   "unfall": [
