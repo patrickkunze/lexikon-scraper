@@ -1809,6 +1809,7 @@
     "eingliederungshilfe",
     "einwilligungsvorbehalt",
     "forensik",
+    "forensik",
     "freibetrag",
     "freier-wille",
     "geschäftsfähigkeit",
@@ -4313,6 +4314,7 @@
   ],
   "alten": [
     "altenheim",
+    "forensik",
     "gesetzgebung",
     "personenstand",
     "unterbringungsverfahren",
@@ -6095,21 +6097,6 @@
   "strafrechtlichen": [
     "amtsermittlungspflicht"
   ],
-  "haftung": [
-    "amtspflichtverletzung",
-    "arbeitsvertrag",
-    "aufgabenkreis",
-    "betreuerhaftung",
-    "betreuerhaftung",
-    "betreuerhaftung",
-    "betreuerhaftung",
-    "haftpflichtversicherung",
-    "heilbehandlung",
-    "vereinsbetreuer"
-  ],
-  "amtspflichtverletzungen": [
-    "amtspflichtverletzung"
-  ],
   "deutsche": [
     "amtspflichtverletzung",
     "begleitforschung",
@@ -6147,19 +6134,24 @@
     "nebentätigkeit",
     "persönliche-betreuung"
   ],
-  "gesetzlich": [
+  "amtseid": [
+    "amtspflichtverletzung"
+  ],
+  "verfassung": [
     "amtspflichtverletzung",
-    "dokumentationspflicht",
-    "elektronische-patientenakte",
-    "it-sicherheit",
-    "it-sicherheit",
-    "it-sicherheit",
-    "informationspflicht",
-    "postkontrolle",
-    "rechtsverkehr-in-deutschland",
-    "sachkundelehrgang",
-    "sozialpsychiatrischer-dienst",
-    "zugriffsrecht"
+    "sterbehilfe"
+  ],
+  "haftung": [
+    "amtspflichtverletzung",
+    "arbeitsvertrag",
+    "aufgabenkreis",
+    "betreuerhaftung",
+    "betreuerhaftung",
+    "betreuerhaftung",
+    "betreuerhaftung",
+    "haftpflichtversicherung",
+    "heilbehandlung",
+    "vereinsbetreuer"
   ],
   "selbstverwaltungsorgane": [
     "amtspflichtverletzung"
@@ -11907,6 +11899,7 @@
     "informationspflicht",
     "medikationsplan",
     "patientenvertreter",
+    "selbstverwaltung-der-deutschen-gemeinden",
     "sterbehilfe",
     "unterbringungsverfahren",
     "zwangsbehandlung"
@@ -12660,7 +12653,6 @@
   "grundstück": [
     "bestattung",
     "bestattungsvertrag",
-    "selbstverwaltung-der-deutschen-gemeinden",
     "verhältnismäßigkeitsprinzip",
     "vermögenssorge",
     "wohn--und-betreuungsvertragsgesetz",
@@ -16139,6 +16131,7 @@
   "kranken": [
     "datenschutz",
     "forensik",
+    "forensik",
     "gesundheitsdatennutzungsgesetz",
     "mdk-gutachten",
     "psychkg",
@@ -16531,6 +16524,19 @@
   ],
   "hinschg": [
     "dokumentationspflicht"
+  ],
+  "gesetzlich": [
+    "dokumentationspflicht",
+    "elektronische-patientenakte",
+    "it-sicherheit",
+    "it-sicherheit",
+    "it-sicherheit",
+    "informationspflicht",
+    "postkontrolle",
+    "rechtsverkehr-in-deutschland",
+    "sachkundelehrgang",
+    "sozialpsychiatrischer-dienst",
+    "zugriffsrecht"
   ],
   "meldestellen": [
     "dokumentationspflicht"
@@ -17323,6 +17329,7 @@
   ],
   "öffentlich": [
     "elektronisches-gerichts--und-verwaltungspostfach",
+    "forensik",
     "polizeirecht",
     "psychisch-kranken-gesetz",
     "rundfunkbeitrag",
@@ -17822,6 +17829,9 @@
   "wissenschaftliche": [
     "forensik",
     "heilbehandlung"
+  ],
+  "römisch": [
+    "forensik"
   ],
   "dateien": [
     "formulare"
@@ -22444,9 +22454,6 @@
   ],
   "suizid": [
     "sterbehilfe",
-    "sterbehilfe"
-  ],
-  "verfassung": [
     "sterbehilfe"
   ],
   "wertentscheidungen": [
