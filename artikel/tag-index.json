@@ -2511,6 +2511,7 @@
     "erweiterte-unterstützung",
     "erörterungsgespräch",
     "familienverfahrensgesetz",
+    "forensik",
     "gerichtskosten",
     "gerichtskosten",
     "gerichtskosten",
@@ -9273,6 +9274,7 @@
     "ehefähigkeit",
     "eherecht-und-betreuung",
     "eidesstattliche-versicherung",
+    "einverständniserklärung",
     "einwilligungsvorbehalt",
     "erörterungsgespräch",
     "freier-wille",
@@ -9797,7 +9799,6 @@
     "beamte-als-betreuer",
     "betreuungskosten-im-steuerrecht",
     "betreuungskosten-im-steuerrecht",
-    "einverständniserklärung",
     "entschädigung",
     "gesetzestexte",
     "neu"
@@ -10739,6 +10740,7 @@
     "bundesverband-freier-berufsbetreuer",
     "bundesverband-freier-berufsbetreuer",
     "digitale-barrierefreiheit",
+    "einverständniserklärung",
     "einwilligungsvorbehalt",
     "geschäftsfähigkeit",
     "grundstück",
@@ -10979,7 +10981,6 @@
     "beratung",
     "betreuungsorganisationsgesetz",
     "bundesverband-freier-berufsbetreuer",
-    "einverständniserklärung",
     "gesetzestexte",
     "informationspflicht",
     "krankenhaussozialdienst",
@@ -11670,6 +11671,7 @@
   ],
   "verletzung": [
     "beglaubigung-durch-betreuungsbehörde",
+    "forensik",
     "jahresbericht",
     "schweigepflicht"
   ],
@@ -14064,7 +14066,8 @@
   ],
   "führen": [
     "betreuervergütung-2019",
-    "einverständniserklärung"
+    "einverständniserklärung",
+    "forensik"
   ],
   "studium": [
     "betreuervergütung-2019"
@@ -17831,6 +17834,12 @@
     "heilbehandlung"
   ],
   "römisch": [
+    "forensik"
+  ],
+  "trauma": [
+    "forensik"
+  ],
+  "traumafolgestörungen": [
     "forensik"
   ],
   "dateien": [
