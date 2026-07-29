@@ -261,6 +261,7 @@
     "altenheim",
     "altenheim",
     "anfangsbericht",
+    "anfangsbericht",
     "anfangsgespräch",
     "anhörung",
     "anlagegeld",
@@ -1993,6 +1994,7 @@
     "altenheim",
     "altenheim",
     "altenheim",
+    "anfangsbericht",
     "anhörung",
     "arbeitsvertrag",
     "arbeitsvertrag",
@@ -2045,7 +2047,6 @@
     "einwilligungsvorbehalt",
     "einwilligungsvorbehalt",
     "einwilligungsvorbehalt",
-    "elektronisches-gerichts--und-verwaltungspostfach",
     "ergänzungsbetreuer",
     "ergänzungsbetreuer",
     "ergänzungsbetreuer",
@@ -2583,6 +2584,7 @@
     "altenheim",
     "amtsermittlungspflicht",
     "anfangsbericht",
+    "anfangsbericht",
     "angehörigenvertretungsrecht",
     "angehörigenvertretungsrecht",
     "angehörigenvertretungsrecht",
@@ -2607,6 +2609,7 @@
     "ausländer",
     "beamte-als-betreuer",
     "beamte-als-betreuer",
+    "beaufsichtigung",
     "beaufsichtigung",
     "befreiter-betreuer",
     "befreiter-betreuer",
@@ -2695,6 +2698,7 @@
     "ergänzungsbetreuer",
     "ermessensvergütung",
     "familienverfahrensgesetz",
+    "forensik",
     "freibetrag",
     "freibetrag",
     "freier-wille",
@@ -3637,6 +3641,7 @@
     "eingliederungshilfe",
     "eingliederungshilfe",
     "einwilligungsvorbehalt",
+    "forensik",
     "gesetzliche-vertretung",
     "grundrechte",
     "haager-übereinkommen",
@@ -3787,7 +3792,6 @@
     "eidesstattliche-versicherung",
     "eingliederungshilfe",
     "elektronisches-gerichts--und-verwaltungspostfach",
-    "elektronisches-gerichts--und-verwaltungspostfach",
     "erziehungsmaßregeln",
     "geldanlage",
     "gesetzgebung",
@@ -3872,6 +3876,7 @@
   ],
   "betrifft": [
     "alltagsgeschäfte",
+    "anfangsbericht",
     "beratung",
     "betreuervergütung-2019",
     "dauervergütung",
@@ -4935,6 +4940,7 @@
     "einstweilige-anordnung",
     "einwilligungsfähigkeit",
     "einwilligungsvorbehalt",
+    "elektronisches-gerichts--und-verwaltungspostfach",
     "erbschaft",
     "ergänzungsbetreuer",
     "ergänzungsbetreuer",
@@ -6041,7 +6047,6 @@
   ],
   "diese": [
     "amtsermittlungspflicht",
-    "anfangsbericht",
     "anhörung",
     "anlagegeld",
     "anzeigepflicht",
@@ -6193,55 +6198,6 @@
     "beglaubigung-durch-betreuungsbehörde",
     "unterschriftsbeglaubigung"
   ],
-  "achtung": [
-    "anfangsbericht",
-    "anfangsgespräch",
-    "anlagegeld",
-    "arztzeugnis",
-    "aufgabenkreis",
-    "aufhebung-der-betreuung",
-    "aufwendungsersatz",
-    "ausbildung",
-    "beamte-als-betreuer",
-    "beaufsichtigung",
-    "betreuer-(ehrenamt)",
-    "betreuerausweis",
-    "betreuerpflichten",
-    "betreuerwechsel",
-    "betreuungsbehörde",
-    "betreuungsgericht",
-    "betreuungsplan",
-    "betreuungsverein",
-    "ende-der-betreuung",
-    "finanzamt",
-    "freibetrag",
-    "geldanlage",
-    "genehmigungen-von-a-bis-z",
-    "gerichtskosten",
-    "gesetzliche-vertretung",
-    "gesetzlicher-vertreter",
-    "girokonto",
-    "haftpflichtversicherung",
-    "hamburger-mustergliederung",
-    "heimmitarbeiter-als-betreuer",
-    "jahresbericht",
-    "mündelgeld",
-    "postkontrolle",
-    "prozessführung",
-    "rechnungslegung",
-    "rechtspfleger",
-    "schenkung",
-    "schlussbericht",
-    "selbstbestimmung",
-    "spielwiese",
-    "tod-des-betreuten",
-    "umgangsbestimmung",
-    "verfahrenspfleger",
-    "verfügungsgeld",
-    "vermögensverzeichnis",
-    "vertretung-gegenüber-behörden",
-    "zwangsvollstreckung"
-  ],
   "seite": [
     "anfangsbericht",
     "anfangsgespräch",
@@ -6316,6 +6272,13 @@
     "schlussbericht",
     "umgangsbestimmung"
   ],
+  "inhalt": [
+    "anfangsbericht",
+    "arbeitsvertrag",
+    "hauptseite",
+    "sachkundenachweis",
+    "vermögensverzeichnis"
+  ],
   "anfangsbericht": [
     "anfangsbericht",
     "anfangsbericht",
@@ -6324,6 +6287,28 @@
     "hamburger-mustergliederung",
     "jahresbericht",
     "jahresbericht"
+  ],
+  "seiner": [
+    "anfangsbericht",
+    "ausschließlichkeitserklärung",
+    "beaufsichtigung",
+    "betreuer-(ehrenamt)",
+    "betreuungsgerichtshilfe",
+    "diskriminierungsverbot",
+    "diskriminierungsverbot",
+    "einverständniserklärung",
+    "mittellosigkeit",
+    "patientenverfügung",
+    "strafprozess",
+    "unterbringung",
+    "unterbringungsverfahren",
+    "zugangsrecht"
+  ],
+  "festsetzung": [
+    "anfangsbericht",
+    "betreuervergütung",
+    "mittellosigkeit",
+    "regress-der-staatskasse"
   ],
   "vordruck": [
     "anfangsbericht",
@@ -6399,6 +6384,54 @@
   "weggefallen": [
     "anfangsbericht",
     "betreuungsplan"
+  ],
+  "achtung": [
+    "anfangsgespräch",
+    "anlagegeld",
+    "arztzeugnis",
+    "aufgabenkreis",
+    "aufhebung-der-betreuung",
+    "aufwendungsersatz",
+    "ausbildung",
+    "beamte-als-betreuer",
+    "beaufsichtigung",
+    "betreuer-(ehrenamt)",
+    "betreuerausweis",
+    "betreuerpflichten",
+    "betreuerwechsel",
+    "betreuungsbehörde",
+    "betreuungsgericht",
+    "betreuungsplan",
+    "betreuungsverein",
+    "ende-der-betreuung",
+    "finanzamt",
+    "freibetrag",
+    "geldanlage",
+    "genehmigungen-von-a-bis-z",
+    "gerichtskosten",
+    "gesetzliche-vertretung",
+    "gesetzlicher-vertreter",
+    "girokonto",
+    "haftpflichtversicherung",
+    "hamburger-mustergliederung",
+    "heimmitarbeiter-als-betreuer",
+    "jahresbericht",
+    "mündelgeld",
+    "postkontrolle",
+    "prozessführung",
+    "rechnungslegung",
+    "rechtspfleger",
+    "schenkung",
+    "schlussbericht",
+    "selbstbestimmung",
+    "spielwiese",
+    "tod-des-betreuten",
+    "umgangsbestimmung",
+    "verfahrenspfleger",
+    "verfügungsgeld",
+    "vermögensverzeichnis",
+    "vertretung-gegenüber-behörden",
+    "zwangsvollstreckung"
   ],
   "entspricht": [
     "anfangsgespräch",
@@ -7451,7 +7484,6 @@
   ],
   "verhältnismäßigkeitsprinzip": [
     "anhörung",
-    "gesetzgebung",
     "neu",
     "polizeirecht",
     "subsidiaritätsprinzip",
@@ -7861,6 +7893,7 @@
   "finanzamt": [
     "anlagegeld",
     "ende-der-betreuung",
+    "grundstück",
     "selbstverwaltung-der-deutschen-gemeinden",
     "steuererklärung",
     "steuerpflicht",
@@ -8269,6 +8302,7 @@
     "datenschutz",
     "delegation",
     "einwilligungsfähigkeit",
+    "elektronisches-gerichts--und-verwaltungspostfach",
     "genehmigung-der-heilbehandlung",
     "gerichtskosten",
     "girokonto",
@@ -8575,12 +8609,6 @@
   "redirectsozialhilfe": [
     "arbeitslosengeld",
     "sozialleistung"
-  ],
-  "inhalt": [
-    "arbeitsvertrag",
-    "hauptseite",
-    "sachkundenachweis",
-    "vermögensverzeichnis"
   ],
   "arbeitsverhältnis": [
     "arbeitsvertrag",
@@ -9018,7 +9046,8 @@
   ],
   "system": [
     "assistenzleistungen",
-    "corona"
+    "corona",
+    "forensik"
   ],
   "damit": [
     "assistenzleistungen",
@@ -10108,7 +10137,6 @@
     "bestattung",
     "freibetrag",
     "freibetrag",
-    "grundstück",
     "mahnverfahren",
     "mittellosigkeit",
     "mittellosigkeit",
@@ -10670,21 +10698,6 @@
   "aussagen": [
     "ausschließlichkeitserklärung",
     "eidesstattliche-versicherung"
-  ],
-  "seiner": [
-    "ausschließlichkeitserklärung",
-    "beaufsichtigung",
-    "betreuer-(ehrenamt)",
-    "betreuungsgerichtshilfe",
-    "diskriminierungsverbot",
-    "diskriminierungsverbot",
-    "einverständniserklärung",
-    "mittellosigkeit",
-    "patientenverfügung",
-    "strafprozess",
-    "unterbringung",
-    "unterbringungsverfahren",
-    "zugangsrecht"
   ],
   "klage": [
     "ausschließlichkeitserklärung",
@@ -11252,9 +11265,6 @@
     "beaufsichtigung"
   ],
   "überwachungspflicht": [
-    "beaufsichtigung"
-  ],
-  "weisung": [
     "beaufsichtigung"
   ],
   "betreuungsgesetz": [
@@ -13806,11 +13816,6 @@
   "weiterhin": [
     "betreuervergütung",
     "geschäftsfähigkeit"
-  ],
-  "festsetzung": [
-    "betreuervergütung",
-    "mittellosigkeit",
-    "regress-der-staatskasse"
   ],
   "strittig": [
     "betreuervergütung"
@@ -16428,6 +16433,7 @@
   "wahlrecht": [
     "diskriminierungsverbot",
     "gesetzestexte",
+    "gesetzgebung",
     "wahlrecht",
     "wahlrecht",
     "wahlrecht",
@@ -17845,6 +17851,13 @@
   "traumafolgestörungen": [
     "forensik"
   ],
+  "unterschieden": [
+    "forensik",
+    "gerichtskosten"
+  ],
+  "sexualwissenschaft": [
+    "forensik"
+  ],
   "dateien": [
     "formulare"
   ],
@@ -18550,9 +18563,6 @@
   "obigen": [
     "gerichtskosten",
     "haftpflichtversicherung"
-  ],
-  "unterschieden": [
-    "gerichtskosten"
   ],
   "gerichtskosten": [
     "gerichtskosten",
