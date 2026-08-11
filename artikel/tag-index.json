@@ -3920,7 +3920,6 @@
     "sozialhilfe",
     "sozialhilfe",
     "strafprozess",
-    "unterstützungspflicht",
     "verfügungsgeld",
     "wohnungsangelegenheiten"
   ],
@@ -5144,7 +5143,6 @@
     "altenheim",
     "gesetzliche-vertretung",
     "kooperationsvereinbarung",
-    "unterstützungspflicht",
     "verhinderungsbetreuer"
   ],
   "heimbewohnern": [
@@ -5548,6 +5546,7 @@
     "tod-des-betreuten",
     "umgangsbestimmung",
     "unterbringungsähnliche-maßnahme",
+    "unterstützungspflicht",
     "verfahrensfähigkeit",
     "verhinderungsbetreuer",
     "vermögenssorge",
@@ -18897,12 +18896,10 @@
     "gesetzliche-vertretung"
   ],
   "haase": [
-    "gesetzliche-vertretung",
-    "unterstützungspflicht"
+    "gesetzliche-vertretung"
   ],
   "brauche": [
-    "gesetzliche-vertretung",
-    "unterstützungspflicht"
+    "gesetzliche-vertretung"
   ],
   "zunächst": [
     "gesetzlicher-vertreter"
@@ -19635,7 +19632,8 @@
     "heimmitarbeiter-als-betreuer"
   ],
   "rechtl": [
-    "heimmitarbeiter-als-betreuer"
+    "heimmitarbeiter-als-betreuer",
+    "unterstützungspflicht"
   ],
   "ordensgemeinschaften": [
     "heimmitarbeiter-als-betreuer"
@@ -19953,7 +19951,8 @@
     "kindschaftsrecht"
   ],
   "hoffmann": [
-    "kindschaftsrecht"
+    "kindschaftsrecht",
+    "unterstützungspflicht"
   ],
   "kindern": [
     "kindschaftsrecht",
@@ -20028,8 +20027,7 @@
     "kirchenaustritt"
   ],
   "stellvertretung": [
-    "kirchenaustritt",
-    "unterstützungspflicht"
+    "kirchenaustritt"
   ],
   "kirchenaustrittsgesetzesgesetz": [
     "kirchenaustritt"
@@ -23211,6 +23209,12 @@
     "unterstützungspflicht"
   ],
   "nutzerinnen": [
+    "unterstützungspflicht"
+  ],
+  "arnold": [
+    "unterstützungspflicht"
+  ],
+  "stellung": [
     "unterstützungspflicht"
   ],
   "ottawa": [
