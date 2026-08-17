@@ -9551,7 +9551,6 @@
     "it-sicherheit",
     "sterbehilfe",
     "tierschutz",
-    "unterstützte-entscheidungsfindung",
     "waffenbesitz"
   ],
   "betreuerhaftung": [
@@ -10869,10 +10868,12 @@
   ],
   "alltagsgeschäfte": [
     "bankvollmacht",
+    "erörterungsgespräch",
     "genehmigungen-von-a-bis-z",
     "geschäftsfähigkeit",
     "geschäftsfähigkeit",
     "intellektuelle-beeinträchtigung",
+    "unterstützte-entscheidungsfindung",
     "verfügungsgeld"
   ],
   "anzahl": [
@@ -11892,7 +11893,6 @@
     "betreuungszahlen",
     "delegation",
     "einwilligungsfähigkeit",
-    "erörterungsgespräch",
     "genehmigung-der-heilbehandlung",
     "patientenverfügung"
   ],
