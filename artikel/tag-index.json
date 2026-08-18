@@ -1726,6 +1726,7 @@
     "datenschutz",
     "hauptseite",
     "informationspflicht",
+    "mailingliste",
     "unterstützungspflicht",
     "wohnungsauflösung"
   ],
@@ -3702,6 +3703,7 @@
     "diskussionsforum",
     "forum-url",
     "link-liste",
+    "mailingliste",
     "mailingliste"
   ],
   "fortbildung": [
@@ -10381,7 +10383,6 @@
     "ausbildung",
     "bundesverband-freier-berufsbetreuer",
     "mailingliste",
-    "mailingliste",
     "software",
     "unfallversicherung"
   ],
@@ -12369,7 +12370,8 @@
     "organspende"
   ],
   "ermöglicht": [
-    "berufsbetreuer"
+    "berufsbetreuer",
+    "mailingliste"
   ],
   "februar": [
     "berufsbetreuer",
@@ -20354,14 +20356,10 @@
   ],
   "ruhr": [
     "mailingliste",
-    "mailingliste",
     "vorsorgevollmacht",
     "vorsorgevollmacht"
   ],
-  "ermöglichte": [
-    "mailingliste"
-  ],
-  "lists": [
+  "mitarbeiterinnen": [
     "mailingliste"
   ],
   "forum": [
