@@ -4843,6 +4843,7 @@
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
     "betreuerhaftung",
+    "erbschaft",
     "freibetrag",
     "freibetrag",
     "geldanlage",
@@ -6027,6 +6028,7 @@
     "intellektuelle-beeinträchtigung",
     "interoperabilität",
     "mdk-gutachten",
+    "neu",
     "neu",
     "neu",
     "neu",
@@ -11841,7 +11843,6 @@
     "begleitforschung",
     "betreuungsvoraussetzung",
     "eingliederungshilfe",
-    "erbschaft",
     "erweiterte-unterstützung",
     "sozialhilfe"
   ],
@@ -12636,7 +12637,6 @@
     "bestattung",
     "eidesstattliche-versicherung",
     "eidesstattliche-versicherung",
-    "erbschaft",
     "freibetrag",
     "schlusstätigkeiten",
     "testierfähigkeit",
@@ -15578,6 +15578,7 @@
   ],
   "zimmermann": [
     "buchverzeichnis",
+    "erbschaft",
     "rechtsanwalt",
     "unterbringung",
     "unterbringungsverfahren"
@@ -16566,6 +16567,7 @@
     "genehmigungen-von-a-bis-z",
     "genehmigungspflichten",
     "genehmigungspflichten",
+    "neu",
     "vbvg-rechtsprechung",
     "zweites-betreuungsrechtsänderungsgesetz"
   ],
@@ -17599,12 +17601,12 @@
   "vormalige": [
     "erbschaft"
   ],
-  "roth": [
-    "erbschaft",
-    "rechtsmittel"
-  ],
-  "vererben": [
+  "gieseking": [
     "erbschaft"
+  ],
+  "verlag": [
+    "erbschaft",
+    "sozialhilfe"
   ],
   "jura": [
     "erbschaft",
@@ -17883,6 +17885,7 @@
   "trat": [
     "forensik",
     "it-sicherheit",
+    "neu",
     "neu",
     "neu",
     "neu",
@@ -20649,6 +20652,12 @@
   "eheschließungsrechts": [
     "neu"
   ],
+  "identitätsfeststellungsgesetz": [
+    "neu"
+  ],
+  "strafprozessordnung": [
+    "neu"
+  ],
   "gesamtdeutsche": [
     "neu"
   ],
@@ -21693,6 +21702,9 @@
   "beschwerdewert": [
     "rechtsmittel"
   ],
+  "roth": [
+    "rechtsmittel"
+  ],
   "probleme": [
     "rechtsmittel"
   ],
@@ -22292,9 +22304,6 @@
     "sozialhilfe"
   ],
   "bundesanzeiger": [
-    "sozialhilfe"
-  ],
-  "verlag": [
     "sozialhilfe"
   ],
   "diverse": [
