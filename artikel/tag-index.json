@@ -1493,7 +1493,6 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "erbausschlagung",
     "erbschaft",
-    "erweiterte-unterstützung",
     "erziehungsmaßregeln",
     "fgg",
     "famfg",
@@ -6013,6 +6012,7 @@
     "datenschutz",
     "delegation",
     "digitale-barrierefreiheit",
+    "erweiterte-unterstützung",
     "forensik",
     "föderalismus",
     "garantenpflicht",
@@ -10633,6 +10633,7 @@
   ],
   "selbstverwaltung": [
     "ausländer",
+    "erweiterte-unterstützung",
     "föderalismus",
     "selbstverwaltung-der-deutschen-gemeinden",
     "selbstverwaltungserklärung",
@@ -17685,11 +17686,6 @@
   "kontext": [
     "erweiterte-unterstützung"
   ],
-  "betreuungsalternativen": [
-    "erweiterte-unterstützung",
-    "patientenverfügung",
-    "synopse-patientenverfügungsgesetze"
-  ],
   "erziehungsmaßregeln": [
     "erziehungsmaßregeln"
   ],
@@ -21268,6 +21264,10 @@
   ],
   "videos": [
     "patientenverfügung"
+  ],
+  "betreuungsalternativen": [
+    "patientenverfügung",
+    "synopse-patientenverfügungsgesetze"
   ],
   "beinhaltet": [
     "patientenvertreter"
