@@ -1810,6 +1810,7 @@
     "eingliederungshilfe",
     "eingliederungshilfe",
     "einwilligungsvorbehalt",
+    "erweiterte-unterstützung",
     "forensik",
     "forensik",
     "freibetrag",
@@ -6012,7 +6013,6 @@
     "datenschutz",
     "delegation",
     "digitale-barrierefreiheit",
-    "erweiterte-unterstützung",
     "forensik",
     "föderalismus",
     "garantenpflicht",
@@ -8354,6 +8354,7 @@
   "rechtlich": [
     "anzeigepflicht",
     "elektronischer-identitätsnachweis",
+    "erweiterte-unterstützung",
     "geschäftsfähigkeit",
     "unterstützungspflicht",
     "unterstützungspflicht",
@@ -12193,6 +12194,7 @@
   "unterstützung": [
     "beratung",
     "betreuungsbehörde",
+    "erweiterte-unterstützung",
     "kooperationsvereinbarung",
     "unterstützungspflicht",
     "unterstützungspflicht",
@@ -12488,8 +12490,7 @@
     "betreuungszahlen"
   ],
   "bearbeitet": [
-    "besonderer-vertreter-im-verwaltungsverfahren",
-    "erweiterte-unterstützung"
+    "besonderer-vertreter-im-verwaltungsverfahren"
   ],
   "verwaltungsverfahren": [
     "besonderer-vertreter-im-verwaltungsverfahren",
@@ -14513,7 +14514,8 @@
     "registrierung"
   ],
   "erweiterte": [
-    "betreuungsbehörde"
+    "betreuungsbehörde",
+    "erweiterte-unterstützung"
   ],
   "querschnittsaufgaben": [
     "betreuungsbehörde",
@@ -15063,7 +15065,8 @@
   "amtsermittlungspflicht": [
     "betreuungssache",
     "diskriminierungsverbot",
-    "einstweilige-anordnung"
+    "einstweilige-anordnung",
+    "erweiterte-unterstützung"
   ],
   "unterbringungsverfahren": [
     "betreuungssache",
@@ -17679,9 +17682,6 @@
     "geldanlage",
     "genehmigungen-von-a-bis-z",
     "mündelgeld"
-  ],
-  "demnächst": [
-    "erweiterte-unterstützung"
   ],
   "kontext": [
     "erweiterte-unterstützung"

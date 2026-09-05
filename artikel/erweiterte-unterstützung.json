@@ -1,15 +1,17 @@
 {
   "id": "erweiterte-unterstützung",
   "titel": "Erweiterte Unterstützung",
-  "inhalt": "- wird demnächst bearbeitet-\n\nLiteratur\n Bürkel: Andere Hilfen im Kontext rechtlicher Betreuung; BtR aktuell 2024, 21\n Mlosch, Betreuungsrecht. Erweiterte Unterstützung in der Kommune, Teil 1, NDV 2026, 251\n\nSiehe auch\n [Betreuungsrechtsreform](betreuungsrechtsreform), [Betreuungsorganisationsgesetz](betreuungsorganisationsgesetz)\n [Betreuungsbehörde](betreuungsbehörde)\n [Selbstverwaltung der deutschen Gemeinden](selbstverwaltung-der-deutschen-gemeinden), [Altenheim](altenheim)\n\n[Kategorie: Betreuungsalternativen](kategorie:-betreuungsalternativen)",
+  "inhalt": "Allgemeines\nDie „erweiterte Unterstützung“ wird in § 8 Abs. 2 BtOG (= [Betreuungsorganisationsgesetz](betreuungsorganisationsgesetz)) genannt. Bei dieser Wunschvorstellung des [Gesetzgebung](gesetzgebung) handelt es sich um eine Unterstützungsform für mehr oder weniger rechtlich orientierungslose Menschen, die ausdrücklich nicht zu einer [Betreuerbestellung](betreuerbestellung) führt. Auch soll die für den einwohnenden hilfsbedürftigen Menschen zuständige [Betreuungsbehörde](betreuungsbehörde) diesen nicht rechtlich vertreten müssen. Fraglich ist, wer dies dann vor Ort verantwortlich unter Beachtung der [Grundrechte](grundrechte) und Menschenrechte tun wird.\n\nLiteratur\n Bürkel: Andere Hilfen im Kontext rechtlicher Betreuung; BtR aktuell 2024, 21\n Mlosch, Betreuungsrecht. Erweiterte Unterstützung in der Kommune, Teil 1, NDV 2026, 251\n\nSiehe auch\n [Betreuungsrechtsreform](betreuungsrechtsreform), [Betreuungsorganisationsgesetz](betreuungsorganisationsgesetz)\n [Betreuungsbehörde](betreuungsbehörde), [Amtsermittlungspflicht](amtsermittlungspflicht)\n [Selbstverwaltung der deutschen Gemeinden](selbstverwaltung-der-deutschen-gemeinden), [Altenheim](altenheim)\n\n[Kategorie: Betreuungsalternativen](kategorie:-betreuungsalternativen)",
   "struktur": [
     {
-      "titel": "Einleitung",
-      "inhalt": "- wird demnächst bearbeitet-",
+      "titel": "Allgemeines",
+      "inhalt": "Die „erweiterte Unterstützung“ wird in § 8 Abs. 2 BtOG (= Betreuungsorganisationsgesetz) genannt. Bei dieser Wunschvorstellung des deutschen Gesetzgebers handelt es sich um eine Unterstützungsform für mehr oder weniger rechtlich orientierungslose Menschen, die ausdrücklich nicht zu einer Betreuerbestellung führt. Auch soll die für den einwohnenden hilfsbedürftigen Menschen zuständige Betreuungsbehörde diesen nicht rechtlich vertreten müssen. Fraglich ist, wer dies dann vor Ort verantwortlich unter Beachtung der Grund- und Menschenrechte tun wird.",
       "tags": [
         "wird",
-        "demnächst",
-        "bearbeitet"
+        "rechtlich",
+        "menschen",
+        "erweiterte",
+        "unterstützung"
       ]
     },
     {
@@ -25,23 +27,27 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Betreuungsrechtsreform, Betreuungsorganisationsgesetz\n Betreuungsbehörde\n Selbstverwaltung der deutschen Gemeinden, Altenheim\n\nKategorie: Betreuungsalternativen",
+      "inhalt": "Betreuungsrechtsreform, Betreuungsorganisationsgesetz\n Betreuungsbehörde, Amtsermittlungspflicht\n Selbstverwaltung der deutschen Gemeinden, Altenheim\n\nKategorie: Betreuungsalternativen",
       "tags": [
         "betreuungsrechtsreform",
         "betreuungsorganisationsgesetz",
         "betreuungsbehörde",
-        "selbstverwaltung",
-        "deutschen"
+        "amtsermittlungspflicht",
+        "selbstverwaltung"
       ]
     }
   ],
-  "zusammenfassung": "- wird demnächst bearbeitet-\n\nLiteratur\n Bürkel: Andere Hilfen im Kontext rechtlicher Betreuung; BtR aktuell 2024, 21\n Mlosch, Betreuungsrecht. Erweiterte Unterstützung in der Kommune, Teil 1, NDV 2026, 251\n\nSiehe auch\n [Betreuungsrechtsreform](betreuungsrechtsreform), [Betreuungsorganisationsgesetz...",
+  "zusammenfassung": "Allgemeines\nDie „erweiterte Unterstützung“ wird in § 8 Abs. 2 BtOG (= [Betreuungsorganisationsgesetz](betreuungsorganisationsgesetz)) genannt. Bei dieser Wunschvorstellung des [Gesetzgebung](gesetzgebung) handelt es sich um eine Unterstützungsform für mehr oder weniger rechtlich orientierungslose Me...",
   "verwandteArtikel": [
-    "betreuungsorganisationsgesetz",
-    "betreuungsbehörde",
-    "betreuungsrechtsreform",
-    "selbstverwaltung-der-deutschen-gemeinden",
     "altenheim",
-    "kategorie:-betreuungsalternativen"
+    "kategorie:-betreuungsalternativen",
+    "amtsermittlungspflicht",
+    "betreuungsrechtsreform",
+    "betreuungsorganisationsgesetz",
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "gesetzgebung",
+    "grundrechte",
+    "betreuungsbehörde",
+    "betreuerbestellung"
   ]
 }
