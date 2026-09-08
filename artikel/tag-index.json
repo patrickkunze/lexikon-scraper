@@ -412,6 +412,7 @@
     "betreuerpflichten",
     "betreuerpflichten",
     "betreuerpflichten",
+    "betreuerpflichten",
     "betreuervergütung",
     "betreuervergütung",
     "betreuervergütung",
@@ -1261,6 +1262,7 @@
     "betreuerpflichten",
     "betreuerpflichten",
     "betreuerpflichten",
+    "betreuerpflichten",
     "betreuervergütung",
     "betreuervorschlag",
     "betreuervorschlag",
@@ -2090,6 +2092,7 @@
     "mitteilungspflicht",
     "mittellosigkeit",
     "mittellosigkeit",
+    "natürlicher-wille",
     "ordre-public",
     "organspende",
     "organspende",
@@ -3495,6 +3498,7 @@
     "betreuerbestellung",
     "betreuerbestellung",
     "betreuerbestellung",
+    "betreuerpflichten",
     "betreuerpflichten",
     "betreuerpflichten",
     "betreuervergütung",
@@ -7120,6 +7124,7 @@
     "fem",
     "genehmigung-der-heilbehandlung",
     "gewaltschutzanordnung",
+    "natürlicher-wille",
     "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme",
@@ -8714,6 +8719,7 @@
     "assistenzleistungen",
     "aufgabenkreis",
     "beglaubigung-durch-betreuungsbehörde",
+    "betreuerpflichten",
     "dauervergütung",
     "eherecht-und-betreuung",
     "erbschaft",
@@ -10634,7 +10640,6 @@
   ],
   "selbstverwaltung": [
     "ausländer",
-    "erweiterte-unterstützung",
     "föderalismus",
     "selbstverwaltung-der-deutschen-gemeinden",
     "selbstverwaltungserklärung",
@@ -11570,6 +11575,7 @@
   "aber": [
     "beglaubigung-durch-betreuungsbehörde",
     "betreuerpflichten",
+    "betreuerpflichten",
     "genehmigungspflichten",
     "neu",
     "patientenverfügung",
@@ -12247,7 +12253,6 @@
     "dauervergütung",
     "gerichtskosten",
     "grundrechte",
-    "natürlicher-wille",
     "ordre-public",
     "ordre-public",
     "ordre-public",
@@ -16954,6 +16959,7 @@
   ],
   "unterstützte": [
     "eingliederungshilfe",
+    "erweiterte-unterstützung",
     "erörterungsgespräch",
     "intellektuelle-beeinträchtigung",
     "natürlicher-wille",
@@ -20568,7 +20574,6 @@
     "natürlicher-wille"
   ],
   "natürlichen": [
-    "natürlicher-wille",
     "natürlicher-wille"
   ],
   "angriff": [
