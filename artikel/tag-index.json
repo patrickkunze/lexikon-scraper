@@ -6875,7 +6875,6 @@
     "einverständniserklärung",
     "grundstück",
     "meldepflicht",
-    "ordre-public",
     "polizeirecht",
     "polizeirecht"
   ],
@@ -8619,8 +8618,7 @@
     "eidesstattliche-versicherung",
     "freibetrag",
     "inklusionsbetrieb",
-    "regress-der-staatskasse",
-    "zug-um-zug-leistung"
+    "regress-der-staatskasse"
   ],
   "redirectsozialhilfe": [
     "arbeitslosengeld",
@@ -12543,6 +12541,7 @@
     "sachverständigengutachten",
     "strafprozess",
     "testierfähigkeit",
+    "zug-um-zug-leistung",
     "zwangsbehandlung"
   ],
   "prozessführung": [
@@ -13376,6 +13375,7 @@
     "grundrechte",
     "heilbehandlung",
     "maßregeln-der-besserung-und-sicherung",
+    "ordre-public",
     "ordre-public",
     "ordre-public",
     "psychisch-kranken-gesetz",
