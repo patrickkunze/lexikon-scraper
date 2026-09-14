@@ -4907,6 +4907,7 @@
     "altenheim",
     "angehörigenvertretungsrecht",
     "anhörung",
+    "anhörung",
     "anlagegeld",
     "anlagegeld",
     "arztzeugnis",
@@ -5816,7 +5817,6 @@
     "anhörung",
     "anhörung",
     "anhörung",
-    "anhörung",
     "arztzeugnis",
     "arztzeugnis",
     "aufgabenkreis",
@@ -6676,6 +6676,7 @@
     "gerichtsbeschluss",
     "grundrechte",
     "rechtsprechung-zum-sachverständigengutachten",
+    "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zur-anhörung",
     "rechtsprechung-zur-anhörung",
     "rechtsprechung-zur-anhörung",
@@ -20483,8 +20484,7 @@
     "registrierung"
   ],
   "anschluss": [
-    "mittellosigkeit",
-    "rechtsprechung-zum-verfahrenspfleger"
+    "mittellosigkeit"
   ],
   "barvermögen": [
     "mittellosigkeit"
