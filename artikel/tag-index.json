@@ -842,6 +842,7 @@
     "familienverfahrensgesetz",
     "geheimhaltungspflicht",
     "geheimhaltungspflicht",
+    "gemeinwohlorientierung",
     "gerichtskosten",
     "gesundheitliche-versorgungsplanung",
     "gesundheitsdatennutzungsgesetz",
@@ -3650,6 +3651,8 @@
     "familienverfahrensgesetz",
     "forensik",
     "forensik",
+    "gemeinwohlorientierung",
+    "gemeinwohlorientierung",
     "gesetzliche-vertretung",
     "grundrechte",
     "haager-übereinkommen",
@@ -3804,6 +3807,7 @@
     "erziehungsmaßregeln",
     "forensik",
     "geldanlage",
+    "gemeinwohlorientierung",
     "gesetzgebung",
     "gesundheitsdatennutzungsgesetz",
     "gesundheitsdatennutzungsgesetz",
@@ -6021,6 +6025,8 @@
     "föderalismus",
     "garantenpflicht",
     "geheimhaltungspflicht",
+    "gemeinwohlorientierung",
+    "gemeinwohlorientierung",
     "geschäftsfähigkeit",
     "gesetzgebung",
     "gesetzgebung",
@@ -7701,6 +7707,7 @@
     "datenschutz",
     "einwilligungsfähigkeit",
     "freibetrag",
+    "gemeinwohlorientierung",
     "meldepflicht",
     "neu",
     "neu",
@@ -7815,6 +7822,7 @@
     "erbausschlagung",
     "ermessensvergütung",
     "geldanlage",
+    "gemeinwohlorientierung",
     "gerichtskosten",
     "gerichtskosten",
     "gesetzestexte",
@@ -10205,7 +10213,8 @@
     "link-liste"
   ],
   "staatlich": [
-    "ausbildung"
+    "ausbildung",
+    "gemeinwohlorientierung"
   ],
   "festgelegte": [
     "ausbildung"
@@ -10681,7 +10690,8 @@
     "ausschließlichkeitserklärung"
   ],
   "sorgte": [
-    "ausschließlichkeitserklärung"
+    "ausschließlichkeitserklärung",
+    "gemeinwohlorientierung"
   ],
   "alte": [
     "ausschließlichkeitserklärung",
@@ -10772,7 +10782,6 @@
     "geschäftsfähigkeit",
     "grundstück",
     "prozessfähigkeit",
-    "subsidiaritätsprinzip",
     "testierfähigkeit",
     "unfallversicherung",
     "verband-freiberuflicher-betreuer",
@@ -10953,6 +10962,7 @@
     "beglaubigung-durch-betreuungsbehörde",
     "betreuer-als-erbe",
     "eingruppierung",
+    "gemeinwohlorientierung",
     "geschäftsfähigkeit",
     "gesetzliche-vertretung",
     "kindschaftsrecht",
@@ -12410,6 +12420,7 @@
   "freien": [
     "berufsbetreuer",
     "freier-wille",
+    "gemeinwohlorientierung",
     "unterstützungspflicht",
     "zweites-betreuungsrechtsänderungsgesetz"
   ],
@@ -15107,6 +15118,7 @@
   "jahr": [
     "betreuungsverein",
     "dokumentationspflicht",
+    "gemeinwohlorientierung",
     "gerichtskosten",
     "globales-nachhaltigkeitsziel-10",
     "haager-übereinkommen",
@@ -17887,6 +17899,7 @@
   ],
   "trat": [
     "forensik",
+    "gemeinwohlorientierung",
     "it-sicherheit",
     "neu",
     "neu",
@@ -18229,6 +18242,42 @@
   "genehmigungsanträge": [
     "geldanlage",
     "genehmigungspflichten"
+  ],
+  "anerkannte": [
+    "gemeinwohlorientierung",
+    "hauptseite"
+  ],
+  "sozialdemokratische": [
+    "gemeinwohlorientierung"
+  ],
+  "arbeiterwohlfahrt": [
+    "gemeinwohlorientierung"
+  ],
+  "verboten": [
+    "gemeinwohlorientierung"
+  ],
+  "westen": [
+    "gemeinwohlorientierung"
+  ],
+  "entnazifizierung": [
+    "gemeinwohlorientierung"
+  ],
+  "gemeinnützigkeitsrechts": [
+    "gemeinwohlorientierung"
+  ],
+  "kontrollrat": [
+    "gemeinwohlorientierung"
+  ],
+  "sozialistische": [
+    "gemeinwohlorientierung"
+  ],
+  "staat": [
+    "gemeinwohlorientierung",
+    "grundrechte",
+    "natürlicher-wille"
+  ],
+  "staatsverfassung": [
+    "gemeinwohlorientierung"
   ],
   "genehmigungszahlen": [
     "genehmigung-der-heilbehandlung"
@@ -19182,10 +19231,6 @@
   "unversehrtheit": [
     "grundrechte"
   ],
-  "staat": [
-    "grundrechte",
-    "natürlicher-wille"
-  ],
   "früher": [
     "grundrechte",
     "kontrollbetreuer"
@@ -19525,9 +19570,6 @@
     "hauptseite"
   ],
   "dienststelle": [
-    "hauptseite"
-  ],
-  "anerkannte": [
     "hauptseite"
   ],
   "legal": [
@@ -22751,6 +22793,9 @@
     "subsidiaritätsprinzip"
   ],
   "verwirklicht": [
+    "subsidiaritätsprinzip"
+  ],
+  "gemeinwohlorientierung": [
     "subsidiaritätsprinzip"
   ],
   "sterbehilfedokumente": [
