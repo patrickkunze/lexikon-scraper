@@ -11900,6 +11900,7 @@
   "gesundheitsdatennutzungsgesetz": [
     "begleitforschung",
     "betreuungszahlen",
+    "gemeinwohlorientierung",
     "neu"
   ],
   "nutzungspflicht": [
@@ -12210,6 +12211,7 @@
     "beratung",
     "betreuungsbehörde",
     "erweiterte-unterstützung",
+    "gemeinwohlorientierung",
     "kooperationsvereinbarung",
     "unterstützungspflicht",
     "unterstützungspflicht",
@@ -14532,7 +14534,8 @@
   ],
   "erweiterte": [
     "betreuungsbehörde",
-    "erweiterte-unterstützung"
+    "erweiterte-unterstützung",
+    "gemeinwohlorientierung"
   ],
   "querschnittsaufgaben": [
     "betreuungsbehörde",
@@ -15082,8 +15085,7 @@
   "amtsermittlungspflicht": [
     "betreuungssache",
     "diskriminierungsverbot",
-    "einstweilige-anordnung",
-    "erweiterte-unterstützung"
+    "einstweilige-anordnung"
   ],
   "unterbringungsverfahren": [
     "betreuungssache",
@@ -17704,6 +17706,10 @@
   ],
   "kontext": [
     "erweiterte-unterstützung"
+  ],
+  "gemeinwohlorientierung": [
+    "erweiterte-unterstützung",
+    "subsidiaritätsprinzip"
   ],
   "erziehungsmaßregeln": [
     "erziehungsmaßregeln"
@@ -22793,9 +22799,6 @@
     "subsidiaritätsprinzip"
   ],
   "verwirklicht": [
-    "subsidiaritätsprinzip"
-  ],
-  "gemeinwohlorientierung": [
     "subsidiaritätsprinzip"
   ],
   "sterbehilfedokumente": [
