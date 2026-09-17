@@ -2519,6 +2519,7 @@
     "erweiterte-unterstützung",
     "erörterungsgespräch",
     "forensik",
+    "gemeinwohlorientierung",
     "gerichtskosten",
     "gerichtskosten",
     "gerichtskosten",
@@ -4706,6 +4707,7 @@
     "altenheim",
     "behindertenkonvention",
     "einwilligungsfähigkeit",
+    "gemeinwohlorientierung",
     "verhältnismäßigkeitsprinzip"
   ],
   "abschluss": [
@@ -16260,6 +16262,7 @@
     "digitale-barrierefreiheit",
     "e-rezept",
     "formulare",
+    "gemeinwohlorientierung",
     "informationspflicht",
     "interoperabilität",
     "mailingliste",
@@ -16345,6 +16348,7 @@
   "barrierefreiheit": [
     "digitale-barrierefreiheit",
     "e-rezept",
+    "gemeinwohlorientierung",
     "informationspflicht",
     "notfalldaten",
     "organspende",
@@ -18269,6 +18273,7 @@
     "gemeinwohlorientierung"
   ],
   "gemeinnützigkeitsrechts": [
+    "gemeinwohlorientierung",
     "gemeinwohlorientierung"
   ],
   "kontrollrat": [
@@ -18284,6 +18289,14 @@
   ],
   "staatsverfassung": [
     "gemeinwohlorientierung"
+  ],
+  "modernisierung": [
+    "gemeinwohlorientierung"
+  ],
+  "eigentlich": [
+    "gemeinwohlorientierung",
+    "hauptseite",
+    "kontrollbetreuer"
   ],
   "genehmigungszahlen": [
     "genehmigung-der-heilbehandlung"
@@ -19552,10 +19565,6 @@
   ],
   "aktuellen": [
     "hauptseite"
-  ],
-  "eigentlich": [
-    "hauptseite",
-    "kontrollbetreuer"
   ],
   "familienrechtes": [
     "hauptseite"
