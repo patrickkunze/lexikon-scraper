@@ -1,7 +1,7 @@
 {
   "id": "erweiterte-unterstützung",
   "titel": "Erweiterte Unterstützung",
-  "inhalt": "Allgemeines\nDie „erweiterte Unterstützung“ wird in § 8 Abs. 2 BtOG (= [Betreuungsorganisationsgesetz](betreuungsorganisationsgesetz)) genannt. Bei dieser Wunschvorstellung des [Gesetzgebung](gesetzgebung) handelt es sich um eine Unterstützungsform für mehr oder weniger rechtlich orientierungslose Menschen, die ausdrücklich nicht zu einer [Betreuerbestellung](betreuerbestellung) führt. Auch soll die für den einwohnenden hilfsbedürftigen Menschen zuständige [Betreuungsbehörde](betreuungsbehörde) diesen nicht rechtlich vertreten müssen. Fraglich ist, wer dies dann vor Ort verantwortlich unter Beachtung der [Grundrechte](grundrechte) und Menschenrechte tun wird.\n\nLiteratur\n Bürkel: Andere Hilfen im Kontext rechtlicher Betreuung; BtR aktuell 2024, 21\n Mlosch, Betreuungsrecht. Erweiterte Unterstützung in der Kommune, Teil 1, NDV 2026, 251\n\nSiehe auch\n [Betreuungsrechtsreform](betreuungsrechtsreform), [Betreuungsorganisationsgesetz](betreuungsorganisationsgesetz), [Gemeinwohlorientierung](gemeinwohlorientierung)\n [Betreuungsbehörde](betreuungsbehörde), [Amtsermittlungspflicht](amtsermittlungspflicht)\n [unterstützte Entscheidungsfindung](unterstützte-entscheidungsfindung), [unterstützte Kommunikation](unterstützte-kommunikation), [Assistenzleistungen](assistenzleistungen)\n [Selbstverwaltung der deutschen Gemeinden](selbstverwaltung-der-deutschen-gemeinden), [Altenheim](altenheim), [betreutes Wohnen](betreutes-wohnen)\n\n[Kategorie: Betreuungsalternativen](kategorie:-betreuungsalternativen)",
+  "inhalt": "Allgemeines\nDie „erweiterte Unterstützung“ wird in § 8 Abs. 2 BtOG (= [Betreuungsorganisationsgesetz](betreuungsorganisationsgesetz)) genannt. Bei dieser Wunschvorstellung des [Gesetzgebung](gesetzgebung) handelt es sich um eine Unterstützungsform für mehr oder weniger rechtlich orientierungslose Menschen, die ausdrücklich nicht zu einer [Betreuerbestellung](betreuerbestellung) führt. Auch soll die für den einwohnenden hilfsbedürftigen Menschen zuständige [Betreuungsbehörde](betreuungsbehörde) diesen nicht rechtlich vertreten müssen. Fraglich ist, wer dies dann vor Ort verantwortlich unter Beachtung der [Grundrechte](grundrechte) und Menschenrechte tun wird.\n\nLiteratur\n Bürkel: Andere Hilfen im Kontext rechtlicher Betreuung; BtR aktuell 2024, 21\n Mlosch, Betreuungsrecht. Erweiterte Unterstützung in der Kommune, Teil 1, NDV 2026, 251\n\nSiehe auch\n [Betreuungsrechtsreform](betreuungsrechtsreform), [Betreuungsorganisationsgesetz](betreuungsorganisationsgesetz), [Gemeinwohlorientierung](gemeinwohlorientierung)\n [Betreuungsbehörde](betreuungsbehörde), [Amtsermittlungspflicht](amtsermittlungspflicht), [Personenstand](personenstand)\n [unterstützte Entscheidungsfindung](unterstützte-entscheidungsfindung), [unterstützte Kommunikation](unterstützte-kommunikation), [Assistenzleistungen](assistenzleistungen)\n [Selbstverwaltung der deutschen Gemeinden](selbstverwaltung-der-deutschen-gemeinden), [Altenheim](altenheim), [betreutes Wohnen](betreutes-wohnen)\n\n[Kategorie: Betreuungsalternativen](kategorie:-betreuungsalternativen)",
   "struktur": [
     {
       "titel": "Allgemeines",
@@ -27,7 +27,7 @@
     },
     {
       "titel": "Siehe auch",
-      "inhalt": "Betreuungsrechtsreform, Betreuungsorganisationsgesetz, Gemeinwohlorientierung\n Betreuungsbehörde, Amtsermittlungspflicht\n unterstützte Entscheidungsfindung, unterstützte Kommunikation, Assistenzleistungen\n Selbstverwaltung der deutschen Gemeinden, Altenheim, betreutes Wohnen\n\nKategorie: Betreuungsalternativen",
+      "inhalt": "Betreuungsrechtsreform, Betreuungsorganisationsgesetz, Gemeinwohlorientierung\n Betreuungsbehörde, Amtsermittlungspflicht, Personenstand\n unterstützte Entscheidungsfindung, unterstützte Kommunikation, Assistenzleistungen\n Selbstverwaltung der deutschen Gemeinden, Altenheim, betreutes Wohnen\n\nKategorie: Betreuungsalternativen",
       "tags": [
         "unterstützte",
         "betreuungsrechtsreform",
@@ -39,20 +39,21 @@
   ],
   "zusammenfassung": "Allgemeines\nDie „erweiterte Unterstützung“ wird in § 8 Abs. 2 BtOG (= [Betreuungsorganisationsgesetz](betreuungsorganisationsgesetz)) genannt. Bei dieser Wunschvorstellung des [Gesetzgebung](gesetzgebung) handelt es sich um eine Unterstützungsform für mehr oder weniger rechtlich orientierungslose Me...",
   "verwandteArtikel": [
-    "kategorie:-betreuungsalternativen",
-    "betreuungsorganisationsgesetz",
-    "grundrechte",
-    "altenheim",
-    "betreuerbestellung",
-    "unterstützte-kommunikation",
-    "unterstützte-entscheidungsfindung",
-    "amtsermittlungspflicht",
-    "betreutes-wohnen",
-    "assistenzleistungen",
     "selbstverwaltung-der-deutschen-gemeinden",
-    "betreuungsbehörde",
     "gesetzgebung",
+    "unterstützte-kommunikation",
+    "kategorie:-betreuungsalternativen",
+    "unterstützte-entscheidungsfindung",
+    "assistenzleistungen",
+    "personenstand",
+    "betreutes-wohnen",
+    "betreuungsbehörde",
     "betreuungsrechtsreform",
-    "gemeinwohlorientierung"
+    "betreuungsorganisationsgesetz",
+    "betreuerbestellung",
+    "gemeinwohlorientierung",
+    "grundrechte",
+    "amtsermittlungspflicht",
+    "altenheim"
   ]
 }
