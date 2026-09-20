@@ -7509,6 +7509,7 @@
   ],
   "verhältnismäßigkeitsprinzip": [
     "anhörung",
+    "gemeinwohlorientierung",
     "neu",
     "polizeirecht",
     "subsidiaritätsprinzip",
@@ -12698,7 +12699,6 @@
   "grundstück": [
     "bestattung",
     "bestattungsvertrag",
-    "verhältnismäßigkeitsprinzip",
     "vermögenssorge",
     "wohn--und-betreuungsvertragsgesetz",
     "zwangsvollstreckung"
@@ -16263,7 +16263,6 @@
     "digitale-barrierefreiheit",
     "e-rezept",
     "formulare",
-    "gemeinwohlorientierung",
     "informationspflicht",
     "interoperabilität",
     "mailingliste",
@@ -17713,7 +17712,8 @@
   ],
   "gemeinwohlorientierung": [
     "erweiterte-unterstützung",
-    "subsidiaritätsprinzip"
+    "subsidiaritätsprinzip",
+    "verhältnismäßigkeitsprinzip"
   ],
   "erziehungsmaßregeln": [
     "erziehungsmaßregeln"
