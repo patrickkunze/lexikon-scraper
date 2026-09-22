@@ -3400,7 +3400,6 @@
     "datenschutz",
     "datenschutz",
     "eingliederungshilfe",
-    "erweiterte-unterstützung",
     "gerichtsbeschluss",
     "hauptseite",
     "querschnittsaufgaben",
@@ -6715,7 +6714,8 @@
     "anfangsgespräch",
     "anregung-der-betreuerbestellung",
     "betreuungsbedürftigkeit",
-    "erforderlichkeit"
+    "erforderlichkeit",
+    "erweiterte-unterstützung"
   ],
   "artikel": [
     "angehörigenvertretungsrecht",
@@ -18287,7 +18287,7 @@
     "grundrechte",
     "natürlicher-wille"
   ],
-  "staatsverfassung": [
+  "linker": [
     "gemeinwohlorientierung"
   ],
   "modernisierung": [
