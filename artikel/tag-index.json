@@ -4131,7 +4131,6 @@
     "checkliste-personenbogen",
     "elektronischer-identitätsnachweis",
     "erziehungsmaßregeln",
-    "gemeinwohlorientierung",
     "gesetzestexte",
     "kindschaftsrecht",
     "meldepflicht",
@@ -18298,6 +18297,10 @@
     "hauptseite",
     "kontrollbetreuer"
   ],
+  "betreuungsarbeitsgemeinschaft": [
+    "gemeinwohlorientierung",
+    "krankenversicherung"
+  ],
   "genehmigungszahlen": [
     "genehmigung-der-heilbehandlung"
   ],
@@ -20308,9 +20311,6 @@
     "pflegeversicherung",
     "pflegeversicherung",
     "unfallversicherung"
-  ],
-  "betreuungsarbeitsgemeinschaft": [
-    "krankenversicherung"
   ],
   "mehlhorn": [
     "krankenversicherung"
