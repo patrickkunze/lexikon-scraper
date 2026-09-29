@@ -12214,7 +12214,6 @@
     "beratung",
     "betreuungsbehörde",
     "erweiterte-unterstützung",
-    "gemeinwohlorientierung",
     "kooperationsvereinbarung",
     "unterstützungspflicht",
     "unterstützungspflicht",
@@ -14541,6 +14540,7 @@
   ],
   "querschnittsaufgaben": [
     "betreuungsbehörde",
+    "gemeinwohlorientierung",
     "querschnittsarbeit"
   ],
   "walther": [
