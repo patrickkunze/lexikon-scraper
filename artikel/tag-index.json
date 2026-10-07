@@ -5809,7 +5809,6 @@
     "unterstützte-entscheidungsfindung",
     "verpflichtungsgespräch",
     "vertretung-gegenüber-behörden",
-    "zugangsrecht",
     "zwangsvollstreckung"
   ],
   "sozialrecht": [
@@ -14618,7 +14617,6 @@
     "betreuungsbehördengesetz",
     "betreuungsorganisationsgesetz",
     "datenschutz",
-    "forensik",
     "it-sicherheit",
     "neu",
     "neu",
@@ -17714,7 +17712,8 @@
     "erweiterte-unterstützung",
     "schenkung",
     "subsidiaritätsprinzip",
-    "verhältnismäßigkeitsprinzip"
+    "verhältnismäßigkeitsprinzip",
+    "zugangsrecht"
   ],
   "erziehungsmaßregeln": [
     "erziehungsmaßregeln"
@@ -17932,6 +17931,9 @@
     "organspende"
   ],
   "cannabisgesetz": [
+    "forensik"
+  ],
+  "cang": [
     "forensik"
   ],
   "fehlender": [
