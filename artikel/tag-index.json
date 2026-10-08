@@ -4020,6 +4020,7 @@
     "datenschutz",
     "eherecht-und-betreuung",
     "einwilligungsvorbehalt",
+    "forensik",
     "haftpflichtversicherung",
     "impressum",
     "mailingliste",
@@ -12546,6 +12547,7 @@
     "betreuungssache",
     "ehefähigkeit",
     "forensik",
+    "forensik",
     "geschäftsfähigkeit",
     "gewaltschutzanordnung",
     "haager-übereinkommen",
@@ -16261,6 +16263,7 @@
     "digitale-barrierefreiheit",
     "digitale-barrierefreiheit",
     "e-rezept",
+    "forensik",
     "formulare",
     "informationspflicht",
     "interoperabilität",
@@ -17866,6 +17869,7 @@
   ],
   "fachbegriff": [
     "forensik",
+    "forensik",
     "föderalismus",
     "interoperabilität",
     "interoperabilität",
@@ -17939,6 +17943,9 @@
   "fehlender": [
     "forensik",
     "gesetzestexte"
+  ],
+  "modernen": [
+    "forensik"
   ],
   "dateien": [
     "formulare"
@@ -20898,6 +20905,21 @@
     "registrierung",
     "vorsorgeregister",
     "vorsorgeregisterverordnung"
+  ],
+  "cannabis": [
+    "neu"
+  ],
+  "strafentschärfung": [
+    "neu"
+  ],
+  "gewohnheitskiffer": [
+    "neu"
+  ],
+  "erleichterung": [
+    "neu"
+  ],
+  "schmerzpatienten": [
+    "neu"
   ],
   "arbeitet": [
     "neu"
