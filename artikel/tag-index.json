@@ -667,6 +667,7 @@
     "selbstbestimmung",
     "selbstbestimmung",
     "selbstverwaltungserklärung",
+    "software",
     "sozialhilfe",
     "sozialhilfe",
     "sterilisation",
@@ -22320,9 +22321,6 @@
   ],
   "verwaltet": [
     "selbstverwaltungserklärung"
-  ],
-  "butler": [
-    "software"
   ],
   "keiner": [
     "sozialhilfe"

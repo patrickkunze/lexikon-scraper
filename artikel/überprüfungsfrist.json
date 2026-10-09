@@ -51,22 +51,22 @@
   "zusammenfassung": "In [Betreuungssachen](betreuungssachen) und [Unterbringungssachen](unterbringungssachen) gibt es unterschiedliche Fristsetzungen.\n\nAutomatische Beendigung\nAnordnung der [vorläufiger Betreuer](vorläufiger-betreuer): 6 Monate (Verlängerung auf 1 Jahr möglich), § 302 FamFG\nAnordnung der Unterbringung z...",
   "verwandteArtikel": [
     "kategorie:-unterbringung",
-    "betreuungssachen",
+    "unterbringung",
     "sachverständigengutachten",
-    "einstweilige-anordnung",
-    "verlängerung-der-betreuung",
-    "betreuungsverfahren",
-    "einwilligungsvorbehalt",
-    "kategorie:-betreuungsverfahren",
-    "betreuungsgesetz",
     "unterbringungssachen",
     "vorläufiger-betreuer",
+    "betreuungssachen",
     "zwangsbehandlung",
+    "anregung-der-betreuerbestellung",
+    "betreuungsgesetz",
     "aufhebung-der-betreuung",
     "gerichtsbeschluss",
-    "unterbringung",
+    "einstweilige-anordnung",
+    "einwilligungsvorbehalt",
+    "verlängerung-der-betreuung",
     "betreuerbestellung",
-    "dauervergütung",
-    "anregung-der-betreuerbestellung"
+    "betreuungsverfahren",
+    "kategorie:-betreuungsverfahren",
+    "dauervergütung"
   ]
 }
