@@ -292,6 +292,7 @@
     "aufwandspauschale",
     "aufwandspauschale",
     "aufwandspauschale",
+    "aufwandspauschale",
     "aufwendungsersatz",
     "aufwendungsersatz",
     "aufwendungsersatz",
@@ -10058,38 +10059,33 @@
     "vormünder--und-betreuervergütungsgesetz",
     "wohn--und-betreuungsvertragsgesetz"
   ],
-  "ermessensvergütung": [
+  "ehrenamt": [
     "aufwandspauschale",
-    "behördenbetreuer",
-    "betreuervergütung-2019",
-    "betreuervergütung-2026",
-    "ermessensvergütung",
-    "ermessensvergütung",
-    "gesetzestexte"
+    "ehrenamt",
+    "ehrenamtler",
+    "ehrenamtlicher-betreuer",
+    "pflicht-zur-betreuungsübernahme",
+    "schuldnerverzeichnis",
+    "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
+    "verpflichtungsgespräch"
   ],
-  "stundensatz": [
+  "ehrenamtlichen": [
     "aufwandspauschale",
+    "betreuer-(ehrenamt)",
+    "betreuer-(ehrenamt)",
+    "betreuer-(ehrenamt)",
+    "betreuer-(ehrenamt)",
+    "betreuerhaftung",
     "betreuervergütung-2019",
-    "e-rechnung",
-    "ergänzungsbetreuer",
     "ermessensvergütung",
-    "stundensatz",
-    "tabelleneinstufung",
-    "vbvg-rechtsprechung",
-    "vergütungsstufe",
-    "vergütungstabelle",
-    "vormünder--und-betreuervergütungsgesetz"
+    "ermessensvergütung",
+    "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
+    "vereinbarung-über-begleitung-und-unterstützung"
   ],
-  "aufwendungsersatz": [
+  "betreuerinnen": [
     "aufwandspauschale",
-    "aufwendungsersatz",
-    "aufwendungsersatz",
-    "aufwendungsersatz",
-    "aufwendungsersatz",
-    "aufwendungsersatz",
-    "berufliche-dienste",
-    "betreuungszahlen",
-    "gesetzestexte"
+    "betreuer-(ehrenamt)",
+    "unterstützungspflicht"
   ],
   "auflage": [
     "aufwandspauschale",
@@ -10102,6 +10098,16 @@
     "buchverzeichnis",
     "haftpflichtversicherung",
     "unterstützte-kommunikation"
+  ],
+  "aufwendungsersatz": [
+    "aufwendungsersatz",
+    "aufwendungsersatz",
+    "aufwendungsersatz",
+    "aufwendungsersatz",
+    "aufwendungsersatz",
+    "berufliche-dienste",
+    "betreuungszahlen",
+    "gesetzestexte"
   ],
   "siehe": [
     "aufwendungsersatz",
@@ -10809,7 +10815,6 @@
     "rechtsprechung",
     "strafprozess",
     "strafprozess",
-    "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "vormundschaftsgericht",
     "wohn--und-betreuungsvertragsgesetz"
   ],
@@ -11356,7 +11361,8 @@
     "befreiter-betreuer"
   ],
   "fand": [
-    "befreiter-betreuer"
+    "befreiter-betreuer",
+    "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer"
   ],
   "ursprünglich": [
     "befreiter-betreuer",
@@ -12170,6 +12176,14 @@
     "gesetzestexte",
     "rechnungslegung"
   ],
+  "ermessensvergütung": [
+    "behördenbetreuer",
+    "betreuervergütung-2019",
+    "betreuervergütung-2026",
+    "ermessensvergütung",
+    "ermessensvergütung",
+    "gesetzestexte"
+  ],
   "eingruppierung": [
     "behördenbetreuer",
     "betreuungsbehörde",
@@ -12867,17 +12881,6 @@
   "derjenige": [
     "betreuer-(ehrenamt)"
   ],
-  "ehrenamtlichen": [
-    "betreuer-(ehrenamt)",
-    "betreuer-(ehrenamt)",
-    "betreuer-(ehrenamt)",
-    "betreuerhaftung",
-    "betreuervergütung-2019",
-    "ermessensvergütung",
-    "ermessensvergütung",
-    "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
-    "vereinbarung-über-begleitung-und-unterstützung"
-  ],
   "vorrang": [
     "betreuer-(ehrenamt)",
     "rechtsprechung"
@@ -12999,16 +13002,6 @@
   ],
   "unterstützungspflichten": [
     "betreuer-(ehrenamt)"
-  ],
-  "mehrerer": [
-    "betreuer-(ehrenamt)",
-    "mehrfachbetreuung",
-    "tandembetreuung",
-    "tod-des-betreuers"
-  ],
-  "anzeigepflichten": [
-    "betreuer-(ehrenamt)",
-    "gesetzestexte"
   ],
   "ratgeber": [
     "betreuer-(ehrenamt)",
@@ -14160,6 +14153,18 @@
     "gesetzestexte",
     "vbvg",
     "vbvg-rechtsprechung"
+  ],
+  "stundensatz": [
+    "betreuervergütung-2019",
+    "e-rechnung",
+    "ergänzungsbetreuer",
+    "ermessensvergütung",
+    "stundensatz",
+    "tabelleneinstufung",
+    "vbvg-rechtsprechung",
+    "vergütungsstufe",
+    "vergütungstabelle",
+    "vormünder--und-betreuervergütungsgesetz"
   ],
   "kreutzer": [
     "betreuervergütung-2019",
@@ -16836,15 +16841,6 @@
     "gewaltschutzanordnung",
     "zuführung-zur-unterbringung"
   ],
-  "ehrenamt": [
-    "ehrenamt",
-    "ehrenamtler",
-    "ehrenamtlicher-betreuer",
-    "pflicht-zur-betreuungsübernahme",
-    "schuldnerverzeichnis",
-    "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
-    "verpflichtungsgespräch"
-  ],
   "vermögensübersicht": [
     "eidesstattliche-versicherung"
   ],
@@ -18836,6 +18832,9 @@
   "titel": [
     "gesetzestexte"
   ],
+  "anzeigepflichten": [
+    "gesetzestexte"
+  ],
   "trennungsgebot": [
     "gesetzestexte",
     "insichgeschäft",
@@ -20483,6 +20482,11 @@
   ],
   "parkinson": [
     "medizinische-begriffe"
+  ],
+  "mehrerer": [
+    "mehrfachbetreuung",
+    "tandembetreuung",
+    "tod-des-betreuers"
   ],
   "ummelden": [
     "meldepflicht"
@@ -23259,9 +23263,6 @@
     "unterstützungspflicht"
   ],
   "zweckmäßig": [
-    "unterstützungspflicht"
-  ],
-  "betreuerinnen": [
     "unterstützungspflicht"
   ],
   "exekutive": [
