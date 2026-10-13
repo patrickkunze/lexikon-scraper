@@ -885,6 +885,7 @@
     "neu",
     "neu",
     "neu",
+    "neu",
     "nutzungspflicht",
     "nutzungspflicht",
     "nutzungspflicht",
@@ -2276,6 +2277,7 @@
     "grundrechte",
     "hauptseite",
     "hauptseite",
+    "neu",
     "online-lexikon-betreuungsrecht:datenschutz",
     "online-lexikon-betreuungsrecht:datenschutz",
     "patientenverfügung",
@@ -4203,6 +4205,7 @@
     "hauptseite",
     "heilbehandlung",
     "mahnverfahren",
+    "neu",
     "neu",
     "neu",
     "neu",
@@ -20951,6 +20954,12 @@
     "neu"
   ],
   "pauschalvergütungsanträge": [
+    "neu"
+  ],
+  "einwohnende": [
+    "neu"
+  ],
+  "digitales": [
     "neu"
   ],
   "bestandsbetreuers": [
