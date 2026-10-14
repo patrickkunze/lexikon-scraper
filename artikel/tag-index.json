@@ -1139,6 +1139,8 @@
     "unterbringung",
     "unterbringung",
     "unterbringung",
+    "unterbringung",
+    "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme",
     "unterbringungsähnliche-maßnahme",
@@ -2445,6 +2447,8 @@
     "unfallversicherung",
     "unterbringung",
     "unterbringung",
+    "unterbringung",
+    "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme",
@@ -3172,6 +3176,7 @@
     "tod-des-betreuten",
     "tod-des-betreuten",
     "umgangsbestimmung",
+    "unterbringung",
     "unterbringung",
     "unterbringung",
     "unterbringung",
@@ -3936,6 +3941,7 @@
     "sozialhilfe",
     "sozialhilfe",
     "strafprozess",
+    "unterbringung",
     "verfügungsgeld",
     "wohnungsangelegenheiten"
   ],
@@ -6999,6 +7005,7 @@
     "sterbehilfe",
     "sterbehilfe",
     "sterbehilfe",
+    "unterbringung",
     "zwangsbehandlung"
   ],
   "obwohl": [
@@ -9236,6 +9243,12 @@
     "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zur-unterbringung",
     "rechtsprechung-zur-unterbringung",
+    "unterbringung",
+    "unterbringung",
+    "unterbringung",
+    "unterbringung",
+    "unterbringung",
+    "unterbringung",
     "unterbringung",
     "unterbringung",
     "unterbringung",
@@ -13243,6 +13256,7 @@
     "mittellosigkeit",
     "postkontrolle",
     "rechtsanwalt",
+    "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsverfahren",
     "verfahrensfähigkeit",
@@ -13422,7 +13436,8 @@
   "bereich": [
     "betreuerhaftung",
     "betreuungsbehörde",
-    "gesundheitssorge"
+    "gesundheitssorge",
+    "unterbringung"
   ],
   "beispielsweise": [
     "betreuerhaftung"
@@ -14342,7 +14357,8 @@
     "eingliederungshilfe",
     "schwerbehindertenausweis",
     "schwerbehindertenausweis",
-    "sterilisationsbetreuer"
+    "sterilisationsbetreuer",
+    "unterbringung"
   ],
   "oftmals": [
     "betreuervorschlag"
@@ -15532,7 +15548,8 @@
     "broschüren"
   ],
   "kommen": [
-    "broschüren"
+    "broschüren",
+    "unterbringung"
   ],
   "download": [
     "broschüren"
@@ -16951,7 +16968,8 @@
   "bedarf": [
     "eingliederungshilfe",
     "heilbehandlung",
-    "sozialhilfe"
+    "sozialhilfe",
+    "unterbringung"
   ],
   "behindert": [
     "eingliederungshilfe",
@@ -17158,6 +17176,9 @@
     "einwilligungsvorbehalt",
     "genehmigung-der-heilbehandlung",
     "genehmigungen-von-a-bis-z",
+    "unterbringung",
+    "unterbringung",
+    "unterbringung",
     "unterbringungsähnliche-maßnahme",
     "vorsorgevollmacht---vertiefte-infos",
     "zwangsvollstreckung"
@@ -18402,7 +18423,8 @@
     "genehmigungspflichten"
   ],
   "schadens": [
-    "genehmigung-der-heilbehandlung"
+    "genehmigung-der-heilbehandlung",
+    "unterbringung"
   ],
   "einzuholen": [
     "genehmigung-der-heilbehandlung"
@@ -18785,7 +18807,8 @@
     "gesetzestexte"
   ],
   "alkoholismus": [
-    "geschäftsfähigkeit"
+    "geschäftsfähigkeit",
+    "unterbringung"
   ],
   "störung": [
     "geschäftsfähigkeit",
@@ -22264,7 +22287,8 @@
     "sterbehilfe",
     "sterbehilfe",
     "sterbehilfe",
-    "sterilisation"
+    "sterilisation",
+    "unterbringung"
   ],
   "vertrauensvolle": [
     "selbstbestimmung"
@@ -23054,6 +23078,8 @@
   "freiheitsentziehende": [
     "unterbringung",
     "unterbringung",
+    "unterbringung",
+    "unterbringung",
     "unterbringungsähnliche-maßnahme",
     "unterbringungsähnliche-maßnahme"
   ],
@@ -23068,6 +23094,19 @@
     "unterbringung"
   ],
   "garantierte": [
+    "unterbringung"
+  ],
+  "rechtfertigt": [
+    "unterbringung"
+  ],
+  "wenngleich": [
+    "unterbringung"
+  ],
+  "gefährdet": [
+    "unterbringung",
+    "unterbringungsähnliche-maßnahme"
+  ],
+  "betracht": [
     "unterbringung"
   ],
   "stuhl": [
@@ -23123,9 +23162,6 @@
   ],
   "unterbringungsgesetz": [
     "unterbringungsverfahren"
-  ],
-  "gefährdet": [
-    "unterbringungsähnliche-maßnahme"
   ],
   "infolge": [
     "unterbringungsähnliche-maßnahme"
