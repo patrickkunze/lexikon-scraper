@@ -1141,6 +1141,8 @@
     "unterbringung",
     "unterbringung",
     "unterbringung",
+    "unterbringung",
+    "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme",
     "unterbringungsähnliche-maßnahme",
@@ -1970,6 +1972,7 @@
     "sterbehilfedokumente",
     "sterbehilfedokumente",
     "sterilisationsbetreuer",
+    "unterbringung",
     "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsverfahren",
@@ -3970,6 +3973,7 @@
   ],
   "mittel": [
     "alltagsgeschäfte",
+    "unterbringung",
     "verhältnismäßigkeitsprinzip",
     "verhältnismäßigkeitsprinzip"
   ],
@@ -4644,6 +4648,7 @@
     "stundensatz",
     "stundensatz",
     "unterbringung",
+    "unterbringung",
     "unterbringungsähnliche-maßnahme",
     "unterbringungsähnliche-maßnahme",
     "vormünder--und-betreuervergütungsgesetz"
@@ -4660,7 +4665,8 @@
   ],
   "bewohner": [
     "altenheim",
-    "altenheim"
+    "altenheim",
+    "unterbringung"
   ],
   "urteil": [
     "altenheim",
@@ -5207,6 +5213,7 @@
     "beratung",
     "gesundheitliche-versorgungsplanung",
     "sozialhilfe",
+    "unterbringung",
     "unterstützungspflicht"
   ],
   "altenheime": [
@@ -7051,7 +7058,8 @@
     "genehmigung-der-heilbehandlung",
     "grundstück",
     "schenkung",
-    "schenkung"
+    "schenkung",
+    "unterbringung"
   ],
   "behandlungen": [
     "angehörigenvertretungsrecht",
@@ -7076,6 +7084,8 @@
     "patientenverfügung",
     "selbstbestimmung",
     "subsidiaritätsprinzip",
+    "unterbringung",
+    "unterbringung",
     "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsverfahren",
@@ -7147,6 +7157,7 @@
     "genehmigung-der-heilbehandlung",
     "gewaltschutzanordnung",
     "natürlicher-wille",
+    "unterbringung",
     "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme",
@@ -7678,7 +7689,8 @@
   "genannten": [
     "anlagegeld",
     "geschäftsfähigkeit",
-    "haager-übereinkommen"
+    "haager-übereinkommen",
+    "unterbringung"
   ],
   "anderen": [
     "anlagegeld",
@@ -7741,6 +7753,7 @@
     "erbschaft",
     "gesundheitssorge",
     "pflegeversicherung",
+    "unterbringung",
     "wohnungsangelegenheiten"
   ],
   "vermögenssorge": [
@@ -7811,6 +7824,7 @@
     "hauptseite",
     "registrierung",
     "sterbehilfe",
+    "unterbringung",
     "unterbringungsähnliche-maßnahme",
     "vormünder--und-betreuervergütungsgesetz",
     "vorsorgevollmacht---vertiefte-infos"
@@ -9243,6 +9257,7 @@
     "rechtsprechung-zum-verfahrenspfleger",
     "rechtsprechung-zur-unterbringung",
     "rechtsprechung-zur-unterbringung",
+    "unterbringung",
     "unterbringung",
     "unterbringung",
     "unterbringung",
@@ -12360,6 +12375,7 @@
     "betreuerpflichten",
     "gesundheitssorge",
     "grundrechte",
+    "unterbringung",
     "vormundschaftsgericht"
   ],
   "selbständigen": [
@@ -13257,6 +13273,7 @@
     "postkontrolle",
     "rechtsanwalt",
     "unterbringung",
+    "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsverfahren",
     "verfahrensfähigkeit",
@@ -13447,7 +13464,8 @@
     "dokumentationspflicht",
     "girokonto",
     "grundrechte",
-    "unfallversicherung"
+    "unfallversicherung",
+    "unterbringung"
   ],
   "verjährung": [
     "betreuerhaftung",
@@ -15019,7 +15037,8 @@
   "betreuungsrechtliche": [
     "betreuungsrechtliche-praxis",
     "buchverzeichnis",
-    "bundesverband-freier-berufsbetreuer"
+    "bundesverband-freier-berufsbetreuer",
+    "unterbringung"
   ],
   "verlagsseite": [
     "betreuungsrechtliche-praxis"
@@ -15282,7 +15301,8 @@
     "betreuungsverfügung"
   ],
   "eintreten": [
-    "betreuungsverfügung"
+    "betreuungsverfügung",
+    "unterbringung"
   ],
   "jedem": [
     "betreuungsverfügung"
@@ -15884,6 +15904,7 @@
     "checkliste-gesundheitssorge",
     "checkliste-für-arztgespräche",
     "testierfähigkeit",
+    "unterbringung",
     "unterbringung"
   ],
   "name": [
@@ -16750,6 +16771,7 @@
     "eherecht-und-betreuung",
     "ordre-public",
     "schenkung",
+    "unterbringung",
     "unterbringungsähnliche-maßnahme",
     "vorführung"
   ],
@@ -16969,6 +16991,7 @@
     "eingliederungshilfe",
     "heilbehandlung",
     "sozialhilfe",
+    "unterbringung",
     "unterbringung"
   ],
   "behindert": [
@@ -18388,7 +18411,8 @@
   ],
   "medikamente": [
     "genehmigung-der-heilbehandlung",
-    "genehmigungen-von-a-bis-z"
+    "genehmigungen-von-a-bis-z",
+    "unterbringung"
   ],
   "psychopharmaka": [
     "genehmigung-der-heilbehandlung",
@@ -20628,7 +20652,8 @@
   ],
   "einsatz": [
     "mittellosigkeit",
-    "sterbehilfe"
+    "sterbehilfe",
+    "unterbringung"
   ],
   "härte": [
     "mittellosigkeit"
@@ -21732,6 +21757,7 @@
   "freiheitsentziehung": [
     "psychisch-kranken-gesetz",
     "rechtsprechung-zur-unterbringung",
+    "unterbringung",
     "unterbringung",
     "unterbringung",
     "unterbringungsverfahren",
@@ -23080,6 +23106,8 @@
     "unterbringung",
     "unterbringung",
     "unterbringung",
+    "unterbringung",
+    "unterbringung",
     "unterbringungsähnliche-maßnahme",
     "unterbringungsähnliche-maßnahme"
   ],
@@ -23096,6 +23124,9 @@
   "garantierte": [
     "unterbringung"
   ],
+  "zuvor": [
+    "unterbringung"
+  ],
   "rechtfertigt": [
     "unterbringung"
   ],
@@ -23107,6 +23138,39 @@
     "unterbringungsähnliche-maßnahme"
   ],
   "betracht": [
+    "unterbringung"
+  ],
+  "freiheitsentziehenden": [
+    "unterbringung"
+  ],
+  "geschlossen": [
+    "unterbringung"
+  ],
+  "freiheitsentzug": [
+    "unterbringung"
+  ],
+  "anzunehmen": [
+    "unterbringung"
+  ],
+  "regelmäßigkeit": [
+    "unterbringung"
+  ],
+  "längeren": [
+    "unterbringung"
+  ],
+  "verlassen": [
+    "unterbringung"
+  ],
+  "kontaktaufnahme": [
+    "unterbringung"
+  ],
+  "orientiert": [
+    "unterbringung"
+  ],
+  "sende": [
+    "unterbringung"
+  ],
+  "personenortungsanlagen": [
     "unterbringung"
   ],
   "stuhl": [
