@@ -2481,6 +2481,7 @@
     "betreuerbestellung",
     "betreuungszahlen",
     "kontrollbetreuer",
+    "unterbringung",
     "vertretung-gegenüber-behörden",
     "vorsorgevollmacht",
     "vorsorgevollmacht",
@@ -2872,7 +2873,6 @@
     "trennungsgebot",
     "umgangsbestimmung",
     "unfallversicherung",
-    "unterbringung",
     "unterbringung",
     "unterbringung",
     "unterbringungsverfahren",
@@ -5760,7 +5760,6 @@
     "unfallversicherung",
     "unterbringung",
     "unterbringung",
-    "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme",
@@ -7122,6 +7121,7 @@
     "haager-übereinkommen",
     "hauptseite",
     "schlussrechnungslegung",
+    "unterbringung",
     "verfahrenspfleger",
     "vorläufiger-betreuer",
     "vorsorgevollmacht",
@@ -13431,7 +13431,6 @@
     "strafprozess",
     "strafprozess",
     "strafprozess",
-    "unterbringung",
     "unterstützungspflicht",
     "wahlrecht",
     "wahlrecht",
@@ -15904,7 +15903,6 @@
     "checkliste-gesundheitssorge",
     "checkliste-für-arztgespräche",
     "testierfähigkeit",
-    "unterbringung",
     "unterbringung"
   ],
   "name": [
@@ -16217,7 +16215,6 @@
     "psychisch-kranken-gesetz",
     "sozialpsychiatrischer-dienst",
     "ubg",
-    "unterbringung",
     "unterbringungsverfahren",
     "zwangsbehandlung"
   ],
@@ -23101,6 +23098,10 @@
     "unterbringung",
     "unterbringungsähnliche-maßnahme"
   ],
+  "freiheitsentziehenden": [
+    "unterbringung",
+    "unterbringung"
+  ],
   "freiheitsentziehende": [
     "unterbringung",
     "unterbringung",
@@ -23140,9 +23141,6 @@
   "betracht": [
     "unterbringung"
   ],
-  "freiheitsentziehenden": [
-    "unterbringung"
-  ],
   "geschlossen": [
     "unterbringung"
   ],
@@ -23176,17 +23174,6 @@
   "stuhl": [
     "unterbringung"
   ],
-  "unterbringungen": [
-    "unterbringung",
-    "unterbringungsverfahren",
-    "wahlrecht"
-  ],
-  "landesgesetzen": [
-    "unterbringung"
-  ],
-  "kranke": [
-    "unterbringung"
-  ],
   "verlegung": [
     "unterbringung",
     "unterbringungsverfahren"
@@ -23214,6 +23201,10 @@
   ],
   "weigert": [
     "unterbringungsverfahren"
+  ],
+  "unterbringungen": [
+    "unterbringungsverfahren",
+    "wahlrecht"
   ],
   "verfahrensübersicht": [
     "unterbringungsverfahren"
