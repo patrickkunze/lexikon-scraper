@@ -6732,8 +6732,7 @@
     "anfangsgespräch",
     "anregung-der-betreuerbestellung",
     "betreuungsbedürftigkeit",
-    "erforderlichkeit",
-    "erweiterte-unterstützung"
+    "erforderlichkeit"
   ],
   "artikel": [
     "angehörigenvertretungsrecht",
@@ -9366,6 +9365,7 @@
     "eidesstattliche-versicherung",
     "einverständniserklärung",
     "einwilligungsvorbehalt",
+    "erweiterte-unterstützung",
     "erörterungsgespräch",
     "freier-wille",
     "freier-wille",
@@ -13012,8 +13012,7 @@
     "patientenverfügung"
   ],
   "setzt": [
-    "betreuer-(ehrenamt)",
-    "freier-wille"
+    "betreuer-(ehrenamt)"
   ],
   "spezielle": [
     "betreuer-(ehrenamt)",
@@ -16782,14 +16781,11 @@
     "ordre-public",
     "ordre-public"
   ],
-  "angehörigenvertretungsrecht": [
+  "gewaltschutzanordnung": [
     "ehefähigkeit",
-    "ehegattenvertretungsrecht",
-    "gesetzliche-vertretung",
-    "neu",
-    "personenstand",
-    "schlüsselgewalt",
-    "vorsorgeregisterverordnung"
+    "eherecht-und-betreuung",
+    "gewaltschutzanordnung",
+    "zuführung-zur-unterbringung"
   ],
   "bundesverfassungsgericht": [
     "ehefähigkeit",
@@ -16810,6 +16806,14 @@
   "familienangehörigen": [
     "ehegatte-als-betreuer",
     "familienangehörige"
+  ],
+  "angehörigenvertretungsrecht": [
+    "ehegattenvertretungsrecht",
+    "gesetzliche-vertretung",
+    "neu",
+    "personenstand",
+    "schlüsselgewalt",
+    "vorsorgeregisterverordnung"
   ],
   "eheschließungen": [
     "eherecht-und-betreuung"
@@ -16874,11 +16878,6 @@
   "lebenspartnerschaft": [
     "eherecht-und-betreuung",
     "lebenspartnerschaft"
-  ],
-  "gewaltschutzanordnung": [
-    "eherecht-und-betreuung",
-    "gewaltschutzanordnung",
-    "zuführung-zur-unterbringung"
   ],
   "vermögensübersicht": [
     "eidesstattliche-versicherung"
@@ -18097,6 +18096,13 @@
     "wohnungsangelegenheiten",
     "zweites-betreuungsrechtsänderungsgesetz"
   ],
+  "störung": [
+    "freier-wille",
+    "geschäftsfähigkeit",
+    "intellektuelle-beeinträchtigung",
+    "polizeirecht",
+    "polizeirecht"
+  ],
   "freiheit": [
     "freier-wille",
     "grundrechte",
@@ -18830,12 +18836,6 @@
   "alkoholismus": [
     "geschäftsfähigkeit",
     "unterbringung"
-  ],
-  "störung": [
-    "geschäftsfähigkeit",
-    "intellektuelle-beeinträchtigung",
-    "polizeirecht",
-    "polizeirecht"
   ],
   "zeitpunkt": [
     "geschäftsfähigkeit",
