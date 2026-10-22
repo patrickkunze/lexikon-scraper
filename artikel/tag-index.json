@@ -893,6 +893,7 @@
     "ordre-public",
     "personalausweis",
     "personenstand",
+    "pflicht-zur-betreuungsübernahme",
     "prozessführung",
     "prozessführung",
     "psychisch-kranken-gesetz",
@@ -5241,6 +5242,7 @@
     "krankenversicherung",
     "mitwirkungspflicht",
     "nutzungspflicht",
+    "pflicht-zur-betreuungsübernahme",
     "prozessfähigkeit",
     "rechnungslegung",
     "rechtsweg-in-deutschland",
@@ -5666,7 +5668,6 @@
     "betreuungsbehörde",
     "betreuungsgericht",
     "betreuungsgerichtshilfe",
-    "betreuungskosten-im-steuerrecht",
     "betreuungsmanagement",
     "betreuungsplan",
     "betreuungsrechtliche-praxis",
@@ -6047,6 +6048,7 @@
     "geheimhaltungspflicht",
     "gemeinwohlorientierung",
     "gemeinwohlorientierung",
+    "gemeinwohlorientierung",
     "geschäftsfähigkeit",
     "gesetzgebung",
     "gesetzgebung",
@@ -6117,6 +6119,7 @@
     "notfalldaten",
     "online-lexikon-betreuungsrecht:datenschutz",
     "ordre-public",
+    "pflicht-zur-betreuungsübernahme",
     "postkontrolle",
     "prozessfähigkeit",
     "prozessführung",
@@ -9767,6 +9770,7 @@
     "datenschutz",
     "gesetzestexte",
     "personalausweis",
+    "pflicht-zur-betreuungsübernahme",
     "tod-des-betreuten"
   ],
   "entstandenen": [
@@ -11539,6 +11543,7 @@
     "beglaubigung-durch-betreuungsbehörde",
     "buchverzeichnis",
     "kindschaftsrecht",
+    "pflicht-zur-betreuungsübernahme",
     "unterstützungspflicht",
     "verfahrenspfleger"
   ],
@@ -12722,6 +12727,7 @@
   ],
   "bundesländer": [
     "bestattung",
+    "gemeinwohlorientierung",
     "kirchenaustritt",
     "polizeirecht"
   ],
@@ -15104,8 +15110,13 @@
   "lang": [
     "betreuungsrechtsreform"
   ],
-  "vergütungsreform": [
-    "betreuungsrechtsreform"
+  "pflicht": [
+    "betreuungsrechtsreform",
+    "freibetrag",
+    "globales-nachhaltigkeitsziel-10",
+    "schenkung",
+    "schlusstätigkeiten",
+    "wohnungsauflösung"
   ],
   "rpflgg": [
     "betreuungsrichter"
@@ -15508,6 +15519,7 @@
   "föderalismus": [
     "betreuungszahlen",
     "föderalismus",
+    "gemeinwohlorientierung",
     "gesetzgebung",
     "selbstverwaltung-der-deutschen-gemeinden",
     "wahlrecht"
@@ -18016,13 +18028,6 @@
     "verfahrenspfleger",
     "verfahrenspfleger"
   ],
-  "pflicht": [
-    "freibetrag",
-    "globales-nachhaltigkeitsziel-10",
-    "schenkung",
-    "schlusstätigkeiten",
-    "wohnungsauflösung"
-  ],
   "einkünften": [
     "freibetrag"
   ],
@@ -18341,6 +18346,13 @@
     "gemeinwohlorientierung"
   ],
   "kontrollrat": [
+    "gemeinwohlorientierung"
+  ],
+  "verpflichtung": [
+    "gemeinwohlorientierung",
+    "verpflichtungsgespräch"
+  ],
+  "bundesstaats": [
     "gemeinwohlorientierung"
   ],
   "sozialistische": [
@@ -23743,9 +23755,6 @@
   ],
   "einholen": [
     "vermögensverzeichnis"
-  ],
-  "verpflichtung": [
-    "verpflichtungsgespräch"
   ],
   "formella": [
     "verpflichtungsgespräch"
