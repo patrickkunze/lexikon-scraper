@@ -313,6 +313,10 @@
       "titel": "Betreuer (Ehrenamt)"
     },
     {
+      "id": "betreuer-cockpit",
+      "titel": "Betreuer Cockpit"
+    },
+    {
       "id": "betreuer-als-erbe",
       "titel": "Betreuer als Erbe"
     },

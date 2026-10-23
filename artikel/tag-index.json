@@ -361,6 +361,8 @@
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
+    "betreuer-cockpit",
+    "betreuer-cockpit",
     "betreuer-als-erbe",
     "betreuer-als-erbe",
     "betreuer-als-erbe",
@@ -668,7 +670,6 @@
     "selbstbestimmung",
     "selbstbestimmung",
     "selbstverwaltungserklärung",
-    "software",
     "sozialhilfe",
     "sozialhilfe",
     "sterilisation",
@@ -1257,6 +1258,7 @@
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
+    "betreuer-cockpit",
     "betreuer-als-erbe",
     "betreuer-als-erbe",
     "betreuerausweis",
@@ -2655,6 +2657,7 @@
     "bestellung-mehrerer-betreuer",
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
+    "betreuer-cockpit",
     "betreuer-als-erbe",
     "betreuer-als-erbe",
     "betreuerausweis",
@@ -2957,6 +2960,7 @@
     "berufsbetreuer",
     "bestattung",
     "bestattung",
+    "betreuer-cockpit",
     "betreuerbestellung",
     "betreuerpflichten",
     "betreuerregistrierungsverordnung",
@@ -3351,6 +3355,7 @@
     "aufwandspauschale",
     "aufwendungsersatz",
     "betreuer-(ehrenamt)",
+    "betreuer-cockpit",
     "betreuerbestellung",
     "betreuervergütung",
     "betreuervergütung",
@@ -3924,6 +3929,7 @@
     "aufwandspauschale",
     "beglaubigung-durch-betreuungsbehörde",
     "berufsbetreuer",
+    "betreuer-cockpit",
     "betreuerhaftung",
     "betreuervergütung-2019",
     "betreuervorschlag",
@@ -3974,6 +3980,7 @@
   ],
   "mittel": [
     "alltagsgeschäfte",
+    "betreuer-cockpit",
     "unterbringung",
     "verhältnismäßigkeitsprinzip",
     "verhältnismäßigkeitsprinzip"
@@ -4028,6 +4035,7 @@
     "alltagsgeschäfte",
     "ausbildung",
     "berufsbetreuer",
+    "betreuer-cockpit",
     "betreuervergütung",
     "betreuervorschlag",
     "betreuungszahlen",
@@ -4427,6 +4435,7 @@
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
     "betreuer-(ehrenamt)",
+    "betreuer-cockpit",
     "betreuer-als-erbe",
     "betreuer-als-erbe",
     "betreuer-als-erbe",
@@ -6857,6 +6866,7 @@
   ],
   "absatz": [
     "angehörigenvertretungsrecht",
+    "betreuer-cockpit",
     "geschäftsfähigkeit",
     "gesetzesbegründung-patientenverfügung",
     "grundrechte",
@@ -7400,6 +7410,7 @@
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
     "beglaubigung-durch-betreuungsbehörde",
+    "betreuer-cockpit",
     "betreuerpflichten",
     "betreuervergütung",
     "betreuervergütung-2019",
@@ -8437,6 +8448,7 @@
     "berufsbetreuer",
     "berufsbetreuer",
     "bestellung-mehrerer-betreuer",
+    "betreuer-cockpit",
     "betreuertest",
     "betreuervergütung",
     "betreuervergütung",
@@ -10063,6 +10075,7 @@
   ],
   "einnahmen": [
     "aufwandspauschale",
+    "betreuer-cockpit",
     "eidesstattliche-versicherung",
     "vermögenssorge",
     "vermögensverzeichnis"
@@ -13060,6 +13073,191 @@
     "querschnittsaufgaben",
     "vereinbarung-über-begleitung-und-unterstützung"
   ],
+  "cockpit": [
+    "betreuer-cockpit",
+    "betreuer-cockpit"
+  ],
+  "abgerufen": [
+    "betreuer-cockpit"
+  ],
+  "oktober": [
+    "betreuer-cockpit",
+    "zwangsbehandlung"
+  ],
+  "webbasierte": [
+    "betreuer-cockpit"
+  ],
+  "betreuungsbüros": [
+    "betreuer-cockpit"
+  ],
+  "ausgaben": [
+    "betreuer-cockpit",
+    "betreuungszahlen",
+    "eidesstattliche-versicherung",
+    "vermögenssorge",
+    "vermögensverzeichnis",
+    "zeitschrift-für-professionelle-betreuungsarbeit"
+  ],
+  "anwendung": [
+    "betreuer-cockpit",
+    "ehefähigkeit",
+    "eherecht-und-betreuung",
+    "ordre-public",
+    "schenkung",
+    "unterbringung",
+    "unterbringungsähnliche-maßnahme",
+    "vorführung"
+  ],
+  "vbvg": [
+    "betreuer-cockpit",
+    "betreuervergütung",
+    "betreuervergütung",
+    "betreuervergütung",
+    "betreuervergütung",
+    "betreuervergütung",
+    "betreuervergütung",
+    "betreuervergütung",
+    "betreuervergütung-2019",
+    "betreuervergütung-2019",
+    "betreuervergütung-2026",
+    "betreuerwechsel",
+    "betreutes-wohnen",
+    "dauervergütung",
+    "dauervergütung",
+    "föderalismus",
+    "gesetzestexte",
+    "grundstück",
+    "kontrollbetreuer",
+    "sterilisationsbetreuer",
+    "stundensatz",
+    "stundensatz",
+    "stundensatz",
+    "trennungsgebot",
+    "vbvg-rechtsprechung",
+    "vbvg-rechtsprechung",
+    "vbvg-rechtsprechung",
+    "vbvg-rechtsprechung",
+    "vbvg-rechtsprechung",
+    "vergütungsrechtsprechung",
+    "vormünder--und-betreuervergütungsgesetz",
+    "vormünder--und-betreuervergütungsgesetz",
+    "vormünder--und-betreuervergütungsgesetz",
+    "zweites-betreuungsrechtsänderungsgesetz"
+  ],
+  "fallpauschalen": [
+    "betreuer-cockpit"
+  ],
+  "beruflicher": [
+    "betreuer-cockpit"
+  ],
+  "steuerliche": [
+    "betreuer-cockpit"
+  ],
+  "einnahmenüberschussrechnung": [
+    "betreuer-cockpit"
+  ],
+  "vorerfassung": [
+    "betreuer-cockpit"
+  ],
+  "vorkontierung": [
+    "betreuer-cockpit"
+  ],
+  "buchhaltungssoftware": [
+    "betreuer-cockpit"
+  ],
+  "steuerberatung": [
+    "betreuer-cockpit"
+  ],
+  "liquiditätsplanung": [
+    "betreuer-cockpit"
+  ],
+  "herstellerbeschreibung": [
+    "betreuer-cockpit"
+  ],
+  "funktionen": [
+    "betreuer-cockpit",
+    "betreuungsbehörde"
+  ],
+  "betreuungssoftware": [
+    "betreuer-cockpit"
+  ],
+  "dient": [
+    "betreuer-cockpit"
+  ],
+  "produkt": [
+    "betreuer-cockpit",
+    "heilbehandlung"
+  ],
+  "gewinn": [
+    "betreuer-cockpit"
+  ],
+  "rücklagen": [
+    "betreuer-cockpit"
+  ],
+  "kontostand": [
+    "betreuer-cockpit"
+  ],
+  "privat": [
+    "betreuer-cockpit"
+  ],
+  "angaben": [
+    "betreuer-cockpit",
+    "betreuer-cockpit",
+    "betreuerausweis",
+    "vermögensverzeichnis"
+  ],
+  "anbieters": [
+    "betreuer-cockpit",
+    "betreuer-cockpit"
+  ],
+  "belegerfassung": [
+    "betreuer-cockpit"
+  ],
+  "datev": [
+    "betreuer-cockpit"
+  ],
+  "ersetzen": [
+    "betreuer-cockpit"
+  ],
+  "steuer": [
+    "betreuer-cockpit",
+    "finanzamt"
+  ],
+  "vergütungsberechnungen": [
+    "betreuer-cockpit"
+  ],
+  "gerichtliche": [
+    "betreuer-cockpit",
+    "betreuerpflichten",
+    "geldanlage",
+    "gerichtskosten",
+    "gesetzestexte",
+    "gewaltschutzanordnung",
+    "mündelgeld",
+    "vorführung"
+  ],
+  "simulation": [
+    "betreuer-cockpit"
+  ],
+  "entwicklung": [
+    "betreuer-cockpit",
+    "betreuungsarbeitsgemeinschaft",
+    "rechtsprechung"
+  ],
+  "wann": [
+    "betreuer-cockpit"
+  ],
+  "anbindung": [
+    "betreuer-cockpit"
+  ],
+  "beispielsweise": [
+    "betreuer-cockpit",
+    "betreuerhaftung"
+  ],
+  "website": [
+    "betreuer-cockpit",
+    "online-lexikon-betreuungsrecht:datenschutz"
+  ],
   "hatte": [
     "betreuer-als-erbe",
     "betreuervorschlag",
@@ -13142,10 +13340,6 @@
   "bezeichnung": [
     "betreuerausweis",
     "intellektuelle-beeinträchtigung",
-    "vermögensverzeichnis"
-  ],
-  "angaben": [
-    "betreuerausweis",
     "vermögensverzeichnis"
   ],
   "erforderlich": [
@@ -13460,9 +13654,6 @@
     "gesundheitssorge",
     "unterbringung"
   ],
-  "beispielsweise": [
-    "betreuerhaftung"
-  ],
   "während": [
     "betreuerhaftung",
     "dokumentationspflicht",
@@ -13622,15 +13813,6 @@
   ],
   "geschützt": [
     "betreuerpflichten"
-  ],
-  "gerichtliche": [
-    "betreuerpflichten",
-    "geldanlage",
-    "gerichtskosten",
-    "gesetzestexte",
-    "gewaltschutzanordnung",
-    "mündelgeld",
-    "vorführung"
   ],
   "anlagegeldern": [
     "betreuerpflichten"
@@ -13810,41 +13992,6 @@
   ],
   "zeitaufwand": [
     "betreuervergütung"
-  ],
-  "vbvg": [
-    "betreuervergütung",
-    "betreuervergütung",
-    "betreuervergütung",
-    "betreuervergütung",
-    "betreuervergütung",
-    "betreuervergütung",
-    "betreuervergütung",
-    "betreuervergütung-2019",
-    "betreuervergütung-2019",
-    "betreuervergütung-2026",
-    "betreuerwechsel",
-    "betreutes-wohnen",
-    "dauervergütung",
-    "dauervergütung",
-    "föderalismus",
-    "gesetzestexte",
-    "grundstück",
-    "kontrollbetreuer",
-    "sterilisationsbetreuer",
-    "stundensatz",
-    "stundensatz",
-    "stundensatz",
-    "trennungsgebot",
-    "vbvg-rechtsprechung",
-    "vbvg-rechtsprechung",
-    "vbvg-rechtsprechung",
-    "vbvg-rechtsprechung",
-    "vbvg-rechtsprechung",
-    "vergütungsrechtsprechung",
-    "vormünder--und-betreuervergütungsgesetz",
-    "vormünder--und-betreuervergütungsgesetz",
-    "vormünder--und-betreuervergütungsgesetz",
-    "zweites-betreuungsrechtsänderungsgesetz"
   ],
   "verhinderung": [
     "betreuervergütung",
@@ -14527,10 +14674,6 @@
     "betreuungsarbeitsgemeinschaft",
     "haftpflichtversicherung"
   ],
-  "entwicklung": [
-    "betreuungsarbeitsgemeinschaft",
-    "rechtsprechung"
-  ],
   "allgemein": [
     "betreuungsarbeitsgemeinschaft",
     "digitale-barrierefreiheit"
@@ -14603,9 +14746,6 @@
     "betreuungsgerichtshilfe"
   ],
   "stärkung": [
-    "betreuungsbehörde"
-  ],
-  "funktionen": [
     "betreuungsbehörde"
   ],
   "bagues": [
@@ -14810,6 +14950,7 @@
     "betreuungsorganisationsgesetz",
     "betreuungsrechtsreform",
     "familienverfahrensgesetz",
+    "forensik",
     "föderalismus",
     "gesetzestexte",
     "gesetzgebung",
@@ -15043,6 +15184,10 @@
     "buchverzeichnis",
     "bundesverband-freier-berufsbetreuer",
     "unterbringung"
+  ],
+  "sachkundelehrgang": [
+    "betreuungsrechtliche-praxis",
+    "sachkundelehrgang"
   ],
   "verlagsseite": [
     "betreuungsrechtliche-praxis"
@@ -15504,13 +15649,6 @@
   ],
   "stiegen": [
     "betreuungszahlen"
-  ],
-  "ausgaben": [
-    "betreuungszahlen",
-    "eidesstattliche-versicherung",
-    "vermögenssorge",
-    "vermögensverzeichnis",
-    "zeitschrift-für-professionelle-betreuungsarbeit"
   ],
   "vergütungen": [
     "betreuungszahlen",
@@ -16716,8 +16854,7 @@
   ],
   "verwaltungspostfach": [
     "ebo",
-    "egvp",
-    "forensik"
+    "egvp"
   ],
   "einsichtsfähigkeit": [
     "ehefähigkeit"
@@ -16773,15 +16910,6 @@
   ],
   "direkte": [
     "ehefähigkeit"
-  ],
-  "anwendung": [
-    "ehefähigkeit",
-    "eherecht-und-betreuung",
-    "ordre-public",
-    "schenkung",
-    "unterbringung",
-    "unterbringungsähnliche-maßnahme",
-    "vorführung"
   ],
   "vorgesehen": [
     "ehefähigkeit",
@@ -17897,9 +18025,6 @@
     "finanzamt"
   ],
   "römer": [
-    "finanzamt"
-  ],
-  "steuer": [
     "finanzamt"
   ],
   "verlorene": [
@@ -19756,9 +19881,6 @@
   "herstellers": [
     "heilbehandlung"
   ],
-  "produkt": [
-    "heilbehandlung"
-  ],
   "produkthaftungsgesetz": [
     "heilbehandlung"
   ],
@@ -21079,9 +21201,6 @@
     "prozessfähigkeit",
     "spielwiese"
   ],
-  "website": [
-    "online-lexikon-betreuungsrecht:datenschutz"
-  ],
   "surf": [
     "online-lexikon-betreuungsrecht:datenschutz"
   ],
@@ -22044,9 +22163,6 @@
   "notwendige": [
     "sachkundelehrgang"
   ],
-  "sachkundelehrgang": [
-    "sachkundelehrgang"
-  ],
   "sachkunde": [
     "sachkundenachweis",
     "sachkundenachweis",
@@ -22393,6 +22509,9 @@
   ],
   "verwaltet": [
     "selbstverwaltungserklärung"
+  ],
+  "butler": [
+    "software"
   ],
   "keiner": [
     "sozialhilfe"
@@ -24255,9 +24374,6 @@
     "zwangsbehandlung"
   ],
   "naumburg": [
-    "zwangsbehandlung"
-  ],
-  "oktober": [
     "zwangsbehandlung"
   ],
   "ambulanten": [
