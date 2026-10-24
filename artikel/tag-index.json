@@ -1469,6 +1469,7 @@
     "betreuerhaftung",
     "betreuerregistrierungsverordnung",
     "betreuertest",
+    "betreuervergütung-2019",
     "betreuervergütung-2026",
     "betreuervorschlag",
     "betreuerwechsel",
@@ -3758,6 +3759,7 @@
     "alltagsgeschäfte",
     "altenheim",
     "behindertenkonvention",
+    "betreuervergütung-2019",
     "betreuungsrechtsreform",
     "drittes-betreuungsrechtsänderungsgesetz",
     "haager-übereinkommen",
@@ -4141,6 +4143,7 @@
     "betreuerhaftung",
     "gesetzestexte",
     "insichgeschäft",
+    "kindschaftsrecht",
     "schenkung",
     "schenkung",
     "schenkung",
@@ -4214,6 +4217,8 @@
     "beaufsichtigung",
     "beaufsichtigung",
     "berufsbetreuer",
+    "betreuervergütung",
+    "betreuervergütung-2019",
     "betreuerwechsel",
     "betreuungsrechtliche-praxis",
     "betreuungsverfügung",
@@ -4297,7 +4302,6 @@
     "betreuerpflichten",
     "betreuervergütung",
     "betreuervergütung",
-    "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuervorschlag",
     "betreuerwechsel",
@@ -5609,8 +5613,6 @@
     "aufhebung-der-betreuung",
     "betreuerausweis",
     "betreuervergütung",
-    "betreuervergütung",
-    "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuerwechsel",
     "dauervergütung",
@@ -8491,9 +8493,7 @@
     "zweites-betreuungsrechtsänderungsgesetz"
   ],
   "inkl": [
-    "anzeigepflicht",
-    "betreuervergütung",
-    "betreuervergütung-2019"
+    "anzeigepflicht"
   ],
   "vereinsbetreuer": [
     "anzeigepflicht",
@@ -10090,6 +10090,8 @@
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuervergütung-2026",
+    "betreuervergütung-2026",
+    "dauervergütung",
     "dauervergütung",
     "eingruppierung",
     "ermessensvergütung",
@@ -10260,6 +10262,7 @@
   ],
   "betreuerentschädigung": [
     "aufwendungsersatz",
+    "betreuervergütung-2019",
     "dauervergütung",
     "tabelleneinstufung"
   ],
@@ -12220,6 +12223,40 @@
     "grundstück",
     "unterbringungsverfahren"
   ],
+  "verfahrenspfleger": [
+    "behördenbetreuer",
+    "datenschutz",
+    "freibetrag",
+    "genehmigung-der-heilbehandlung",
+    "gerichtskosten",
+    "kindschaftsrecht",
+    "nutzungspflicht",
+    "prozesspfleger",
+    "rechtsanwalt",
+    "rechtsanwalt",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsweg-in-deutschland",
+    "sterilisation",
+    "stundensatz",
+    "stundensatz",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger"
+  ],
   "befreiter": [
     "behördenbetreuer",
     "gesetzestexte",
@@ -12232,13 +12269,6 @@
     "ermessensvergütung",
     "ermessensvergütung",
     "gesetzestexte"
-  ],
-  "eingruppierung": [
-    "behördenbetreuer",
-    "betreuungsbehörde",
-    "eingruppierung",
-    "eingruppierung",
-    "vormundschaftsgericht"
   ],
   "brucker": [
     "behördenbetreuer",
@@ -13935,9 +13965,6 @@
   "pauschalvergütung": [
     "betreuervergütung",
     "betreuervergütung",
-    "betreuervergütung",
-    "betreuervergütung-2019",
-    "betreuervergütung-2019",
     "neu"
   ],
   "hier": [
@@ -14076,7 +14103,6 @@
   "dauervergütung": [
     "betreuervergütung",
     "betreuervergütung",
-    "betreuervergütung-2026",
     "dauervergütung",
     "dauervergütung",
     "eingruppierung",
@@ -14113,7 +14139,9 @@
     "betreuervergütung"
   ],
   "vergütungsantrag": [
-    "betreuervergütung"
+    "betreuervergütung",
+    "betreuervergütung",
+    "betreuervergütung-2019"
   ],
   "vermögens": [
     "betreuervergütung",
@@ -14178,21 +14206,10 @@
     "betreuervergütung",
     "betreuervergütung-2019"
   ],
-  "kurzübersicht": [
+  "justiz": [
     "betreuervergütung",
     "betreuervergütung-2019",
-    "registrierung"
-  ],
-  "tabelle": [
-    "betreuervergütung",
-    "betreuervergütung-2019",
-    "betreuervergütung-2019",
-    "betreuervergütung-2019",
-    "krankenversicherung"
-  ],
-  "inflationszuschlag": [
-    "betreuervergütung",
-    "betreuervergütung-2019"
+    "formulare"
   ],
   "felix": [
     "betreuervergütung",
@@ -14226,6 +14243,11 @@
     "betreuervergütung-2019",
     "betreuervergütung-2019",
     "betreuervergütung-2019"
+  ],
+  "tabelle": [
+    "betreuervergütung-2019",
+    "betreuervergütung-2019",
+    "krankenversicherung"
   ],
   "erhöhung": [
     "betreuervergütung-2019",
@@ -14312,16 +14334,6 @@
   "einkommen": [
     "betreuervergütung-2019",
     "rente"
-  ],
-  "erhöhen": [
-    "betreuervergütung-2019"
-  ],
-  "tabellenwerte": [
-    "betreuervergütung-2019",
-    "betreuervergütung-2026"
-  ],
-  "inflationsausgleich": [
-    "betreuervergütung-2019"
   ],
   "vormünder": [
     "betreuervergütung-2019",
@@ -14461,6 +14473,9 @@
     "betreuervergütung-2026"
   ],
   "umrechnung": [
+    "betreuervergütung-2026"
+  ],
+  "tabellenwerte": [
     "betreuervergütung-2026"
   ],
   "stufen": [
@@ -14703,6 +14718,12 @@
   ],
   "ebene": [
     "betreuungsbehörde"
+  ],
+  "eingruppierung": [
+    "betreuungsbehörde",
+    "eingruppierung",
+    "eingruppierung",
+    "vormundschaftsgericht"
   ],
   "kenntnis": [
     "betreuungsbehörde",
@@ -15372,7 +15393,6 @@
   "diskriminierungsverbot": [
     "betreuungsverein",
     "inklusionsbetrieb",
-    "kindschaftsrecht",
     "kirchenaustritt",
     "ordre-public",
     "polizeirecht",
@@ -16311,39 +16331,6 @@
     "datenschutz",
     "meldepflicht",
     "querschnittsaufgaben"
-  ],
-  "verfahrenspfleger": [
-    "datenschutz",
-    "freibetrag",
-    "genehmigung-der-heilbehandlung",
-    "gerichtskosten",
-    "kindschaftsrecht",
-    "nutzungspflicht",
-    "prozesspfleger",
-    "rechtsanwalt",
-    "rechtsanwalt",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsweg-in-deutschland",
-    "sterilisation",
-    "stundensatz",
-    "stundensatz",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger"
   ],
   "dritten": [
     "datenschutz",
@@ -18125,9 +18112,6 @@
     "forensik"
   ],
   "dateien": [
-    "formulare"
-  ],
-  "justiz": [
     "formulare"
   ],
   "mecklenburg": [
@@ -22074,6 +22058,9 @@
     "registrierung"
   ],
   "erfolgter": [
+    "registrierung"
+  ],
+  "kurzübersicht": [
     "registrierung"
   ],
   "führungszeugnis": [
