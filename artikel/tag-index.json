@@ -5234,7 +5234,8 @@
     "altenheim"
   ],
   "lebenshilfe": [
-    "altenheim"
+    "altenheim",
+    "werkstatt-für-behinderte-menschen"
   ],
   "geistigen": [
     "altenheim"
@@ -9092,7 +9093,6 @@
     "eingliederungshilfe",
     "globales-nachhaltigkeitsziel-10",
     "unterstützungspflicht",
-    "werkstatt-für-behinderte-menschen",
     "wohn--und-betreuungsvertragsgesetz"
   ],
   "einschließlich": [
@@ -10292,7 +10292,8 @@
     "betreuervorschlag",
     "betreuungsverein",
     "betreuungsverein",
-    "datenschutz"
+    "datenschutz",
+    "werkstatt-für-behinderte-menschen"
   ],
   "betreuungsgerichtstag": [
     "ausbildung",
@@ -10545,8 +10546,7 @@
     "betreuer-(ehrenamt)",
     "betreuerhaftung",
     "geheimhaltungspflicht",
-    "unterstützungspflicht",
-    "werkstatt-für-behinderte-menschen"
+    "unterstützungspflicht"
   ],
   "leistung": [
     "auskunftspflicht",
@@ -12717,8 +12717,7 @@
     "bestattung",
     "psychisch-kranken-gesetz",
     "psychisch-kranken-gesetz",
-    "rheinland-pfalz",
-    "werkstatt-für-behinderte-menschen"
+    "rheinland-pfalz"
   ],
   "pfalz": [
     "bestattung",
@@ -20140,7 +20139,8 @@
   ],
   "stuttgart": [
     "interoperabilität",
-    "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer"
+    "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
+    "werkstatt-für-behinderte-menschen"
   ],
   "vorlagen": [
     "jahresbericht"
@@ -20374,8 +20374,7 @@
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "verhinderungsbetreuer",
     "vorsorgevollmacht",
-    "vorsorgevollmacht",
-    "werkstatt-für-behinderte-menschen"
+    "vorsorgevollmacht"
   ],
   "bundesländern": [
     "krankenhaussozialdienst",
@@ -24158,7 +24157,7 @@
   "arbeitsförderungsgeld": [
     "werkstatt-für-behinderte-menschen"
   ],
-  "landschaftsverband": [
+  "ortsvereinigung": [
     "werkstatt-für-behinderte-menschen"
   ],
   "wfbm": [
