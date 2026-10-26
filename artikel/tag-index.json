@@ -2804,6 +2804,7 @@
     "personalausweis",
     "personalausweis",
     "personalausweis",
+    "pflegeversicherung",
     "postkontrolle",
     "prozessfähigkeit",
     "prozessführung",
@@ -3066,6 +3067,7 @@
     "gesetzliche-vertretung",
     "girokonto",
     "informationspflicht",
+    "registrierung",
     "regress-der-staatskasse",
     "schenkung",
     "sozialhilfe",
@@ -8478,7 +8480,6 @@
     "rechtsanwalt",
     "rechtsanwalt",
     "registrierung",
-    "registrierung",
     "sachkundelehrgang",
     "sachkundenachweis",
     "sachkundenachweis",
@@ -8761,7 +8762,8 @@
     "arbeitsvertrag",
     "arbeitsvertrag",
     "arbeitsvertrag",
-    "bankvollmacht"
+    "bankvollmacht",
+    "rente"
   ],
   "anwesend": [
     "arbeitsvertrag"
@@ -12804,7 +12806,6 @@
     "freibetrag",
     "mittellosigkeit",
     "regress-der-staatskasse",
-    "rente",
     "schonvermögen"
   ],
   "todesfall": [
@@ -16621,6 +16622,7 @@
     "neu",
     "neu",
     "personenstand",
+    "pflegeversicherung",
     "schwerbehindertenausweis",
     "subsidiaritätsprinzip",
     "zugangsrecht"
@@ -21647,6 +21649,16 @@
   "nightingale": [
     "pflegeversicherung"
   ],
+  "pflegefachkräfte": [
+    "pflegeversicherung"
+  ],
+  "frauen": [
+    "pflegeversicherung",
+    "selbstverwaltung-der-deutschen-gemeinden"
+  ],
+  "gründete": [
+    "pflegeversicherung"
+  ],
   "beetz": [
     "pflegeversicherung",
     "sozialhilfe"
@@ -22463,9 +22475,6 @@
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "männern": [
-    "selbstverwaltung-der-deutschen-gemeinden"
-  ],
-  "frauen": [
     "selbstverwaltung-der-deutschen-gemeinden"
   ],
   "säkulare": [
