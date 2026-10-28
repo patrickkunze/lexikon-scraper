@@ -646,6 +646,7 @@
     "rente",
     "rente",
     "sachkundenachweis",
+    "sachkundenachweis",
     "schenkung",
     "schenkung",
     "schenkung",
@@ -1465,6 +1466,7 @@
     "berichtspflicht",
     "berufsbetreuer",
     "bestattungsvertrag",
+    "betreuer-cockpit",
     "betreuer-als-erbe",
     "betreuerhaftung",
     "betreuerregistrierungsverordnung",
@@ -3607,7 +3609,6 @@
     "personenstand",
     "pflicht-zur-betreuungsübernahme",
     "psychisch-kranken-gesetz",
-    "sachkundenachweis",
     "sachsen",
     "sachverständigengutachten",
     "sachverständigengutachten",
@@ -8454,6 +8455,7 @@
     "berufsbetreuer",
     "bestellung-mehrerer-betreuer",
     "betreuer-cockpit",
+    "betreuer-cockpit",
     "betreuertest",
     "betreuervergütung",
     "betreuervergütung",
@@ -10264,6 +10266,7 @@
   ],
   "betreuerentschädigung": [
     "aufwendungsersatz",
+    "betreuer-cockpit",
     "betreuervergütung-2019",
     "dauervergütung",
     "tabelleneinstufung"
@@ -12262,7 +12265,8 @@
   "befreiter": [
     "behördenbetreuer",
     "gesetzestexte",
-    "rechnungslegung"
+    "rechnungslegung",
+    "sachkundenachweis"
   ],
   "ermessensvergütung": [
     "behördenbetreuer",
@@ -12585,6 +12589,7 @@
   ],
   "software": [
     "berufsbetreuer",
+    "betreuer-cockpit",
     "broschüren",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "formulare",
@@ -13288,6 +13293,11 @@
     "betreuer-cockpit",
     "online-lexikon-betreuungsrecht:datenschutz"
   ],
+  "arbeitshilfen": [
+    "betreuer-cockpit",
+    "betreuertest",
+    "betreuungsmanagement"
+  ],
   "hatte": [
     "betreuer-als-erbe",
     "betreuervorschlag",
@@ -13957,10 +13967,6 @@
   ],
   "redirecttest": [
     "betreuertest"
-  ],
-  "arbeitshilfen": [
-    "betreuertest",
-    "betreuungsmanagement"
   ],
   "pauschalvergütung": [
     "betreuervergütung",
@@ -15721,7 +15727,6 @@
     "forensik",
     "genehmigungen-von-a-bis-z",
     "querschnittsaufgaben",
-    "sachkundenachweis",
     "software",
     "zugriffsrecht"
   ],
