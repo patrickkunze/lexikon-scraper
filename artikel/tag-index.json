@@ -224,7 +224,6 @@
     "anhörung",
     "betreuungsverfahren",
     "drittes-betreuungsrechtsänderungsgesetz",
-    "gesundheitliche-versorgungsplanung",
     "hauptseite",
     "meldepflicht",
     "spielwiese"
@@ -233,13 +232,12 @@
     "abkürzungen",
     "abschiebung",
     "betreuungsverfahren",
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "gesundheitliche-versorgungsplanung"
+    "elektronisches-gerichts--und-verwaltungspostfach"
   ],
   "korrigiert": [
     "abkürzungen",
     "abschiebung",
-    "gesundheitliche-versorgungsplanung"
+    "betreuungsverfahren"
   ],
   "abkürzungen": [
     "abkürzungen",
@@ -548,6 +546,7 @@
     "hauptseite",
     "hauptseite",
     "hauptseite",
+    "hauptseite",
     "heilbehandlung",
     "heilbehandlung",
     "heimmitarbeiter-als-betreuer",
@@ -658,6 +657,7 @@
     "schweigepflicht",
     "schweigepflicht",
     "schweigepflicht",
+    "selbstbestimmung",
     "selbstbestimmung",
     "selbstbestimmung",
     "selbstbestimmung",
@@ -1406,6 +1406,7 @@
     "verfahrensfähigkeit",
     "verfahrenspfleger",
     "verfahrenspfleger",
+    "verfahrenspfleger",
     "verhinderungsbetreuer",
     "vermögenssorge",
     "vermögenssorge",
@@ -2132,6 +2133,7 @@
     "sozialhilfe",
     "sterbehilfe",
     "sterbehilfe",
+    "sterbehilfe",
     "sterilisation",
     "strafprozess",
     "testierfähigkeit",
@@ -2727,11 +2729,6 @@
     "geldanlage",
     "genehmigung-der-heilbehandlung",
     "genehmigung-der-heilbehandlung",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungspflichten",
     "genehmigungspflichten",
     "genehmigungspflichten",
     "gerichtskosten",
@@ -2841,6 +2838,7 @@
     "schenkung",
     "schenkung",
     "schenkung",
+    "schenkung",
     "schlussbericht",
     "schlussrechnungslegung",
     "schlussrechnungslegung",
@@ -2848,6 +2846,7 @@
     "schlusstätigkeiten",
     "schlusstätigkeiten",
     "schlusstätigkeiten",
+    "selbstbestimmung",
     "selbstbestimmung",
     "selbstverwaltung-der-deutschen-gemeinden",
     "sozialhilfe",
@@ -2876,13 +2875,10 @@
     "umgangsbestimmung",
     "unfallversicherung",
     "unterbringung",
-    "unterbringung",
     "unterbringungsverfahren",
     "unterbringungsverfahren",
     "unterbringungsverfahren",
     "unterbringungsverfahren",
-    "unterbringungsverfahren",
-    "unterbringungsähnliche-maßnahme",
     "unterbringungsähnliche-maßnahme",
     "unterbringungsähnliche-maßnahme",
     "unterbringungsähnliche-maßnahme",
@@ -2892,6 +2888,7 @@
     "unterstützungspflicht",
     "vbvg-rechtsprechung",
     "vaterschaftsanerkennung",
+    "vereinsbetreuer",
     "vereinsbetreuer",
     "vereinsbetreuer",
     "vereinsbetreuer",
@@ -2968,6 +2965,7 @@
     "betreuungsorganisationsgesetz",
     "betreuungsrichter",
     "betreuungsverein",
+    "betreuungsvoraussetzung",
     "checkliste-vermögenssorge",
     "datenschutz",
     "eidesstattliche-versicherung",
@@ -3443,6 +3441,7 @@
     "elektronische-patientenakte",
     "gesundheitssorge",
     "gesundheitssorge",
+    "gesundheitssorge",
     "heilbehandlung",
     "medikationsplan",
     "notfalldaten",
@@ -3458,7 +3457,6 @@
     "beteiligte",
     "betreuungsrichter",
     "betreuungssache",
-    "betreuungsverfahren",
     "betreuungszahlen",
     "datenschutz",
     "rechtspfleger",
@@ -3702,7 +3700,8 @@
     "betreuungsverfahren",
     "hauptseite",
     "mittellosigkeit",
-    "neu"
+    "neu",
+    "vormundschaftsgericht"
   ],
   "rechtsinstitut": [
     "allgemeines"
@@ -3991,6 +3990,7 @@
     "unterbringungsverfahren",
     "unterbringungsähnliche-maßnahme",
     "unterbringungsähnliche-maßnahme",
+    "unterbringungsähnliche-maßnahme",
     "vaterschaftsanerkennung",
     "vaterschaftsanerkennung",
     "verfahrensfähigkeit",
@@ -4011,6 +4011,7 @@
     "eherecht-und-betreuung",
     "einwilligungsvorbehalt",
     "forensik",
+    "genehmigungen-von-a-bis-z",
     "haftpflichtversicherung",
     "impressum",
     "mailingliste",
@@ -4205,6 +4206,7 @@
     "sozialhilfe",
     "sterbehilfedokumente",
     "unfallversicherung",
+    "vorsorgevollmacht",
     "vorsorgevollmacht"
   ],
   "kommentar": [
@@ -4452,7 +4454,6 @@
     "betreuerwechsel",
     "betreutes-wohnen",
     "betreuungsplan",
-    "betreuungszahlen",
     "buchverzeichnis",
     "checkliste-betreuerpflichten",
     "checkliste-betreuerpflichten",
@@ -4503,7 +4504,6 @@
     "grundrechte",
     "grundrechte",
     "grundstück",
-    "hauptseite",
     "heilbehandlung",
     "heilbehandlung",
     "jahresbericht",
@@ -5116,6 +5116,7 @@
     "mdk-gutachten",
     "mahnverfahren",
     "meldepflicht",
+    "meldepflicht",
     "natürlicher-wille",
     "natürlicher-wille",
     "patientenverfügung",
@@ -5467,6 +5468,7 @@
   "btman": [
     "altenheim",
     "betreuerpflichten",
+    "betreuungsmanagement",
     "betreuungsrechtliche-praxis",
     "betreuungssache",
     "betreuungsverein",
@@ -5533,6 +5535,7 @@
     "freibetrag",
     "geldanlage",
     "genehmigungspflichten",
+    "genehmigungspflichten",
     "gerichtsbeschluss",
     "gesetzestexte",
     "gesetzestexte",
@@ -5572,6 +5575,7 @@
     "vermögenssorge",
     "vermögenssorge",
     "vermögenssorge",
+    "vertretung-gegenüber-behörden",
     "vormundschaftsgericht",
     "wohnungsangelegenheiten",
     "zwangsbehandlung",
@@ -5716,6 +5720,7 @@
     "freier-wille",
     "genehmigung-der-heilbehandlung",
     "genehmigung-der-heilbehandlung",
+    "genehmigungen-von-a-bis-z",
     "genehmigungen-von-a-bis-z",
     "genehmigungen-von-a-bis-z",
     "genehmigungen-von-a-bis-z",
@@ -5931,6 +5936,7 @@
     "dokumentationspflicht",
     "ende-der-betreuung",
     "genehmigungen-von-a-bis-z",
+    "genehmigungspflichten",
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
     "gesundheitsdatennutzungsgesetz",
@@ -6126,15 +6132,19 @@
     "arztzeugnis",
     "aufgabenkreis",
     "betreuerausweis",
+    "betreuungsgericht",
     "genehmigungen-von-a-bis-z",
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
     "hamburger-mustergliederung",
     "hauptseite",
     "jahresbericht",
+    "postkontrolle",
     "prozessführung",
+    "rechtspfleger",
     "schlussbericht",
-    "umgangsbestimmung"
+    "umgangsbestimmung",
+    "vermögensverzeichnis"
   ],
   "inhalt": [
     "anfangsbericht",
@@ -6161,6 +6171,7 @@
     "diskriminierungsverbot",
     "einverständniserklärung",
     "mittellosigkeit",
+    "patientenverfügung",
     "patientenverfügung",
     "strafprozess",
     "unterbringung",
@@ -6189,6 +6200,7 @@
     "anfangsbericht",
     "bestattung",
     "betreuungsplan",
+    "betreuungsverfahren",
     "betreuungsverfügung",
     "jahresbericht",
     "niedersachsen",
@@ -6273,6 +6285,7 @@
     "freibetrag",
     "geldanlage",
     "genehmigungen-von-a-bis-z",
+    "genehmigungspflichten",
     "gerichtskosten",
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
@@ -6292,6 +6305,8 @@
     "spielwiese",
     "tod-des-betreuten",
     "umgangsbestimmung",
+    "vbvg-rechtsprechung",
+    "vereinsbetreuer",
     "verfahrenspfleger",
     "verfügungsgeld",
     "vermögensverzeichnis",
@@ -6325,6 +6340,8 @@
     "regress-der-staatskasse",
     "tod-des-betreuten",
     "trennungsgebot",
+    "unterbringungsverfahren",
+    "verfahrenspfleger",
     "verfügungsgeld",
     "verhinderungsbetreuer",
     "verlängerung-der-betreuung",
@@ -6377,6 +6394,8 @@
     "regress-der-staatskasse",
     "tod-des-betreuten",
     "trennungsgebot",
+    "unterbringungsverfahren",
+    "verfahrenspfleger",
     "verfügungsgeld",
     "verhinderungsbetreuer",
     "verlängerung-der-betreuung",
@@ -6616,6 +6635,8 @@
     "sterbehilfedokumente",
     "tod-des-betreuten",
     "trennungsgebot",
+    "unterbringungsverfahren",
+    "vereinsbetreuer",
     "verfahrenspfleger",
     "verfügungsgeld",
     "verhinderungsbetreuer",
@@ -6954,6 +6975,7 @@
     "unterbringung",
     "verfahrenspfleger",
     "vorläufiger-betreuer",
+    "vormundschaftsgericht",
     "vorsorgevollmacht",
     "vorsorgevollmacht",
     "vorsorgevollmacht---vertiefte-infos",
@@ -7090,7 +7112,8 @@
   "weiteres": [
     "angehörigenvertretungsrecht",
     "haftpflichtversicherung",
-    "mittellosigkeit"
+    "mittellosigkeit",
+    "rechnungslegung"
   ],
   "ehegattenvertretung": [
     "angehörigenvertretungsrecht",
@@ -7217,6 +7240,7 @@
     "betreuerwechsel",
     "betreuungsbehörde",
     "betreuungsverein",
+    "betreuungsvoraussetzung",
     "einwilligungsvorbehalt",
     "gerichtskosten",
     "haftpflichtversicherung",
@@ -7314,6 +7338,7 @@
   "bverfg": [
     "anhörung",
     "beamte-als-betreuer",
+    "rechtsprechung",
     "sterbehilfedokumente",
     "verfahrensfähigkeit",
     "zwangsbehandlung",
@@ -7565,6 +7590,7 @@
     "geldanlage",
     "geldanlage",
     "genehmigungen-von-a-bis-z",
+    "genehmigungen-von-a-bis-z",
     "genehmigungspflichten",
     "gesetzestexte",
     "mündelgeld"
@@ -7782,6 +7808,7 @@
     "unterbringungsähnliche-maßnahme",
     "vermögenssorge",
     "vormundschaftsgericht",
+    "wohnungsangelegenheiten",
     "wohnungsangelegenheiten",
     "wohnungsauflösung",
     "zwangsbehandlung",
@@ -8049,6 +8076,7 @@
     "schleswig-holstein",
     "stundensatz",
     "thüringen",
+    "unterbringung",
     "vermögenssorge",
     "vormünder--und-betreuervergütungsgesetz",
     "zweites-betreuungsrechtsänderungsgesetz"
@@ -8334,6 +8362,7 @@
     "vereinsbetreuer",
     "vereinsbetreuer",
     "vereinsbetreuer",
+    "vereinsbetreuer",
     "vereinsbetreuer"
   ],
   "haben": [
@@ -8385,7 +8414,8 @@
     "registrierung",
     "registrierung",
     "registrierung",
-    "sachkundenachweis"
+    "sachkundenachweis",
+    "vereinsbetreuer"
   ],
   "mitzuteilen": [
     "anzeigepflicht",
@@ -9034,6 +9064,7 @@
     "berufsbetreuer",
     "betreuerregistrierungsverordnung",
     "betreuervorschlag",
+    "betreuervorschlag",
     "betreuungsbehörde",
     "betreuungsorganisationsgesetz",
     "betreuungssache",
@@ -9082,6 +9113,7 @@
     "betreuungsgericht",
     "einstweilige-anordnung",
     "familienverfahrensgesetz",
+    "genehmigungen-von-a-bis-z",
     "gesetzestexte",
     "grundrechte",
     "heilbehandlung",
@@ -9243,7 +9275,8 @@
     "beratung"
   ],
   "vordrucke": [
-    "aufenthaltsbestimmung"
+    "aufenthaltsbestimmung",
+    "gesetzlicher-vertreter"
   ],
   "bayoblg": [
     "aufgabenkreis",
@@ -9346,6 +9379,7 @@
     "vermögensverzeichnis",
     "vermögensverzeichnis",
     "vertretung-gegenüber-behörden",
+    "vertretung-gegenüber-behörden",
     "widerspruchsrecht"
   ],
   "beantragung": [
@@ -9372,6 +9406,7 @@
     "beamte-als-betreuer",
     "betreuerbestellung",
     "betreuerwechsel",
+    "betreuungsvoraussetzung",
     "ehefähigkeit",
     "eherecht-und-betreuung",
     "erbausschlagung",
@@ -9397,6 +9432,7 @@
     "genehmigung-der-heilbehandlung",
     "genehmigungen-von-a-bis-z",
     "geschäftsfähigkeit",
+    "gesundheitssorge",
     "gesundheitssorge",
     "heilbehandlung",
     "heilbehandlung",
@@ -9509,8 +9545,10 @@
     "gesundheitssorge",
     "heimangelegenheiten",
     "mietvertragsangelegenheiten",
+    "prozessführung",
     "strafverfahren",
-    "vaterschaftsfeststellung"
+    "vaterschaftsfeststellung",
+    "vertretung-gegenüber-behörden"
   ],
   "aufhebung": [
     "aufhebung",
@@ -9559,7 +9597,8 @@
     "betreuerbestellung",
     "grundstück",
     "heilbehandlung",
-    "vermögensverzeichnis"
+    "vermögensverzeichnis",
+    "zweites-betreuungsrechtsänderungsgesetz"
   ],
   "gleiche": [
     "aufhebung-der-betreuung"
@@ -9659,13 +9698,10 @@
     "betreuervergütung",
     "betreuervergütung-2019",
     "betreuervorschlag",
-    "betreuervorschlag",
     "betreuungsbehörde",
-    "betreuungsvoraussetzung",
     "datenschutz",
     "datenschutz",
     "registrierung",
-    "vereinsbetreuer",
     "vermögensverzeichnis"
   ],
   "führt": [
@@ -9806,7 +9842,8 @@
     "aufwandspauschale",
     "betreuervergütung-2019",
     "dauervergütung",
-    "dauervergütung"
+    "dauervergütung",
+    "stundensatz"
   ],
   "falls": [
     "aufwandspauschale"
@@ -10436,6 +10473,7 @@
   ],
   "juristische": [
     "ausländer",
+    "betreuervorschlag",
     "einwilligungsvorbehalt",
     "zug-um-zug-leistung"
   ],
@@ -10757,7 +10795,6 @@
   ],
   "anzahl": [
     "bayern",
-    "betreuungszahlen",
     "brandenburg",
     "bremen",
     "hamburg",
@@ -10867,6 +10904,7 @@
   ],
   "betreuungspersonen": [
     "beamte-als-betreuer",
+    "betreuerwechsel",
     "vorläufiger-betreuer"
   ],
   "berät": [
@@ -11084,6 +11122,7 @@
     "betreuungsrichter",
     "betreuungssache",
     "betreuungsvoraussetzung",
+    "betreuungszahlen",
     "ehegatte-als-betreuer",
     "einwilligungsvorbehalt",
     "ergänzungsbetreuer",
@@ -11597,7 +11636,6 @@
     "beglaubigung-durch-betreuungsbehörde",
     "betreuervergütung-2026",
     "betreuervergütung-2026",
-    "betreuervorschlag",
     "betreuerwechsel",
     "betreuungsrechtsreform",
     "betreuungsverfahren",
@@ -11610,7 +11648,6 @@
     "sachkundenachweis",
     "schlussbericht",
     "test",
-    "vereinsbetreuer",
     "vermögenssorge"
   ],
   "beglaubigungsbefugnis": [
@@ -11733,7 +11770,6 @@
     "betreuerpflichten",
     "betreuungssache",
     "betreuungsverfahren",
-    "betreuungszahlen",
     "buchverzeichnis",
     "gerichtsbeschluss",
     "prozessführung",
@@ -11784,6 +11820,7 @@
     "einwilligungsfähigkeit",
     "elektronische-patientenakte",
     "genehmigung-der-heilbehandlung",
+    "genehmigungen-von-a-bis-z",
     "gesundheitsdatennutzungsgesetz",
     "gesundheitssorge",
     "gesundheitssorge",
@@ -11931,6 +11968,7 @@
     "behindertenkonvention",
     "betreuervergütung-2019",
     "betreuungsrechtsreform",
+    "betreuungsverfahren",
     "drittes-betreuungsrechtsänderungsgesetz",
     "haager-übereinkommen",
     "patientenverfügung",
@@ -12309,6 +12347,7 @@
     "berufsbetreuer",
     "eingliederungshilfe",
     "gerichtskosten",
+    "gesundheitssorge",
     "mdk-gutachten",
     "sterbehilfe",
     "stundensatz"
@@ -12578,7 +12617,8 @@
     "bestattung",
     "gemeinwohlorientierung",
     "kirchenaustritt",
-    "polizeirecht"
+    "polizeirecht",
+    "psychisch-kranken-gesetz"
   ],
   "bestattungspflichtig": [
     "bestattung"
@@ -13128,16 +13168,10 @@
     "betreuungsverfahren",
     "geldanlage",
     "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
     "genehmigungspflichten",
     "genehmigungspflichten",
     "genehmigungspflichten",
-    "grundstück",
-    "unterbringung",
-    "unterbringungsverfahren"
+    "grundstück"
   ],
   "zuwendungen": [
     "betreuer-als-erbe"
@@ -13328,7 +13362,9 @@
     "betreuerbestellung",
     "betreuungsgerichtshilfe",
     "betreuungsverein",
-    "rechtsprechung-zum-verfahrenspfleger"
+    "rechtsprechung-zum-verfahrenspfleger",
+    "vorführung",
+    "zuführung-zur-unterbringung"
   ],
   "altenheimes": [
     "betreuerbestellung"
@@ -13392,6 +13428,7 @@
   ],
   "neuer": [
     "betreuerbestellung",
+    "betreuervorschlag",
     "betreuerwechsel"
   ],
   "dodegge": [
@@ -13411,7 +13448,8 @@
     "betreuungsbehörde",
     "betreuungsgerichtshilfe",
     "buchverzeichnis",
-    "familienverfahrensgesetz"
+    "familienverfahrensgesetz",
+    "unterbringungsähnliche-maßnahme"
   ],
   "eignung": [
     "betreuerbestellung",
@@ -13782,140 +13820,6 @@
     "betreuervergütung",
     "neu"
   ],
-  "right": [
-    "betreuervergütung",
-    "betreuervergütung",
-    "betreuervorschlag",
-    "betreuervorschlag",
-    "betreuervorschlag",
-    "betreuervorschlag",
-    "betreuervorschlag",
-    "betreuerwechsel",
-    "betreuungsbehörde",
-    "betreuungsgericht",
-    "betreuungsgerichtshilfe",
-    "betreuungsmanagement",
-    "betreuungsplan",
-    "betreuungsrechtliche-praxis",
-    "betreuungsverfahren",
-    "betreuungsverfahren",
-    "betreuungsverfahren",
-    "betreuungsvoraussetzung",
-    "betreuungszahlen",
-    "betreuungszahlen",
-    "betreuungszahlen",
-    "buchverzeichnis",
-    "checkliste-betreuerpflichten",
-    "checkliste-gesundheitssorge",
-    "checkliste-für-arztgespräche",
-    "corona",
-    "datenschutz",
-    "ehefähigkeit",
-    "ehefähigkeit",
-    "eherecht-und-betreuung",
-    "einstweilige-anordnung",
-    "einverständniserklärung",
-    "einwilligungsfähigkeit",
-    "erbausschlagung",
-    "erbschaft",
-    "ermessensvergütung",
-    "formulare",
-    "freier-wille",
-    "gegenbetreuer",
-    "geldanlage",
-    "genehmigung-der-heilbehandlung",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungspflichten",
-    "gerichtsbeschluss",
-    "gerichtskosten",
-    "gesetzestexte",
-    "gesetzlicher-vertreter",
-    "gesundheitliche-versorgungsplanung",
-    "gesundheitssorge",
-    "gesundheitssorge",
-    "gesundheitssorge",
-    "grundrechte",
-    "grundstück",
-    "grundstück",
-    "hauptseite",
-    "heilbehandlung",
-    "heimmitarbeiter-als-betreuer",
-    "kindschaftsrecht",
-    "kirchenaustritt",
-    "kontrollbetreuer",
-    "meldepflicht",
-    "peg-sonde",
-    "patientenverfügung",
-    "persönliche-betreuung",
-    "postkontrolle",
-    "postkontrolle",
-    "prozessfähigkeit",
-    "prozessführung",
-    "psychisch-kranken-gesetz",
-    "rechnungslegung",
-    "rechtsmittel",
-    "rechtspfleger",
-    "rechtsprechung",
-    "rechtsprechung",
-    "regress-der-staatskasse",
-    "sachkundenachweis",
-    "sachverständigengutachten",
-    "sachverständigengutachten",
-    "schenkung",
-    "schlussbericht",
-    "schweigepflicht",
-    "selbstbestimmung",
-    "selbstbestimmung",
-    "selbstbestimmung",
-    "sozialhilfe",
-    "sterbehilfe",
-    "sterbehilfedokumente",
-    "sterilisation",
-    "strafprozess",
-    "stundensatz",
-    "testierfähigkeit",
-    "tod-des-betreuten",
-    "unfallversicherung",
-    "unterbringung",
-    "unterbringung",
-    "unterbringungsverfahren",
-    "unterbringungsverfahren",
-    "unterbringungsähnliche-maßnahme",
-    "unterbringungsähnliche-maßnahme",
-    "unterbringungsähnliche-maßnahme",
-    "vbvg-rechtsprechung",
-    "vaterschaftsanerkennung",
-    "vereinsbetreuer",
-    "verfahrenspfleger",
-    "vermögenssorge",
-    "vermögensverzeichnis",
-    "vermögensverzeichnis",
-    "verpflichtungsgespräch",
-    "vertretung-gegenüber-behörden",
-    "vertretung-gegenüber-behörden",
-    "vertretung-gegenüber-behörden",
-    "vertretung-gegenüber-behörden",
-    "vorführung",
-    "vorführung",
-    "vormundschaftsgericht",
-    "vormundschaftsgericht",
-    "vorsorgevollmacht",
-    "vorsorgevollmacht---vertiefte-infos",
-    "wohnungsangelegenheiten",
-    "wohnungsangelegenheiten",
-    "wohnungsangelegenheiten",
-    "wohnungsauflösung",
-    "wohnungsauflösung",
-    "zuführung-zur-unterbringung",
-    "zuführung-zur-unterbringung",
-    "zuführung-zur-unterbringung",
-    "zwangsvollstreckung",
-    "zweites-betreuungsrechtsänderungsgesetz"
-  ],
   "hier": [
     "betreuervergütung",
     "einwilligungsvorbehalt",
@@ -13946,6 +13850,7 @@
   ],
   "jahre": [
     "betreuervergütung",
+    "betreuungszahlen",
     "betreuungszahlen",
     "gerichtsbeschluss",
     "pflegeversicherung",
@@ -14166,6 +14071,7 @@
     "buchverzeichnis",
     "jahresbericht",
     "mittellosigkeit",
+    "schlussbericht",
     "stundensatz",
     "vormünder--und-betreuervergütungsgesetz"
   ],
@@ -14184,6 +14090,17 @@
     "mittellosigkeit",
     "stundensatz",
     "vormünder--und-betreuervergütungsgesetz"
+  ],
+  "köln": [
+    "betreuervergütung",
+    "betreuervergütung-2019",
+    "buchverzeichnis",
+    "buchverzeichnis",
+    "delegation",
+    "eherecht-und-betreuung",
+    "mittellosigkeit",
+    "vormünder--und-betreuervergütungsgesetz",
+    "zweites-betreuungsrechtsänderungsgesetz"
   ],
   "anpassung": [
     "betreuervergütung-2019"
@@ -14335,16 +14252,6 @@
     "zwangsbehandlung",
     "zwangsvollstreckung"
   ],
-  "köln": [
-    "betreuervergütung-2019",
-    "buchverzeichnis",
-    "buchverzeichnis",
-    "delegation",
-    "eherecht-und-betreuung",
-    "mittellosigkeit",
-    "vormünder--und-betreuervergütungsgesetz",
-    "zweites-betreuungsrechtsänderungsgesetz"
-  ],
   "bgbl": [
     "betreuervergütung-2026",
     "betreuungsbehördengesetz",
@@ -14437,31 +14344,6 @@
     "kindschaftsrecht",
     "neu",
     "rente"
-  ],
-  "thumb": [
-    "betreuervorschlag",
-    "betreuungsvoraussetzung",
-    "betreuungszahlen",
-    "betreuungszahlen",
-    "betreuungszahlen",
-    "genehmigung-der-heilbehandlung",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungen-von-a-bis-z",
-    "genehmigungspflichten",
-    "gesundheitliche-versorgungsplanung",
-    "unterbringung",
-    "unterbringungsverfahren",
-    "unterbringungsähnliche-maßnahme",
-    "vereinsbetreuer",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "vorsorgevollmacht---vertiefte-infos"
-  ],
-  "anteile": [
-    "betreuervorschlag",
-    "vereinsbetreuer"
   ],
   "pflegebedürftigen": [
     "betreuervorschlag",
@@ -14904,6 +14786,7 @@
     "betreuungsrichter",
     "betreuungszahlen",
     "betreuungszahlen",
+    "betreuungszahlen",
     "intellektuelle-beeinträchtigung",
     "neu",
     "online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
@@ -15034,6 +14917,7 @@
   "durchführung": [
     "betreuungsorganisationsgesetz",
     "genehmigungen-von-a-bis-z",
+    "genehmigungen-von-a-bis-z",
     "unterstützungspflicht",
     "verfahrensfähigkeit"
   ],
@@ -15133,6 +15017,12 @@
   "vormundschafts": [
     "betreuungsorganisationsgesetz",
     "vermögensverzeichnis"
+  ],
+  "allen": [
+    "betreuungsplan",
+    "diskriminierungsverbot",
+    "meldepflicht",
+    "psychisch-kranken-gesetz"
   ],
   "erstellung": [
     "betreuungsplan",
@@ -15271,8 +15161,7 @@
     "gerichtskosten"
   ],
   "einwilligungsvorbehalten": [
-    "betreuungssache",
-    "betreuungszahlen"
+    "betreuungssache"
   ],
   "rechtsbeschwerde": [
     "betreuungssache",
@@ -15581,9 +15470,6 @@
   "erforderlichkeit": [
     "betreuungsvoraussetzung"
   ],
-  "jahresende": [
-    "betreuungszahlen"
-  ],
   "statistik": [
     "betreuungszahlen"
   ],
@@ -15626,9 +15512,22 @@
   "vorjahr": [
     "betreuungszahlen"
   ],
-  "verfahrenspflegerbestellungen": [
+  "verfahrenspflegern": [
     "betreuungszahlen",
     "verfahrenspfleger"
+  ],
+  "stieg": [
+    "betreuungszahlen",
+    "betreuungszahlen"
+  ],
+  "zwar": [
+    "betreuungszahlen"
+  ],
+  "angeordnet": [
+    "betreuungszahlen",
+    "hauptseite",
+    "vaterschaftsanerkennung",
+    "verfahrensfähigkeit"
   ],
   "gefährliche": [
     "betreuungszahlen",
@@ -15648,9 +15547,6 @@
     "sachkundenachweis"
   ],
   "anerkannten": [
-    "betreuungszahlen"
-  ],
-  "stieg": [
     "betreuungszahlen"
   ],
   "stiegen": [
@@ -15742,6 +15638,9 @@
     "sterbehilfedokumente"
   ],
   "medien": [
+    "buchverzeichnis"
+  ],
+  "bestellbar": [
     "buchverzeichnis"
   ],
   "außer": [
@@ -16120,6 +16019,9 @@
     "medizinische-begriffe"
   ],
   "betreuungsrechtlichen": [
+    "corona"
+  ],
+  "bezügen": [
     "corona"
   ],
   "stiko": [
@@ -16575,11 +16477,6 @@
   "arbeitnehmerinnen": [
     "diskriminierungsverbot"
   ],
-  "allen": [
-    "diskriminierungsverbot",
-    "meldepflicht",
-    "psychisch-kranken-gesetz"
-  ],
   "inanspruchnahme": [
     "diskriminierungsverbot",
     "diskriminierungsverbot",
@@ -16760,6 +16657,7 @@
     "drittes-betreuungsrechtsänderungsgesetz",
     "drittes-betreuungsrechtsänderungsgesetz",
     "genehmigungen-von-a-bis-z",
+    "genehmigungen-von-a-bis-z",
     "genehmigungspflichten",
     "genehmigungspflichten",
     "neu",
@@ -16915,6 +16813,9 @@
   "fragen": [
     "ehefähigkeit",
     "sterbehilfe"
+  ],
+  "böhmer": [
+    "ehefähigkeit"
   ],
   "familienangehörigen": [
     "ehegatte-als-betreuer",
@@ -18099,6 +18000,10 @@
   "dateien": [
     "formulare"
   ],
+  "diverse": [
+    "formulare",
+    "sozialhilfe"
+  ],
   "mecklenburg": [
     "formulare",
     "mecklenburg-vorpommern",
@@ -18416,6 +18321,11 @@
     "geldanlage",
     "genehmigungspflichten"
   ],
+  "mitteilung": [
+    "geldanlage",
+    "gesetzlicher-vertreter",
+    "mitteilungspflicht"
+  ],
   "anerkannte": [
     "gemeinwohlorientierung",
     "hauptseite"
@@ -18444,6 +18354,7 @@
   ],
   "verpflichtung": [
     "gemeinwohlorientierung",
+    "verpflichtungsgespräch",
     "verpflichtungsgespräch"
   ],
   "bundesstaats": [
@@ -18471,12 +18382,6 @@
   "betreuungsarbeitsgemeinschaft": [
     "gemeinwohlorientierung",
     "krankenversicherung"
-  ],
-  "genehmigungszahlen": [
-    "genehmigung-der-heilbehandlung"
-  ],
-  "quelle": [
-    "genehmigung-der-heilbehandlung"
   ],
   "länger": [
     "genehmigung-der-heilbehandlung"
@@ -18598,6 +18503,9 @@
   "abhebung": [
     "genehmigungen-von-a-bis-z"
   ],
+  "abweichung": [
+    "genehmigungen-von-a-bis-z"
+  ],
   "bettgitter": [
     "genehmigungen-von-a-bis-z"
   ],
@@ -18616,12 +18524,23 @@
   "auflösung": [
     "genehmigungen-von-a-bis-z"
   ],
-  "gesamtzahlen": [
+  "familienname": [
+    "genehmigungen-von-a-bis-z"
+  ],
+  "namensänderungsgesetz": [
     "genehmigungen-von-a-bis-z",
-    "unterbringung",
-    "unterbringungsverfahren"
+    "genehmigungen-von-a-bis-z"
+  ],
+  "fernmeldeverkehr": [
+    "genehmigungen-von-a-bis-z"
   ],
   "grundschuld": [
+    "genehmigungen-von-a-bis-z"
+  ],
+  "gesundheits": [
+    "genehmigungen-von-a-bis-z"
+  ],
+  "todesgefahr": [
     "genehmigungen-von-a-bis-z"
   ],
   "inhaberschuldverschreibung": [
@@ -18661,14 +18580,23 @@
   "namensänderungsantrag": [
     "genehmigungen-von-a-bis-z"
   ],
-  "namensänderungsgesetz": [
-    "genehmigungen-von-a-bis-z"
-  ],
   "nießbrauch": [
     "genehmigungen-von-a-bis-z"
   ],
   "pachtvertrag": [
     "genehmigungen-von-a-bis-z"
+  ],
+  "sachwerte": [
+    "genehmigungen-von-a-bis-z"
+  ],
+  "scheidungsantrag": [
+    "genehmigungen-von-a-bis-z"
+  ],
+  "schenkungen": [
+    "genehmigungen-von-a-bis-z",
+    "schenkung",
+    "schenkung",
+    "schenkung"
   ],
   "teilungsversteigerung": [
     "genehmigungen-von-a-bis-z"
@@ -18678,6 +18606,22 @@
   ],
   "telefonkontrolle": [
     "genehmigungen-von-a-bis-z"
+  ],
+  "freiheitsentziehung": [
+    "genehmigungen-von-a-bis-z",
+    "psychisch-kranken-gesetz",
+    "rechtsprechung-zur-unterbringung",
+    "unterbringung",
+    "unterbringung",
+    "unterbringung",
+    "unterbringungsverfahren",
+    "unterbringungsverfahren"
+  ],
+  "untersuchung": [
+    "genehmigungen-von-a-bis-z",
+    "heilbehandlung",
+    "unterbringungsverfahren",
+    "vorführung"
   ],
   "vergleich": [
     "genehmigungen-von-a-bis-z"
@@ -18726,11 +18670,13 @@
     "genehmigungen-von-a-bis-z",
     "genehmigungspflichten",
     "unterbringung",
-    "unterbringungsverfahren"
+    "unterbringungsverfahren",
+    "unterbringungsähnliche-maßnahme"
   ],
   "ähnl": [
     "genehmigungen-von-a-bis-z",
-    "unterbringung"
+    "unterbringung",
+    "unterbringungsverfahren"
   ],
   "bankpraxis": [
     "genehmigungen-von-a-bis-z",
@@ -19179,10 +19125,6 @@
   "zunächst": [
     "gesetzlicher-vertreter"
   ],
-  "mitteilung": [
-    "gesetzlicher-vertreter",
-    "mitteilungspflicht"
-  ],
   "postrentendienst": [
     "gesetzlicher-vertreter"
   ],
@@ -19429,7 +19371,8 @@
     "kontrollbetreuer"
   ],
   "vollmachtsbetreuer": [
-    "grundrechte"
+    "grundrechte",
+    "kontrollbetreuer"
   ],
   "berufsfreiheit": [
     "grundrechte"
@@ -19543,9 +19486,18 @@
   "unbebaute": [
     "grundstück"
   ],
+  "grundstücke": [
+    "grundstück",
+    "grundstück"
+  ],
   "grundstücken": [
     "grundstück",
     "vermögensverzeichnis"
+  ],
+  "eigentum": [
+    "grundstück",
+    "grundstück",
+    "mittellosigkeit"
   ],
   "grundverwaltung": [
     "grundstück"
@@ -19570,17 +19522,10 @@
   "haushalt": [
     "grundstück"
   ],
-  "grundstücke": [
-    "grundstück"
-  ],
   "öffentlichen": [
     "grundstück",
     "rundfunkbeitrag",
     "zugangsrecht"
-  ],
-  "eigentum": [
-    "grundstück",
-    "mittellosigkeit"
   ],
   "grundbuch": [
     "grundstück",
@@ -19730,6 +19675,10 @@
     "schlussbericht",
     "tod-des-betreuten"
   ],
+  "right": [
+    "hauptseite",
+    "vorsorgevollmacht---vertiefte-infos"
+  ],
   "logo": [
     "hauptseite"
   ],
@@ -19742,11 +19691,6 @@
   ],
   "familienrechtes": [
     "hauptseite"
-  ],
-  "angeordnet": [
-    "hauptseite",
-    "vaterschaftsanerkennung",
-    "verfahrensfähigkeit"
   ],
   "geführt": [
     "hauptseite",
@@ -19812,11 +19756,6 @@
   "krankenhausträger": [
     "heilbehandlung",
     "krankenhaussozialdienst"
-  ],
-  "untersuchung": [
-    "heilbehandlung",
-    "unterbringungsverfahren",
-    "vorführung"
   ],
   "kriterien": [
     "heilbehandlung"
@@ -19903,7 +19842,8 @@
     "heimmitarbeiter-als-betreuer"
   ],
   "heimplatzsuche": [
-    "heimplatzsuche"
+    "heimplatzsuche",
+    "wohnungsauflösung"
   ],
   "abgekürzte": [
     "it-sicherheit"
@@ -21707,7 +21647,13 @@
   "werbung": [
     "postkontrolle"
   ],
+  "abbestellen": [
+    "postkontrolle"
+  ],
   "handlungs": [
+    "prozessfähigkeit"
+  ],
+  "horst": [
     "prozessfähigkeit"
   ],
   "besonderen": [
@@ -21852,15 +21798,6 @@
   "betrogt": [
     "psychisch-kranken-gesetz",
     "wohnungsauflösung"
-  ],
-  "freiheitsentziehung": [
-    "psychisch-kranken-gesetz",
-    "rechtsprechung-zur-unterbringung",
-    "unterbringung",
-    "unterbringung",
-    "unterbringung",
-    "unterbringungsverfahren",
-    "unterbringungsverfahren"
   ],
   "landesgesetze": [
     "psychisch-kranken-gesetz"
@@ -22035,7 +21972,7 @@
   "zwingend": [
     "registrierung"
   ],
-  "righteinzelheiten": [
+  "einzelheiten": [
     "registrierung"
   ],
   "sachkundenachweises": [
@@ -22240,11 +22177,6 @@
     "sterbehilfe"
   ],
   "empfänger": [
-    "schenkung"
-  ],
-  "schenkungen": [
-    "schenkung",
-    "schenkung",
     "schenkung"
   ],
   "bayoblgz": [
@@ -22563,9 +22495,6 @@
     "sozialhilfe"
   ],
   "bundesanzeiger": [
-    "sozialhilfe"
-  ],
-  "diverse": [
     "sozialhilfe"
   ],
   "antragsformulare": [
@@ -23312,9 +23241,6 @@
     "unterbringungsverfahren",
     "wahlrecht"
   ],
-  "verfahrensübersicht": [
-    "unterbringungsverfahren"
-  ],
   "justine": [
     "unterbringungsverfahren"
   ],
@@ -23323,6 +23249,13 @@
   ],
   "unterbringungsgesetz": [
     "unterbringungsverfahren"
+  ],
+  "sinn": [
+    "unterbringungsähnliche-maßnahme"
+  ],
+  "untergebracht": [
+    "unterbringungsähnliche-maßnahme",
+    "wahlrecht"
   ],
   "infolge": [
     "unterbringungsähnliche-maßnahme"
@@ -23619,9 +23552,6 @@
   "beschwerderecht": [
     "verfahrenspfleger"
   ],
-  "verfahrenspflegern": [
-    "verfahrenspfleger"
-  ],
   "feste": [
     "verfügungsgeld"
   ],
@@ -23732,6 +23662,9 @@
     "vermögensverzeichnis",
     "vermögensverzeichnis",
     "vermögensverzeichnis",
+    "vermögensverzeichnis"
+  ],
+  "geeigneter": [
     "vermögensverzeichnis"
   ],
   "vermögenswerte": [
@@ -23992,6 +23925,9 @@
   "vollmachtsmissbrauch": [
     "vorsorgevollmacht"
   ],
+  "thumb": [
+    "vorsorgevollmacht---vertiefte-infos"
+  ],
   "beurkundung": [
     "vorsorgevollmacht---vertiefte-infos"
   ],
@@ -24090,9 +24026,6 @@
   ],
   "wahlrechtsausschluss": [
     "wahlrecht",
-    "wahlrecht"
-  ],
-  "untergebracht": [
     "wahlrecht"
   ],
   "stimmzettel": [
