@@ -1654,7 +1654,6 @@
     "amtsermittlungspflicht",
     "berufsbetreuer",
     "krankenversicherung",
-    "rechnungslegung",
     "schlussrechnungslegung",
     "schlusstätigkeiten"
   ],
@@ -4895,6 +4894,7 @@
     "registrierung",
     "registrierung",
     "spielwiese",
+    "spielwiese",
     "umgangsbestimmung",
     "vormundschaftsgericht",
     "zeitschrift-für-professionelle-betreuungsarbeit"
@@ -7365,6 +7365,7 @@
     "gewaltschutzanordnung",
     "girokonto",
     "informationspflicht",
+    "kirchenaustritt",
     "prozesspfleger",
     "rechtsanwalt",
     "rechtsanwalt",
@@ -9496,7 +9497,6 @@
     "aufgabenkreis",
     "genehmigungspflichten",
     "haftpflichtversicherung",
-    "kirchenaustritt",
     "schadenersatz",
     "schadensersatz"
   ],
@@ -10949,7 +10949,8 @@
     "betreuerpflichten",
     "gerichtskosten",
     "gesetzestexte",
-    "grundrechte"
+    "grundrechte",
+    "rechnungslegung"
   ],
   "gerichtes": [
     "beaufsichtigung",
@@ -14836,6 +14837,7 @@
     "gesetzliche-vertretung",
     "gesundheitsdatennutzungsgesetz",
     "gewaltschutzanordnung",
+    "kirchenaustritt",
     "selbstverwaltung-der-deutschen-gemeinden",
     "waffenbesitz",
     "wahlrecht"
@@ -15257,7 +15259,6 @@
   "diskriminierungsverbot": [
     "betreuungsverein",
     "inklusionsbetrieb",
-    "kirchenaustritt",
     "ordre-public",
     "polizeirecht",
     "rundfunkbeitrag",
@@ -22522,9 +22523,6 @@
     "sperrvereinbarung"
   ],
   "menüleiste": [
-    "spielwiese"
-  ],
-  "erstellt": [
     "spielwiese"
   ],
   "unnummerierte": [
