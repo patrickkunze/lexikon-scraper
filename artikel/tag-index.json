@@ -6971,6 +6971,7 @@
     "gerichtskosten",
     "haager-übereinkommen",
     "hauptseite",
+    "regress-der-staatskasse",
     "schlussrechnungslegung",
     "unterbringung",
     "verfahrenspfleger",
@@ -9480,7 +9481,6 @@
     "aufgabenkreis",
     "freier-wille",
     "it-sicherheit",
-    "regress-der-staatskasse",
     "sterbehilfe",
     "tierschutz",
     "unterstützte-entscheidungsfindung",
@@ -13140,6 +13140,15 @@
     "betreuer-cockpit",
     "online-lexikon-betreuungsrecht:datenschutz"
   ],
+  "rechnung": [
+    "betreuer-cockpit",
+    "e-rechnung",
+    "e-rechnung",
+    "eidesstattliche-versicherung",
+    "gerichtskosten",
+    "girokonto",
+    "interoperabilität"
+  ],
   "arbeitshilfen": [
     "betreuer-cockpit",
     "betreuertest",
@@ -13317,7 +13326,8 @@
     "betreuungsrichter",
     "prozesspfleger",
     "rechtspfleger",
-    "rechtspfleger"
+    "rechtspfleger",
+    "regress-der-staatskasse"
   ],
   "sudienhefte": [
     "betreuerausweis"
@@ -15591,8 +15601,7 @@
   "bezirksrevisor": [
     "bezirksrevisor",
     "finanzamt",
-    "rechtspfleger",
-    "regress-der-staatskasse"
+    "rechtspfleger"
   ],
   "berufsausbildung": [
     "bezirksrevisor"
@@ -16675,14 +16684,6 @@
   ],
   "buzer": [
     "drittes-betreuungsrechtsänderungsgesetz"
-  ],
-  "rechnung": [
-    "e-rechnung",
-    "e-rechnung",
-    "eidesstattliche-versicherung",
-    "gerichtskosten",
-    "girokonto",
-    "interoperabilität"
   ],
   "telematikinfrastruktur": [
     "e-rechnung",
