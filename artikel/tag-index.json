@@ -6982,7 +6982,6 @@
     "vorsorgevollmacht---vertiefte-infos",
     "wohnungsangelegenheiten",
     "wohnungsangelegenheiten",
-    "zug-um-zug-leistung",
     "zwangsvollstreckung"
   ],
   "krankenhauses": [
@@ -8715,7 +8714,8 @@
     "prozessführung",
     "prozesspfleger",
     "prozesspfleger",
-    "verwaltungsverfahren"
+    "verwaltungsverfahren",
+    "zug-um-zug-leistung"
   ],
   "inklusionsbetrieb": [
     "arbeitsvertrag",
