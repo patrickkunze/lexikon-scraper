@@ -3565,6 +3565,7 @@
     "erbschaft",
     "finanzamt",
     "freier-wille",
+    "freier-wille",
     "geldanlage",
     "gerichtsbeschluss",
     "gerichtskosten",
@@ -9479,7 +9480,6 @@
   ],
   "ordre": [
     "aufgabenkreis",
-    "freier-wille",
     "it-sicherheit",
     "sterbehilfe",
     "tierschutz",
