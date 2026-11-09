@@ -10946,6 +10946,7 @@
   "aufsicht": [
     "beaufsichtigung",
     "beaufsichtigung",
+    "besonderer-vertreter-im-verwaltungsverfahren",
     "betreuerpflichten",
     "gerichtskosten",
     "gesetzestexte",
@@ -12022,7 +12023,6 @@
     "betreuungsbehördengesetz",
     "betreuungsgericht",
     "betreuungsgesetz",
-    "datenschutz",
     "patientenverfügung",
     "prozessfähigkeit",
     "selbstbestimmung",
@@ -12512,13 +12512,6 @@
     "mahnverfahren",
     "prozesspfleger",
     "verfahrensfähigkeit"
-  ],
-  "prozesspfleger": [
-    "besonderer-vertreter-im-verwaltungsverfahren",
-    "gerichtskosten",
-    "prozesspfleger",
-    "rechtsanwalt",
-    "stundensatz"
   ],
   "totenfürsorge": [
     "bestattung"
@@ -16265,6 +16258,9 @@
     "datenschutz",
     "einwilligungsfähigkeit"
   ],
+  "gesetzesvorschlag": [
+    "datenschutz"
+  ],
   "vergütungsansprüche": [
     "dauervergütung"
   ],
@@ -18813,6 +18809,12 @@
   "jurbüro": [
     "gerichtskosten",
     "rechtsanwalt"
+  ],
+  "prozesspfleger": [
+    "gerichtskosten",
+    "prozesspfleger",
+    "rechtsanwalt",
+    "stundensatz"
   ],
   "antragsformular": [
     "gerichtskosten",
