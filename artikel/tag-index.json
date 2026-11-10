@@ -883,6 +883,7 @@
     "neu",
     "neu",
     "neu",
+    "neu",
     "nutzungspflicht",
     "nutzungspflicht",
     "nutzungspflicht",
@@ -1838,6 +1839,7 @@
     "kindschaftsrecht",
     "natürlicher-wille",
     "natürlicher-wille",
+    "neu",
     "neu",
     "ordre-public",
     "peg-sonde",
@@ -20856,6 +20858,15 @@
   "insolvenzverfahren": [
     "neu",
     "zwangsvollstreckung"
+  ],
+  "vstgb": [
+    "neu"
+  ],
+  "verbrechen": [
+    "neu"
+  ],
+  "völkerstrafrechtlichen": [
+    "neu"
   ],
   "wirkung": [
     "neu"
