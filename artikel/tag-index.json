@@ -909,7 +909,6 @@
     "synopse-patientenverfügungsgesetze",
     "unterstützungspflicht",
     "unterstützungspflicht",
-    "verfahrenspfleger",
     "vorsorgeregister",
     "vulnerabilität",
     "vulnerabilität",
@@ -7395,21 +7394,47 @@
     "anhörung",
     "einwilligungsvorbehalt"
   ],
+  "verfahrenspfleger": [
+    "anhörung",
+    "behördenbetreuer",
+    "datenschutz",
+    "freibetrag",
+    "genehmigung-der-heilbehandlung",
+    "gerichtskosten",
+    "kindschaftsrecht",
+    "nutzungspflicht",
+    "prozesspfleger",
+    "rechtsanwalt",
+    "rechtsanwalt",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsprechung-zum-verfahrenspfleger",
+    "rechtsweg-in-deutschland",
+    "sterilisation",
+    "stundensatz",
+    "stundensatz",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger",
+    "verfahrenspfleger"
+  ],
   "verhältnismäßigkeitsprinzip": [
     "anhörung",
     "neu",
     "polizeirecht",
     "subsidiaritätsprinzip",
     "unterstützungspflicht"
-  ],
-  "beaufsichtigung": [
-    "anhörung",
-    "aufsicht",
-    "betreuungsrichter",
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "rechtspfleger",
-    "regress-der-staatskasse",
-    "verhältnismäßigkeitsprinzip"
   ],
   "ders": [
     "anhörung",
@@ -9684,6 +9709,14 @@
     "vertretung-gegenüber-behörden",
     "widerspruchsrecht"
   ],
+  "beaufsichtigung": [
+    "aufsicht",
+    "betreuungsrichter",
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "rechtspfleger",
+    "regress-der-staatskasse",
+    "verhältnismäßigkeitsprinzip"
+  ],
   "aufwendungen": [
     "aufwandspauschale",
     "aufwandspauschale",
@@ -10643,7 +10676,6 @@
     "prozessführung",
     "rechtsprechung-zur-anhörung",
     "rechtsweg-in-deutschland",
-    "verfahrenspfleger",
     "vertretung-gegenüber-behörden",
     "vorsorgeregister"
   ],
@@ -11941,11 +11973,13 @@
     "unterbringungsähnliche-maßnahme"
   ],
   "globales": [
-    "behindertenkonvention"
+    "behindertenkonvention",
+    "verfahrenspfleger"
   ],
   "nachhaltigkeitsziel": [
     "behindertenkonvention",
-    "globales-nachhaltigkeitsziel-10"
+    "globales-nachhaltigkeitsziel-10",
+    "verfahrenspfleger"
   ],
   "notfalldaten": [
     "behindertenkonvention",
@@ -12065,40 +12099,6 @@
     "corona",
     "grundstück",
     "unterbringungsverfahren"
-  ],
-  "verfahrenspfleger": [
-    "behördenbetreuer",
-    "datenschutz",
-    "freibetrag",
-    "genehmigung-der-heilbehandlung",
-    "gerichtskosten",
-    "kindschaftsrecht",
-    "nutzungspflicht",
-    "prozesspfleger",
-    "rechtsanwalt",
-    "rechtsanwalt",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsprechung-zum-verfahrenspfleger",
-    "rechtsweg-in-deutschland",
-    "sterilisation",
-    "stundensatz",
-    "stundensatz",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger",
-    "verfahrenspfleger"
   ],
   "befreiter": [
     "behördenbetreuer",
