@@ -3830,6 +3830,7 @@
     "unterstützungspflicht",
     "unterstützungspflicht",
     "unterstützungspflicht",
+    "unterstützungspflicht",
     "verbraucherstreitbeilegung",
     "verbraucherstreitbeilegung",
     "verhältnismäßigkeitsprinzip",
@@ -7595,7 +7596,6 @@
     "betreuer-(ehrenamt)",
     "betreuervorschlag",
     "haager-übereinkommen",
-    "unterstützungspflicht",
     "wahlrecht",
     "zug-um-zug-leistung"
   ],
@@ -23446,12 +23446,12 @@
   "verletzten": [
     "unterstützungspflicht"
   ],
+  "unerlaubte": [
+    "unterstützungspflicht"
+  ],
   "handlung": [
     "unterstützungspflicht",
     "zwangsvollstreckung"
-  ],
-  "gesundheit": [
-    "unterstützungspflicht"
   ],
   "entschädigung": [
     "unterstützungspflicht"
