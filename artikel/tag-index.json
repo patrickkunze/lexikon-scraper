@@ -5313,7 +5313,6 @@
     "ordre-public",
     "postkontrolle",
     "prozessführung",
-    "psychisch-kranken-gesetz",
     "querschnittsaufgaben",
     "rechtspfleger",
     "rundfunkbeitrag",
@@ -17083,6 +17082,7 @@
     "krankenhaussozialdienst",
     "krankenhaussozialdienst",
     "mdk-gutachten",
+    "psychisch-kranken-gesetz",
     "sachverständigengutachten",
     "sozialpsychiatrischer-dienst"
   ],
@@ -17824,7 +17824,6 @@
   ],
   "entscheidungsfindung": [
     "erörterungsgespräch",
-    "psychisch-kranken-gesetz",
     "schweigepflicht",
     "selbstbestimmung",
     "selbstbestimmung",
@@ -21810,6 +21809,10 @@
   "erfolgten": [
     "psychisch-kranken-gesetz"
   ],
+  "sozialpsychiatrischer": [
+    "psychisch-kranken-gesetz",
+    "sachverständigengutachten"
+  ],
   "betrogt": [
     "psychisch-kranken-gesetz",
     "wohnungsauflösung"
@@ -22168,9 +22171,6 @@
     "sachverständigengutachten"
   ],
   "würdigung": [
-    "sachverständigengutachten"
-  ],
-  "sozialpsychiatrischer": [
     "sachverständigengutachten"
   ],
   "psychiatrische": [
