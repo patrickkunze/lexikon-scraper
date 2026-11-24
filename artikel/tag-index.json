@@ -1783,6 +1783,7 @@
     "betreuerausweis",
     "betreuerwechsel",
     "gesetzliche-vertretung",
+    "gesetzlicher-vertreter",
     "girokonto"
   ],
   "ehegatten": [
@@ -2535,6 +2536,7 @@
     "erweiterte-unterstützung",
     "erörterungsgespräch",
     "forensik",
+    "gemeinwohlorientierung",
     "gemeinwohlorientierung",
     "gerichtskosten",
     "gerichtskosten",
@@ -10729,6 +10731,7 @@
     "elektronisches-gerichts--und-verwaltungspostfach",
     "formulare",
     "neu",
+    "neu",
     "psychisch-kranken-gesetz",
     "rechtsprechung",
     "rechtsprechung",
@@ -13614,7 +13617,6 @@
     "betreuervergütung",
     "eingliederungshilfe",
     "elektronisches-gerichts--und-verwaltungspostfach",
-    "gesetzlicher-vertreter",
     "informationspflicht",
     "neu",
     "vermögenssorge",
@@ -15590,6 +15592,7 @@
   ],
   "sogenannte": [
     "bezirksrevisor",
+    "gemeinwohlorientierung",
     "gesamtplanverfahren",
     "gesetzgebung"
   ],
@@ -17981,6 +17984,7 @@
     "neu",
     "neu",
     "neu",
+    "neu",
     "organspende"
   ],
   "cannabisgesetz": [
@@ -18377,6 +18381,15 @@
     "gemeinwohlorientierung",
     "hauptseite",
     "kontrollbetreuer"
+  ],
+  "beachtung": [
+    "gemeinwohlorientierung"
+  ],
+  "diversity": [
+    "gemeinwohlorientierung"
+  ],
+  "kompetenz": [
+    "gemeinwohlorientierung"
   ],
   "betreuungsarbeitsgemeinschaft": [
     "gemeinwohlorientierung",
@@ -20939,6 +20952,15 @@
   "gesetzesänderung": [
     "neu",
     "organspende"
+  ],
+  "migrationshintergrund": [
+    "neu"
+  ],
+  "partizipations": [
+    "neu"
+  ],
+  "integrationsgesetz": [
+    "neu"
   ],
   "verbraucherstreitbeilegungsgesetz": [
     "neu",
