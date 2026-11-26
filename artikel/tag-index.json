@@ -1512,6 +1512,7 @@
     "formulare",
     "geheimhaltungspflicht",
     "geldanlage",
+    "gemeinwohlorientierung",
     "genehmigungspflichten",
     "gesetzessammlungen-betreuer.pdf",
     "gesetzgebung",
@@ -5666,6 +5667,7 @@
   ],
   "sozialrecht": [
     "altenheim",
+    "gemeinwohlorientierung",
     "mitwirkungspflicht",
     "rente",
     "sozialpsychiatrischer-dienst"
@@ -18395,6 +18397,13 @@
     "gemeinwohlorientierung",
     "krankenversicherung"
   ],
+  "charta": [
+    "gemeinwohlorientierung",
+    "unterstützungspflicht"
+  ],
+  "vielfalt": [
+    "gemeinwohlorientierung"
+  ],
   "länger": [
     "genehmigung-der-heilbehandlung"
   ],
@@ -23497,9 +23506,6 @@
     "unterstützungspflicht"
   ],
   "ottawa": [
-    "unterstützungspflicht"
-  ],
-  "charta": [
     "unterstützungspflicht"
   ],
   "gesunde": [
