@@ -3452,7 +3452,6 @@
     "peg-sonde",
     "peg-sonde",
     "patientenvertreter",
-    "patientenvertreter",
     "pflegeversicherung"
   ],
   "betreuungsverfahren": [
@@ -7826,6 +7825,7 @@
     "heilbehandlung",
     "mündelgeld",
     "mündelgeld",
+    "patientenvertreter",
     "rechtspfleger",
     "rechtspfleger",
     "sterbehilfedokumente",
